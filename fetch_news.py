@@ -42,11 +42,6 @@ SOURCES = {
         "name_cn": "南华早报",
         "rss": "https://news.google.com/rss/search?q=site:scmp.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     },
-    "Zaobao": {
-        "name": "Zaobao",
-        "name_cn": "联合早报",
-        "rss": "https://news.google.com/rss/search?q=联合早报+when:1d&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
-    },
     "BBC": {
         "name": "BBC",
         "name_cn": "BBC",
