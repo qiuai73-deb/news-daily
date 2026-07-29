@@ -1,128 +1,128 @@
 {
-  "updated": "2026-07-29T04:18:18.765572+00:00",
-  "updated_beijing": "2026-07-29 04:18 北京时间",
-  "summary_analysis": "【核心主线】当前全球市场主线围绕三大风险：一是中东地缘冲突急剧升级，伊朗对美军基地发动弹道导弹袭击，美国与沙特联合打击伊朗支持的武装，油价应声大涨；二是AI板块出现剧烈回调，SK海力士创纪录利润仍不及预期，引发全球科技股抛售，市场对AI投资回报产生疑虑；三是日本熊本发生强震，造成人员伤亡和建筑坍塌，进一步扰动市场情绪。\n\n【市场与政策信号】美联储会议即将召开，市场关注利率路径信号。美国参议院确认特朗普提名的克莱顿为国家情报总监，显示行政权力集中。特朗普要求最高法院推翻卡罗尔诽谤案8300万美元判决，司法部也介入，反映政治与司法博弈。美国拟对中国机器人、逆变器实施新禁令，保护本土AI产业，中美科技脱钩加速。\n\n【关键风险提示】中东冲突若持续升级，可能威胁霍尔木兹海峡航运，推高能源价格并冲击全球供应链。AI板块估值过高风险暴露，若后续科技巨头财报不及预期，可能引发更深调整。日本地震可能影响半导体供应链，需关注后续余震及核设施安全。",
+  "updated": "2026-07-29T09:43:29.108902+00:00",
+  "updated_beijing": "2026-07-29 09:43 北京时间",
+  "summary_analysis": "【核心主线】全球市场正经历多重冲击：中东局势因伊朗导弹袭击美军而急剧升级，油价跳涨；科技股因AI支出担忧和SK海力士财报不及预期而暴跌，韩国股市创纪录跌幅；欧洲汽车业面临裁员潮，宝马宣布自愿离职计划。同时，美国对华科技限制扩大至机器人和逆变器，中国商业航天崛起构成战略挑战。\n\n【市场与政策信号】美联储会议在即，市场关注利率路径；日本首相政治困境加剧市场不确定性；美国两党对以色列支持出现裂痕；俄罗斯以恐怖主义罪名指控Telegram创始人，科技监管趋严。\n\n【关键风险提示】中东冲突扩大化风险（伊朗导弹袭击、美沙联合打击伊拉克）、AI泡沫破裂风险（科技股抛售蔓延）、全球供应链扰动（芯片、能源、汽车）。",
   "important": [
     {
-      "title": "伊朗向中东美军基地发动突袭弹道导弹攻击",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5",
-      "summary": "伊朗向美军基地发射弹道导弹，中东局势骤然升级。",
+      "title": "伊朗对美国在中东的部队发动突然弹道导弹袭击",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Fa2xsci02RGZMN1piNVJxSUp4T3RNZGJuUWxtNmQzMllIb1pYUlNjVUNaazNEbTlwbTl1dXdYaVFiNnU4ZE5idFNSZXBoVW5MdUtlNTE1clR1cG5wT3g4cmlfcHM5aGtwWTRsM3hpaEvSAXZBVV95cUxNUVFDNWZxWi1QQnNoU1VyY2xIWmd6bVg4czdBRU1FaHdCaW5hb1F0LTkxd3o5SGwzTGlTcFJZWDdHVnRjVF9HeFBRN2U5UkhKVVcwY05jRlZqY3dRZWlvcDVVdHozSEFDVmVjeUFISjRLcG5JejRn?oc=5",
+      "summary": "伊朗导弹突袭美军，中东局势急剧升级",
+      "source": "CNBC"
+    },
+    {
+      "title": "SK海力士净利润创纪录，但其他指标令人失望",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVDJ1dVpkZDBNUkhROTZlR0NZS0tLMzRtSGFOcEVDY2RfeXFfdWpTcjNjREdZbGptQ0RDMnU0MDg0c0tOR3JZY00xU0lxOC1sdFVUQi1DcGFTd0MwcTBzQ2tLODE0Q192c3NEME9HSnBmTDJwelJhSS1pN0RvYy1sVQ?oc=5",
+      "summary": "AI需求强劲但市场预期过高，股价暴跌",
+      "source": "华尔街日报"
+    },
+    {
+      "title": "韩国股市创纪录暴跌2万亿韩元，SK海力士财报令人失望",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUY2eUIxTk5FN3ZLbDkzTkhPbjFxNS1fUzFxa0lVZnZoQ1FpcGNBMEt3OFhkdHJFN0JNUlVZOXd2eFNXbkhuNDdJeFY4Rmd1MHFfSnpCYmV3QVRuenlwNGxKXzhpRXZVOFFjMjFkQnpiQWl1amZtRUJ5V0RpQnF0cFdFTEVfUFgtb0ZWM0t6OGdjRHdTMnhLcHVWVzJUU0tieGFhMk40XzJfYTRvSDFTWlVzQzJyTVZ3M2lMS0JB?oc=5",
+      "summary": "芯片股领跌，市场恐慌蔓延",
       "source": "路透社"
     },
     {
-      "title": "美国称拦截了伊朗射向中东美军的弹道导弹",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5",
-      "summary": "美国军方确认拦截伊朗导弹，并联合沙特打击伊朗在伊拉克目标。",
+      "title": "俄罗斯以协助恐怖主义罪名指控Telegram创始人杜罗夫",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXJBcVhwTDJuYl96LXAxeVdYUWNubDJCU01KYV9uTGYyZ200bWMtR3VPX3g1ZGVJV1RDWTl2Ulk0eW5DQ1hJd1pNZlR1aVBpTXZIeFREX0szVmwwRF90LVFMTEpHbkJLUFc0bkN4b3N5U19KZDk4QTVVZjZFNWN1bFVINFZOZ3h1Mm1LRmYyV01kWWVTV0RDSGxYNEZ0eGhLM2ZfVlBrWkJtNnd5djNxc3JUV0pYWFc4ajFMY2NPYw?oc=5",
+      "summary": "科技监管升级，杜罗夫面临严重指控",
       "source": "路透社"
     },
     {
-      "title": "SK海力士创纪录利润不及预期，股价暴跌10%",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUxxQWE3ZTZIXzd3RHJtdUUyRlBFSngwTzVkV1RTTmgta3llNWNPN1BwZ3BvdnN6NlhuNUJxTDFQZmVpVWg3UEhmS0thYngyLVkwM1NmUjN5MDRQSnlhaFpMeG9ULW9kekJYQUtCWmdVbW5oT0diTmpidGJTQkd3N19mM0J0WEtuc054ZllnMkNGUFNLaXhfSnJnVXdubHlMdEFNd0ZQQmp3U21FSF9XeHhNSXRQQQ?oc=5",
-      "summary": "AI芯片需求强劲但利润仍逊预期，引发科技股抛售。",
+      "title": "宝马通过自愿离职计划裁减数千个岗位",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGhvU1oyNGEweVNlWldwNkJaR3h2MTQ0OFZTWl9NQkVkR3dJcUtDT1ktSmJlUllEX1VUR3dyZi1KNTlwck00Z1BIOTc5MTN6R056Ul9NQ1RGNHpQYURUTE45MTZxVEh5anlhQlBYd3ltNWdjRzVSUTdCZnQ1dEE2bXlvbER0SEZhMjNiczZGQy1LY0FwRE1Ea2RXQXJjV3c1RUJDX2lpV0JDWlBxb3o4cXB0cDFmbDh6OVM5ZlgyOElTb2M?oc=5",
+      "summary": "欧洲汽车业面临需求下滑和转型压力",
       "source": "路透社"
     },
     {
-      "title": "亚洲科技股抛售加剧，AI担忧笼罩市场",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ0pPSFVQOVM0dWVQbmRmR3Nrdm9hUG4xLWR6bEVza0FyMVFxdXIwMm9LMXA2azA3c1Baa295M1RwUTJMRTBRc0FLWHdWOUNzUHl0M2hGUVNtWDgwSWt2NU5hYWlrT3ZIOUI5dkRMb3c3WTEwRzBaMzNVQQ?oc=5",
-      "summary": "AI板块抛售潮蔓延至亚洲，软银等科技股大跌。",
+      "title": "美国与沙特财团推进50亿美元海湾炼油厂计划",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmpKM01Bekc3VHZSVDVvQ2NkUnowblY0eDhjeG9YbEV5dVo1T0NTVUpFRWlRd3RFeUJSS190SFFpLTNVS2ozaUxRbGEtNVByTTAtVzh5dkV1TGljbFlhMDFKcjB0UkN0bmdYR2R3ejYwMnBsbktoQl9vWWNqcTJTa25fRzJoZV9OZXpaRGp5X0U2Z2x1OUdUdWRPSF9Lbld1THh0ZEg2SkFwZjNvTGtZ?oc=5",
+      "summary": "能源合作深化，地缘政治影响显著",
       "source": "路透社"
     },
     {
-      "title": "油价因美伊紧张局势升级而上涨",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-      "summary": "美伊冲突加剧，油价在连续三日下跌后反弹。",
+      "title": "以色列数十年来的美国支持面临失去民主党支持的风险",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGhwZWVGTHdMV2tZRUZYMWtvSVlsNk4wY3h1X0g5Tm1UWjhmTS1nM2wxaWZSRTdjOWhScXFSOUFzdzBBSUlWeGVoOFVNUmRodWkwVV9LenNza2dwRnBOMW9SN2RZX0JoaUd5N0cxVFRfZ2tSV3NySHZybTlyNG9HcG5tb0ZBM2ZxX01BT3NMQ0s1RDExRXV2cTZVTXhOU28?oc=5",
+      "summary": "美国国内政治分歧影响外交政策",
       "source": "路透社"
     },
     {
-      "title": "日本地震死亡人数升至13人，救援人员从倒塌商场拖出幸存者",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
-      "summary": "熊本强震致13死，购物中心坍塌，救援持续。",
-      "source": "路透社"
+      "title": "马克·扎克伯格称美国应加速AI发展而非限制",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2pZbE5pT3NabWdUdkdVLWoxWVE3dHdQYVdiRTEwR2N2bVdUaE1xNmE1b3BOQXVPMlRJb2dPaWJuemRab1hGWVdyOWRMeVBJZkNEdnZsOW5aNFg5XzFoc2xCd0xXUEQ0YkptT2JaUTI1QXVBMmNQNkZXZ0dOVG56Z0tLbjVZNFFoRGtFVWZpOUd1cHpBTllFOFpFcDQzYTQ3YjVLT1ZxMEFBclhtcVdV?oc=5",
+      "summary": "科技领袖呼吁放松监管，反对限制中国AI",
+      "source": "华尔街日报"
     },
     {
-      "title": "美国参议院确认特朗普提名的克莱顿为国家情报总监",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWFtc2dMVE9kc1JEbXBLelZmc09RaDA2WERJazBtWTdCY2xPdVlvWVpZZDJnSWR3eU5FcTR3WklxNkRmM0hJSkNmajRIdlg3bDktWW5ucEtvNndzZXQ3cEl6cXBpWWlXY25RekFua2NORlZXVXFUMjROSThUQnRRRzVtOW5pYVgxdUIyMHB2cTAtVm5qQTVZLXpTYkEyMjA?oc=5",
-      "summary": "前SEC主席克莱顿出任国家情报总监，加强情报机构控制。",
-      "source": "路透社"
-    },
-    {
-      "title": "特朗普要求最高法院推翻卡罗尔诽谤案8300万美元判决",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1ZFOUxSMEVrTWplSjE1R1VMaUFfNjJCUWtjV2oxczRadE1MZWdvN0VTWEMzMjR2M0ZBWTdoVjJfT1E5VWItcHNnZXg1V094MmttS2lhTU1GX21yemZYblhMcWp0djBrWEhHVHVXWlF6eVlja3RNdUxwenl5cGZtTVBWU1FidURxLTJ3R3hPYTJ5VGZiWWszaC10UE0zSWpyenlrWS1fNkxlbFZZcmV4RGF1eC1oU3pUSmtneTF4TG80TGdWb1o4?oc=5",
-      "summary": "特朗普请求最高法院推翻诽谤案巨额赔偿，司法部也介入。",
-      "source": "路透社"
-    },
-    {
-      "title": "Meta的扎克伯格警告不要限制中国AI模型",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
-      "summary": "扎克伯格称美国不应禁止中国AI，引发政策讨论。",
-      "source": "路透社"
-    },
-    {
-      "title": "美国将终止Medicare药品计划补贴",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDBsSlJSZkZpZUdkUzhDYjFicktzaGNmc2xhdXkxSUh3S3B1bEhwQzM5UDNSRktaeTg1cF9kVDhjQmc5V0EzY01zaDBjdDl1MVhfcVZKLW92YlFLbFJ4dGZFcXFncUxPbFBNZWcxSjFvbzdHQVFmdWtRRWdBMk41TjVRSUFNdEJ0ZHVIcm5hc3Q5UmwzQ0tydGVYbGU0SkxUdFdPWl9nbUdvX0pld2c?oc=5",
-      "summary": "特朗普政府计划取消Medicare药品补贴，影响数百万老年人。",
+      "title": "美国扩大对华科技冲突，拟限制机器人和逆变器",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXFNcXFBSHFJRU9Zc2JUVEViUDg5Y0xkYzJvTmRQU3JSNEhJZmtBSlhVVTNQVV9hVHpqM3ljcDlQNU9BVGZJT19SVUNhVFJhakFpTktKMEEyZEhGQVo2SnRiVk10Q3ZPTWxWSzhlOGRFb0ZHLXBaRHNnTmVSUXhscEgzd01OTG1uMEc2SzBNU2ZqNXVvYlpidHZ0OG4zSlVEODEwbmU3cGl4LTZPdTkxSG12dw?oc=5",
+      "summary": "科技脱钩范围扩大，供应链风险上升",
       "source": "彭博社"
+    },
+    {
+      "title": "中国商业航天繁荣对美国构成战略挑战",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPODNyYkhWNzlZVHVyREsyZndHbEV4UEVZZy16SUpCc2l6ZFRyb2o2Z2V4UmViVHh2a00wY1FtY1dId01jdHNHTTk0aHZROFNCNktxZEpiaWtQVHFFT1NMUVhyQnNfY2Zwb0VCTWtVcVJfVHNxS1R1ZGtIYzlmSllJRjBqVzk?oc=5",
+      "summary": "中国航天快速追赶，美国需应对竞争",
+      "source": "金融时报"
     }
   ],
   "interest": [
     {
-      "title": "特朗普政府将禁止新型中国机器人和逆变器以保护美国AI",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUhfNzlWYWJHaXJWMzBsSEl3bDRLN2kzUVlxY2w3VjRnZExObnFUZjdkU0FPR2FfQldHNS11d1Q5eUt0RW85SzRyX2xwZC1yOUVFanZqbDg5am5MVzBvbHdDWW1iNEJTeC1ReTVVN1RZdjgwNUloMjZybzB0ZEJ4Z0xQQUp4ZDZwOEs5VFo2T2tfRGRJUGtQT3JILU02NWtuWFpHYVNLSkRHV29FQmdvc1RPMjPSAboBQVVfeXFMUDNHY3htbmhOLWpkMno3YXZFNE0yYUFZV3l6R2ZtdDVwZGJRQnZ5N19Jd3ZZUHFJZXZoRWE4Rkt6SFhGdTg5MWxOU0RuYWlmUmdESnpzWTg2a0xnMFlyZTR3d2pLOHVpdGpmM1pObGNrRy1NVmZGeGxNTzg5UVJzZ2htMVZMLXg2eTMyRy1OYmEwZ0ZYcTlYN1VZZ0l6VjNEZExrRGZPbDllQTd3TmRwVUlDcXBzcVJ3c2Vn?oc=5",
-      "summary": "美国拟禁止中国机器人及逆变器，科技脱钩再升级。",
-      "source": "CNBC"
+      "title": "美国扩大对华科技冲突，拟限制机器人和逆变器",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXFNcXFBSHFJRU9Zc2JUVEViUDg5Y0xkYzJvTmRQU3JSNEhJZmtBSlhVVTNQVV9hVHpqM3ljcDlQNU9BVGZJT19SVUNhVFJhakFpTktKMEEyZEhGQVo2SnRiVk10Q3ZPTWxWSzhlOGRFb0ZHLXBaRHNnTmVSUXhscEgzd01OTG1uMEc2SzBNU2ZqNXVvYlpidHZ0OG4zSlVEODEwbmU3cGl4LTZPdTkxSG12dw?oc=5",
+      "summary": "科技脱钩范围扩大，供应链风险上升",
+      "source": "彭博社"
     },
     {
-      "title": "扎克伯格称美国不应禁止中国AI",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1JfYVdzaHowRF92dnlwMkNDQ3FjbEZvUVczOFNfbnBOXzM4RS1JNUh0TGx5c3VSWFVRUHpTOVJDaVdUNXFiWk51dElPVTNVZUNhZjFXVTNCU2hVQmJVM3pGbGdLQkpUZzM3ZGJyTmpkRnRmbU1qa2pfLU5KdzNqc3pDX18?oc=5",
-      "summary": "Meta CEO反对限制中国AI，强调开放竞争。",
+      "title": "中国商业航天繁荣对美国构成战略挑战",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPODNyYkhWNzlZVHVyREsyZndHbEV4UEVZZy16SUpCc2l6ZFRyb2o2Z2V4UmViVHh2a00wY1FtY1dId01jdHNHTTk0aHZROFNCNktxZEpiaWtQVHFFT1NMUVhyQnNfY2Zwb0VCTWtVcVJfVHNxS1R1ZGtIYzlmSllJRjBqVzk?oc=5",
+      "summary": "中国航天快速追赶，美国需应对竞争",
       "source": "金融时报"
     },
     {
-      "title": "中国AI模型快速崛起但企业如何盈利仍存疑",
-      "url": "https://cn.nytimes.com/technology/20260728/china-ai-alibaba-bytedance/",
-      "summary": "中国AI模型发展迅速，但商业化路径不明。",
-      "source": "纽约时报"
+      "title": "马克·扎克伯格称美国不应禁止中国AI",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1JfYVdzaHowRF92dnlwMkNDQ3FjbEZvUVczOFNfbnBOXzM4RS1JNUh0TGx5c3VSWFVRUHpTOVJDaVdUNXFiWk51dElPVTNVZUNhZjFXVTNCU2hVQmJVM3pGbGdLQkpUZzM3ZGJyTmpkRnRmbU1qa2pfLU5KdzNqc3pDX18?oc=5",
+      "summary": "科技领袖呼吁开放合作，反对脱钩",
+      "source": "金融时报"
     },
     {
-      "title": "中国最大存储芯片制造商长鑫科技即将IPO",
-      "url": "https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/",
-      "summary": "长鑫科技上市在即，中国芯片产业加速资本化。",
-      "source": "纽约时报"
+      "title": "马云支持的OceanBase寻求最高4.43亿美元融资以推动AI",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU29KOW1yZTZrZnBOTHlldEpKcUREQ0dDVE1MNE82eWkzUC1xT3dhTUNkQVNsUnVDUTdtSnV5bGVnN3NvREJkWVZtazNhci04ZGtrbG9ySk1lSTUxUUhvd2RhaVFRd3ZqTmIyM1drZUdaZXBKejBkNmFTdDYzVnVrMi1xMk0tMEVRU0tKcXplOXFKYTBnV0VoSnIyNGpYMEVBSWVtelZja241VUNWX1FaeA?oc=5",
+      "summary": "中国AI企业积极融资，加速技术发展",
+      "source": "彭博社"
     },
     {
       "title": "市场对AI支出和中国芯片竞争担忧加剧，全球科技股暴跌",
       "url": "https://cn.nytimes.com/business/20260729/stocks-ai-chips/",
-      "summary": "AI投资回报疑虑与中国芯片竞争引发全球科技股抛售。",
+      "summary": "科技股抛售潮波及全球，中国芯片竞争成焦点",
+      "source": "纽约时报"
+    },
+    {
+      "title": "重磅IPO：中国最大存储芯片制造商长鑫科技即将上市",
+      "url": "https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/",
+      "summary": "中国芯片巨头上市，或重塑行业格局",
       "source": "纽约时报"
     },
     {
       "title": "Kimi K3技术细节公开，用户需获商业授权",
       "url": "https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/",
-      "summary": "月之暗面公布K3模型细节，商业化步伐加快。",
+      "summary": "中国AI模型商业化加速，授权模式引关注",
       "source": "纽约时报"
     },
     {
-      "title": "越南货船在南海争议海域沉没，中国参与救援",
-      "url": "https://cn.nytimes.com/asia-pacific/20260728/vietnam-south-china-sea-ship-sink/",
-      "summary": "南海发生货船沉没事件，中国救援行动引关注。",
+      "title": "被特朗普“断油”半年，古巴为什么还没崩溃？",
+      "url": "https://cn.nytimes.com/world/20260729/trump-oil-gas-cuba-havana/",
+      "summary": "美国制裁下古巴经济韧性超预期",
       "source": "纽约时报"
     },
     {
       "title": "欧洲游客“消失”，东南亚旅游业者陷入困境",
       "url": "https://cn.nytimes.com/asia-pacific/20260729/iran-war-southeast-asia-tourism/",
-      "summary": "中东冲突导致欧洲游客减少，东南亚旅游业受冲击。",
+      "summary": "中东冲突波及东南亚旅游业",
       "source": "纽约时报"
     },
     {
       "title": "街头小吃越来越贵？伊朗战争改变亚洲人的餐桌",
       "url": "https://cn.nytimes.com/business/20260729/iran-war-price-inflation-street-food-asia/",
-      "summary": "伊朗战争推高食品价格，亚洲街头小吃涨价。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "参与镇压维吾尔人的前新疆警察：我也是受害者",
-      "url": "https://cn.nytimes.com/china/20260728/china-uyghurs/",
-      "summary": "前新疆警察自述参与镇压，人权问题再引关注。",
+      "summary": "地缘冲突推高通胀，亚洲民生受影响",
       "source": "纽约时报"
     }
   ],
@@ -133,73 +133,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "Japan quake toll rises to 13 as rescuers haul people from collapsed mall",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
-          "published": "Wed, 29 Jul 2026 02:45:17 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5\" target=\"_blank\">Japan quake toll rises to 13 as rescuers haul people from collapsed mall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "BMW to cut several thousand jobs under voluntary redundancy programme",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGhvU1oyNGEweVNlWldwNkJaR3h2MTQ0OFZTWl9NQkVkR3dJcUtDT1ktSmJlUllEX1VUR3dyZi1KNTlwck00Z1BIOTc5MTN6R056Ul9NQ1RGNHpQYURUTE45MTZxVEh5anlhQlBYd3ltNWdjRzVSUTdCZnQ1dEE2bXlvbER0SEZhMjNiczZGQy1LY0FwRE1Ea2RXQXJjV3c1RUJDX2lpV0JDWlBxb3o4cXB0cDFmbDh6OVM5ZlgyOElTb2M?oc=5",
+          "published": "Wed, 29 Jul 2026 07:40:09 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGhvU1oyNGEweVNlWldwNkJaR3h2MTQ0OFZTWl9NQkVkR3dJcUtDT1ktSmJlUllEX1VUR3dyZi1KNTlwck00Z1BIOTc5MTN6R056Ul9NQ1RGNHpQYURUTE45MTZxVEh5anlhQlBYd3ltNWdjRzVSUTdCZnQ1dEE2bXlvbER0SEZhMjNiczZGQy1LY0FwRE1Ea2RXQXJjV3c1RUJDX2lpV0JDWlBxb3o4cXB0cDFmbDh6OVM5ZlgyOElTb2M?oc=5\" target=\"_blank\">BMW to cut several thousand jobs under voluntary redundancy programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
-          "published": "Wed, 29 Jul 2026 00:37:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5\" target=\"_blank\">US military says US, Saudi forces struck sites of Iran-backed groups in Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXJBcVhwTDJuYl96LXAxeVdYUWNubDJCU01KYV9uTGYyZ200bWMtR3VPX3g1ZGVJV1RDWTl2Ulk0eW5DQ1hJd1pNZlR1aVBpTXZIeFREX0szVmwwRF90LVFMTEpHbkJLUFc0bkN4b3N5U19KZDk4QTVVZjZFNWN1bFVINFZOZ3h1Mm1LRmYyV01kWWVTV0RDSGxYNEZ0eGhLM2ZfVlBrWkJtNnd5djNxc3JUV0pYWFc4ajFMY2NPYw?oc=5",
+          "published": "Wed, 29 Jul 2026 08:28:09 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXJBcVhwTDJuYl96LXAxeVdYUWNubDJCU01KYV9uTGYyZ200bWMtR3VPX3g1ZGVJV1RDWTl2Ulk0eW5DQ1hJd1pNZlR1aVBpTXZIeFREX0szVmwwRF90LVFMTEpHbkJLUFc0bkN4b3N5U19KZDk4QTVVZjZFNWN1bFVINFZOZ3h1Mm1LRmYyV01kWWVTV0RDSGxYNEZ0eGhLM2ZfVlBrWkJtNnd5djNxc3JUV0pYWFc4ajFMY2NPYw?oc=5\" target=\"_blank\">Russia charges Telegram founder Durov with facilitating terrorism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Asian stock rout deepens on AI worries ahead of tech earnings",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ0pPSFVQOVM0dWVQbmRmR3Nrdm9hUG4xLWR6bEVza0FyMVFxdXIwMm9LMXA2azA3c1Baa295M1RwUTJMRTBRc0FLWHdWOUNzUHl0M2hGUVNtWDgwSWt2NU5hYWlrT3ZIOUI5dkRMb3c3WTEwRzBaMzNVQQ?oc=5",
-          "published": "Wed, 29 Jul 2026 02:55:36 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ0pPSFVQOVM0dWVQbmRmR3Nrdm9hUG4xLWR6bEVza0FyMVFxdXIwMm9LMXA2azA3c1Baa295M1RwUTJMRTBRc0FLWHdWOUNzUHl0M2hGUVNtWDgwSWt2NU5hYWlrT3ZIOUI5dkRMb3c3WTEwRzBaMzNVQQ?oc=5\" target=\"_blank\">Asian stock rout deepens on AI worries ahead of tech earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Japan PM's political doom loop worsens her fight with markets",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDJQcXVZWGc3ejlIbjZ4XzYwRENoYjhjTm5uY185Q3lXUHJ2VjJqQkl5SnJIOXJ3RUM0T2hUaG1oOE43RmJxaHRnZjlva0ZkMFZURG80amotSGJMVjlYNWZvUzBweFdJWHRiZXZCMTRKYTZ2aW03akJuLVphX2hUMC11ZFlrWWV0ZWlDdW05cDBXWlg0TW5tTHVZUWJBc3BUNTF5ZXU3SVFXY2J4eE5oa1NaekNXQQ?oc=5",
+          "published": "Wed, 29 Jul 2026 07:09:19 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDJQcXVZWGc3ejlIbjZ4XzYwRENoYjhjTm5uY185Q3lXUHJ2VjJqQkl5SnJIOXJ3RUM0T2hUaG1oOE43RmJxaHRnZjlva0ZkMFZURG80amotSGJMVjlYNWZvUzBweFdJWHRiZXZCMTRKYTZ2aW03akJuLVphX2hUMC11ZFlrWWV0ZWlDdW05cDBXWlg0TW5tTHVZUWJBc3BUNTF5ZXU3SVFXY2J4eE5oa1NaekNXQQ?oc=5\" target=\"_blank\">Japan PM's political doom loop worsens her fight with markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Oil rises as US-Iran tension escalates after Iraq strikes, missile attack",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-          "published": "Wed, 29 Jul 2026 03:20:44 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5\" target=\"_blank\">Oil rises as US-Iran tension escalates after Iraq strikes, missile attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "South Korea $2 trillion stock rout breaks records as SK Hynix results disappoint",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUY2eUIxTk5FN3ZLbDkzTkhPbjFxNS1fUzFxa0lVZnZoQ1FpcGNBMEt3OFhkdHJFN0JNUlVZOXd2eFNXbkhuNDdJeFY4Rmd1MHFfSnpCYmV3QVRuenlwNGxKXzhpRXZVOFFjMjFkQnpiQWl1amZtRUJ5V0RpQnF0cFdFTEVfUFgtb0ZWM0t6OGdjRHdTMnhLcHVWVzJUU0tieGFhMk40XzJfYTRvSDFTWlVzQzJyTVZ3M2lMS0JB?oc=5",
+          "published": "Wed, 29 Jul 2026 08:48:33 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUY2eUIxTk5FN3ZLbDkzTkhPbjFxNS1fUzFxa0lVZnZoQ1FpcGNBMEt3OFhkdHJFN0JNUlVZOXd2eFNXbkhuNDdJeFY4Rmd1MHFfSnpCYmV3QVRuenlwNGxKXzhpRXZVOFFjMjFkQnpiQWl1amZtRUJ5V0RpQnF0cFdFTEVfUFgtb0ZWM0t6OGdjRHdTMnhLcHVWVzJUU0tieGFhMk40XzJfYTRvSDFTWlVzQzJyTVZ3M2lMS0JB?oc=5\" target=\"_blank\">South Korea $2 trillion stock rout breaks records as SK Hynix results disappoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5",
-          "published": "Tue, 28 Jul 2026 23:32:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5\" target=\"_blank\">US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "EXCLUSIVE: Boeings identified in Reuters report carried weapons for Sudanese paramilitary, UN experts find",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzVhRE11ekl6aldvaENjSUdweV92UGhWOEZpYUxoY2NHTGVFeVdtQW9XNldkM25hSlEwTmJ4bzh3TEZGRXBPYXJLcFRXVWR3SDk1UFBNbTNrTmxkT3VLaXdtWWtHRTFGZTdFdXIwM1BYRXQ1dTJndkREMEtKTFUyYTJOTWpkc3VWQ3hfYVNaMEk1eFhzTy1hTDZ4dDliV3hqX0RTSnh1RmJWdHZNQjM5RUlCcjVOS3pqeG9lZ00xU3A1TlU?oc=5",
+          "published": "Wed, 29 Jul 2026 05:02:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzVhRE11ekl6aldvaENjSUdweV92UGhWOEZpYUxoY2NHTGVFeVdtQW9XNldkM25hSlEwTmJ4bzh3TEZGRXBPYXJLcFRXVWR3SDk1UFBNbTNrTmxkT3VLaXdtWWtHRTFGZTdFdXIwM1BYRXQ1dTJndkREMEtKTFUyYTJOTWpkc3VWQ3hfYVNaMEk1eFhzTy1hTDZ4dDliV3hqX0RTSnh1RmJWdHZNQjM5RUlCcjVOS3pqeG9lZ00xU3A1TlU?oc=5\" target=\"_blank\">EXCLUSIVE: Boeings identified in Reuters report carried weapons for Sudanese paramilitary, UN experts find</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "American Airlines resumes flights after IT issue forced brief nationwide halt",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3BxLXZmR09KZlFlRWxlZDZJakZPZ0JQTXJrS2RSZzZxT09GVVd6czJzcEQteXNQVW5LLVdPbkFWMGZzU0xwejBHZ0E2T2lsbklwVFFxUERTSkt4czVkd18zSzQwdC1xa3ZOdnQxakdsRDVpeVNJOF9JNWI4WnVxdEJPWGp5bk1oUmRwbW1LbG1LTjBBSTVWb2lVcC16M25aT3R4MGliNHA0Q1lJ?oc=5",
-          "published": "Tue, 28 Jul 2026 23:46:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3BxLXZmR09KZlFlRWxlZDZJakZPZ0JQTXJrS2RSZzZxT09GVVd6czJzcEQteXNQVW5LLVdPbkFWMGZzU0xwejBHZ0E2T2lsbklwVFFxUERTSkt4czVkd18zSzQwdC1xa3ZOdnQxakdsRDVpeVNJOF9JNWI4WnVxdEJPWGp5bk1oUmRwbW1LbG1LTjBBSTVWb2lVcC16M25aT3R4MGliNHA0Q1lJ?oc=5\" target=\"_blank\">American Airlines resumes flights after IT issue forced brief nationwide halt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Israel's decades-old US support risks losing Democrats",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGhwZWVGTHdMV2tZRUZYMWtvSVlsNk4wY3h1X0g5Tm1UWjhmTS1nM2wxaWZSRTdjOWhScXFSOUFzdzBBSUlWeGVoOFVNUmRodWkwVV9LenNza2dwRnBOMW9SN2RZX0JoaUd5N0cxVFRfZ2tSV3NySHZybTlyNG9HcG5tb0ZBM2ZxX01BT3NMQ0s1RDExRXV2cTZVTXhOU28?oc=5",
+          "published": "Wed, 29 Jul 2026 05:10:07 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGhwZWVGTHdMV2tZRUZYMWtvSVlsNk4wY3h1X0g5Tm1UWjhmTS1nM2wxaWZSRTdjOWhScXFSOUFzdzBBSUlWeGVoOFVNUmRodWkwVV9LenNza2dwRnBOMW9SN2RZX0JoaUd5N0cxVFRfZ2tSV3NySHZybTlyNG9HcG5tb0ZBM2ZxX01BT3NMQ0s1RDExRXV2cTZVTXhOU28?oc=5\" target=\"_blank\">Israel's decades-old US support risks losing Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "SK Hynix's record profit misses forecasts, shares slump 10% despite robust AI chip demand",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUxxQWE3ZTZIXzd3RHJtdUUyRlBFSngwTzVkV1RTTmgta3llNWNPN1BwZ3BvdnN6NlhuNUJxTDFQZmVpVWg3UEhmS0thYngyLVkwM1NmUjN5MDRQSnlhaFpMeG9ULW9kekJYQUtCWmdVbW5oT0diTmpidGJTQkd3N19mM0J0WEtuc054ZllnMkNGUFNLaXhfSnJnVXdubHlMdEFNd0ZQQmp3U21FSF9XeHhNSXRQQQ?oc=5",
-          "published": "Tue, 28 Jul 2026 22:57:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUxxQWE3ZTZIXzd3RHJtdUUyRlBFSngwTzVkV1RTTmgta3llNWNPN1BwZ3BvdnN6NlhuNUJxTDFQZmVpVWg3UEhmS0thYngyLVkwM1NmUjN5MDRQSnlhaFpMeG9ULW9kekJYQUtCWmdVbW5oT0diTmpidGJTQkd3N19mM0J0WEtuc054ZllnMkNGUFNLaXhfSnJnVXdubHlMdEFNd0ZQQmp3U21FSF9XeHhNSXRQQQ?oc=5\" target=\"_blank\">SK Hynix's record profit misses forecasts, shares slump 10% despite robust AI chip demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "US-Saudi consortium advances plans for $5 billion Gulf refinery",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmpKM01Bekc3VHZSVDVvQ2NkUnowblY0eDhjeG9YbEV5dVo1T0NTVUpFRWlRd3RFeUJSS190SFFpLTNVS2ozaUxRbGEtNVByTTAtVzh5dkV1TGljbFlhMDFKcjB0UkN0bmdYR2R3ejYwMnBsbktoQl9vWWNqcTJTa25fRzJoZV9OZXpaRGp5X0U2Z2x1OUdUdWRPSF9Lbld1THh0ZEg2SkFwZjNvTGtZ?oc=5",
+          "published": "Wed, 29 Jul 2026 06:10:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmpKM01Bekc3VHZSVDVvQ2NkUnowblY0eDhjeG9YbEV5dVo1T0NTVUpFRWlRd3RFeUJSS190SFFpLTNVS2ozaUxRbGEtNVByTTAtVzh5dkV1TGljbFlhMDFKcjB0UkN0bmdYR2R3ejYwMnBsbktoQl9vWWNqcTJTa25fRzJoZV9OZXpaRGp5X0U2Z2x1OUdUdWRPSF9Lbld1THh0ZEg2SkFwZjNvTGtZ?oc=5\" target=\"_blank\">US-Saudi consortium advances plans for $5 billion Gulf refinery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "US Senate confirms Trump nominee Clayton as nation's top spy",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWFtc2dMVE9kc1JEbXBLelZmc09RaDA2WERJazBtWTdCY2xPdVlvWVpZZDJnSWR3eU5FcTR3WklxNkRmM0hJSkNmajRIdlg3bDktWW5ucEtvNndzZXQ3cEl6cXBpWWlXY25RekFua2NORlZXVXFUMjROSThUQnRRRzVtOW5pYVgxdUIyMHB2cTAtVm5qQTVZLXpTYkEyMjA?oc=5",
-          "published": "Tue, 28 Jul 2026 23:22:12 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWFtc2dMVE9kc1JEbXBLelZmc09RaDA2WERJazBtWTdCY2xPdVlvWVpZZDJnSWR3eU5FcTR3WklxNkRmM0hJSkNmajRIdlg3bDktWW5ucEtvNndzZXQ3cEl6cXBpWWlXY25RekFua2NORlZXVXFUMjROSThUQnRRRzVtOW5pYVgxdUIyMHB2cTAtVm5qQTVZLXpTYkEyMjA?oc=5\" target=\"_blank\">US Senate confirms Trump nominee Clayton as nation's top spy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
+          "published": "Wed, 29 Jul 2026 03:29:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5\" target=\"_blank\">Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
-          "published": "Wed, 29 Jul 2026 02:34:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5\" target=\"_blank\">Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
+          "published": "Wed, 29 Jul 2026 03:04:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5\" target=\"_blank\">EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Trump asks Supreme Court to throw out E. Jean Carroll's $83 million verdict, Axios reports",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1ZFOUxSMEVrTWplSjE1R1VMaUFfNjJCUWtjV2oxczRadE1MZWdvN0VTWEMzMjR2M0ZBWTdoVjJfT1E5VWItcHNnZXg1V094MmttS2lhTU1GX21yemZYblhMcWp0djBrWEhHVHVXWlF6eVlja3RNdUxwenl5cGZtTVBWU1FidURxLTJ3R3hPYTJ5VGZiWWszaC10UE0zSWpyenlrWS1fNkxlbFZZcmV4RGF1eC1oU3pUSmtneTF4TG80TGdWb1o4?oc=5",
-          "published": "Tue, 28 Jul 2026 23:27:08 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1ZFOUxSMEVrTWplSjE1R1VMaUFfNjJCUWtjV2oxczRadE1MZWdvN0VTWEMzMjR2M0ZBWTdoVjJfT1E5VWItcHNnZXg1V094MmttS2lhTU1GX21yemZYblhMcWp0djBrWEhHVHVXWlF6eVlja3RNdUxwenl5cGZtTVBWU1FidURxLTJ3R3hPYTJ5VGZiWWszaC10UE0zSWpyenlrWS1fNkxlbFZZcmV4RGF1eC1oU3pUSmtneTF4TG80TGdWb1o4?oc=5\" target=\"_blank\">Trump asks Supreme Court to throw out E. Jean Carroll's $83 million verdict, Axios reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Drones attack industrial sites in Russia's Ryazan, Wildberries warehouse evacuated",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPci1oZGNSclBOc3NUX2VsZDdBYlVSNnJsYklvRDduS0d5S3BGa1ljb3I3cEZkS1dUS0dNcVIyS29sOXUzYXp3UG9Qa1g1YjhtOFdRWkw3Q2ZBdURkUzVaX1JERmJBQ2d5Tmw1TEhxRFVvd21YUVBMeHc4clNxbFlLY2REc0VtMUJGYjFBdkREX0pRTk5VVXFxUmtZZFBYOGJndTV3YmJnb0pwUEI0eGlaVVNpN28xNjJOblRxVQ?oc=5",
+          "published": "Wed, 29 Jul 2026 03:37:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPci1oZGNSclBOc3NUX2VsZDdBYlVSNnJsYklvRDduS0d5S3BGa1ljb3I3cEZkS1dUS0dNcVIyS29sOXUzYXp3UG9Qa1g1YjhtOFdRWkw3Q2ZBdURkUzVaX1JERmJBQ2d5Tmw1TEhxRFVvd21YUVBMeHc4clNxbFlLY2REc0VtMUJGYjFBdkREX0pRTk5VVXFxUmtZZFBYOGJndTV3YmJnb0pwUEI0eGlaVVNpN28xNjJOblRxVQ?oc=5\" target=\"_blank\">Drones attack industrial sites in Russia's Ryazan, Wildberries warehouse evacuated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         }
       ]
@@ -210,17 +210,38 @@
       "count": 10,
       "articles": [
         {
-          "title": "Korea-Hong Kong Correlation Shows Shorts Unwind: Equity Insight",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnJhYTZzQkJQVUU0cndSbWdHSkRqa2RSMzdzQVdnVFRlSGc5UEFycXFuWjBFX1lKc0Juck1hSGt2UlVyRW5ETzBRZmlKRmpNZjA0bHFMTHp6MUFaNURPX3NqdUt0U3loS0NyWFFpZ1JrZkZyeXRFQXZEUWxWV2VlVmVQVXFHS2FVTzFjOGNOdnlNSUhBT1VNdDQtMWRTTTJqRHN4a0cwbTZrODVVMG04eEpwUQ?oc=5",
-          "published": "Wed, 29 Jul 2026 01:12:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnJhYTZzQkJQVUU0cndSbWdHSkRqa2RSMzdzQVdnVFRlSGc5UEFycXFuWjBFX1lKc0Juck1hSGt2UlVyRW5ETzBRZmlKRmpNZjA0bHFMTHp6MUFaNURPX3NqdUt0U3loS0NyWFFpZ1JrZkZyeXRFQXZEUWxWV2VlVmVQVXFHS2FVTzFjOGNOdnlNSUhBT1VNdDQtMWRTTTJqRHN4a0cwbTZrODVVMG04eEpwUQ?oc=5\" target=\"_blank\">Korea-Hong Kong Correlation Shows Shorts Unwind: Equity Insight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "title": "BMW Offers Severance Packages to Employees to Cut 8,000 Jobs",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmlVaDdFVFZDZml2RTVzM1hKckVIUlUyRVREbmZ2T2puMFhQRVMwTE55SDdadDVtT1ljT1duVW1aY2ZRYVF3TW9vemhXcVZaaEpMUVpQRHFucjVfLVhKMFpZck0td0pGQVR2b2ZneWNnWW56UVhPbWJ5N1RTX1haMXlkVktWR01nSG95cmJ0M3ZvZk9tTlprR1Z2NmJvU0hGUVVlcVRCeXRHYU14VnBkRVl4VQ?oc=5",
+          "published": "Wed, 29 Jul 2026 07:30:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmlVaDdFVFZDZml2RTVzM1hKckVIUlUyRVREbmZ2T2puMFhQRVMwTE55SDdadDVtT1ljT1duVW1aY2ZRYVF3TW9vemhXcVZaaEpMUVpQRHFucjVfLVhKMFpZck0td0pGQVR2b2ZneWNnWW56UVhPbWJ5N1RTX1haMXlkVktWR01nSG95cmJ0M3ZvZk9tTlprR1Z2NmJvU0hGUVVlcVRCeXRHYU14VnBkRVl4VQ?oc=5\" target=\"_blank\">BMW Offers Severance Packages to Employees to Cut 8,000 Jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "SK Hynix’s Record Profit Misses Investors’ Lofty AI Expectations",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlZIM1h4WXdndUgxb29BcGI3dXBlR0pNZ3VyUEpwUDBXNmFfUWdXUnZWZ0ZobjdBWEUtU2xhZWV3WEE3MlQ1dDVKcjFQeVR6YWk1bEJGdzVzUWVQVWNwVHBzVzB1NzBZVlBOcEtHV0ZpMlhubjRFRVR5QkVBRTFsSUM1T3EwVjZfRkdxZVNscXhXTk8wLVBwQlo5dUNELUI4dTU4elhyRndWbUYxVVdHWjE2T04?oc=5",
-          "published": "Tue, 28 Jul 2026 22:51:42 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlZIM1h4WXdndUgxb29BcGI3dXBlR0pNZ3VyUEpwUDBXNmFfUWdXUnZWZ0ZobjdBWEUtU2xhZWV3WEE3MlQ1dDVKcjFQeVR6YWk1bEJGdzVzUWVQVWNwVHBzVzB1NzBZVlBOcEtHV0ZpMlhubjRFRVR5QkVBRTFsSUM1T3EwVjZfRkdxZVNscXhXTk8wLVBwQlo5dUNELUI4dTU4elhyRndWbUYxVVdHWjE2T04?oc=5\" target=\"_blank\">SK Hynix’s Record Profit Misses Investors’ Lofty AI Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "title": "Russia Charges Telegram Founder Durov With Aiding Terrorism",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGE0bVFhQmIwTGo0NkZsS3Q3YkNSOEM1Wk5kS0RheXhOTmdRMjR1aWhKdGZ0My1RRGhLT0ItMW8ybzF2RGRPVzdORm1zS2Iza095VVRDU1N0ZkdOSk85Vy1Fbi04WVBHSXQ3Z0JYUEM5M2dHV0lydUNqT2QwMjdoa1hWb3ZxU1dyd0J0TFE4Yll6R1BNcTR1M2s3VExNNWhOd2tWUVRvNzBtdnhvejJF?oc=5",
+          "published": "Wed, 29 Jul 2026 06:25:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGE0bVFhQmIwTGo0NkZsS3Q3YkNSOEM1Wk5kS0RheXhOTmdRMjR1aWhKdGZ0My1RRGhLT0ItMW8ybzF2RGRPVzdORm1zS2Iza095VVRDU1N0ZkdOSk85Vy1Fbi04WVBHSXQ3Z0JYUEM5M2dHV0lydUNqT2QwMjdoa1hWb3ZxU1dyd0J0TFE4Yll6R1BNcTR1M2s3VExNNWhOd2tWUVRvNzBtdnhvejJF?oc=5\" target=\"_blank\">Russia Charges Telegram Founder Durov With Aiding Terrorism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Porsche Earnings Rise After Selling More of its Pricier Cars",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUptTkMzelp6WDJ1RHF4N3FiQm9IZ3NSMmQyRFFTTVFhTUZlSFNSc2NYZFc2aC1qeDZiaF9Vc21iNDlVb21DYnp2R1dJbTY4eG05X1R3T1N2ZFpNVE9JYzNJLWxYcklYazRNMkhTV2VKTEhjQ2w5aTBXQ2NFVTROcDRmVDNBMUxGVm9yTFM2UjhDR1JOdVcxVTlLSzJ4dkR5OE1vMVhFV3cwUlU0dzVDeGh3?oc=5",
+          "published": "Wed, 29 Jul 2026 07:05:59 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUptTkMzelp6WDJ1RHF4N3FiQm9IZ3NSMmQyRFFTTVFhTUZlSFNSc2NYZFc2aC1qeDZiaF9Vc21iNDlVb21DYnp2R1dJbTY4eG05X1R3T1N2ZFpNVE9JYzNJLWxYcklYazRNMkhTV2VKTEhjQ2w5aTBXQ2NFVTROcDRmVDNBMUxGVm9yTFM2UjhDR1JOdVcxVTlLSzJ4dkR5OE1vMVhFV3cwUlU0dzVDeGh3?oc=5\" target=\"_blank\">Porsche Earnings Rise After Selling More of its Pricier Cars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "UAE Presses Ahead With Persian Gulf LNG Exports Despite Tensions",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSzFzVnJUUm8tZVQ2TmFwbG8tNjVWbUt4NFBCUk15QlVEYlJxTkNVYjR5c2RKYlA3emxxejhvejRJTmREbnhFd09jb0tDbE1TU2tnQ1ZqWERIYXBWOHpKaUgwRnZHYUFaUllTTzhlWXZTc2FUMFhlUl9xTktKUDdjRDQyc2lISGVOLTFibGNsOVBKWTR6QmRzcDdIUmFtUHBuT3lGU09CZ0VweFBoNHVSckZydlpHUQ?oc=5",
+          "published": "Wed, 29 Jul 2026 05:26:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSzFzVnJUUm8tZVQ2TmFwbG8tNjVWbUt4NFBCUk15QlVEYlJxTkNVYjR5c2RKYlA3emxxejhvejRJTmREbnhFd09jb0tDbE1TU2tnQ1ZqWERIYXBWOHpKaUgwRnZHYUFaUllTTzhlWXZTc2FUMFhlUl9xTktKUDdjRDQyc2lISGVOLTFibGNsOVBKWTR6QmRzcDdIUmFtUHBuT3lGU09CZ0VweFBoNHVSckZydlpHUQ?oc=5\" target=\"_blank\">UAE Presses Ahead With Persian Gulf LNG Exports Despite Tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Korean Stocks Tumble a Second Day as SK Hynix Results Disappoint",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlNzQnExMnhTZXRvQWNQNGVfNmctMFlScFJfVnQzeUl6UWt5d1BadTNfdnQ5WU1DV0x4SDc3WjB0cFp6S0Q4OGdvOVlXOVZKbHFVdVIxNFl5VzZqNThjRlA3TG1Pa1ljLTVqanJ6TEFvTllCblNNajR4Tnk1OWVUWWN5VEs4d0FaOGpXOG8zLUpqN2FFOXdIR09jOTBKNWhNbnZwNzlTN1I5NVQxb0I3cHBHODcwdw?oc=5",
+          "published": "Wed, 29 Jul 2026 08:43:18 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlNzQnExMnhTZXRvQWNQNGVfNmctMFlScFJfVnQzeUl6UWt5d1BadTNfdnQ5WU1DV0x4SDc3WjB0cFp6S0Q4OGdvOVlXOVZKbHFVdVIxNFl5VzZqNThjRlA3TG1Pa1ljLTVqanJ6TEFvTllCblNNajR4Tnk1OWVUWWN5VEs4d0FaOGpXOG8zLUpqN2FFOXdIR09jOTBKNWhNbnZwNzlTN1I5NVQxb0I3cHBHODcwdw?oc=5\" target=\"_blank\">Korean Stocks Tumble a Second Day as SK Hynix Results Disappoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
@@ -231,52 +252,31 @@
           "source": "彭博社"
         },
         {
-          "title": "Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets Wrap",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHZlMDlvZGhtbW5aRlBEMFlkc2FYZGc5VEpBRFdXMjlMRnZCV09lZnl4Qlh4UG50M2VCcDgtZ0lXbGZoUUNXSFBYOHNacE1NNy12cUR0UWFkU0F6V2c4djF5VldhNHZ6X1g3bEFDYzJIeldPUEMyWDAxVndIRW52U29lNi1LWmJQM1RpdUlxUGo1Ti1U?oc=5",
-          "published": "Tue, 28 Jul 2026 22:15:52 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHZlMDlvZGhtbW5aRlBEMFlkc2FYZGc5VEpBRFdXMjlMRnZCV09lZnl4Qlh4UG50M2VCcDgtZ0lXbGZoUUNXSFBYOHNacE1NNy12cUR0UWFkU0F6V2c4djF5VldhNHZ6X1g3bEFDYzJIeldPUEMyWDAxVndIRW52U29lNi1LWmJQM1RpdUlxUGo1Ti1U?oc=5\" target=\"_blank\">Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "title": "Capcom Shares Surge After Record Catalog Sales, 1Q Profit Beat",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWW91OGJMbFlXRDJ2NkswdllHZjFzSFBqeUtTaThPNUZ0cWxtZ0FSV1pwcnVoYk1yak5PaGhVNDJqVDFnS3ZNc2ZaV1R6Y0N6ZWlOY1RZZVJLOU1LX3ZZWmZnNGw0SDJFc3l0eW5tZy01YWwwNXpsT1VabURFdkI2MkRjb0hFR3JCTi1NbmRMenR2M19VRWQtQ3c4enN4VEZsb2xsX1o0YTlIMkEyX2JDMTZB?oc=5",
+          "published": "Wed, 29 Jul 2026 01:08:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWW91OGJMbFlXRDJ2NkswdllHZjFzSFBqeUtTaThPNUZ0cWxtZ0FSV1pwcnVoYk1yak5PaGhVNDJqVDFnS3ZNc2ZaV1R6Y0N6ZWlOY1RZZVJLOU1LX3ZZWmZnNGw0SDJFc3l0eW5tZy01YWwwNXpsT1VabURFdkI2MkRjb0hFR3JCTi1NbmRMenR2M19VRWQtQ3c4enN4VEZsb2xsX1o0YTlIMkEyX2JDMTZB?oc=5\" target=\"_blank\">Capcom Shares Surge After Record Catalog Sales, 1Q Profit Beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "OpenAI Models Compromised a Customer at a Second Tech Firm",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ1c0Q2QUZSUWZKRUlMbE0yVFJ6MjZrQWlxNzF0NDNmR1lGZmg0d19BeDBGODVmR0lGLU96NlZwLXcwX19HTWZIR2FKai1yazZsN3hBS3R6cWdkTm5VWDM0cW56NWRTZGdIaG5PVUxDVUF0cGVWWjU5dmVyMUhFVzc0aEJ2QjVHNllUZzJXVzNXbnFrYlZaQm1ubzFER0FCVzdENVRaOVExNjIwMmF1b005MWg?oc=5",
-          "published": "Tue, 28 Jul 2026 22:06:39 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ1c0Q2QUZSUWZKRUlMbE0yVFJ6MjZrQWlxNzF0NDNmR1lGZmg0d19BeDBGODVmR0lGLU96NlZwLXcwX19HTWZIR2FKai1yazZsN3hBS3R6cWdkTm5VWDM0cW56NWRTZGdIaG5PVUxDVUF0cGVWWjU5dmVyMUhFVzc0aEJ2QjVHNllUZzJXVzNXbnFrYlZaQm1ubzFER0FCVzdENVRaOVExNjIwMmF1b005MWg?oc=5\" target=\"_blank\">OpenAI Models Compromised a Customer at a Second Tech Firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "title": "Jack Ma-Backed OceanBase Seeks Up to $443 Million for AI Push",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU29KOW1yZTZrZnBOTHlldEpKcUREQ0dDVE1MNE82eWkzUC1xT3dhTUNkQVNsUnVDUTdtSnV5bGVnN3NvREJkWVZtazNhci04ZGtrbG9ySk1lSTUxUUhvd2RhaVFRd3ZqTmIyM1drZUdaZXBKejBkNmFTdDYzVnVrMi1xMk0tMEVRU0tKcXplOXFKYTBnV0VoSnIyNGpYMEVBSWVtelZja241VUNWX1FaeA?oc=5",
+          "published": "Wed, 29 Jul 2026 02:02:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOU29KOW1yZTZrZnBOTHlldEpKcUREQ0dDVE1MNE82eWkzUC1xT3dhTUNkQVNsUnVDUTdtSnV5bGVnN3NvREJkWVZtazNhci04ZGtrbG9ySk1lSTUxUUhvd2RhaVFRd3ZqTmIyM1drZUdaZXBKejBkNmFTdDYzVnVrMi1xMk0tMEVRU0tKcXplOXFKYTBnV0VoSnIyNGpYMEVBSWVtelZja241VUNWX1FaeA?oc=5\" target=\"_blank\">Jack Ma-Backed OceanBase Seeks Up to $443 Million for AI Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "Trump Administration to End Drug Plan Subsidy for Medicare",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDBsSlJSZkZpZUdkUzhDYjFicktzaGNmc2xhdXkxSUh3S3B1bEhwQzM5UDNSRktaeTg1cF9kVDhjQmc5V0EzY01zaDBjdDl1MVhfcVZKLW92YlFLbFJ4dGZFcXFncUxPbFBNZWcxSjFvbzdHQVFmdWtRRWdBMk41TjVRSUFNdEJ0ZHVIcm5hc3Q5UmwzQ0tydGVYbGU0SkxUdFdPWl9nbUdvX0pld2c?oc=5",
-          "published": "Tue, 28 Jul 2026 21:27:42 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDBsSlJSZkZpZUdkUzhDYjFicktzaGNmc2xhdXkxSUh3S3B1bEhwQzM5UDNSRktaeTg1cF9kVDhjQmc5V0EzY01zaDBjdDl1MVhfcVZKLW92YlFLbFJ4dGZFcXFncUxPbFBNZWcxSjFvbzdHQVFmdWtRRWdBMk41TjVRSUFNdEJ0ZHVIcm5hc3Q5UmwzQ0tydGVYbGU0SkxUdFdPWl9nbUdvX0pld2c?oc=5\" target=\"_blank\">Trump Administration to End Drug Plan Subsidy for Medicare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "title": "US Risks Broadening China Tech Clash With Robot, Inverter Curbs",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXFNcXFBSHFJRU9Zc2JUVEViUDg5Y0xkYzJvTmRQU3JSNEhJZmtBSlhVVTNQVV9hVHpqM3ljcDlQNU9BVGZJT19SVUNhVFJhakFpTktKMEEyZEhGQVo2SnRiVk10Q3ZPTWxWSzhlOGRFb0ZHLXBaRHNnTmVSUXhscEgzd01OTG1uMEc2SzBNU2ZqNXVvYlpidHZ0OG4zSlVEODEwbmU3cGl4LTZPdTkxSG12dw?oc=5",
+          "published": "Wed, 29 Jul 2026 08:14:27 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXFNcXFBSHFJRU9Zc2JUVEViUDg5Y0xkYzJvTmRQU3JSNEhJZmtBSlhVVTNQVV9hVHpqM3ljcDlQNU9BVGZJT19SVUNhVFJhakFpTktKMEEyZEhGQVo2SnRiVk10Q3ZPTWxWSzhlOGRFb0ZHLXBaRHNnTmVSUXhscEgzd01OTG1uMEc2SzBNU2ZqNXVvYlpidHZ0OG4zSlVEODEwbmU3cGl4LTZPdTkxSG12dw?oc=5\" target=\"_blank\">US Risks Broadening China Tech Clash With Robot, Inverter Curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "Trump Asks Supreme Court to Scrap $83.3 Million Carroll Verdict",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2FERy1xNDFWaFlULXFmNXJKSHhDQnZEeFZJOXU5a002VW1vZTFtcFRicGlFd1JRMmpYejU0MVhTd2ozR1JMdzJRWk1Wcy02Q282VGxhS2swaXZWVmYxZnNVVHhhbVpnQ2FJOEJjVkl1bzRZWWh0eElFdGhlZm5GdGVMcmdYZ2xFQTZSampFNmN6elZhSm1XbTctckE0U2luNE1KYy1vQngxTlBZRmIyeEloZw?oc=5",
-          "published": "Tue, 28 Jul 2026 22:17:42 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2FERy1xNDFWaFlULXFmNXJKSHhDQnZEeFZJOXU5a002VW1vZTFtcFRicGlFd1JRMmpYejU0MVhTd2ozR1JMdzJRWk1Wcy02Q282VGxhS2swaXZWVmYxZnNVVHhhbVpnQ2FJOEJjVkl1bzRZWWh0eElFdGhlZm5GdGVMcmdYZ2xFQTZSampFNmN6elZhSm1XbTctckE0U2luNE1KYy1vQngxTlBZRmIyeEloZw?oc=5\" target=\"_blank\">Trump Asks Supreme Court to Scrap $83.3 Million Carroll Verdict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "BlackRock Sets Out for Private Credit Glory After Year of Upheaval",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTZwb2FWLXZCTW9PZUlpTVhGLXdWN0t3RmlvX0trODltWExEeHoxbUloQkEyYjh4RUt5TVpzZjBmYXFmVjdPeThkcmhoYllNODBLZlhiU3BnaUIzYTFZeWUtRDZ4dTh6ZnczY3dvajg1OHltcGYtTnI2eTNjVVdkcGxWMVRmd0dQZnVydGJiTVY1V2YtajBsNjFFUWM4cm05R0VNdU1kRFgtTk5VeGZlQVdRWHpGV1I0N1ZuTTJHcHg?oc=5",
-          "published": "Tue, 28 Jul 2026 21:00:24 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTZwb2FWLXZCTW9PZUlpTVhGLXdWN0t3RmlvX0trODltWExEeHoxbUloQkEyYjh4RUt5TVpzZjBmYXFmVjdPeThkcmhoYllNODBLZlhiU3BnaUIzYTFZeWUtRDZ4dTh6ZnczY3dvajg1OHltcGYtTnI2eTNjVVdkcGxWMVRmd0dQZnVydGJiTVY1V2YtajBsNjFFUWM4cm05R0VNdU1kRFgtTk5VeGZlQVdRWHpGV1I0N1ZuTTJHcHg?oc=5\" target=\"_blank\">BlackRock Sets Out for Private Credit Glory After Year of Upheaval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Oil Surges After Three-Day Drop as US Repels Iran Attack on Base",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd01nRzZiajFieWd0QVZDQmNnbE9Za1Eyb0Fodm5LeUVzSzBxYU9sdTdkeVNPbFEwNTB1TUdaM0pURVUxN2tsS0dqLTlTdUhOLXMzZTVYSVhZSHJBWlZ5eXoyT003c3NjU3VWMk91eXdxcFAwOW5TRjc4WkpxVy1nalUzSC1PTXltQ1lRMlZ2QVBpenpuWWNaUVRMUEJRNnc?oc=5",
-          "published": "Tue, 28 Jul 2026 22:01:33 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd01nRzZiajFieWd0QVZDQmNnbE9Za1Eyb0Fodm5LeUVzSzBxYU9sdTdkeVNPbFEwNTB1TUdaM0pURVUxN2tsS0dqLTlTdUhOLXMzZTVYSVhZSHJBWlZ5eXoyT003c3NjU3VWMk91eXdxcFAwOW5TRjc4WkpxVy1nalUzSC1PTXltQ1lRMlZ2QVBpenpuWWNaUVRMUEJRNnc?oc=5\" target=\"_blank\">Oil Surges After Three-Day Drop as US Repels Iran Attack on Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Warner Bros. Deal Collapse Would Cost the Ellisons $9.8 Billion",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmRBZnhVb0hKVy1yaWFhRzQ1eklPeDVlLXc5VmYyc0hGUUE0cnVOLWFnMXkzeGIwcUR3UlhiWER3Q0oyNUNEYjFVUW1SZU9obHJzX2pnR1V0cDRWdEFWWThnS203LThFTGNmdEhEeWxmOUNBcHBISVZnbnREREZiOWR3SndESzNYRnlaazdzWFlrbS1oa2FzYVdrMUxFZmhPTkk0X1FmRTl4WXJ3LUdoaFp3?oc=5",
-          "published": "Tue, 28 Jul 2026 18:44:28 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmRBZnhVb0hKVy1yaWFhRzQ1eklPeDVlLXc5VmYyc0hGUUE0cnVOLWFnMXkzeGIwcUR3UlhiWER3Q0oyNUNEYjFVUW1SZU9obHJzX2pnR1V0cDRWdEFWWThnS203LThFTGNmdEhEeWxmOUNBcHBISVZnbnREREZiOWR3SndESzNYRnlaazdzWFlrbS1oa2FzYVdrMUxFZmhPTkk0X1FmRTl4WXJ3LUdoaFp3?oc=5\" target=\"_blank\">Warner Bros. Deal Collapse Would Cost the Ellisons $9.8 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "title": "Buffett Followers Score a Rare Win for Value Investing in Spain",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFVORHV2bl9nTHRsVGNoV1RmU2x2N1VfOEJfUEx0VEN1S3Q5dnRYNi1SYV9EZDRHcnplSHNNODYtbDR4Tk9BM0owcEVqMGVELXJSXzVkRnlPWkstWVhVMC03Z3g0RUlwQmRTZHdYNWJYNFlXcFN4NDNxWS00SVBBM1ZQdHVaREhVcmVpck1pVndWNEFHRWpHNjZYT0pMUEY1RVZjeVNCMjhzcmtnZ3BxMFBBdmNra0J2ZVNBRw?oc=5",
+          "published": "Wed, 29 Jul 2026 04:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFVORHV2bl9nTHRsVGNoV1RmU2x2N1VfOEJfUEx0VEN1S3Q5dnRYNi1SYV9EZDRHcnplSHNNODYtbDR4Tk9BM0owcEVqMGVELXJSXzVkRnlPWkstWVhVMC03Z3g0RUlwQmRTZHdYNWJYNFlXcFN4NDNxWS00SVBBM1ZQdHVaREhVcmVpck1pVndWNEFHRWpHNjZYT0pMUEY1RVZjeVNCMjhzcmtnZ3BxMFBBdmNra0J2ZVNBRw?oc=5\" target=\"_blank\">Buffett Followers Score a Rare Win for Value Investing in Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         }
       ]
@@ -287,52 +287,24 @@
       "count": 10,
       "articles": [
         {
-          "title": "Opinion | The Paramount-Warner Merger Could Save Hollywood",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0JEQTBtVndUR0RtdmdSd3BsSlU2WnJacGRaVG1UTnN6R1d6QTk2U3JmUElfcHlHVVR5eFMxb2stTGRTR04wd081dERmNkpGYlFZMS03V01OdDB1VDMybjQwbW9taUM3UjNqRGRQRV9LaW8taHM2bktuOGFrUkpKVThBN3RoSWNIUjdlaUVn?oc=5",
-          "published": "Tue, 28 Jul 2026 21:09:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0JEQTBtVndUR0RtdmdSd3BsSlU2WnJacGRaVG1UTnN6R1d6QTk2U3JmUElfcHlHVVR5eFMxb2stTGRTR04wd081dERmNkpGYlFZMS03V01OdDB1VDMybjQwbW9taUM3UjNqRGRQRV9LaW8taHM2bktuOGFrUkpKVThBN3RoSWNIUjdlaUVn?oc=5\" target=\"_blank\">Opinion | The Paramount-Warner Merger Could Save Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "title": "Print Edition | Wall Street Journal",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QbXVwcF9VcnJ5Y1ZMUFRGSFNFRldQa3ZmSjR0T0l5Mk41Vk1ldVk0ZThsVWVUVGhlRG1EcXN5R0FqVmtFdXMwRWoxQTlZeWpaMUZzb3E3SEZ3SWdiaHVESEFB?oc=5",
+          "published": "Wed, 29 Jul 2026 07:53:50 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QbXVwcF9VcnJ5Y1ZMUFRGSFNFRldQa3ZmSjR0T0l5Mk41Vk1ldVk0ZThsVWVUVGhlRG1EcXN5R0FqVmtFdXMwRWoxQTlZeWpaMUZzb3E3SEZ3SWdiaHVESEFB?oc=5\" target=\"_blank\">Print Edition | Wall Street Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
-          "title": "What to Watch for at the Fed Meeting",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGQ1dUhxYm9FZ3AzN3VYeVFRS202ekh5ME5wRXNFTUEzNUJ6TmItaXMzWC1xWEFfQXFFdU5xVVZRbkZ2dHp3ZDV2RlRoLXlYMEs3SGV6c0NtNGdkRzJ0SmlDRVVIUWpUTmZydU92akNtWWpzLTNRWl91bE1kY1N0RzF6Rl9HS2lQUm05MnU0YkFBMDg?oc=5",
-          "published": "Wed, 29 Jul 2026 01:00:43 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGQ1dUhxYm9FZ3AzN3VYeVFRS202ekh5ME5wRXNFTUEzNUJ6TmItaXMzWC1xWEFfQXFFdU5xVVZRbkZ2dHp3ZDV2RlRoLXlYMEs3SGV6c0NtNGdkRzJ0SmlDRVVIUWpUTmZydU92akNtWWpzLTNRWl91bE1kY1N0RzF6Rl9HS2lQUm05MnU0YkFBMDg?oc=5\" target=\"_blank\">What to Watch for at the Fed Meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "title": "Mark Zuckerberg Says U.S. Should Accelerate AI Development, Not Restrict It",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2pZbE5pT3NabWdUdkdVLWoxWVE3dHdQYVdiRTEwR2N2bVdUaE1xNmE1b3BOQXVPMlRJb2dPaWJuemRab1hGWVdyOWRMeVBJZkNEdnZsOW5aNFg5XzFoc2xCd0xXUEQ0YkptT2JaUTI1QXVBMmNQNkZXZ0dOVG56Z0tLbjVZNFFoRGtFVWZpOUd1cHpBTllFOFpFcDQzYTQ3YjVLT1ZxMEFBclhtcVdV?oc=5",
+          "published": "Wed, 29 Jul 2026 03:28:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2pZbE5pT3NabWdUdkdVLWoxWVE3dHdQYVdiRTEwR2N2bVdUaE1xNmE1b3BOQXVPMlRJb2dPaWJuemRab1hGWVdyOWRMeVBJZkNEdnZsOW5aNFg5XzFoc2xCd0xXUEQ0YkptT2JaUTI1QXVBMmNQNkZXZ0dOVG56Z0tLbjVZNFFoRGtFVWZpOUd1cHpBTllFOFpFcDQzYTQ3YjVLT1ZxMEFBclhtcVdV?oc=5\" target=\"_blank\">Mark Zuckerberg Says U.S. Should Accelerate AI Development, Not Restrict It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
-          "title": "Exclusive | Trump Administration to End Medicare Drug Plan Subsidy",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlk5OFNIUkZtRFBnSDB2bXhPcHl3NFV1RktRR0htWGdvTnF5QWdFTVZGbGEwdUtRVzhueHVTVDlTczdLYTNGbEExUFkteUowRUI5ZWNkSE5RcTNUZ0VCTkxnRW5RN1RpSmFial9YemN6bEZiaG5lOVJ3Tk54bjJRLWlzZTlUc0lYS2p6Yy0wcE9IbC1pOFk0ZndNNVJlNHdvd21R?oc=5",
-          "published": "Tue, 28 Jul 2026 23:26:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlk5OFNIUkZtRFBnSDB2bXhPcHl3NFV1RktRR0htWGdvTnF5QWdFTVZGbGEwdUtRVzhueHVTVDlTczdLYTNGbEExUFkteUowRUI5ZWNkSE5RcTNUZ0VCTkxnRW5RN1RpSmFial9YemN6bEZiaG5lOVJ3Tk54bjJRLWlzZTlUc0lYS2p6Yy0wcE9IbC1pOFk0ZndNNVJlNHdvd21R?oc=5\" target=\"_blank\">Exclusive | Trump Administration to End Medicare Drug Plan Subsidy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Key Moments From Sen. Lindsey Graham’s Memorial",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm55dmN5NG1QR3VqRFpZTDNEWVcwTFJnNy1odkJ4MFJBZjFPU1FDaGtrM2JDb1NyT25jY3YxMl9Zb3VvZ2dsNE1OMjMyeWdrVFFpNTBqU2t3RzdCSDlUbjFGcFY4d0kxcEJ6M0FYU3Itc1NBWDBEOHBRTTFtb2xub3RMa1lES2FMUFJDMjE3WUVTalp2?oc=5",
-          "published": "Tue, 28 Jul 2026 21:35:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm55dmN5NG1QR3VqRFpZTDNEWVcwTFJnNy1odkJ4MFJBZjFPU1FDaGtrM2JDb1NyT25jY3YxMl9Zb3VvZ2dsNE1OMjMyeWdrVFFpNTBqU2t3RzdCSDlUbjFGcFY4d0kxcEJ6M0FYU3Itc1NBWDBEOHBRTTFtb2xub3RMa1lES2FMUFJDMjE3WUVTalp2?oc=5\" target=\"_blank\">Key Moments From Sen. Lindsey Graham’s Memorial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Ford’s Sales and Revenue Are Down. The Automaker Isn’t Sweating It",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmM4aWJHaUdfT3EyU3R2N1MxSXc5dzF3cGxjOW02aVNsT3BLTEVCQUNNZTFvWXdCQjJ3S3czNWNudmpiQXZRVERUTjlIMTFrMzFnVzF3cEptNllaSWlZVkRoRi1fUURKQnhTd1o5SVBmNTktRUtnRlB3LTR4QTc1WHZZTGJFaF9yRHp1R3V3U2hRbGxSRGJIVVFFQk1KalFaZ3VFUEo0N011cGc?oc=5",
-          "published": "Tue, 28 Jul 2026 23:03:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmM4aWJHaUdfT3EyU3R2N1MxSXc5dzF3cGxjOW02aVNsT3BLTEVCQUNNZTFvWXdCQjJ3S3czNWNudmpiQXZRVERUTjlIMTFrMzFnVzF3cEptNllaSWlZVkRoRi1fUURKQnhTd1o5SVBmNTktRUtnRlB3LTR4QTc1WHZZTGJFaF9yRHp1R3V3U2hRbGxSRGJIVVFFQk1KalFaZ3VFUEo0N011cGc?oc=5\" target=\"_blank\">Ford’s Sales and Revenue Are Down. The Automaker Isn’t Sweating It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Opinion | The AI Future Is for Everyone",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xaldnTmlIZ2o2cXp5OXhiVG9BNFU2OTdEQzJ4azB2RXRzZktpd1gzNWVfYVhOaWxpRFZtekJ0YXFCUnBuWTJJRTJXUkwybjRHTDBlWTdJcFFNWk5WVVdyRFFGM09hd1hnQ09aTThQODNaZFBm?oc=5",
-          "published": "Tue, 28 Jul 2026 17:21:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8xaldnTmlIZ2o2cXp5OXhiVG9BNFU2OTdEQzJ4azB2RXRzZktpd1gzNWVfYVhOaWxpRFZtekJ0YXFCUnBuWTJJRTJXUkwybjRHTDBlWTdJcFFNWk5WVVdyRFFGM09hd1hnQ09aTThQODNaZFBm?oc=5\" target=\"_blank\">Opinion | The AI Future Is for Everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5",
-          "published": "Wed, 29 Jul 2026 01:31:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5\" target=\"_blank\">Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
+          "published": "Wed, 29 Jul 2026 01:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5\" target=\"_blank\">A Backlash Against Anthropic Is Brewing in Silicon Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
@@ -343,17 +315,45 @@
           "source": "华尔街日报"
         },
         {
-          "title": "Iran Rejects Omani Proposal to Share Strait of Hormuz, Demands More Control",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0NzLVZWb1NJRW9INktxekFNVlFDWmdUZFZfdG5GQmdkM3ZJU015VDYxTm15Y0VHTElSckxvR3k2V1hZWW81SEFTRXZvNUhqN2RfOUJXSTZadjkzaUhhUFF4QzdrYVpZakcyZ3NpTWRkc2pKME9UZ3lsYm1GMTRWY20yUUxzeElhWDVDaDhWVDJ0b0ktVTVlNTA0c1BISmVqU1VTZG9pQ3A3VjdsVm8xd0Jpek9rSm56SlpjSzl3?oc=5",
-          "published": "Wed, 29 Jul 2026 01:26:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0NzLVZWb1NJRW9INktxekFNVlFDWmdUZFZfdG5GQmdkM3ZJU015VDYxTm15Y0VHTElSckxvR3k2V1hZWW81SEFTRXZvNUhqN2RfOUJXSTZadjkzaUhhUFF4QzdrYVpZakcyZ3NpTWRkc2pKME9UZ3lsYm1GMTRWY20yUUxzeElhWDVDaDhWVDJ0b0ktVTVlNTA0c1BISmVqU1VTZG9pQ3A3VjdsVm8xd0Jpek9rSm56SlpjSzl3?oc=5\" target=\"_blank\">Iran Rejects Omani Proposal to Share Strait of Hormuz, Demands More Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "title": "Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5",
+          "published": "Wed, 29 Jul 2026 01:31:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5\" target=\"_blank\">Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
-          "title": "The Tortured History of a San Francisco Ballpark That’s Finally Becoming Housing",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmZ1NVJIQ1VxRUVuVDAteDNQSmhEVHozc0t0VGRaVXNtOU1ySHBhcUtJNktNNkV6WGtIWEI3QTNOXzFqUmlaTFBOcHB4dnZqay1ldDNlWFZDSnhoWXhuUEJ3UVBRdXRNLVpla3hPNzROUW1pZmptN2RiRmhHRDFsZUI5T0Y2LXlRSnFEa3ZVeW03R0s3UFR5eUlYd21PejNSb3hwd1JURENVRmdRbnhVSHpRWQ?oc=5",
-          "published": "Tue, 28 Jul 2026 17:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmZ1NVJIQ1VxRUVuVDAteDNQSmhEVHozc0t0VGRaVXNtOU1ySHBhcUtJNktNNkV6WGtIWEI3QTNOXzFqUmlaTFBOcHB4dnZqay1ldDNlWFZDSnhoWXhuUEJ3UVBRdXRNLVpla3hPNzROUW1pZmptN2RiRmhHRDFsZUI5T0Y2LXlRSnFEa3ZVeW03R0s3UFR5eUlYd21PejNSb3hwd1JURENVRmdRbnhVSHpRWQ?oc=5\" target=\"_blank\">The Tortured History of a San Francisco Ballpark That’s Finally Becoming Housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "title": "SK Hynix Net Profit Hits Record; Other Metrics Disappoint",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVDJ1dVpkZDBNUkhROTZlR0NZS0tLMzRtSGFOcEVDY2RfeXFfdWpTcjNjREdZbGptQ0RDMnU0MDg0c0tOR3JZY00xU0lxOC1sdFVUQi1DcGFTd0MwcTBzQ2tLODE0Q192c3NEME9HSnBmTDJwelJhSS1pN0RvYy1sVQ?oc=5",
+          "published": "Wed, 29 Jul 2026 04:58:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVDJ1dVpkZDBNUkhROTZlR0NZS0tLMzRtSGFOcEVDY2RfeXFfdWpTcjNjREdZbGptQ0RDMnU0MDg0c0tOR3JZY00xU0lxOC1sdFVUQi1DcGFTd0MwcTBzQ2tLODE0Q192c3NEME9HSnBmTDJwelJhSS1pN0RvYy1sVQ?oc=5\" target=\"_blank\">SK Hynix Net Profit Hits Record; Other Metrics Disappoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "What to Watch for at the Fed Meeting",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGQ1dUhxYm9FZ3AzN3VYeVFRS202ekh5ME5wRXNFTUEzNUJ6TmItaXMzWC1xWEFfQXFFdU5xVVZRbkZ2dHp3ZDV2RlRoLXlYMEs3SGV6c0NtNGdkRzJ0SmlDRVVIUWpUTmZydU92akNtWWpzLTNRWl91bE1kY1N0RzF6Rl9HS2lQUm05MnU0YkFBMDg?oc=5",
+          "published": "Wed, 29 Jul 2026 01:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGQ1dUhxYm9FZ3AzN3VYeVFRS202ekh5ME5wRXNFTUEzNUJ6TmItaXMzWC1xWEFfQXFFdU5xVVZRbkZ2dHp3ZDV2RlRoLXlYMEs3SGV6c0NtNGdkRzJ0SmlDRVVIUWpUTmZydU92akNtWWpzLTNRWl91bE1kY1N0RzF6Rl9HS2lQUm05MnU0YkFBMDg?oc=5\" target=\"_blank\">What to Watch for at the Fed Meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Opinion | The Paramount-Warner Merger Could Save Hollywood",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0JEQTBtVndUR0RtdmdSd3BsSlU2WnJacGRaVG1UTnN6R1d6QTk2U3JmUElfcHlHVVR5eFMxb2stTGRTR04wd081dERmNkpGYlFZMS03V01OdDB1VDMybjQwbW9taUM3UjNqRGRQRV9LaW8taHM2bktuOGFrUkpKVThBN3RoSWNIUjdlaUVn?oc=5",
+          "published": "Tue, 28 Jul 2026 21:09:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0JEQTBtVndUR0RtdmdSd3BsSlU2WnJacGRaVG1UTnN6R1d6QTk2U3JmUElfcHlHVVR5eFMxb2stTGRTR04wd081dERmNkpGYlFZMS03V01OdDB1VDMybjQwbW9taUM3UjNqRGRQRV9LaW8taHM2bktuOGFrUkpKVThBN3RoSWNIUjdlaUVn?oc=5\" target=\"_blank\">Opinion | The Paramount-Warner Merger Could Save Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Ford’s Sales and Revenue Are Down. The Automaker Isn’t Sweating It.",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmM4aWJHaUdfT3EyU3R2N1MxSXc5dzF3cGxjOW02aVNsT3BLTEVCQUNNZTFvWXdCQjJ3S3czNWNudmpiQXZRVERUTjlIMTFrMzFnVzF3cEptNllaSWlZVkRoRi1fUURKQnhTd1o5SVBmNTktRUtnRlB3LTR4QTc1WHZZTGJFaF9yRHp1R3V3U2hRbGxSRGJIVVFFQk1KalFaZ3VFUEo0N011cGc?oc=5",
+          "published": "Tue, 28 Jul 2026 23:03:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmM4aWJHaUdfT3EyU3R2N1MxSXc5dzF3cGxjOW02aVNsT3BLTEVCQUNNZTFvWXdCQjJ3S3czNWNudmpiQXZRVERUTjlIMTFrMzFnVzF3cEptNllaSWlZVkRoRi1fUURKQnhTd1o5SVBmNTktRUtnRlB3LTR4QTc1WHZZTGJFaF9yRHp1R3V3U2hRbGxSRGJIVVFFQk1KalFaZ3VFUEo0N011cGc?oc=5\" target=\"_blank\">Ford’s Sales and Revenue Are Down. The Automaker Isn’t Sweating It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Key Moments From Sen. Lindsey Graham’s Memorial",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm55dmN5NG1QR3VqRFpZTDNEWVcwTFJnNy1odkJ4MFJBZjFPU1FDaGtrM2JDb1NyT25jY3YxMl9Zb3VvZ2dsNE1OMjMyeWdrVFFpNTBqU2t3RzdCSDlUbjFGcFY4d0kxcEJ6M0FYU3Itc1NBWDBEOHBRTTFtb2xub3RMa1lES2FMUFJDMjE3WUVTalp2?oc=5",
+          "published": "Tue, 28 Jul 2026 21:35:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm55dmN5NG1QR3VqRFpZTDNEWVcwTFJnNy1odkJ4MFJBZjFPU1FDaGtrM2JDb1NyT25jY3YxMl9Zb3VvZ2dsNE1OMjMyeWdrVFFpNTBqU2t3RzdCSDlUbjFGcFY4d0kxcEJ6M0FYU3Itc1NBWDBEOHBRTTFtb2xub3RMa1lES2FMUFJDMjE3WUVTalp2?oc=5\" target=\"_blank\">Key Moments From Sen. Lindsey Graham’s Memorial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         }
       ]
@@ -364,6 +364,13 @@
       "count": 10,
       "articles": [
         {
+          "title": "China’s commercial space boom poses strategic challenge for the US",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPODNyYkhWNzlZVHVyREsyZndHbEV4UEVZZy16SUpCc2l6ZFRyb2o2Z2V4UmViVHh2a00wY1FtY1dId01jdHNHTTk0aHZROFNCNktxZEpiaWtQVHFFT1NMUVhyQnNfY2Zwb0VCTWtVcVJfVHNxS1R1ZGtIYzlmSllJRjBqVzk?oc=5",
+          "published": "Wed, 29 Jul 2026 04:01:14 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPODNyYkhWNzlZVHVyREsyZndHbEV4UEVZZy16SUpCc2l6ZFRyb2o2Z2V4UmViVHh2a00wY1FtY1dId01jdHNHTTk0aHZROFNCNktxZEpiaWtQVHFFT1NMUVhyQnNfY2Zwb0VCTWtVcVJfVHNxS1R1ZGtIYzlmSllJRjBqVzk?oc=5\" target=\"_blank\">China’s commercial space boom poses strategic challenge for the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
           "title": "Mark Zuckerberg says US should not ban Chinese AI",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1JfYVdzaHowRF92dnlwMkNDQ3FjbEZvUVczOFNfbnBOXzM4RS1JNUh0TGx5c3VSWFVRUHpTOVJDaVdUNXFiWk51dElPVTNVZUNhZjFXVTNCU2hVQmJVM3pGbGdLQkpUZzM3ZGJyTmpkRnRmbU1qa2pfLU5KdzNqc3pDX18?oc=5",
           "published": "Wed, 29 Jul 2026 02:15:47 GMT",
@@ -371,45 +378,38 @@
           "source": "金融时报"
         },
         {
-          "title": "SK Hynix shares slide despite sixfold profit surge on AI boom",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclJma2pldTJUYWJxWkY4aDdZRWJCamNsWUM2a2lLQThOMTFPU1V2N1E0dG9RVDg0Z0M3T2xpY0l4SDhLb25lTlB6VDNqRGF1eWVpZkZDLWhzeldOYWNPbEZEZ3FzbkxoMFNMUk83WHN3SGVHd2hJUHJ0Qnp2UHd1ZmRaOHQ?oc=5",
-          "published": "Wed, 29 Jul 2026 03:18:21 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNclJma2pldTJUYWJxWkY4aDdZRWJCamNsWUM2a2lLQThOMTFPU1V2N1E0dG9RVDg0Z0M3T2xpY0l4SDhLb25lTlB6VDNqRGF1eWVpZkZDLWhzeldOYWNPbEZEZ3FzbkxoMFNMUk83WHN3SGVHd2hJUHJ0Qnp2UHd1ZmRaOHQ?oc=5\" target=\"_blank\">SK Hynix shares slide despite sixfold profit surge on AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Ukraine adapts strikes on Russian energy industry to hit critical components",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV2l6UDBSZGtjTXBOSDF5SmdnWHYxRS1OUURETDR1QzRDSTdlYU1WeV8zbDlRbDdDU21KVnZfZjFnSXRuY21ybnFCTWNweGR1eTRvYlFSdTZEd1ZBZFVKNlFIMnktQTQ0N0hMcmhMeE5sdHhXUFhHeGNPemNvRWQtaHM1djQ?oc=5",
+          "published": "Wed, 29 Jul 2026 04:01:14 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPV2l6UDBSZGtjTXBOSDF5SmdnWHYxRS1OUURETDR1QzRDSTdlYU1WeV8zbDlRbDdDU21KVnZfZjFnSXRuY21ybnFCTWNweGR1eTRvYlFSdTZEd1ZBZFVKNlFIMnktQTQ0N0hMcmhMeE5sdHhXUFhHeGNPemNvRWQtaHM1djQ?oc=5\" target=\"_blank\">Ukraine adapts strikes on Russian energy industry to hit critical components</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
-          "title": "Ebay pays couple $56mn for its role in cockroach harassment campaign",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95ZmlscXJOTWprVURBY3Y4RVFRaExVOEdzUFJYMlQxVFVHYW5SWG0tMEdIUUg2V09YTm1QbEhOTlRXWThKVG1NY3R5NWZaem05ekpEUkVsMHNJOEFIOUQ1MzlHRE90VURiUHdaaHJyZ2g?oc=5",
-          "published": "Tue, 28 Jul 2026 16:12:12 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE95ZmlscXJOTWprVURBY3Y4RVFRaExVOEdzUFJYMlQxVFVHYW5SWG0tMEdIUUg2V09YTm1QbEhOTlRXWThKVG1NY3R5NWZaem05ekpEUkVsMHNJOEFIOUQ1MzlHRE90VURiUHdaaHJyZ2g?oc=5\" target=\"_blank\">Ebay pays couple $56mn for its role in cockroach harassment campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "PwC published ‘thought leadership’ reports marred by AI hallucinations",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmlDUXFkZXlVODdWMXlKYlFMZWZtd2xNdHljN3djbmxNb3l5R0wwN2FWaVFhUnlQZVpEclVMbUM3TUJ3LUN5Z1FCbGp4QktiLVFySnZzbTQ0S0dhakhqUGxMLUpTSU5rLUtERUZ2ODVBcVVlUi10Q3BtS1FuR1dZT3BsaU0?oc=5",
+          "published": "Wed, 29 Jul 2026 04:01:44 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmlDUXFkZXlVODdWMXlKYlFMZWZtd2xNdHljN3djbmxNb3l5R0wwN2FWaVFhUnlQZVpEclVMbUM3TUJ3LUN5Z1FCbGp4QktiLVFySnZzbTQ0S0dhakhqUGxMLUpTSU5rLUtERUZ2ODVBcVVlUi10Q3BtS1FuR1dZT3BsaU0?oc=5\" target=\"_blank\">PwC published ‘thought leadership’ reports marred by AI hallucinations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
-          "title": "Fifa plans $20bn commercial vehicle to lure external investors",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGg5Mmd3ZEhsWDBEd3hZa2FUb1ZLeUYwWTg1WE13VUZLbF81eThEdzBHSXNISUlKc3dGb2tZWi1ZRjFFWXJ6eDRWckVyaXhjSEVSdGRFZlRqcldrUDB5Um5CTDFxeW1xeDdhbXhmMTRjaDRPMTA4SGd5bEc1aTl5WjVLbW8?oc=5",
-          "published": "Tue, 28 Jul 2026 13:09:47 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObGg5Mmd3ZEhsWDBEd3hZa2FUb1ZLeUYwWTg1WE13VUZLbF81eThEdzBHSXNISUlKc3dGb2tZWi1ZRjFFWXJ6eDRWckVyaXhjSEVSdGRFZlRqcldrUDB5Um5CTDFxeW1xeDdhbXhmMTRjaDRPMTA4SGd5bEc1aTl5WjVLbW8?oc=5\" target=\"_blank\">Fifa plans $20bn commercial vehicle to lure external investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Keiko Fujimori sworn in as Peru’s ninth president in 10 years",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WSUZzZmFSNHA2QWJENGxRQzVBeGw2TkZPMnlqVm93X1UyRl92M2FJdk9kRl9DV3VhNmxwSE9yNG94ZHVCSlV1cGVSTzktOER5ZHllUTNWNXpCV1BPOE9FR0hRTk1NOW8zSElSUnBDOVQ?oc=5",
+          "published": "Tue, 28 Jul 2026 19:01:24 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1WSUZzZmFSNHA2QWJENGxRQzVBeGw2TkZPMnlqVm93X1UyRl92M2FJdk9kRl9DV3VhNmxwSE9yNG94ZHVCSlV1cGVSTzktOER5ZHllUTNWNXpCV1BPOE9FR0hRTk1NOW8zSElSUnBDOVQ?oc=5\" target=\"_blank\">Keiko Fujimori sworn in as Peru’s ninth president in 10 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
-          "title": "Trump’s waning sway over the world",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVRCN0dudzdhUHVfSmItQXNqUXZoOEdFRG9EdzRob0ZJMVpzSzZwa19hMnAyd19LWUhoaXVNejZaNW93TzliRjhFUFVuN29HUmV2Tk9Gb0RFdW05a2dYM1JmY1FCbFZaLV9iUXBUcmdWQ3RXYmtTMU5rOWZKenlHSV8tb2Y?oc=5",
-          "published": "Tue, 28 Jul 2026 11:35:38 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVRCN0dudzdhUHVfSmItQXNqUXZoOEdFRG9EdzRob0ZJMVpzSzZwa19hMnAyd19LWUhoaXVNejZaNW93TzliRjhFUFVuN29HUmV2Tk9Gb0RFdW05a2dYM1JmY1FCbFZaLV9iUXBUcmdWQ3RXYmtTMU5rOWZKenlHSV8tb2Y?oc=5\" target=\"_blank\">Trump’s waning sway over the world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUdLeGVfYkZaV1BqcmNvT1g2a2FYYTVYOFNoYXdndkpFNkU4dElQT1pHUFp0Z2dXQzR6bTEwcDVRZC16V0VUempNSE1aYXNkODlWcmsxOHVCVEo1aXBGYllpanJuSDFhNVc3b2xoaURLZjg0V2xGYU5Jb296aFhXSFVjZUg?oc=5",
+          "published": "Wed, 29 Jul 2026 04:02:22 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUdLeGVfYkZaV1BqcmNvT1g2a2FYYTVYOFNoYXdndkpFNkU4dElQT1pHUFp0Z2dXQzR6bTEwcDVRZC16V0VUempNSE1aYXNkODlWcmsxOHVCVEo1aXBGYllpanJuSDFhNVc3b2xoaURLZjg0V2xGYU5Jb296aFhXSFVjZUg?oc=5\" target=\"_blank\">Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
-          "title": "Powerful earthquake hits Japan’s southern Kumamoto prefecture",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVAzbFQ1VFhOaTJadnhtR1lwczBIQ2xqWjZFZzhZSGNvaHllQ2JJeFNCNW9MMktLUmJpal9IcnpsX2hHVEExM09DWng3VkJleU9RTFFVR1RDbTBNMFI3V0JDdzFJNlF5amt0NE0waWJ6TVVNcm9RQ1p2NXp0b3JDXzdLbWE?oc=5",
-          "published": "Tue, 28 Jul 2026 10:53:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVAzbFQ1VFhOaTJadnhtR1lwczBIQ2xqWjZFZzhZSGNvaHllQ2JJeFNCNW9MMktLUmJpal9IcnpsX2hHVEExM09DWng3VkJleU9RTFFVR1RDbTBNMFI3V0JDdzFJNlF5amt0NE0waWJ6TVVNcm9RQ1p2NXp0b3JDXzdLbWE?oc=5\" target=\"_blank\">Powerful earthquake hits Japan’s southern Kumamoto prefecture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "Chip stocks tumble as AI sell-off deepens",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOU5EQzYzM1h5cUFtRE1hbWhzLW5KMm9ZVjZ4SFY0SE5Xc3IweTFEbS1XRTBjbThoVUJodHphUUprdWlEV2dyZ0tsazM0S01adW5EM255NXNhdmV1Vi1fR0dkVXNaRjNvT08ydm1GRlE2TC1XMVBrR3MxRkVwSEVRTnR1Nkc?oc=5",
-          "published": "Tue, 28 Jul 2026 20:15:12 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQOU5EQzYzM1h5cUFtRE1hbWhzLW5KMm9ZVjZ4SFY0SE5Xc3IweTFEbS1XRTBjbThoVUJodHphUUprdWlEV2dyZ0tsazM0S01adW5EM255NXNhdmV1Vi1fR0dkVXNaRjNvT08ydm1GRlE2TC1XMVBrR3MxRkVwSEVRTnR1Nkc?oc=5\" target=\"_blank\">Chip stocks tumble as AI sell-off deepens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "If you think your profession is dying, it could soon be gone",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUZ3SWluNDJXZk1vZFlhZEVxWVlkNThfZmtTbnRGZTgwbWxGQ2MwNDBmNVR4ZUFIWE9FbDNkaTJSUWtlYnNDLVZ3YWdiUEFtTFo1blhvVGdwT1J6amVoTGRHOTE4OWRnQXhKWUlOS1E5TXRLMzJYQ3Q0Y0xoQ3NyUUdfa3Q?oc=5",
+          "published": "Wed, 29 Jul 2026 07:01:17 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUZ3SWluNDJXZk1vZFlhZEVxWVlkNThfZmtTbnRGZTgwbWxGQ2MwNDBmNVR4ZUFIWE9FbDNkaTJSUWtlYnNDLVZ3YWdiUEFtTFo1blhvVGdwT1J6amVoTGRHOTE4OWRnQXhKWUlOS1E5TXRLMzJYQ3Q0Y0xoQ3NyUUdfa3Q?oc=5\" target=\"_blank\">If you think your profession is dying, it could soon be gone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
@@ -420,17 +420,17 @@
           "source": "金融时报"
         },
         {
-          "title": "US poised to impose new Russia sanctions package",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUtab1lXbjlicGREd211aU15TUdqeDU3NEZJR3dhVzV5RkdHcEFnWmc5UDlUNlo2WWRVWFR3b3ZFVmxlVEQxVDVSVm1TUGotemkyVUhGUjVQeEJDTXhuTFJTbFhxUEZ3VVNoSGN1VUdPQWJRclhCWWw1d1h1WkxrZDJSbGI?oc=5",
-          "published": "Wed, 29 Jul 2026 00:40:53 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUtab1lXbjlicGREd211aU15TUdqeDU3NEZJR3dhVzV5RkdHcEFnWmc5UDlUNlo2WWRVWFR3b3ZFVmxlVEQxVDVSVm1TUGotemkyVUhGUjVQeEJDTXhuTFJTbFhxUEZ3VVNoSGN1VUdPQWJRclhCWWw1d1h1WkxrZDJSbGI?oc=5\" target=\"_blank\">US poised to impose new Russia sanctions package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "US says it intercepted ‘surprise’ Iranian missile attack",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFJCVnQ1LXRXTVQ5d1lYbUlKcE9uaHFMc2ZnX0Y2MjJzeGJHM2gwRE5xNklXbndhbDc0N1pXVm9hTXBqb28wTmZ4c09OaU9DTllCaW5XeEZ3OFFGUW1IU3JrU0J5YU9URjRWQmU5VnQ2Z0RFZ0dfbGZHby0zZ2NRdktmc0Y?oc=5",
+          "published": "Tue, 28 Jul 2026 22:49:06 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFJCVnQ1LXRXTVQ5d1lYbUlKcE9uaHFMc2ZnX0Y2MjJzeGJHM2gwRE5xNklXbndhbDc0N1pXVm9hTXBqb28wTmZ4c09OaU9DTllCaW5XeEZ3OFFGUW1IU3JrU0J5YU9URjRWQmU5VnQ2Z0RFZ0dfbGZHby0zZ2NRdktmc0Y?oc=5\" target=\"_blank\">US says it intercepted ‘surprise’ Iranian missile attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
-          "title": "Volodymyr Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1ZXWDNjSWR6aElBdkRpbGxaSnotUm5RVXo0ejNNTV8xZml2bW05Nnp4SzEyUlZaRnA3dHBtdHRNUk1nWl9IT0ZHbWVnUmoxc2xpaWNZc0hneUxHYW8ya0RwZ19JYm1MVnVZb0RxMVdoMmw5eElCdWJBc2xUWW1LZWZHSHE?oc=5",
-          "published": "Tue, 28 Jul 2026 09:13:53 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1ZXWDNjSWR6aElBdkRpbGxaSnotUm5RVXo0ejNNTV8xZml2bW05Nnp4SzEyUlZaRnA3dHBtdHRNUk1nWl9IT0ZHbWVnUmoxc2xpaWNZc0hneUxHYW8ya0RwZ19JYm1MVnVZb0RxMVdoMmw5eElCdWJBc2xUWW1LZWZHSHE?oc=5\" target=\"_blank\">Volodymyr Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Ebay pays couple $56mn for its role in cockroach harassment campaign",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95ZmlscXJOTWprVURBY3Y4RVFRaExVOEdzUFJYMlQxVFVHYW5SWG0tMEdIUUg2V09YTm1QbEhOTlRXWThKVG1NY3R5NWZaem05ekpEUkVsMHNJOEFIOUQ1MzlHRE90VURiUHdaaHJyZ2g?oc=5",
+          "published": "Tue, 28 Jul 2026 16:12:12 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE95ZmlscXJOTWprVURBY3Y4RVFRaExVOEdzUFJYMlQxVFVHYW5SWG0tMEdIUUg2V09YTm1QbEhOTlRXWThKVG1NY3R5NWZaem05ekpEUkVsMHNJOEFIOUQ1MzlHRE90VURiUHdaaHJyZ2g?oc=5\" target=\"_blank\">Ebay pays couple $56mn for its role in cockroach harassment campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         }
       ]
@@ -440,6 +440,48 @@
       "name_cn": "CNBC",
       "count": 10,
       "articles": [
+        {
+          "title": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kOHNBaHdBSlVDN0VPSEYwQmhJUHRJN1hWbDFGcEJBSjlWNE1ITE5meUIyblRoRVdNTl9kcHVvanE0Rkh2bWJ4Tk9XQ2s2dFBwb3R2bU9NVm5xU1FSUU53d0UzQTFldlpHM2JpalBzZVJiam5YRm04WjdHSdIBgAFBVV95cUxQMDBxQ21HcVZGZmplWmlSLVpBM09EanhvbTVWOE1vVzl0N1BsRHlqSnljNE9udzBjaGVIY3pYQllKclBhMEQ4NkZQNXVVSU1KWGkzdFRRMkVXTXJkTWQ1TjRCSHJ3TlZjM0EybWVhb2lLS0dxWUhqMTVlZ25MN2N4cw?oc=5",
+          "published": "Wed, 29 Jul 2026 07:01:28 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5kOHNBaHdBSlVDN0VPSEYwQmhJUHRJN1hWbDFGcEJBSjlWNE1ITE5meUIyblRoRVdNTl9kcHVvanE0Rkh2bWJ4Tk9XQ2s2dFBwb3R2bU9NVm5xU1FSUU53d0UzQTFldlpHM2JpalBzZVJiam5YRm04WjdHSdIBgAFBVV95cUxQMDBxQ21HcVZGZmplWmlSLVpBM09EanhvbTVWOE1vVzl0N1BsRHlqSnljNE9udzBjaGVIY3pYQllKclBhMEQ4NkZQNXVVSU1KWGkzdFRRMkVXTXJkTWQ1TjRCSHJ3TlZjM0EybWVhb2lLS0dxWUhqMTVlZ25MN2N4cw?oc=5\" target=\"_blank\">Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "Why America's super rich have embraced the appeal of British soccer teams",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNnlzUDE0OW95Zk5fQUZiZFFydmJWSE9uMzhLQWx5Z2E3cGsyT2FNT1hyb3A2c2lwSGxSRXFva0l0RDB4VkxxNzM1ejJMTmRRT1E5ZEZGdGtOVVBqRFpIbkhpNUZrcmttVzhlMWlpV3NGTXNUMVdDaTBXcV9fZHN1UEdtMEpVSk9DdTU1Sjh3eEPSAZYBQVVfeXFMUFNLVVd5cVlrNGNQVUdZM3pkZ0Y0NlViSjZTWHFBcHh5dzNoVEx3V2U5dXBCUGt5eDRkNUU2MHNGX2hjMzZqN2NuMHMwZ1RpNDhoVVpqMnpmakVpWFpjbmExLU9TSTlVT1N5OFlRMlZFZ1pqZUpRaEtTM0ExMmFUZnNGS2F1M0VYdDRUa3RLa1Y4WEVMcmJR?oc=5",
+          "published": "Wed, 29 Jul 2026 05:00:02 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNnlzUDE0OW95Zk5fQUZiZFFydmJWSE9uMzhLQWx5Z2E3cGsyT2FNT1hyb3A2c2lwSGxSRXFva0l0RDB4VkxxNzM1ejJMTmRRT1E5ZEZGdGtOVVBqRFpIbkhpNUZrcmttVzhlMWlpV3NGTXNUMVdDaTBXcV9fZHN1UEdtMEpVSk9DdTU1Sjh3eEPSAZYBQVVfeXFMUFNLVVd5cVlrNGNQVUdZM3pkZ0Y0NlViSjZTWHFBcHh5dzNoVEx3V2U5dXBCUGt5eDRkNUU2MHNGX2hjMzZqN2NuMHMwZ1RpNDhoVVpqMnpmakVpWFpjbmExLU9TSTlVT1N5OFlRMlZFZ1pqZUpRaEtTM0ExMmFUZnNGS2F1M0VYdDRUa3RLa1Y4WEVMcmJR?oc=5\" target=\"_blank\">Why America's super rich have embraced the appeal of British soccer teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "CNBC Daily Open: Banking beats, SK Hynix sinks and surprise attack rattles oil",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hVnNhbFRDNlFmXzU2ZTE4R19pcjdub3lOTFI4VDhtaW1uQ3EtRFNJVWVEUm5fOGpxQXRKQUI3Zk1SdDZJcEY4dXRWb3dITHF1QXdHc3ZIaU12Z1lQNVhGMThLdEYzSjJkN192ZnByNGUxY3hXb212eThKQlpnQVXSAYQBQVVfeXFMT0N6aXhaVVZ0cV9yRGV0NHAwT1VFLTJhVkJNSmhPeTl4Ykg1RXFFRU9lZE1IT3dCUk1NNFc4NnVScVNWMmxMRTB2ckpaXzNzWGs4czB5Q01BYkFRZjhfeEFRc2pNM2VoenVhLUd3a0ppZEE1MjNLLU9TOGpIN3AtckVmWFFH?oc=5",
+          "published": "Wed, 29 Jul 2026 06:36:49 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5hVnNhbFRDNlFmXzU2ZTE4R19pcjdub3lOTFI4VDhtaW1uQ3EtRFNJVWVEUm5fOGpxQXRKQUI3Zk1SdDZJcEY4dXRWb3dITHF1QXdHc3ZIaU12Z1lQNVhGMThLdEYzSjJkN192ZnByNGUxY3hXb212eThKQlpnQVXSAYQBQVVfeXFMT0N6aXhaVVZ0cV9yRGV0NHAwT1VFLTJhVkJNSmhPeTl4Ykg1RXFFRU9lZE1IT3dCUk1NNFc4NnVScVNWMmxMRTB2ckpaXzNzWGs4czB5Q01BYkFRZjhfeEFRc2pNM2VoenVhLUd3a0ppZEE1MjNLLU9TOGpIN3AtckVmWFFH?oc=5\" target=\"_blank\">CNBC Daily Open: Banking beats, SK Hynix sinks and surprise attack rattles oil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYngzeGNLTEtIYUV5R29aVEdGbFpkSVBBbThyNlZCb0VkNXVYUWRVcjBDdl9RcW1Fc1g3aHF5eXpBMElhSFBQa3dvSllZS09uWjhvUDY0VHhTMWJqZkxCVVM5WVNKRFBSZ1BvLUJkY3E1WnFDRUtnNXlrakEzWW1oSzJOdTc0N3hY0gGOAUFVX3lxTE9hWE1sYUJYMnV0d3U5SHN3RTlyODVXZEU3VW82TWtPeVExZjl6ay1nWmZNMGF1cVN6UEJRdEs4aXNiSkd0amZEMi1WaGJGT1NDZHlzYUhmQ1NodU0zMjJlWnpFSW8zdkxnVGQwdndJNWYxMHBMM2xMRnVESzNlS3F4elJSempLMHRlNDlsb2c?oc=5",
+          "published": "Wed, 29 Jul 2026 08:29:10 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYngzeGNLTEtIYUV5R29aVEdGbFpkSVBBbThyNlZCb0VkNXVYUWRVcjBDdl9RcW1Fc1g3aHF5eXpBMElhSFBQa3dvSllZS09uWjhvUDY0VHhTMWJqZkxCVVM5WVNKRFBSZ1BvLUJkY3E1WnFDRUtnNXlrakEzWW1oSzJOdTc0N3hY0gGOAUFVX3lxTE9hWE1sYUJYMnV0d3U5SHN3RTlyODVXZEU3VW82TWtPeVExZjl6ay1nWmZNMGF1cVN6UEJRdEs4aXNiSkd0amZEMi1WaGJGT1NDZHlzYUhmQ1NodU0zMjJlWnpFSW8zdkxnVGQwdndJNWYxMHBMM2xMRnVESzNlS3F4elJSempLMHRlNDlsb2c?oc=5\" target=\"_blank\">UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "Tech stocks extend sell-off with SoftBank losing 7% as AI plays take a hit",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWm5mYzh3X2p6d2t2clJubjIzc1VBR2txNEU4V2FvVEM5RmNHZGdHOFJOX1cxZlhEMG5zaEpJQ21WRmZncG0tZm1EQVF4ZnFDMTBhMHFKMXBxN0pUaVFaYmtUbTJ5b0ZxVzJXWHpOVkFqNXBxRTNxTU5tQ3VBS0ZsbNIBhgFBVV95cUxQT0hDOFV0dDBHN25YOE5KWGNWdGlvUEhuSF9XVjhpSV9sWDdxSXozSTJwSXNSTFZnZk0zNVc1bGJJTFVkX2Z5MmpYTXRqNjVRekNHN3B4ZlJIdFZmVk9heW0wY3ZiXzFIQUNfM2o5NVNWYmxWb3RXSHBZbHJ4LWNOSWd4SUQwZw?oc=5",
+          "published": "Wed, 29 Jul 2026 02:44:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWm5mYzh3X2p6d2t2clJubjIzc1VBR2txNEU4V2FvVEM5RmNHZGdHOFJOX1cxZlhEMG5zaEpJQ21WRmZncG0tZm1EQVF4ZnFDMTBhMHFKMXBxN0pUaVFaYmtUbTJ5b0ZxVzJXWHpOVkFqNXBxRTNxTU5tQ3VBS0ZsbNIBhgFBVV95cUxQT0hDOFV0dDBHN25YOE5KWGNWdGlvUEhuSF9XVjhpSV9sWDdxSXozSTJwSXNSTFZnZk0zNVc1bGJJTFVkX2Z5MmpYTXRqNjVRekNHN3B4ZlJIdFZmVk9heW0wY3ZiXzFIQUNfM2o5NVNWYmxWb3RXSHBZbHJ4LWNOSWd4SUQwZw?oc=5\" target=\"_blank\">Tech stocks extend sell-off with SoftBank losing 7% as AI plays take a hit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTV9aQVpTbDZTUGFvOGFVMEYzVHl2Yk5VektUYXY1b2hENDUtUlRaSHd3cml3SGtmMTlraXFsbl83bm9rZkw5UHEzMHZmZWd4Y0VmN29WX3lVSzZtQ1l4Y2NGTWpGeThMSWhJbllUUHBZZ3ZLYnNpa0hDZDJqazFiNFk3TjbSAYoBQVVfeXFMTnFVemxMRmlPcnJhM0RHaEdGb3cxMHVOeU5FYXA0bzBzZHpFUUllTmxLTE1ubThJSlZla3o3LUpOSFhLcHFKdTJFTTkwc0o2WjRETzlabW03S2VvQ25wQjRCMGwxUFBXNWR1eU5UNWptR3ZENUpTSG0yaF9FZGtfSFM3ZEtOcnppdkJR?oc=5",
+          "published": "Wed, 29 Jul 2026 00:51:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOTV9aQVpTbDZTUGFvOGFVMEYzVHl2Yk5VektUYXY1b2hENDUtUlRaSHd3cml3SGtmMTlraXFsbl83bm9rZkw5UHEzMHZmZWd4Y0VmN29WX3lVSzZtQ1l4Y2NGTWpGeThMSWhJbllUUHBZZ3ZLYnNpa0hDZDJqazFiNFk3TjbSAYoBQVVfeXFMTnFVemxMRmlPcnJhM0RHaEdGb3cxMHVOeU5FYXA0bzBzZHpFUUllTmxLTE1ubThJSlZla3o3LUpOSFhLcHFKdTJFTTkwc0o2WjRETzlabW03S2VvQ25wQjRCMGwxUFBXNWR1eU5UNWptR3ZENUpTSG0yaF9FZGtfSFM3ZEtOcnppdkJR?oc=5\" target=\"_blank\">Oil jumps as U.S.-Iran resume strikes after a brief pause</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
         {
           "title": "CNBC Daily Open: Renewed fire from Iran, a big quarter for SK Hynix and a quake in Japan",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2t5SjdYUGo5TkpRTE84Q1RBZVFhZE9vQlRFTVFWUmxPSnotRFRFVElTc1UwdDhsaXJPRl9aZGdWTl92Ukw5ckFlbnREVkV0anJ1MzYtNDQwVV9LMXZqUFdPcFlRbDJHNjVNNUh6eTBuV3RYVjRlS1JVT3hqRlFMMnJNNjh3eEtMTS1QSXNqbkFxRW1XMnNkanlDTnhSWVlMbXk2VkhvOFhJUGd6MUJ4VXJ5amNsd9IBuwFBVV95cUxPLUdfdFhqbWZoZ1doTmFHQ3JQWjcyQUp6WW5ZcnVUUExFcnB6d29CQ083ZTVVcGV1MzR5Qkh5RktpS0hMcFl6N1JFNG1KZkpmdVNXX2NkeFVaSWhEQzlqUHZ6SGUxNVF4TExJRUVkTlV6X1F6TEhEa0ZaZXVxOVJOdkpEV2tWU1FCaS10VS10U3R2UEtlNTRVZ3JwcllrNThfVWFCMW5vcXhOOFUwYTdZU250N1p0bGMxYnJV?oc=5",
@@ -455,10 +497,10 @@
           "source": "CNBC"
         },
         {
-          "title": "SK Hynix second-quarter revenue more than triples — but misses estimates",
+          "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmt4TERYemU1Wnl3ZkZxb0VITGNaQUFJM2JnQkNlaV9QbTByand1dXNPc3hNcFpLcU14VkdyLXNvV1MzOXREZEYwWXV5VXJiV2JobXBsbFpsLWhibWFqTzBGWHB2RHpPU19Vb0l3c05JbFE3NkJBRlNMR2lzblZYaEpWbnZIUVHSAYwBQVVfeXFMTUdzbzVwYzliaUxxRjY1UTN4VmdYeC1mZFFCMU5SRWJXVjlaTzFycTNMNUI3Q0I0bXl6aVRhN1ZDd1BzdENVMDZKdS13d05tdmQ5S0Qya3dramVySzBvS2liOVlBS0Vwa2o0Slc4Zk5SOGZ4SGVSdjhGd3lTdVVuN2l1QzhxdlViTkk0aFo?oc=5",
           "published": "Tue, 28 Jul 2026 23:01:49 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmt4TERYemU1Wnl3ZkZxb0VITGNaQUFJM2JnQkNlaV9QbTByand1dXNPc3hNcFpLcU14VkdyLXNvV1MzOXREZEYwWXV5VXJiV2JobXBsbFpsLWhibWFqTzBGWHB2RHpPU19Vb0l3c05JbFE3NkJBRlNMR2lzblZYaEpWbnZIUVHSAYwBQVVfeXFMTUdzbzVwYzliaUxxRjY1UTN4VmdYeC1mZFFCMU5SRWJXVjlaTzFycTNMNUI3Q0I0bXl6aVRhN1ZDd1BzdENVMDZKdS13d05tdmQ5S0Qya3dramVySzBvS2liOVlBS0Vwa2o0Slc4Zk5SOGZ4SGVSdjhGd3lTdVVuN2l1QzhxdlViTkk0aFo?oc=5\" target=\"_blank\">SK Hynix second-quarter revenue more than triples — but misses estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmt4TERYemU1Wnl3ZkZxb0VITGNaQUFJM2JnQkNlaV9QbTByand1dXNPc3hNcFpLcU14VkdyLXNvV1MzOXREZEYwWXV5VXJiV2JobXBsbFpsLWhibWFqTzBGWHB2RHpPU19Vb0l3c05JbFE3NkJBRlNMR2lzblZYaEpWbnZIUVHSAYwBQVVfeXFMTUdzbzVwYzliaUxxRjY1UTN4VmdYeC1mZFFCMU5SRWJXVjlaTzFycTNMNUI3Q0I0bXl6aVRhN1ZDd1BzdENVMDZKdS13d05tdmQ5S0Qya3dramVySzBvS2liOVlBS0Vwa2o0Slc4Zk5SOGZ4SGVSdjhGd3lTdVVuN2l1QzhxdlViTkk0aFo?oc=5\" target=\"_blank\">SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
@@ -467,48 +509,83 @@
           "published": "Tue, 28 Jul 2026 22:36:13 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RaXzRwQ01QUWtsamFGcHE2U0Ryc0NRRjA3UVprWkhyMnlSWmZJcDJyNDAyLXZDSkRiNWh5RkhWTnJ1a09ra3Y4WDAxb1NCeE1pV3Jjc19KNXlpZ1RmdTJtZV8wRjJTLWZkYV9rMDNTS3YxZkJoQi1CQ3JuVHZXQ2U0RTFJZ21TbngySU1iZzFQZFRBM3lGdXAwVndTdnhySDUwSjkyc3NNTVdidXBrWWVRVDTSAboBQVVfeXFMTXcxR2pjSXlJd29MczNPNEdhS0piQ3ZCTFJ4ZmRVTGRvNUNscmx4MzFBbjRrWVlJMUNhR0cxREtDejFJZkEtTW1sM0F4Z0hyZkZfSEczTjdvb083anc2OHQtQzNYOUgycVRicjlGVXZKTVBZSUhDSTAydHdsdzhhLU03UnY0M1ZuaUIzc0hsT3dLLU1KdzdpcjZXSEZrbEEtNzVqMnU0YU5MTUE4YndJcTBXdlVPTEd0bW1R?oc=5\" target=\"_blank\">Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
+        }
+      ]
+    },
+    "economist": {
+      "name": "economist",
+      "name_cn": "经济学人",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Donald Trump is stalling for time in the war with Iran",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdldpTUlvcTJQVzZGa2JpWW5YMVRnaGFPWGd4eks3aVFheWY5MHE1VVpNNGF0SWNCX0tsOXU4RGxEWVpHVW1qSG5uNGVERUd1Y190V1JQTTYzTlptYjRoWU94VGNjSlZHTmRYMkV4RW9MVjN4dkZ3VVFUeEhvZlViaGVWQ19CTzNETkFmNllMaU4yQ2VKTTRkQmFKbnFHVHVWNi1abW9sdk5vX0FSWDRtWUlaNzk?oc=5",
+          "published": "Tue, 28 Jul 2026 19:36:43 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdldpTUlvcTJQVzZGa2JpWW5YMVRnaGFPWGd4eks3aVFheWY5MHE1VVpNNGF0SWNCX0tsOXU4RGxEWVpHVW1qSG5uNGVERUd1Y190V1JQTTYzTlptYjRoWU94VGNjSlZHTmRYMkV4RW9MVjN4dkZ3VVFUeEhvZlViaGVWQ19CTzNETkFmNllMaU4yQ2VKTTRkQmFKbnFHVHVWNi1abW9sdk5vX0FSWDRtWUlaNzk?oc=5\" target=\"_blank\">Donald Trump is stalling for time in the war with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
         },
         {
-          "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHBiUlVyaHctRVZvTGZUWHRscEZwSm9xZjcyaFFodWl4cTVpZTVDOUV6dldWX0FjTnJDQzB1OXJOVS11ZXF3R0hHdjJNaUtiWTBMWVZ6dEtJMnZUQlQxUXp1V3d5a2sydU1ucjBEVU9uMGVrT3NYMms3LXpoMG8tUndGRzctdDJOakFaaHRyVzQzUEFGMUt3NzJSc3jSAaIBQVVfeXFMTmJNNlA0d29BSTM5LURCSmJoUXJGeWZGSlMwcmZ4aXVKRFpXVlVPM09YVWlaNE5sbE9TV0hRTW41OGFKajNQQ3lMYnd4bmpjaUxfQlB3MmJGdkVTb3U5RnRwYWFHaXRjRDFhcVFvTV9uLTJMNEZoOVNWRzVaN24tOXE0WjNsM01sMXUyR25QVUlWNDhXQjc3dTVVemdGZ2MyZkJn?oc=5",
-          "published": "Tue, 28 Jul 2026 22:20:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHBiUlVyaHctRVZvTGZUWHRscEZwSm9xZjcyaFFodWl4cTVpZTVDOUV6dldWX0FjTnJDQzB1OXJOVS11ZXF3R0hHdjJNaUtiWTBMWVZ6dEtJMnZUQlQxUXp1V3d5a2sydU1ucjBEVU9uMGVrT3NYMms3LXpoMG8tUndGRzctdDJOakFaaHRyVzQzUEFGMUt3NzJSc3jSAaIBQVVfeXFMTmJNNlA0d29BSTM5LURCSmJoUXJGeWZGSlMwcmZ4aXVKRFpXVlVPM09YVWlaNE5sbE9TV0hRTW41OGFKajNQQ3lMYnd4bmpjaUxfQlB3MmJGdkVTb3U5RnRwYWFHaXRjRDFhcVFvTV9uLTJMNEZoOVNWRzVaN24tOXE0WjNsM01sMXUyR25QVUlWNDhXQjc3dTVVemdGZ2MyZkJn?oc=5\" target=\"_blank\">Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
+          "title": "Europe’s fires are just the start",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1ppSTJNRXptQ2NDd0xiVHNiQ3hKSTRHNzNVYnRfNk9RTS15UjBEb0E2Z05BMWRmWEd0Ymt3TDBBR1M5ZjZSeVZManV5ZUtUU05GT0JlX0NZbXdHcmpEMkZudFFfQzlQLXo3c1B6VXpKNGpFS2R2ZS1ScnBxVG5XZDk5OA?oc=5",
+          "published": "Tue, 28 Jul 2026 20:07:16 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1ppSTJNRXptQ2NDd0xiVHNiQ3hKSTRHNzNVYnRfNk9RTS15UjBEb0E2Z05BMWRmWEd0Ymt3TDBBR1M5ZjZSeVZManV5ZUtUU05GT0JlX0NZbXdHcmpEMkZudFFfQzlQLXo3c1B6VXpKNGpFS2R2ZS1ScnBxVG5XZDk5OA?oc=5\" target=\"_blank\">Europe’s fires are just the start</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
         },
         {
-          "title": "Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWm5mYzh3X2p6d2t2clJubjIzc1VBR2txNEU4V2FvVEM5RmNHZGdHOFJOX1cxZlhEMG5zaEpJQ21WRmZncG0tZm1EQVF4ZnFDMTBhMHFKMXBxN0pUaVFaYmtUbTJ5b0ZxVzJXWHpOVkFqNXBxRTNxTU5tQ3VBS0ZsbNIBhgFBVV95cUxQT0hDOFV0dDBHN25YOE5KWGNWdGlvUEhuSF9XVjhpSV9sWDdxSXozSTJwSXNSTFZnZk0zNVc1bGJJTFVkX2Z5MmpYTXRqNjVRekNHN3B4ZlJIdFZmVk9heW0wY3ZiXzFIQUNfM2o5NVNWYmxWb3RXSHBZbHJ4LWNOSWd4SUQwZw?oc=5",
-          "published": "Wed, 29 Jul 2026 02:44:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWm5mYzh3X2p6d2t2clJubjIzc1VBR2txNEU4V2FvVEM5RmNHZGdHOFJOX1cxZlhEMG5zaEpJQ21WRmZncG0tZm1EQVF4ZnFDMTBhMHFKMXBxN0pUaVFaYmtUbTJ5b0ZxVzJXWHpOVkFqNXBxRTNxTU5tQ3VBS0ZsbNIBhgFBVV95cUxQT0hDOFV0dDBHN25YOE5KWGNWdGlvUEhuSF9XVjhpSV9sWDdxSXozSTJwSXNSTFZnZk0zNVc1bGJJTFVkX2Z5MmpYTXRqNjVRekNHN3B4ZlJIdFZmVk9heW0wY3ZiXzFIQUNfM2o5NVNWYmxWb3RXSHBZbHJ4LWNOSWd4SUQwZw?oc=5\" target=\"_blank\">Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
+          "title": "Don’t blame global imbalances on the undervalued yuan",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdE9WNWtEdnVaOG41OEx6OUNXZU9OeTN3TkExUi1URi1UX0lRRm5RdUlhMUVSdVJoWGNPVkFNYUpHMzdaNWVpZU92VWxYX0ZRNVhReTdzS0VfVEdmSjhKOHM5TmNqUXJxNXY0azhSNUY5cXBVWEtmSzg0aVpubVRsVTE4bE1pbmQtejNNbEZDVUw2VUZPMnpHUDUzN2VURmkydDVZb0ln?oc=5",
+          "published": "Tue, 28 Jul 2026 13:51:53 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdE9WNWtEdnVaOG41OEx6OUNXZU9OeTN3TkExUi1URi1UX0lRRm5RdUlhMUVSdVJoWGNPVkFNYUpHMzdaNWVpZU92VWxYX0ZRNVhReTdzS0VfVEdmSjhKOHM5TmNqUXJxNXY0azhSNUY5cXBVWEtmSzg0aVpubVRsVTE4bE1pbmQtejNNbEZDVUw2VUZPMnpHUDUzN2VURmkydDVZb0ln?oc=5\" target=\"_blank\">Don’t blame global imbalances on the undervalued yuan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
         },
         {
-          "title": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhMcHpDTF80UzNsU01SZXdLQWE2TEtqdDlKSHdUdW1PMVYxcUR1My1ZYWUzSEZQZm1ubDFNS0xQRmdyWnY3Z0t2TVNpRzlmUFQwaUFSYkk1cXhCekg5UHIzR2tyQm5zZGhDTHZPcm0zSllBNV9DT1ZRSzY4Sk1RYjk4UjdFOVpDYjc1VjYwcnrSAZYBQVVfeXFMTzdwc21TTWZUcXhKVGZlQzdkbW1lcW9hZ05NVlMtRFg0NlBTd1ZLZTFtbkxvaEcyRDJQN0RfbjlldXJPV1BrZndPaUctZ2RiLVFoRG9lRmtJZndTZlo5ZWI5TjJlbmFXT3pONDRsSzdLcmtKQ29fV29BNE0tSDRTSTltR0N3eXRoXzZCQmNjdXpKSnJpX0Fn?oc=5",
-          "published": "Tue, 28 Jul 2026 21:05:36 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDhMcHpDTF80UzNsU01SZXdLQWE2TEtqdDlKSHdUdW1PMVYxcUR1My1ZYWUzSEZQZm1ubDFNS0xQRmdyWnY3Z0t2TVNpRzlmUFQwaUFSYkk1cXhCekg5UHIzR2tyQm5zZGhDTHZPcm0zSllBNV9DT1ZRSzY4Sk1RYjk4UjdFOVpDYjc1VjYwcnrSAZYBQVVfeXFMTzdwc21TTWZUcXhKVGZlQzdkbW1lcW9hZ05NVlMtRFg0NlBTd1ZLZTFtbkxvaEcyRDJQN0RfbjlldXJPV1BrZndPaUctZ2RiLVFoRG9lRmtJZndTZlo5ZWI5TjJlbmFXT3pONDRsSzdLcmtKQ29fV29BNE0tSDRTSTltR0N3eXRoXzZCQmNjdXpKSnJpX0Fn?oc=5\" target=\"_blank\">Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
+          "title": "AI revenues are growing fast, but not fast enough",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMXFEX0VpUjQ2N2o1eDlRLXlGQmp0UVJBdlBjdURhcUdldXFWUTJaYldfdnMtT0djYXdNaFhWSzN5NXQ2YlpIZ2xURHY2WHlraGs2TU1HR243VlBBRlE1SmhJVmQxdjRBTFFRQThwQjRNcEVUZ0pXbk45bFJWNHN4WWZkSHIydW4zZVE5TFVEdlV0LWpaMlBiNXV6Y2FlV1M0T2x6empJVEZYSFE?oc=5",
+          "published": "Tue, 28 Jul 2026 10:45:17 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMXFEX0VpUjQ2N2o1eDlRLXlGQmp0UVJBdlBjdURhcUdldXFWUTJaYldfdnMtT0djYXdNaFhWSzN5NXQ2YlpIZ2xURHY2WHlraGs2TU1HR243VlBBRlE1SmhJVmQxdjRBTFFRQThwQjRNcEVUZ0pXbk45bFJWNHN4WWZkSHIydW4zZVE5TFVEdlV0LWpaMlBiNXV6Y2FlV1M0T2x6empJVEZYSFE?oc=5\" target=\"_blank\">AI revenues are growing fast, but not fast enough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
         },
         {
-          "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDduYUhOQ2dIYVhVY05TdU1NTE44WFJLYk5YY01RVTdVRXRIOVkxOGE5bkV3T01ua0V1czBXSFFyVW8tMF85UzJjZDlpd0VyZnNFVktRR0JiTDFFd25mWkJlZHR6b1RUYmJldV9jTzFmZDl4OExsbklld3BqWjRkd1ZqdC0wWi1PRlYyZ0tTZmtoWkZHTmd3NURqMHM5WVpyN0ZuSVNuVy1YTTItLXRWTjJFSTZzNGl3WlHSAb8BQVVfeXFMTjFaM0puTnFHSmlEc1ZhaE93YzBxS2cwMG1xWm1Dal9iblZWTVBhNlZwbmhILUZJdHJfU0tfdU8wWEV6dUw3MjFtc2V5VmVWeEsyUkxxMm5GTHVTVmwwQXdsa1AzMGxoemZ2eTZTeGhXN29wdExrS1N6Q3NFX1hLamtfODZSaUh6SW4zeGhDREJBdTVjMFRiWkdnb3c4R294TF9lVmJWdi1jektGZWhJRHhBNm9fTm5BVm8teHZ1NUk?oc=5",
-          "published": "Tue, 28 Jul 2026 18:56:34 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDduYUhOQ2dIYVhVY05TdU1NTE44WFJLYk5YY01RVTdVRXRIOVkxOGE5bkV3T01ua0V1czBXSFFyVW8tMF85UzJjZDlpd0VyZnNFVktRR0JiTDFFd25mWkJlZHR6b1RUYmJldV9jTzFmZDl4OExsbklld3BqWjRkd1ZqdC0wWi1PRlYyZ0tTZmtoWkZHTmd3NURqMHM5WVpyN0ZuSVNuVy1YTTItLXRWTjJFSTZzNGl3WlHSAb8BQVVfeXFMTjFaM0puTnFHSmlEc1ZhaE93YzBxS2cwMG1xWm1Dal9iblZWTVBhNlZwbmhILUZJdHJfU0tfdU8wWEV6dUw3MjFtc2V5VmVWeEsyUkxxMm5GTHVTVmwwQXdsa1AzMGxoemZ2eTZTeGhXN29wdExrS1N6Q3NFX1hLamtfODZSaUh6SW4zeGhDREJBdTVjMFRiWkdnb3c4R294TF9lVmJWdi1jektGZWhJRHhBNm9fTm5BVm8teHZ1NUk?oc=5\" target=\"_blank\">Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
+          "title": "The tide turns for a Florida darling and California loser",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDdzTWFqamZrLXBGTlR5V09Va3VtcDFtUU01amhaV0JmTV9yTXBNd3ZpNUxFeUlJTmQ1YnQ2UVNMV0FUMVVaX1N3bVM1NDJWNm5LODEteWxmTENhMm1EY2NIcmIxckMzQXZMMGhnTld5OGdZTHo0TDhCa2Q3ckZOaEN2V1JhbDRVOUlJMnZkVjlyYzJMaFk3N2M2OU8xMEFCMUNrVFFBV18tSWd5?oc=5",
+          "published": "Tue, 28 Jul 2026 19:00:04 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDdzTWFqamZrLXBGTlR5V09Va3VtcDFtUU01amhaV0JmTV9yTXBNd3ZpNUxFeUlJTmQ1YnQ2UVNMV0FUMVVaX1N3bVM1NDJWNm5LODEteWxmTENhMm1EY2NIcmIxckMzQXZMMGhnTld5OGdZTHo0TDhCa2Q3ckZOaEN2V1JhbDRVOUlJMnZkVjlyYzJMaFk3N2M2OU8xMEFCMUNrVFFBV18tSWd5?oc=5\" target=\"_blank\">The tide turns for a Florida darling and California loser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
         },
         {
-          "title": "Trump administration to ban new Chinese robots and inverters, protecting U.S. AI",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUhfNzlWYWJHaXJWMzBsSEl3bDRLN2kzUVlxY2w3VjRnZExObnFUZjdkU0FPR2FfQldHNS11d1Q5eUt0RW85SzRyX2xwZC1yOUVFanZqbDg5am5MVzBvbHdDWW1iNEJTeC1ReTVVN1RZdjgwNUloMjZybzB0ZEJ4Z0xQQUp4ZDZwOEs5VFo2T2tfRGRJUGtQT3JILU02NWtuWFpHYVNLSkRHV29FQmdvc1RPMjPSAboBQVVfeXFMUDNHY3htbmhOLWpkMno3YXZFNE0yYUFZV3l6R2ZtdDVwZGJRQnZ5N19Jd3ZZUHFJZXZoRWE4Rkt6SFhGdTg5MWxOU0RuYWlmUmdESnpzWTg2a0xnMFlyZTR3d2pLOHVpdGpmM1pObGNrRy1NVmZGeGxNTzg5UVJzZ2htMVZMLXg2eTMyRy1OYmEwZ0ZYcTlYN1VZZ0l6VjNEZExrRGZPbDllQTd3TmRwVUlDcXBzcVJ3c2Vn?oc=5",
-          "published": "Tue, 28 Jul 2026 18:59:02 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUhfNzlWYWJHaXJWMzBsSEl3bDRLN2kzUVlxY2w3VjRnZExObnFUZjdkU0FPR2FfQldHNS11d1Q5eUt0RW85SzRyX2xwZC1yOUVFanZqbDg5am5MVzBvbHdDWW1iNEJTeC1ReTVVN1RZdjgwNUloMjZybzB0ZEJ4Z0xQQUp4ZDZwOEs5VFo2T2tfRGRJUGtQT3JILU02NWtuWFpHYVNLSkRHV29FQmdvc1RPMjPSAboBQVVfeXFMUDNHY3htbmhOLWpkMno3YXZFNE0yYUFZV3l6R2ZtdDVwZGJRQnZ5N19Jd3ZZUHFJZXZoRWE4Rkt6SFhGdTg5MWxOU0RuYWlmUmdESnpzWTg2a0xnMFlyZTR3d2pLOHVpdGpmM1pObGNrRy1NVmZGeGxNTzg5UVJzZ2htMVZMLXg2eTMyRy1OYmEwZ0ZYcTlYN1VZZ0l6VjNEZExrRGZPbDllQTd3TmRwVUlDcXBzcVJ3c2Vn?oc=5\" target=\"_blank\">Trump administration to ban new Chinese robots and inverters, protecting U.S. AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
+          "title": "A widely repeated statistic is shaping Britain’s grooming-gangs debate",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUZYWHBxTjFvOFAxQWdlNEJQOTZWS0lqMUZ6MjJpVHlZalUxNEhqNENUbDRMeDhXTnQzUmx1Q3BpVUpGZGFnZmtKc1lISmQ1WXpDNlVJSUpPa3lxZWQtTW45d3BaNjVvNXJzVTR1d0NDOS1WSnVjc1NFV2xFRkdrNE40ZnJZOWJrc0lWTDZNc3ZOdE1zLUttZXlBdlNiZjZ5RU5fb05uVjNpbjhtQmZjTnJkbGw?oc=5",
+          "published": "Tue, 28 Jul 2026 10:19:17 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUZYWHBxTjFvOFAxQWdlNEJQOTZWS0lqMUZ6MjJpVHlZalUxNEhqNENUbDRMeDhXTnQzUmx1Q3BpVUpGZGFnZmtKc1lISmQ1WXpDNlVJSUpPa3lxZWQtTW45d3BaNjVvNXJzVTR1d0NDOS1WSnVjc1NFV2xFRkdrNE40ZnJZOWJrc0lWTDZNc3ZOdE1zLUttZXlBdlNiZjZ5RU5fb05uVjNpbjhtQmZjTnJkbGw?oc=5\" target=\"_blank\">A widely repeated statistic is shaping Britain’s grooming-gangs debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
         },
         {
-          "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeTR4MmtDTjRQdDRxMzlaQV81VGg0Q1NoY2xyR3NJaFFXbTBRdmdjNWRnY0pvaHdUVHpjaTFpcU5yYjMwZ2VCMGtxV2ZHejdmSUFsOWg1UVByS05VeF8wdEx3NHVCd2d3MERBMWJOYlk5clAyR1QtV2FraXd3VnZ5RlV5SVJhVmZmUFJn0gGQAUFVX3lxTE1sQU44UzE2NTdhdW90UUl5Rld6c0ktTWxGRUFGdThYUmp6Q2NRRzl5WFJUSEw2T0kxRDVENTBEc25rd3RnamRHcUxPNmVjQVhGSVhzRWtlZXVIMUhndVVqVUxlQkYtemh3UnJyR3I1YWctcDZEeFFDbzVoMU8xVGRoNTJRNHFiaVdXUTRSY3c5eg?oc=5",
-          "published": "Tue, 28 Jul 2026 18:30:58 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeTR4MmtDTjRQdDRxMzlaQV81VGg0Q1NoY2xyR3NJaFFXbTBRdmdjNWRnY0pvaHdUVHpjaTFpcU5yYjMwZ2VCMGtxV2ZHejdmSUFsOWg1UVByS05VeF8wdEx3NHVCd2d3MERBMWJOYlk5clAyR1QtV2FraXd3VnZ5RlV5SVJhVmZmUFJn0gGQAUFVX3lxTE1sQU44UzE2NTdhdW90UUl5Rld6c0ktTWxGRUFGdThYUmp6Q2NRRzl5WFJUSEw2T0kxRDVENTBEc25rd3RnamRHcUxPNmVjQVhGSVhzRWtlZXVIMUhndVVqVUxlQkYtemh3UnJyR3I1YWctcDZEeFFDbzVoMU8xVGRoNTJRNHFiaVdXUTRSY3c5eg?oc=5\" target=\"_blank\">Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
+          "title": "Retail investors should beware perpetual futures",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTEtRy01OENVSjFHT19xeC1MVElTR25IYzhSNFZiOU9JUXczUzRrNWFJZ1pmOWJyc0xIYWtOS2ZzdUxRMXlYbF9SbUdoT1R4UDE0eGtWR2hkT3BsbWNXNVBLQTE1alFPNEczeDhrRVVuY3Z4cXNqMDJwclhBYlhxYWNCaW1lNkVMTl9vUDh1VEVzeXpKd3VXeXV5aFdHNUw2MmRqNFZLTXo4d0k?oc=5",
+          "published": "Tue, 28 Jul 2026 18:48:27 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTEtRy01OENVSjFHT19xeC1MVElTR25IYzhSNFZiOU9JUXczUzRrNWFJZ1pmOWJyc0xIYWtOS2ZzdUxRMXlYbF9SbUdoT1R4UDE0eGtWR2hkT3BsbWNXNVBLQTE1alFPNEczeDhrRVVuY3Z4cXNqMDJwclhBYlhxYWNCaW1lNkVMTl9vUDh1VEVzeXpKd3VXeXV5aFdHNUw2MmRqNFZLTXo4d0k?oc=5\" target=\"_blank\">Retail investors should beware perpetual futures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "World in Brief: Trump says America and Iran are talking; tech sell-off deepens",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1g1c01pZGJHUWJ0VGxxNXl6aEpqWnlvNEV6SXdhNXpySVNHR0plUkMzRGQ0Qmxfa3dDMHJZS2VUT2lDZ3hWUGhBUzZ4WUlUeXVxQ2NwaG53SUUtNHpmRU5nZy1DZlAwcXh4QnRuVzB5cXFmd25mY1M2Sko1YXF5N2hUbS0yYjJkS0ZTbF9BeTJPaGRycEw4?oc=5",
+          "published": "Tue, 28 Jul 2026 13:05:13 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1g1c01pZGJHUWJ0VGxxNXl6aEpqWnlvNEV6SXdhNXpySVNHR0plUkMzRGQ0Qmxfa3dDMHJZS2VUT2lDZ3hWUGhBUzZ4WUlUeXVxQ2NwaG53SUUtNHpmRU5nZy1DZlAwcXh4QnRuVzB5cXFmd25mY1M2Sko1YXF5N2hUbS0yYjJkS0ZTbF9BeTJPaGRycEw4?oc=5\" target=\"_blank\">World in Brief: Trump says America and Iran are talking; tech sell-off deepens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "Are billionaires a policy failure?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaDVHWEdGc0M1M3locVU3LWVtOGhYV1UweTJYZGxPUno5RWxybTNPMUZJRkxuR093eTFaOTVXSERvRFFOUXNMcHBSZjB0MjYxOFFENHh5Rm5DU3FJUk5HR0ZRZGNkN1ktMHZtSV85ZTZJeXZHbEZVNDBhRDV1S2RHeFRiTkU0Sm5qTGxLdEh5QTRtdw?oc=5",
+          "published": "Tue, 28 Jul 2026 17:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaDVHWEdGc0M1M3locVU3LWVtOGhYV1UweTJYZGxPUno5RWxybTNPMUZJRkxuR093eTFaOTVXSERvRFFOUXNMcHBSZjB0MjYxOFFENHh5Rm5DU3FJUk5HR0ZRZGNkN1ktMHZtSV85ZTZJeXZHbEZVNDBhRDV1S2RHeFRiTkU0Sm5qTGxLdEh5QTRtdw?oc=5\" target=\"_blank\">Are billionaires a policy failure?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "Two meetings and a funeral",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3NpcVo4ZWF6Y3Fvc3F3NXJVeUFJV21RZWVRMDhCcFB2V0FyWG5yb0VlZld3YWo2NXpNMFFZanYxV1p6U3BySTJGMUNnSG5DOXR4WnRvNVVaNE9FMVNxcTFxVkZiQ0dZNjMtZXpwWU9hbERfaEZ5UEs3ZFJqbVdsd0lZeURkWGxuOVFQLTBXc0wwQjh2elNZ?oc=5",
+          "published": "Wed, 29 Jul 2026 01:43:13 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxON3NpcVo4ZWF6Y3Fvc3F3NXJVeUFJV21RZWVRMDhCcFB2V0FyWG5yb0VlZld3YWo2NXpNMFFZanYxV1p6U3BySTJGMUNnSG5DOXR4WnRvNVVaNE9FMVNxcTFxVkZiQ0dZNjMtZXpwWU9hbERfaEZ5UEs3ZFJqbVdsd0lZeURkWGxuOVFQLTBXc0wwQjh2elNZ?oc=5\" target=\"_blank\">Two meetings and a funeral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
         }
       ]
     },
@@ -518,6 +595,20 @@
       "count": 10,
       "articles": [
         {
+          "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+          "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 05:00:07 GMT",
+          "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+          "source": "BBC"
+        },
+        {
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+          "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 09:39:56 GMT",
+          "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+          "source": "BBC"
+        },
+        {
           "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
           "url": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
           "published": "Wed, 29 Jul 2026 00:49:40 GMT",
@@ -525,38 +616,17 @@
           "source": "BBC"
         },
         {
-          "title": "Burnham invites Tories and Lib Dems to social care talks",
-          "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 29 Jul 2026 01:59:59 GMT",
-          "summary": "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.",
-          "source": "BBC"
-        },
-        {
-          "title": "The evidence that shows today's 20-somethings really do have it worse",
+          "title": "Today's 20-somethings really do have it worse than their parents",
           "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
           "published": "Tue, 28 Jul 2026 23:52:23 GMT",
           "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
           "source": "BBC"
         },
         {
-          "title": "Iran and US trade strikes, shattering brief lull in fighting",
-          "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 29 Jul 2026 02:47:28 GMT",
-          "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
-          "source": "BBC"
-        },
-        {
-          "title": "Report on Jewish diaspora finds biggest rise in antisemitism in UK",
-          "url": "https://www.bbc.co.uk/news/articles/c4gd240eelmo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 29 Jul 2026 04:00:03 GMT",
-          "summary": "The report also says 2025 was the deadliest year for Jews living outside Israel in more than 30 years.",
-          "source": "BBC"
-        },
-        {
-          "title": "Brits urged to avoid dangerous plug adaptors this summer",
-          "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 23:00:15 GMT",
-          "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+          "title": "OpenAI says its rogue AI tried to hack other companies",
+          "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 08:49:27 GMT",
+          "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
           "source": "BBC"
         },
         {
@@ -567,24 +637,31 @@
           "source": "BBC"
         },
         {
-          "title": "Burnham has no scope to increase borrowing, think tank warns",
-          "url": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 23:00:12 GMT",
-          "summary": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
+          "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+          "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 05:01:12 GMT",
+          "summary": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
           "source": "BBC"
         },
         {
-          "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-          "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 28 Jul 2026 16:14:03 GMT",
-          "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+          "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
+          "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 08:22:53 GMT",
+          "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
           "source": "BBC"
         },
         {
-          "title": "Trump administration bans new Chinese humanoid robots",
-          "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 29 Jul 2026 02:30:50 GMT",
-          "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+          "title": "Brits urged to avoid dangerous plug adaptors this summer",
+          "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 23:00:15 GMT",
+          "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+          "source": "BBC"
+        },
+        {
+          "title": "'Don't wait until you want revenge'",
+          "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 23:00:07 GMT",
+          "summary": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
           "source": "BBC"
         }
       ]
@@ -594,6 +671,20 @@
       "name_cn": "纽约时报",
       "count": 10,
       "articles": [
+        {
+          "title": "被特朗普“断油”半年，古巴为什么还没崩溃？",
+          "url": "https://cn.nytimes.com/world/20260729/trump-oil-gas-cuba-havana/",
+          "published": "Wed, 29 Jul 2026 06:37:02 +0000",
+          "summary": "<address>JACK NICAS, ALEX PENA</address><time datetime=\"2026-07-29 02:20:46\">2026年7月29日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27int-cuba-survive-kqvg/27int-cuba-survive-kqvg-master1050.jpg\" width=\"1050\" /><figcaption>哈瓦那的一座空荡荡的加油站。 <cite>Lisette Poole González for The New York Times</cite></figcaption></figure><section><p>几个月来，特朗普总统一直预言古巴即将崩溃。</p><p>“它就要撑不住了，”他在1月4日<a href=\"https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-on-air-force-one-jan-4-2026/\" rel=\"noopener noreferrer\" target=\"_blank\">告诉记者</a>，此前一天，他刚刚控制了委内瑞拉的石油，这一直是古巴的生命线。</p><p>随后，他实施了<a href=\"https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html\">石油封锁</a>，将这个岛国推入了有史以来最严重的能源危机，如今大规模的停电几乎持续整天。然而，六个多月过去了，古巴政府和人民依然屹立不倒。</p><p>本月，我们前往该国，以了解其中的原因。在实地考察了一周后，我们发现，尽管古巴人显然饱受煎熬，但他们也在做着他们可能最擅长的事情：适应。</p><p>他们将耗油量大的20世纪50年代美国汽车换成来自中国的电动摩托车和三轮车；进口笨重的锂电池，以便在停电期间维持电视和风扇的运转；临时改装发电机，使其能够使用更容易获取的天然气；并在屋顶甚至汽车上安装太阳能电池板。</p><p>这些变通办法共同构成了一个新的古巴能源网——这个能源网更多地掌握在古巴人民自己手中，在断电和燃料枯竭的情况下支撑着社会的运转。</p><p>这些解决方案使古巴政府能够实施电力配给，每天只供电几个小时，尽可能延长剩余的稀缺燃料的使用时间，努力抵御华盛顿的高压手段。</p><p>结果是，古巴在没有燃料供应的情况下坚持得远比特朗普政府预期的要久。</p><p>在美国近70年的施压下，古巴一直克服重重困难，靠着应变能力生存了下来。现在看来，特朗普就像之前的许多美国总统一样，也发现要推翻菲德尔·卡斯特罗建立的政府并非那么简单。</p><p>美国国务卿鲁比奥上周告诉记者，特朗普政府仍然希望看到古巴政府倒台。“对于如何实现这一目标，我们准备采取非常务实的态度，并保持耐心，”他说。“这些都是需要时间的复杂事情，显然，我们已经准备好尽我们所能。”</p><p>古巴政府正在寻求达成一项协议。“古巴不是美国的敌人，”古巴副外长卡洛斯·费尔南德斯·德科西奥在接受采访时说。“我们希望建立一种建设性和相互尊重的关系。”</p><p>与此同时，古巴人民像几十年来一样，仍在设法维持生计。“古巴人在危机中茁壮成长，”55岁的农民温贝托·帕尔梅罗说。他站在古巴海岸边他长大的山丘上，眺望着佛罗里达的方向。他的兄弟姐妹已经去了迈阿密，他的两个孩子也正逃往西班牙，但他表示自己决心留下来。</p><p>得知石油封锁的消息后，帕尔梅罗在YouTube上学习了如何将废弃塑料提炼成自制汽油和柴油。之后，他在自家后院搭建了一个小型的简易炼油装置，用来驱动摩托车和给炉子点火。</p><p>“我们在寻找解决办法，”他说。“经济限制正在慢慢地把我们逼上绝路，但我们正在用尽全力挺过去，努力维持生计，直到看看接下来会发生什么。”</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/23/multimedia/00int-cuba-survive-wvhj/00int-cuba-survive-wvhj-master1050.jpg\" /><small style=\"color: #999;\">胡贝尔托·帕尔梅罗在古巴自家后院利用塑料碎片炼制汽油。</small></p><p><b>苦难与坚韧</b></p><p>在哈瓦那及其他地区，这场危机的影响显而易见。</p><p>我们遇到一些家庭，因为政府水泵的柴油用尽，他们不得不步行两小时去取水。由于缺乏燃气，女人们在街上用柴火做饭。断电的冰箱变成了储物柜。在城市停止公共交通后，路边满是搭便车的人。几十个人告诉我们，在没有风扇和空调的闷热夜晚，他们彻夜难眠，已经筋疲力尽。</p><p>但我们也看到，这个国家仍在运转。</p><p>尽管黑市汽油价格已涨至每加仑30美元，路上仍有车辆行驶——因为许多车是电动的。餐馆靠着后院轰鸣的发电机供电，为少数消费得起的人开门营业。医院、政府大楼和机场有电力供应，因为它们位于受保护的电网区域。医疗诊所、疗养院和银行分行则依靠中国捐赠的太阳能电池板运转。</p><p>手机信号有时是畅通的。播放世界杯的电视并不难找。甚至路边摊也供应着由太阳能冰箱冷藏的冰啤酒。</p><p>但这个临时拼凑的能源网也暴露了古巴社会的不平等。</p><p>电池、太阳能电池板和电动汽车绝大多数属于较富裕的古巴人，这通常意味着他们有在国外的亲属。他们较贫穷的邻居经常过着没有电的生活，在不断加剧的通货膨胀中靠微薄的薪水勉强度日。</p><p>“这里的情况还不错，因为老板买得起太阳能电池板，”26岁的路边餐馆调酒师叶妮·奥利瓦说。“但对我们来说，在家里，生活太糟糕了。”她说，她每天大约赚一美元的工资，很难为三岁的女儿买到牛奶，而且在没有电的情况下，她们的食物很快就会变质。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27int-cuba-survive-bkgz/27int-cuba-survive-bkgz-master1050.jpg\" /><small style=\"color: #999;\">叶妮·奥利瓦工作的路边餐馆安装了太阳能电池板，这使他们得以继续营业。</small></p><p>然而，她也很感激太阳能。停电时，餐馆曾关门歇业。后来，老板安装了电池板，她才恢复了工作。</p><p><b>想尽办法</b></p><p>除了3月的<a href=\"https://cn.nytimes.com/world/20260330/cuba-russian-oil-tanlker/\">一艘俄罗斯油轮</a>，盟国都不愿去挑战华盛顿实质性的石油封锁。</p><p>因此，古巴只能完全依靠国产油气以及由中国资助且规模日益扩大的太阳能发电场网络供电。得克萨斯大学研究古巴能源的豪尔赫·皮农表示，这些能源假期来可以满足古巴大约一半的需求。</p><p>为了维持这种供应，政府会在特定时间和特定地点实施战略性限电。政府还以较低的负荷运行发电厂以防止其发生故障；开采更多天然气；甚至试图<a href=\"https://www.cibercuba.com/noticias/2026-07-05-u1-e209363-s27061-nid334202-refineria-cabaiguan-intenta-sostener-produccion\" rel=\"noopener noreferrer\" target=\"_blank\">提炼积存多年储油罐底部的油泥状残渣</a>。</p><p>“他们真的是在想尽一切办法，”皮农说。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27int-cuba-survive-zjtw/27int-cuba-survive-zjtw-master1050.jpg\" /><small style=\"color: #999;\">哈瓦那停电期间，孩子们借助发电机供电观看电影。</small></p><p>皮农说，他和其它分析师原本预测古巴政府将在3月耗尽燃料储备，但他们低估了古巴政府的应变能力。而现在，他对政府<a href=\"https://www.nytimes.com/2026/05/14/world/americas/cuba-oil-energy-crisis.html\">5月声称</a>该岛已经耗尽燃料的说法表示怀疑。在我们的行程期间，汽油和柴油明显仍在流通。</p><p>至少有一部分是来自美国。特朗普政府允许向古巴的私营企业有限度出口燃料，这缓解了黑市汽油价格的上涨压力。而就在上周，美国政府首批1亿美元的援助物资已经抵达古巴。</p><p>这些举措表明，特朗普政府如何对古巴施加影响：一方面命令其他国家停止向古巴输送燃料，另一方面却允许本国燃料继续输送，在危机爆发后提供援助。白宫一位发言人表示，特朗普政府将古巴视为对国家安全的威胁。</p><p>精疲力尽的古巴人告诉我们，他们对哈瓦那和华盛顿都感到愤怒。然而，没有人表示他们打算上街游行。除了敲打锅碗瓢盆外，古巴人民几乎没有举行过抗议活动。</p><p>“如果你上街表达意见，他们就会把你关进监狱或者罚款，”24岁的戴维·埃查瓦里亚·甘博亚和妻子站在黑暗的街边说。“我不能让家人冒这个险。”</p><p><b>追逐日光</b></p><p>今年1月，当美军抓获委内瑞拉领导人马杜罗时，尼尔森·维加就知道古巴有麻烦了。多年来，委内瑞拉的石油一直是古巴的能源支柱。</p><p>一个月后，38岁的企业家维加向佛罗里达州的亲戚借钱，以4850美元的价格购买了一辆中国制造的电动三轮车。这辆车需要充电10个小时，而且几乎就在买回来后不久，停电就让充电变得困难起来。因此，他又投资了600美元，在车顶上安装了太阳能电池板。</p><p>现在，他只需把三轮车在阳光下停一天，就能给电池充满电。“对我来说，这就是未来，”他说。“我们将克服美国的封锁。”</p><p>一旦离开哈瓦那，太阳能电池板便随处可见。多年来，古巴农村地区的电网一直日益老化，这使得停电早已司空见惯，太阳能电池板也变得普遍。</p><p>我们还偶然发现了一片新的太阳能电池板场地——这是政府设立的54个太阳能园区之一，其中大部分是在2025年之后落成的，并且全部是在中国帮助下建成。</p><p>很少有国家比古巴更迅速地推广太阳能。政府表示，太阳能现在可以满足古巴约10%的电力需求，高于2025年初的3%。古巴官员的目标是到2050年完全依赖可再生能源。</p><p><b>极限运转</b></p><p>古巴目前最热门的产品可能是便携式锂电池，这种电池可以在几个小时内充满电，然后为电视、风扇甚至冰箱提供临时电力。</p><p>最受欢迎的型号在古巴售价约为750美元，由从中国进口产品的古巴人在社交媒体上出售。这超过了大多数古巴人一年的收入，因此大部分电池都是由海外亲属资助的。</p><p>还有一些古巴人利用用于烹饪和烧水管线输送的天然气为家里发电。哈瓦那大约有28万户住宅有这种天然气管道，许多家庭将管道连接到经过改装、专为液态燃料设计的发电机上。古巴国内自产天然气，因此它是少数不受封锁影响的能源之一。</p><p>天然气也很便宜，特别是对于12万户按固定费率缴费、无论用量多少都只需支付相同金额的家庭而言。一名男子说，他几乎不停地用天然气运行发电机，但这个月的账单仍然是同样的50比索（约合8美分）。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27int-cuba-survive-gzhq/27int-cuba-survive-gzhq-master1050.jpg\" /><small style=\"color: #999;\">哈瓦那某栋安装了太阳能电池板的建筑前停着几辆电动汽车。 </small></p><p>在哈瓦那的最后几个夜晚之一，我们发现，一家酒吧过了午夜依然顾客盈门，它用天然气发电机供电，点亮灯串，播放拉丁音乐。在外面，我们遇到了37岁的基克·罗德里格斯，他是古巴烧烤店“<a href=\"https://www.instagram.com/manteca_cubana/\" rel=\"noopener noreferrer\" target=\"_blank\">曼特卡</a>”的创始人，这家店在危机期间还扩大了规模。他现在雇佣了18名员工，为哈瓦那各地的顾客烹调和运送猪肉及大蕉。</p><p>“我们是这方面的行家，”他说。“我们一辈子都在想办法解决各种问题。”</p><p>他指着屋顶，说他正在那里完成改造，准备开设他的第一家实体餐厅，由同一台发电机供电。</p><p>“事情会怎么发展？没有人知道，”他还说。“但是当人们说这个国家即将崩溃时，我并不太清楚他们到底是什么意思。”</p></section><footer><p>摄影：Lisette Poole González</p><p>Diana Karla Hernández和Dariel Pradas对本文有报道贡献。Yasu Tsuji有视频编辑和制作贡献。 </p><p><a href=\"https://www.nytimes.com/by/jack-nicas\" rel=\"nofollow\" target=\"_blank\">Jack Nicas</a>是时报墨西哥城分社社长，领导墨西哥、中美洲和加勒比地区的报道。</p><p>翻译：晋其角</p><p><a href=\"https://www.nytimes.com/2026/07/27/world/americas/trump-oil-gas-cuba-havana.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+          "source": "纽约时报"
+        },
+        {
+          "title": "ICE在机场逮捕行动激增，目标签证逾期者",
+          "url": "https://cn.nytimes.com/usa/20260729/ice-arrests-airports-visa-overstay/",
+          "published": "Wed, 29 Jul 2026 05:37:02 +0000",
+          "summary": "<address>HAMED ALEAZIZ, MIRIAM JORDAN</address><time datetime=\"2026-07-29 01:21:20\">2026年7月29日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/28/multimedia/28DC-ICE-Airports-hzqk/28DC-ICE-Airports-hzqk-master1050.jpg\" width=\"1050\" /><figcaption>据《纽约时报》获得的文件及对移民律师的采访，特朗普政府已开始在机场逮捕持过期美国签证的外国公民。 <cite>Vincent Alban/The New York Times</cite></figcaption></figure><section><p>根据《纽约时报》获得的文件及对移民律师的采访，特朗普政府已开始在机场逮捕持过期美国签证的外国公民，其中包括美国公民的配偶——这一策略大幅扩大了可被驱逐出境的人群范围。</p><p>近几周来，身着便衣的移民执法人员已在至少15座机场采取行动，在值机柜台和到达出口将目标人员带走。有些逮捕行动悄无声息地进行，另一些则被愤怒的其他乘客拍下现场画面。</p><p>近期的逮捕行动似乎是运输安全管理局(TSA)和移民与海关执法局(ICE)合作安排的扩展版本。《纽约时报》去年12月曾<a href=\"https://www.nytimes.com/2025/12/12/us/politics/immigration-tsa-passenger-data.html\">报道</a>，ICE利用航空公司向TSA提供的信息，在机场逮捕已收到驱逐令的人员。</p><p>现在，通过查阅国土安全部文件，以及对近期在机场被拘留的、来自十多个国家的25名人士的律师进行采访，《纽约时报》了解到，该计划显然已将持过期签证者纳入目标——这是一个规模大得多的群体。</p><p>每年有数十万移民和访客逾期滞留。许多持过期签证者处于法律灰色地带：他们正在等待签证延期或绿卡，并已获得工作许可。过去，此类人员除非有犯罪记录，否则不属于遣返优先对象，且在等待签证延期或绿卡期间极少遭到拘押。但在特朗普总统任内，情况发生变化，政府开展大规模驱逐行动，将所有签证逾期者视为非法居留。</p><p>国土安全部发言人在一份声明中表示：“本届政府正全力确保非法滞留我国的外国人今后不能再乘坐飞机，除非他们乘坐的是离开美国、自行遣返的航班。”不过，该部并未证实这项计划已经扩大。</p><p>负责监管ICE的国土安全部没有透露根据这项新举措在机场拘留了多少逾期居留者。这些逮捕发生之际，白宫正要求ICE在全国加大执法力度，国土安全部长马克韦恩·马林也承诺要进一步“加大街头执法力度”。为此，政府已将每日移民逮捕目标设定为2000人，约为今年早些时候的两倍。</p><p>对十多名移民律师、倡导组织及一名航空公司员工的采访显示，目标群体十分广泛：一名等待工作签证延期的工程师、数名与美国公民新婚的人士，以及一名前互惠生。</p><p>ICE执法人员与旅客之间的冲突视频在社交媒体上大量流传。在一段广为传播的视频中，7月20日，27岁的厄瓜多尔女子尚塔尔·莫拉莱斯·罗哈斯在从丹佛飞往加州奥克兰，她在登上西南航空公司的航班时被便衣特工拦下带走。据她曾担任互惠生的那户人家称，事发时她正和他们一起过周末。</p><p>当莫拉莱斯·罗哈斯扫描登机牌时，警报骤然响起，登机口工作人员要求她稍等。几分钟后，两名便衣执法人员在廊桥处将她截住。</p><p>“他们说会尊重她，会礼貌对待她。”这户人家的朋友、当时也在同一航班上的艾丽西亚·丹茨克在采访中告诉《纽约时报》。她拍摄了部分过程，视频显示，两名男子将莫拉莱斯·罗哈斯围住，随后带着她穿过一道侧门，沿楼梯走向停机坪，丹茨克则不断高喊求救。</p><p>另一名被拘留者是一名坐轮椅的乌干达女性，她患有镰状细胞贫血症，且有一份正在处理中的庇护申请。她的律师证实了这一情况。</p><p>另一起案例中，国土安全部表示，移民执法局曾试图在拉斯维加斯机场逮捕一名签证过期的澳大利亚公民。一名旁观者拍摄了事发经过，这段视频引起了广泛关注。国土安全部在声明中表示，为“缓和局势、确保执法人员安全”，暂时将其释放，但第二天当他在洛杉矶试图登机时，ICE最终将其拘留。</p><p>“从事移民法律执业38年来，我从未见过这种情况，”亚特兰大的移民律师查尔斯·库克表示，他正代理一名在等待工作许可延期时被拘留的印度工程师。“而且我知道这正发生在很多人身上。”</p><p>美国移民律师协会芝加哥分会副主席、移民律师香农·谢泼德表示，她和同行都正在修改长期以来关于国内乘机出行的建议。</p><p>“以前，我都会说：‘只要有身份证件，就可以乘坐美国国内航班，’”谢泼德说，“现在我却要反过来说：‘如果你正在办理身份变更，最好避免任何旅行。’”</p><p>根据政府透明倡导组织\"美国监督\"依据《信息自由法》获取并与本报共享的一份文件，TSA与ICE的最初合作始于2025年5月。当时，机场安检机构开始向移民执法机构共享信息，以便进行执法行动。</p><p>ICE将身负驱逐令的人员名单提供给机场安全机构，后者在其数据库中比对，并将匹配结果报告ICE以便实施逮捕。这是对以往做法的重大转变——为避免扰乱国内出行秩序，联邦政府过去刻意回避将TSA卷入移民执法。</p><p>“他们如今撒网捕人的范围要广泛得多，”旧金山移民律师加桑·沙米耶说。</p><p>“他们针对的并不是有犯罪记录的人，”沙米耶说。“而是那些有合法待审申请的人。”</p><p>沙米耶表示，过去10天内，他有四名当事人在机场遭到拘留，其中包括两名刚与美国公民结婚、正在通过配偶申请永久居民身份的女性。其中一名女性在抵达加州伯班克机场后被拘留，当时她的丈夫就在她身边。</p><p>周二上午，一名移民法官准予她以3.5万美元保释金获释。但国土安全部律师保留30天内提出上诉的权利，因此在他们决定是否上诉之前，她很可能仍会继续被拘留。</p><p>互惠生莫拉莱斯·罗哈斯的律师劳拉·利希特介绍，她于2023年1月持J-1交流访问者签证合法入境美国，该签证允许其在美工作两年。国土安全部文件显示，她的签证于2025年1月4日到期。律师表示，在交流项目结束前，莫拉莱斯·罗哈斯已向移民当局提交了留美申请。</p><p>利希特说：“在过去三年半里，莫拉莱斯·罗哈斯一直公开生活在美国，政府也知道她的申请正在处理中。她通过了多次背景审查，并且在等待申请审核期间获得了国土安全部批准的工作许可。她正在进行的程序完全合法。”</p><p>但国土安全部官员在声明中表示，她“违反美国法律，逾期滞留”。周二下午，一名法官裁定准予她以3000美元保释金获释，她有望在周三前离开拘留所。</p><p>利希特已提起诉讼，质疑政府在没有适当逮捕令、也未对拘留必要性进行个案裁定的情况下逮捕和拘留莫拉莱斯·罗哈斯的决定。</p><p>她以前的雇主劳伦和斯科特·卡尔夫妇表示，他们在第一个孩子西拉斯6个月大时雇用了莫拉莱斯·罗哈斯。卡尔夫妇在采访中说，他们带莫拉莱斯·罗哈斯一起飞往丹佛参加一场极限飞盘比赛，她在那里帮助照顾西拉斯以及他的弟弟。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/28/us/dc-airports-ice-3/dc-airports-ice-3-master1050.jpg\" /><small style=\"color: #999;\">劳伦和斯科特·卡尔夫妇为莫拉莱斯·罗哈斯制作的定制相册。这对夫妇曾雇佣她照看他们的孩子。</small></p><p>这个家庭与她建立了深厚的情感纽带，卡尔夫妇还制作了一本定制相册，题为《尚蒂和戈多的冒险》——这是莫拉莱斯·罗哈斯和他们的儿子彼此之间的昵称——作为临别礼物。</p><p>“她是一位非常优秀的年轻女性，我们非常幸运能够让她进入我们的生活，”卡尔女士说。“我们一直努力保持与她的联系。”</p><p>卡尔女士曾去拘留所探望莫拉莱斯·罗哈斯，卡尔夫妇所在的极限飞盘社群成员已发起GoFundMe众筹活动，帮助支付她的法律费用。</p></section><footer><p><a href=\"https://www.nytimes.com/by/hamed-aleaziz\" rel=\"nofollow\" target=\"_blank\" title=\"Link: https://www.nytimes.com/by/hamed-aleaziz\">Hamed Aleaziz</a>是时报报道国土安全部和移民政策的记者。</p><p><a href=\"https://www.nytimes.com/by/miriam-jordan\" title=\"Link: https://www.nytimes.com/by/miriam-jordan\">Miriam Jordan</a>从基层视角报道移民及他们对美国人口结构、社会和经济的影响。</p><p>翻译：杜然</p><p><a href=\"https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html\">点击查看本文英文版。</a></p></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+          "source": "纽约时报"
+        },
         {
           "title": "欧洲游客“消失”，东南亚旅游业者陷入困境",
           "url": "https://cn.nytimes.com/asia-pacific/20260729/iran-war-southeast-asia-tourism/",
@@ -612,7 +703,7 @@
           "title": "畅销推理小说作家东野圭吾去世，终年68岁",
           "url": "https://cn.nytimes.com/obits/20260729/keigo-higashino-author-dead/",
           "published": "Wed, 29 Jul 2026 01:37:02 +0000",
-          "summary": "<address>FRANCESCA REGALADO, HISAKO UENO</address><time datetime=\"2026-07-29 09:01:21\">2026年7月29日</time><section><p>畅销推理小说作家东野圭吾于周四去世，终年68岁。他的职业生涯著述颇丰，出版了100多本作品，其中许多作品在他的祖国日本及海外被改编为影视作品。</p><p>他在日本多年的出版商讲谈社周一发表声明称，东野圭吾的死因为结肠癌。</p><p>东野圭吾是首位同时获得美国爱伦·坡奖和英国匕首奖提名的日本作家，这两个奖项都是悬疑与犯罪写作领域最负盛名的奖项。</p><p>他真正打开英语世界市场的作品是2005年的小说《嫌疑人X的献身》的英译本。《时代》杂志将其评为有史以来<a href=\"https://time.com/collections/best-mystery-thriller-books/6309220/the-devotion-of-suspect-x/\" rel=\"noopener noreferrer\" target=\"_blank\">百大最佳</a>悬疑与惊悚小说之一；该书还入围了2012年爱伦·坡奖最佳长篇小说奖的决选名单。小说后来被日本、中国、韩国和印度改编成电影。</p><p>东野圭吾共创作了106本书，在日本销量约1.09亿册，他还与人合著了数本书。据讲谈社称，他的作品已在41个国家和地区出版，并被翻译成英语、中文、韩语、法语等多种语言。</p><p>他笔下的角色往往都是普通人，如学校教师、小孩子、当铺老板等，他们要么犯下暴力罪行，要么成为暴力的受害者，而这一切都隐藏在平凡的日常生活之下。其2009年小说<a href=\"https://www.nytimes.com/2018/11/16/books/review/newcomer-keigo-higashino.html\">《新参者》</a>围绕一名看似没有仇敌的东京独居中年女性被害案展开，该作品于2019年获得匕首奖提名。</p><p>“我内心总是有一位辩护律师、一位检察官和一位法官，或许甚至还有一位被告，”在2006年接受日本《每日新闻》采访时，东野圭吾谈到自己冷静克制的写作风格，这种风格从不允许任何一个角色主导整部作品的叙事。“正是这种心态让我不会仅凭某一方的视角来写作。”</p><p>他首个被外国改编成电影的作品之一是2007年大卫·杜楚尼主演的《秘密》。这部法国制作的英语对白影片翻拍自1999年根据东野圭吾同名小说改编的日本电影。</p><p>据讲谈社的声明，他的最后一部小说《永恒的记忆》定于8月5日由东京的文艺春秋出版社出版。</p><p>东野圭吾于1958年2月4日出生于日本大阪。根据出版社Vertical Inc.提供的传记，他家境并不富裕，他从小穿两位姐姐的旧衣服长大。</p><p>他在2006年获得日本大众文学奖直木奖时表示，自己小时候并不喜欢读书。</p><p>“我一直想着，要写出连当年那个讨厌读书的自己都会觉得好看的小说，”东野圭吾当时说。</p><p>他毕业于大阪府立大学（现为大阪公立大学）电气工程专业。他在2011年接受《华尔街日报》采访时回忆道，毕业后不久，他进入日本汽车零部件制造商电装公司工作，同时利用晚上和周末坚持写作。</p><p>1985年，他决定成为全职作家，当时他的处女作《放学后》获得了江户川乱步奖——该奖项由日本推理作家协会颁发给未出版的推理小说。这部小说讲述一所女子高中发生的一系列暴力袭击事件，灵感源自他的大学经历以及前妻的教师工作。</p><p>东野圭吾在1997年与妻子离婚。关于其遗属的信息，目前尚未公布。</p><p>2023年，日本政府授予东野圭吾紫绶褒章，该奖授予在艺术和学术领域做出杰出贡献的人士。</p><p>获奖时，他表示，自己的目标依然是娱乐读者，并让更多人爱上阅读。</p><p>“这种感觉就像在登山，”他说。“我相信只要一直向前走，终究会登顶。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/francesca-regalado\" rel=\"nofollow\" target=\"_blank\">Francesca Regalado</a>是《纽约时报》记者，报道突发新闻。</p><p><a href=\"https://www.nytimes.com/by/hisako-ueno\" rel=\"nofollow\" target=\"_blank\">Hisako Ueno</a>是常驻东京的记者/研究员，撰写日本政治、商业、劳工、性别及文化相关议题。</p><p>翻译：杜然</p><p><a href=\"https://www.nytimes.com/2026/07/28/obituaries/keigo-higashino-author-dead.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p><br /></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+          "summary": "<address>FRANCESCA REGALADO, HISAKO UENO</address><time datetime=\"2026-07-29 09:01:21\">2026年7月29日</time><section><p>畅销推理小说作家东野圭吾于周四去世，终年68岁。他的职业生涯著述颇丰，出版了100多本作品，其中许多作品在他的祖国日本及海外被改编为影视作品。</p><p>他在日本多年的出版商讲谈社周一发表声明称，东野圭吾的死因为结肠癌。</p><p>东野圭吾是首位同时获得美国爱伦·坡奖和英国匕首奖提名的日本作家，这两个奖项都是悬疑与犯罪写作领域最负盛名的奖项。</p><p>他真正打开英语世界市场的作品是2005年的小说《嫌疑人X的献身》的英译本。《时代》杂志将其评为有史以来<a href=\"https://time.com/collections/best-mystery-thriller-books/6309220/the-devotion-of-suspect-x/\" rel=\"noopener noreferrer\" target=\"_blank\">百大最佳</a>悬疑与惊悚小说之一；该书还入围了2012年爱伦·坡奖最佳长篇小说奖的决选名单。小说后来被日本、中国、韩国和印度改编成电影。</p><p>东野圭吾共创作了106本书，在日本销量约1.09亿册，他还与人合著了数本书。据讲谈社称，他的作品已在41个国家和地区出版，并被翻译成英语、中文、韩语、法语等多种语言。</p><p>他笔下的角色往往都是普通人，如学校教师、小孩子、当铺老板等，他们要么犯下暴力罪行，要么成为暴力的受害者，而这一切都隐藏在平凡的日常生活之下。其2009年小说<a href=\"https://www.nytimes.com/2018/11/16/books/review/newcomer-keigo-higashino.html\">《新参者》</a>围绕一名看似没有仇敌的东京独居中年女性被害案展开，该作品于2019年获得匕首奖提名。</p><p>“我内心总是有一位辩护律师、一位检察官和一位法官，或许甚至还有一位被告，”在2006年接受日本《每日新闻》采访时，东野圭吾谈到自己冷静克制的写作风格，这种风格从不允许任何一个角色主导整部作品的叙事。“正是这种心态让我不会仅凭某一方的视角来写作。”</p><p>他首个被外国改编成电影的作品之一是2007年大卫·杜楚尼主演的《秘密》。这部法国制作的英语对白影片翻拍自1999年根据东野圭吾同名小说改编的日本电影。</p><p>据讲谈社的声明，他的最后一部小说《永恒的记忆》定于8月5日由东京的文艺春秋出版社出版。</p><p>东野圭吾于1958年2月4日出生于日本大阪。根据出版社Vertical Inc.提供的传记，他家境并不富裕，他从小穿两位姐姐的旧衣服长大。</p><p>他在2006年获得日本大众文学奖直木奖时表示，自己小时候并不喜欢读书。</p><p>“我一直想着，要写出连当年那个讨厌读书的自己都会觉得好看的小说，”东野圭吾当时说。</p><p>他毕业于大阪府立大学（现为大阪公立大学）电气工程专业。他在2011年接受《华尔街日报》采访时回忆道，毕业后不久，他进入日本汽车零部件制造商电装公司工作，同时利用晚上和周末坚持写作。</p><p>1985年，他决定成为全职作家，当时他的处女作《放学后》获得了江户川乱步奖——该奖项由日本推理作家协会颁发给未出版的推理小说。这部小说讲述一所女子高中发生的一系列暴力袭击事件，灵感源自他的大学经历以及前妻的教师工作。</p><p>东野圭吾在1997年与妻子离婚。关于其遗属的信息，目前尚未公布。</p><p>2023年，日本政府授予东野圭吾紫绶褒章，该奖授予在艺术和学术领域做出杰出贡献的人士。</p><p>获奖时，他表示，自己的目标依然是娱乐读者，并让更多人爱上阅读。</p><p>“这种感觉就像在登山，”他说。“我相信只要一直向前走，终究会登顶。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/francesca-regalado\" rel=\"nofollow\" target=\"_blank\">Francesca Regalado</a>是《纽约时报》记者，报道突发新闻。</p><p><a href=\"https://www.nytimes.com/by/hisako-ueno\" rel=\"nofollow\" target=\"_blank\">Hisako Ueno</a>是常驻东京的记者/研究员，撰写日本政治、商业、劳工、性别及文化相关议题。</p><p>翻译：杜然</p><p><a href=\"https://www.nytimes.com/2026/07/28/obituaries/keigo-higashino-author-dead.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p><br /></footer>",
           "source": "纽约时报"
         },
         {
@@ -626,7 +717,7 @@
           "title": "市场对AI支出和中国芯片竞争担忧加剧，全球科技股暴跌",
           "url": "https://cn.nytimes.com/business/20260729/stocks-ai-chips/",
           "published": "Wed, 29 Jul 2026 00:07:02 +0000",
-          "summary": "<address>RIVER AKIRA DAVIS</address><time datetime=\"2026-07-29 07:43:05\">2026年7月29日</time><figure><img height=\"718\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/28/multimedia/28biz-tech-markets-qjwv/28biz-tech-markets-qjwv-master1050.jpg\" width=\"1050\" /><figcaption>韩国基准股指周二大幅下挫。 <cite>Jung Yeon-Je/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>周二，科技股大幅下挫，拖累因素包括市场担忧建设人工智能系统所需投入极其庞大，以及对来自中国在存储芯片领域竞争加剧的忧虑。存储芯片是人工智能的关键组件，长期以来由韩国等国主导。</p><p>韩国基准股指Kospi周二暴跌逾10%，一度触发临时停牌。日本和台湾的基准指数均下跌约4%。中国股市跌幅超过2%。</p><p>以科技股为主的纳斯达克指数期货下跌约1%。美国芯片公司美光盘前跌6%，芯片龙头英伟达同样走低，埃隆·马斯克旗下的火箭和人工智能公司SpaceX也出现下跌。欧洲方面，德国芯片制造商英飞凌下跌4%，荷兰半导体设备制造商ASML跌3%。</p><p>最新一轮与人工智能相关的市场震荡始于周一。当天，中国领先的存储芯片制造商长鑫科技在完成轰动性的首次公开募股后<a href=\"https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/\">开始交易</a>。该公司股价上市首日飙升近500%，迅速成为上海证券交易所市值最高的公司。周二股价回落4%。</p><p>此次上市引发了广泛担忧，即行业竞争加剧可能威胁到韩国、日本、台湾及美国的全球存储芯片制造竞争对手。</p><p>周二亚洲股市开盘即跌，人工智能和半导体板块跌幅最大。日本闪存制造商铠侠下跌逾18%，韩国半导体公司三星电子下跌约13%。</p><p>自6月底以来，亚洲股市整体一直处于下行趋势，市场持续担忧今年这轮人工智能行情是否具有可持续性。</p><p>本周，ChatGPT母公司OpenAI接近达成一项<a href=\"https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html\">租用俄亥俄州价值5000亿美元数据中心的协议</a>，并获英伟达2500亿美元资金支持，凸显了全球人工智能竞赛中保持领先所需的惊人支出规模。上周，特斯拉和谷歌母公司“字母表”的财报因披露其庞大的人工智能支出需求而引发市场震动。</p><p>周一，中国初创公司月之暗面<a href=\"https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/\" title=\"Link: https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/\">发布了其最新人工智能模型的技术细节</a>，加剧了投资者对中美人工智能竞赛的担忧。</p><p>对于亚洲而言，最新这轮市场动荡无疑来得不是时候。人工智能热潮一直是该地区少数的经济亮点之一。在韩国、台湾等市场，芯片出口增长和人工智能概念股估值飙升<a href=\"https://cn.nytimes.com/business/20260625/taiwan-korea-ai-chips/\" title=\"Link: https://cn.nytimes.com/business/20260625/taiwan-korea-ai-chips/\">掩盖了</a>经济整体依然疲弱的现实，而这些经济体仍<a href=\"https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html\" title=\"Link: https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html\">高度依赖</a>来自中东的能源进口。</p><p>伊朗战争是投资者的另一大隐忧，近期波斯湾和红海的石油出口受限推高了油气价格，从而扰动市场。但特朗普总统周一表示，这场持续数月的战争“很有可能”通过新一轮外交谈判取得突破。</p><p>近期战事暂停有助于缓解油价，国际基准布伦特原油周二跌至每桶约84美元。不过，自战争爆发以来，原油价格已上涨逾15%，推高了汽油及多种石油衍生产品的价格。</p><p>对科技股前景的担忧将很快再次面临检验——微软、Meta以及韩国半导体巨头SK海力士定于周三发布财报。周四，苹果、亚马逊和三星电子将公布业绩。</p></section><footer><p><a href=\"https://www.nytimes.com/by/joe-rennison\" rel=\"nofollow\" target=\"_blank\">Joe Rennison</a>撰写有关金融市场的文章，内容包括记录股市的变幻莫测、解释华尔街内部人士常常难以理解的交易决策等。</p><p><a href=\"https://www.nytimes.com/by/river-akira-davis\" rel=\"nofollow\" target=\"_blank\">River Akira Davis</a>常驻东京，报道日本经济和商业新闻。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+          "summary": "<address>RIVER AKIRA DAVIS</address><time datetime=\"2026-07-29 07:43:05\">2026年7月29日</time><figure><img height=\"718\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/28/multimedia/28biz-tech-markets-qjwv/28biz-tech-markets-qjwv-master1050.jpg\" width=\"1050\" /><figcaption>韩国基准股指周二大幅下挫。 <cite>Jung Yeon-Je/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>周二，科技股大幅下挫，拖累因素包括市场担忧建设人工智能系统所需投入极其庞大，以及对来自中国在存储芯片领域竞争加剧的忧虑。存储芯片是人工智能的关键组件，长期以来由韩国等国主导。</p><p>韩国基准股指Kospi周二暴跌逾10%，一度触发临时停牌。日本和台湾的基准指数均下跌约4%。中国股市跌幅超过2%。</p><p>以科技股为主的纳斯达克指数期货下跌约1%。美国芯片公司美光盘前跌6%，芯片龙头英伟达同样走低，埃隆·马斯克旗下的火箭和人工智能公司SpaceX也出现下跌。欧洲方面，德国芯片制造商英飞凌下跌4%，荷兰半导体设备制造商ASML跌3%。</p><p>最新一轮与人工智能相关的市场震荡始于周一。当天，中国领先的存储芯片制造商长鑫科技在完成轰动性的首次公开募股后<a href=\"https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/\">开始交易</a>。该公司股价上市首日飙升近500%，迅速成为上海证券交易所市值最高的公司。周二股价回落4%。</p><p>此次上市引发了广泛担忧，即行业竞争加剧可能威胁到韩国、日本、台湾及美国的全球存储芯片制造竞争对手。</p><p>周二亚洲股市开盘即跌，人工智能和半导体板块跌幅最大。日本闪存制造商铠侠下跌逾18%，韩国半导体公司三星电子下跌约13%。</p><p>自6月底以来，亚洲股市整体一直处于下行趋势，市场持续担忧今年这轮人工智能行情是否具有可持续性。</p><p>本周，ChatGPT母公司OpenAI接近达成一项<a href=\"https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html\">租用俄亥俄州价值5000亿美元数据中心的协议</a>，并获英伟达2500亿美元资金支持，凸显了全球人工智能竞赛中保持领先所需的惊人支出规模。上周，特斯拉和谷歌母公司“字母表”的财报因披露其庞大的人工智能支出需求而引发市场震动。</p><p>周一，中国初创公司月之暗面<a href=\"https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/\" title=\"Link: https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/\">发布了其最新人工智能模型的技术细节</a>，加剧了投资者对中美人工智能竞赛的担忧。</p><p>对于亚洲而言，最新这轮市场动荡无疑来得不是时候。人工智能热潮一直是该地区少数的经济亮点之一。在韩国、台湾等市场，芯片出口增长和人工智能概念股估值飙升<a href=\"https://cn.nytimes.com/business/20260625/taiwan-korea-ai-chips/\" title=\"Link: https://cn.nytimes.com/business/20260625/taiwan-korea-ai-chips/\">掩盖了</a>经济整体依然疲弱的现实，而这些经济体仍<a href=\"https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html\" title=\"Link: https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html\">高度依赖</a>来自中东的能源进口。</p><p>伊朗战争是投资者的另一大隐忧，近期波斯湾和红海的石油出口受限推高了油气价格，从而扰动市场。但特朗普总统周一表示，这场持续数月的战争“很有可能”通过新一轮外交谈判取得突破。</p><p>近期战事暂停有助于缓解油价，国际基准布伦特原油周二跌至每桶约84美元。不过，自战争爆发以来，原油价格已上涨逾15%，推高了汽油及多种石油衍生产品的价格。</p><p>对科技股前景的担忧将很快再次面临检验——微软、Meta以及韩国半导体巨头SK海力士定于周三发布财报。周四，苹果、亚马逊和三星电子将公布业绩。</p></section><footer><p><a href=\"https://www.nytimes.com/by/joe-rennison\" rel=\"nofollow\" target=\"_blank\">Joe Rennison</a>撰写有关金融市场的文章，内容包括记录股市的变幻莫测、解释华尔街内部人士常常难以理解的交易决策等。</p><p><a href=\"https://www.nytimes.com/by/river-akira-davis\" rel=\"nofollow\" target=\"_blank\">River Akira Davis</a>常驻东京，报道日本经济和商业新闻。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer>",
           "source": "纽约时报"
         },
         {
@@ -647,21 +738,7 @@
           "title": "Kimi K3技术细节公开，用户需获商业授权",
           "url": "https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/",
           "published": "Tue, 28 Jul 2026 05:07:02 +0000",
-          "summary": "<address>MEAGHAN TOBIN</address><time datetime=\"2026-07-28 12:44:04\">2026年7月28日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-Moonshot-tcgj/27Biz-China-Moonshot-tcgj-master1050.jpg\" width=\"1050\" /><figcaption>本月在上海举行的世界人工智能大会上，月之暗面展示了Kimi K3模型。 <cite>Hector Retamal/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>中国初创企业月之暗面周一公开发布了其最新人工智能模型的技术细节，向外界展示了该模型的构建过程。但与大多数中国人工智能企业有所不同，月之暗面表示，希望大规模使用该模型的个人或企业需要获得相应的商用授权。</p><p>本月早些时候，月之暗面声称这款名为<a href=\"https://cn.nytimes.com/world/20260720/china-ai-moonshot-kimi/\">Kimi K3</a>的模型在某些任务上的表现可与包括OpenAI和Anthropic在内的美国竞争对手的最佳模型相媲美，这一消息当时在硅谷和美国科技股中引发了震动。</p><p>Kimi K3发布前，中国推出了多款高性能人工智能模型。这些模型大多采用<a href=\"https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html\">开源</a>或开放权重的形式——即公司公开其技术构建细节，使他人更容易使用这些技术。中国科技行业已全面拥抱开源路线，这不仅帮助中国企业快速迭代优化模型，也凭借更低的价格赢得了全球客户。</p><p>这款模型的发布也在<a href=\"https://cn.nytimes.com/business/20260724/china-ai-soft-power/\">北京</a>、<a href=\"https://cn.nytimes.com/technology/20260721/china-us-ai-race/\">硅谷</a>和华盛顿点燃了一场<a href=\"https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/\">激烈争论</a>：政府究竟是否应该采取措施，限制外界对中国开源模型的访问？</p><p>在美国，企业高管、投资者和政府官员之间存在明显分歧——中国模型日益广泛的使用究竟只是威胁到美国人工智能企业的利润，还是已经对美国的国家安全构成了威胁？</p><p>而在中国，争论的焦点则在于，如何让一项技术保持开放、易于获取并广受欢迎，又能找到从中盈利的方法。中国企业还必须在应对这些现实因素的同时适应政府不断调整的政策，中国政府已将人工智能发展列为最重要的经济战略之一。</p><p>月之暗面周一发布了程序代码及其他相关信息，公开展示其模型的构建过程，这符合<a href=\"https://cn.nytimes.com/china/20260720/xi-jinping-china-ai/\">中国推崇开源的发展理念</a>。但该公司也开始利用模型的高人气实现商业化，宣布大型用户必须与公司签订商业许可协议。</p><p>该模型体量庞大，无法在普通计算机上下载和运行。尽管Kimi K3在技术层面属于开放模型，但大多数用户要么需要向月之暗面订阅付费服务，要么需要通过已与月之暗面签署授权协议的第三方渠道来访问该模型。</p><p>为了支撑开发人工智能系统所需的巨大成本，中国企业一直在尝试各种商业模式。投资人工智能技术的对冲基金Interconnected Capital创始人凯文·徐（音）表示，月之暗面值得关注的一点在于，它是第一家如此明确提出商业许可要求的中国人工智能企业。</p><p>以往，中国初创企业通常在发布新模型的同时分享技术细节。但月之暗面这次等待了将近两周。</p><p>这一延迟表明，在中美地缘政治竞争不断加剧的背景下，这项技术如今已变得何等敏感。</p><p>自Meta去年年底宣布将收购由中国创立的人工智能初创公司Manus以来，中国政府便开始严格审查境外用户如何使用中国开发的人工智能系统。今年4月，中国政府<a href=\"https://cn.nytimes.com/business/20260428/china-meta-manus-ai-deal/\">要求撤销这项交易</a>，显示其正在考虑是否应将中国企业开发的人工智能系统视为出口产品加以监管。</p><p>如今，中国官员正努力探索如何监管这项技术，既让中国企业能够与硅谷竞争对手展开竞争，又确保其战略和经济利益牢牢留在中国。</p><p>就在月之暗面发布Kimi K3的同一天，中国国家主席习近平在上海世界人工智能大会上发表讲话，将中国塑造成推动人工智能开放发展路线的全球倡导者。</p><p>“中国内部争论的核心在于，如何调和这些关于中国技术被全球使用的不同信号，”约翰斯·霍普金斯大学高级国际研究学院高级研究员萨姆·萨克斯说，她出席了上海的大会，“北京希望打造业界巨头，但如何才能不杀鸡取卵呢？”</p><p>中国的人工智能产业<a href=\"https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\" title=\"Link: https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\">多年来一直面临美国贸易限制</a>，削弱了其购买驱动人工智能系统的计算机芯片的能力。与财力雄厚的美国竞争对手相比，中国在购买此类计算能力方面的资金也少得多。</p><p>月之暗面宣布发布Kimi K3两天后，该公司就不得不宣布暂停接受新用户，因为无法获得足够的计算机芯片来提供服务。该公司目前不接受新订阅用户。月之暗面周一拒绝就用户情况置评。</p><p>乔治华盛顿大学研究美中人工智能竞争的教授杰弗里·丁（音）表示，中国企业拥抱开源，部分原因在于将其视为快速追赶全球最先进人工智能系统的工具。</p><p>他说：“中国企业并不是为了开源而开源；他们把开源当作一种战略、一种挑战者工具加以运用。最终目标还是要赚钱。”</p></section><footer><p>Xinyun Wu自台湾台北对本文有研究贡献。</p><p><a href=\"https://www.nytimes.com/by/meaghan-tobin\" rel=\"nofollow\" target=\"_blank\">Meaghan Tobin</a>是时报科技记者，常驻台北，报道亚洲地区的商业和科技新闻，重点关注中国。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
-          "source": "纽约时报"
-        },
-        {
-          "title": "中国人工智能模型快速崛起，但企业如何赚钱？",
-          "url": "https://cn.nytimes.com/technology/20260728/china-ai-alibaba-bytedance/",
-          "published": "Tue, 28 Jul 2026 03:37:02 +0000",
-          "summary": "<address>MEAGHAN TOBIN</address><time datetime=\"2026-07-28 11:03:32\">2026年7月28日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-AI-Money-01-mbct/27Biz-China-AI-Money-01-mbct-master1050.jpg\" width=\"1050\" /><figcaption>在上海举行的世界人工智能大会期间，参观者来到月之暗面展台，该展台展示了Kimi K3模型。 <cite>Hector Retamal/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>中国领先的科技公司一直在稳步推出性能几乎可与全球顶尖系统媲美的人工智能模型。但它们都面临着同一个问题：如何克服这项技术背后严酷的经济难题。</p><p>中国的人工智能公司尝试了不同的方法来获取足够的资金，支撑构建人工智能系统的巨额开支。</p><p>深度求索和月之暗面等初创公司已经从投资者那里筹集了数十亿美元。中国的人工智能巨头<a href=\"https://cn.nytimes.com/business/20260707/alibaba-ai-qwen/\">阿里巴巴</a>已开始向使用其最先进模型的用户收费。TikTok的母公司、本身也是人工智能巨头的<a href=\"https://www.nytimes.com/2025/04/11/business/tiktok-china-bytedance-ai.html\" title=\"Link: https://www.nytimes.com/2025/04/11/business/tiktok-china-bytedance-ai.html\">字节跳动</a>推出了分级定价系统，希望让人们为使用其最先进的模型支付更多费用。</p><p>为了构建最先进的人工智能模型，人工智能公司需要不断购买强大的计算机芯片——一部分用来构建模型，更多的用来测试改进，还有更多是用来确保它们能为全球用户提供服务。这些公司还需要建设或租赁数据中心的空间来容纳所有这些计算能力。</p><p>面临这些严峻经济挑战的不仅仅是中国人工智能公司。从OpenAI、Anthropic到谷歌，硅谷的强大竞争对手在人工智能领域的投资也远远超过了收益。</p><p>对于中国公司来说，这一挑战因中国人工智能发展方式中的一个核心悖论而加剧。中国大多数领先的人工智能系统都是<a href=\"https://cn.nytimes.com/business/20260427/china-ai-deepseek-open-source/\">开源</a>或开放权重的。这加速了它们的发展——每家公司都公开分享其成果时，整个行业都会从中受益。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-AI-Money-02-mbct/27Biz-China-AI-Money-02-mbct-master1050.jpg\" /><small style=\"color: #999;\">Anthropic正在大力投资人工智能领域，其投入规模与中国领先的人工智能企业的大手笔投入不相上下。</small></p><p>中国的开源方法催生了一个竞争激烈的创新型初创企业拥挤领域，它们都以低成本提供系统。</p><p>因此，试图通过提高某些模型的使用费来增加收入的做法可能会吓跑客户。无论是企业还是个人，注重价格的中国消费者会迅速在各个平台之间跳转，寻找更便宜的人工智能工具。</p><p>硅谷公司Datastrato的副总裁理查德·林（音）表示，尽管中国的人工智能公司正在寻找可持续的商业模式，但目前的状况是支出高昂，而收入微薄。</p><p>“在两三年内，我们可能还在努力摸索大模型该如何赚钱，”他说。</p><p>提供低价帮助中国公司赢得了用户，包括在硅谷，那里有许多公司依赖于这些更实惠的系统。然而，中国公司一直难以将庞大的全球用户群体转化为利润。</p><p>上个月，中国初创公司智谱AI发布了一款名为GLM-5.2的模型，称其功能几乎与Anthropic最好的模型一样强大。硅谷的许多软件开发者和初创公司<a href=\"https://cn.nytimes.com/technology/20260626/zai-china-artificial-intelligence-models/\">迅速开始使用它</a>，部分原因是它比美国的系统更便宜。</p><p>智谱AI的模型不断改进并变得更加受欢迎，该公司去年的收入增加了一倍多，但亏损了近7亿美元。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-AI-Money-03-mbct/27Biz-China-AI-Money-03-mbct-master1050.jpg\" /><small style=\"color: #999;\">中国人工智能初创公司智谱AI凭借其低成本模型吸引了众多开发者，但去年仍亏损近7亿美元。</small></p><p>在香港上市时，智谱AI表示计划将大部分资金用于改进其模型，主要是通过购买更多芯片。股票上市几周后，智谱AI表示正在寻找合作伙伴来共享算力资源，并就用户投诉服务速度慢致歉。</p><p>“开放模型是一种强大的分发策略，但它们不是一个完整的商业模式，”总部位于北京的Counterpoint Research首席人工智能分析师孙伟（音）说。“首次公开募股可以为下一个训练周期提供资金，但它本身无法创造可持续的经济效益。”</p><p>本月，月之暗面发布了一款名为<a href=\"https://cn.nytimes.com/world/20260720/china-ai-moonshot-kimi/\">Kimi K3</a>的模型，该公司表示它在某些任务上的表现优于OpenAI和Anthropic的模型。但不到两天，该公司就被迫宣布需要停止接受新用户，因为它无法获得足够的计算机芯片来为他们提供服务。</p><p>中国的人工智能行业<a href=\"https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\">多年来一直面临美国的贸易限制</a>，这些限制束缚了其购买世界上最强大芯片的能力。为了绕过这些限制，许多中国公司租用位于中国境外、配备先进芯片的数据中心的远程访问权限。</p><p>但与资金雄厚的美国竞争对手相比，中国人工智能初创公司用来购买算力的资金要少得多。</p><p>上个月，深度求索进行了中国最受期待的融资轮之一，从互联网巨头腾讯、电池制造商宁德时代以及中国国家人工智能投资基金等投资者那里筹集了资金。深度求索筹集了75亿美元。今年5月，月之暗面筹集了20亿美元。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-AI-Money-04-mbct/27Biz-China-AI-Money-04-mbct-master1050.jpg\" /><small style=\"color: #999;\">深度求索和月之暗面等初创公司已筹集数十亿资金，而阿里巴巴最先进的人工智能模型已经收费。</small></p><p>相比之下，Anthropic仅在5月就筹集了650亿美元。</p><p>中国科技公司的资本要少得多，但美国科技高管和投资者担心，中国的开源热潮可能会颠覆人工智能生产的经济模式。</p><p>中国的人工智能初创公司表示，多年的出口管制迫使它们尽可能高效地使用芯片，这可能会挑战推动全球大量人工智能投资的理念：即制造尖端人工智能系统将始终需要不断增加对更多芯片和数据中心的投资。</p><p>现在，美国正围绕这一问题<a href=\"https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/\">展开激烈辩论</a>，这可能会让中国人工智能公司更难盈利。</p><p>包括Anthropic和OpenAI在内的硅谷领先公司声称，中国公司从其人工智能系统中不当采集数据，以加速中国模型的开发。一些美国科技公司和投资者希望华盛顿限制对中国开源模型的访问，称如果它们落入别有用心的人手中，可能会成为威胁。</p><p>投资人工智能技术的对冲基金Interconnected Capital的创始人凯文·许（音）表示：“许多硅谷初创公司依赖开放权重模型来定制其产品，同时又不必向OpenAI和Anthropic支付高昂的价格。”</p><p>这些美国科技公司一直是中国许多人工智能公司的重要收入来源。如果它们被排斥在外，它们将面临失去这一收入的风险。</p></section><footer><p>Xinyun Wu自台湾台北对本文有研究贡献。</p><p><a href=\"https://www.nytimes.com/by/meaghan-tobin\" rel=\"nofollow\" target=\"_blank\">Meaghan Tobin</a>是时报科技记者，常驻台北，报道亚洲地区的商业和科技新闻，重点关注中国。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
-          "source": "纽约时报"
-        },
-        {
-          "title": "越南货船在南海争议海域沉没，中国参与救援",
-          "url": "https://cn.nytimes.com/asia-pacific/20260728/vietnam-south-china-sea-ship-sink/",
-          "published": "Tue, 28 Jul 2026 02:07:01 +0000",
-          "summary": "<address>TUNG NGO, MAX KIM</address><time datetime=\"2026-07-28 09:53:48\">2026年7月28日</time><section><p>上周六，一艘越南货船在南中国海存在激烈主权争议的海域沉没。据一名知情的越南官员透露，该货船当时正参与越南为对抗中国在该地区主权主张而进行的岛礁建设项目。目前，救援人员仍在搜寻15名失踪船员。</p><p>这艘名为“魁元18号”的船只共载有62名越南船员，在南沙海域船体进水并最终沉没。南沙群岛由<a href=\"https://cn.nytimes.com/asia-pacific/20240813/spratlys-thitu-philippines-china/\">100多个小岛礁</a>和其他地貌组成，多国都宣称对这里拥有主权。</p><p>中国外交部发言人林剑周一在北京举行的记者会上表示，周六傍晚，一艘在该海域执行任务的中国救援船首先发现了一个救生筏上幸存者发出的求救信号，并随即展开搜救行动，目前已救起47名幸存者。越南方面已对中方迅速施救表示感谢。来自中越两国以及菲律宾的救援人员仍在继续搜寻其余失踪人员。</p><p>据中越双方的说法，沉船地点位于中国控制的永暑礁与越南控制的大现礁之间。</p><p>这两个岛礁均属于南沙群岛，南沙群岛与西沙群岛多年来一直是中越<a href=\"https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html?eafs_enabled=false\">激烈竞争</a>的焦点。两国均通过在无人岛礁周围填海造地并在上面修建军事设施来宣示主权。</p><p>一名了解一手情况的越南官员向《纽约时报》透露，“魁元18号”沉没时，正在执行其中一个项目的建设工程。该官员以无权对外发言为由要求匿名。</p><p>越方表示，货船沉没是由于恶劣天气造成的，但并未说明船只当时驶往何处，也未透露运载的是什么货物。</p><p>越南作为签署国的一项联合国海事安全<a href=\"https://www.imo.org/en/ourwork/safety/pages/ais.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">决议</a><a href=\"https://www.nytimes.com/2022/09/03/world/americas/ships-gps-international-law.html?eafs_enabled=false\">规定</a>，所有大型货船必须随时开启自动识别系统应答器。然而，追踪<a href=\"https://www.marinetraffic.com/en/ais/details/ships/shipid:6179331\" rel=\"noopener noreferrer\" target=\"_blank\">数据</a>显示，这艘悬挂越南旗帜的船只已有数月未传输位置数据。该船建于2017年，船身约70米长，总载重量约1900公吨。</p><p>这名官员表示，这艘船此前定期往返于越南海军拥有大型港口的金兰湾与南沙群岛之间。</p><p>越南政府资料显示，这艘货船的注册所有者为魁元贸易进出口运输公司。一名不愿透露全名的公司代表在电话中表示，该船被调派参与南沙群岛一项由Dacinco建设投资公司负责的重点工程，而这家公司一直在参与当地的岛礁建设项目。</p><p>总部位于越南岘港的Dacinco公司自2022年以来多次从荷兰造船企业Royal IHC<a href=\"https://www.royalihc.com/news/contract-third-beaverr-65-further-strengthens-long-term-relationship-dacinco\" rel=\"noopener noreferrer\" target=\"_blank\">采购</a>绞吸式挖泥船。这种专用船舶能够从海床吸取泥沙，因此非常适合用于填海造地工程。</p><p>记者致电Dacinco公司，但无人接听。</p><p>北京海事智库“南海战略态势感知计划”去年曾<a href=\"https://www.scspi.org/en/dtfx/new-phase-vietnam%E2%80%99s-reclamation-spratly-islands\" rel=\"noopener noreferrer\" target=\"_blank\">表示</a>，“绞吸式挖泥船被广泛使用在鸿庥岛、毕生礁和柏礁等岛礁的扩建中，让越南的填海造陆效率大大提升。”</p><p>2024年6月，越南官方媒体报道称，一名Dacinco员工在柏礁施工现场受伤。柏礁是南沙群岛的一部分，也是越南近年来持续扩建的岛礁之一。</p><p>该公司还在社交媒体上积极招募项目工人，招聘信息显示，南沙群岛“近海建设项目”招募吊车操作员和卡车司机。</p><p>越南外交部未立即回应置评请求。</p><p>多年来，中越双方均多次抗议对方的岛礁建设，而美国官员试图为这场不断升级的扩张降温的努力也未取得成功。</p><p><a href=\"https://www.reuters.com/world/asia-pacific/china-opposes-vietnams-building-work-disputed-reef-south-china-sea-2025-02-19/\" rel=\"noopener noreferrer\" target=\"_blank\">去年</a>，随着越南加快推进南沙造岛工程——此前中国曾在约三年时间内围填约1300公顷的土地——中国外交部批评越方是在进行“非法占领”。越南也曾对中国<a href=\"https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html?eafs_enabled=false\">提出</a>类似指责。近年来，中国将建设重点更多放在越南主张全部主权的西沙群岛。</p><p>不过，在刚刚过去的这个周末，这些紧张关系并未显现出来，各方都在持续搜寻失踪船员。</p><p>周日，越南外交部发言人范秋姮对中方施援表示感谢。</p><p>她说：“我们向中方有关部门和人员的及时施援表示衷心感谢，希望双方继续密切协作，搜寻失踪人员。”</p></section><footer><p>Berry Wang对本文有报道贡献。</p><p><a href=\"https://www.nytimes.com/by/tung-ngo\" rel=\"nofollow\" target=\"_blank\">Tung Ngo</a>是《纽约时报》记者/研究员，常驻越南河内。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p><br /></footer>",
+          "summary": "<address>MEAGHAN TOBIN</address><time datetime=\"2026-07-28 12:44:04\">2026年7月28日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-Moonshot-tcgj/27Biz-China-Moonshot-tcgj-master1050.jpg\" width=\"1050\" /><figcaption>本月在上海举行的世界人工智能大会上，月之暗面展示了Kimi K3模型。 <cite>Hector Retamal/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>中国初创企业月之暗面周一公开发布了其最新人工智能模型的技术细节，向外界展示了该模型的构建过程。但与大多数中国人工智能企业有所不同，月之暗面表示，希望大规模使用该模型的个人或企业需要获得相应的商用授权。</p><p>本月早些时候，月之暗面声称这款名为<a href=\"https://cn.nytimes.com/world/20260720/china-ai-moonshot-kimi/\">Kimi K3</a>的模型在某些任务上的表现可与包括OpenAI和Anthropic在内的美国竞争对手的最佳模型相媲美，这一消息当时在硅谷和美国科技股中引发了震动。</p><p>Kimi K3发布前，中国推出了多款高性能人工智能模型。这些模型大多采用<a href=\"https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html\">开源</a>或开放权重的形式——即公司公开其技术构建细节，使他人更容易使用这些技术。中国科技行业已全面拥抱开源路线，这不仅帮助中国企业快速迭代优化模型，也凭借更低的价格赢得了全球客户。</p><p>这款模型的发布也在<a href=\"https://cn.nytimes.com/business/20260724/china-ai-soft-power/\">北京</a>、<a href=\"https://cn.nytimes.com/technology/20260721/china-us-ai-race/\">硅谷</a>和华盛顿点燃了一场<a href=\"https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/\">激烈争论</a>：政府究竟是否应该采取措施，限制外界对中国开源模型的访问？</p><p>在美国，企业高管、投资者和政府官员之间存在明显分歧——中国模型日益广泛的使用究竟只是威胁到美国人工智能企业的利润，还是已经对美国的国家安全构成了威胁？</p><p>而在中国，争论的焦点则在于，如何让一项技术保持开放、易于获取并广受欢迎，又能找到从中盈利的方法。中国企业还必须在应对这些现实因素的同时适应政府不断调整的政策，中国政府已将人工智能发展列为最重要的经济战略之一。</p><p>月之暗面周一发布了程序代码及其他相关信息，公开展示其模型的构建过程，这符合<a href=\"https://cn.nytimes.com/china/20260720/xi-jinping-china-ai/\">中国推崇开源的发展理念</a>。但该公司也开始利用模型的高人气实现商业化，宣布大型用户必须与公司签订商业许可协议。</p><p>该模型体量庞大，无法在普通计算机上下载和运行。尽管Kimi K3在技术层面属于开放模型，但大多数用户要么需要向月之暗面订阅付费服务，要么需要通过已与月之暗面签署授权协议的第三方渠道来访问该模型。</p><p>为了支撑开发人工智能系统所需的巨大成本，中国企业一直在尝试各种商业模式。投资人工智能技术的对冲基金Interconnected Capital创始人凯文·徐（音）表示，月之暗面值得关注的一点在于，它是第一家如此明确提出商业许可要求的中国人工智能企业。</p><p>以往，中国初创企业通常在发布新模型的同时分享技术细节。但月之暗面这次等待了将近两周。</p><p>这一延迟表明，在中美地缘政治竞争不断加剧的背景下，这项技术如今已变得何等敏感。</p><p>自Meta去年年底宣布将收购由中国创立的人工智能初创公司Manus以来，中国政府便开始严格审查境外用户如何使用中国开发的人工智能系统。今年4月，中国政府<a href=\"https://cn.nytimes.com/business/20260428/china-meta-manus-ai-deal/\">要求撤销这项交易</a>，显示其正在考虑是否应将中国企业开发的人工智能系统视为出口产品加以监管。</p><p>如今，中国官员正努力探索如何监管这项技术，既让中国企业能够与硅谷竞争对手展开竞争，又确保其战略和经济利益牢牢留在中国。</p><p>就在月之暗面发布Kimi K3的同一天，中国国家主席习近平在上海世界人工智能大会上发表讲话，将中国塑造成推动人工智能开放发展路线的全球倡导者。</p><p>“中国内部争论的核心在于，如何调和这些关于中国技术被全球使用的不同信号，”约翰斯·霍普金斯大学高级国际研究学院高级研究员萨姆·萨克斯说，她出席了上海的大会，“北京希望打造业界巨头，但如何才能不杀鸡取卵呢？”</p><p>中国的人工智能产业<a href=\"https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\" title=\"Link: https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\">多年来一直面临美国贸易限制</a>，削弱了其购买驱动人工智能系统的计算机芯片的能力。与财力雄厚的美国竞争对手相比，中国在购买此类计算能力方面的资金也少得多。</p><p>月之暗面宣布发布Kimi K3两天后，该公司就不得不宣布暂停接受新用户，因为无法获得足够的计算机芯片来提供服务。该公司目前不接受新订阅用户。月之暗面周一拒绝就用户情况置评。</p><p>乔治华盛顿大学研究美中人工智能竞争的教授杰弗里·丁（音）表示，中国企业拥抱开源，部分原因在于将其视为快速追赶全球最先进人工智能系统的工具。</p><p>他说：“中国企业并不是为了开源而开源；他们把开源当作一种战略、一种挑战者工具加以运用。最终目标还是要赚钱。”</p></section><footer><p>Xinyun Wu自台湾台北对本文有研究贡献。</p><p><a href=\"https://www.nytimes.com/by/meaghan-tobin\" rel=\"nofollow\" target=\"_blank\">Meaghan Tobin</a>是时报科技记者，常驻台北，报道亚洲地区的商业和科技新闻，重点关注中国。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
           "source": "纽约时报"
         }
       ]
