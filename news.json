@@ -1,129 +1,129 @@
 {
-  "updated": "2026-07-29T02:47:22.450312+00:00",
-  "updated_beijing": "2026-07-29 02:47 北京时间",
-  "summary_analysis": "【核心主线】当前全球市场主线围绕地缘冲突升级与AI投资逻辑的再平衡。中东方面，伊朗对美军基地发动弹道导弹袭击，美国拦截并反击，油价应声反弹，避险情绪升温。科技领域，SK海力士营收创纪录但不及预期，引发AI芯片股抛售，市场开始质疑AI支出的可持续性。同时，美国对中国科技限制加码，禁止新的人形机器人和逆变器，凸显技术竞争白热化。\n\n【市场与政策信号】1. 地缘风险推升油价：伊朗袭击后油价涨超2美元，市场关注霍尔木兹海峡通行安全。2. AI交易降温：芯片股暴跌，资金轮动至防御性板块，道指上涨。3. 美国政策收紧：特朗普政府结束Medicare药品补贴、限制中国机器人，并寻求推翻E. Jean Carroll案判决。4. 日本熊本地震造成伤亡，短期影响区域供应链。\n\n【关键风险提示】1. 中东冲突扩大化风险：若伊朗封锁霍尔木兹海峡，全球能源供应将受严重冲击。2. AI泡沫破裂风险：若后续科技巨头财报不及预期，可能引发更广泛的市场回调。3. 中美科技脱钩加速：美国对华技术出口管制升级，中国半导体企业如长鑫存储上市后股价飙升，但面临外部压力。",
+  "updated": "2026-07-29T03:02:18.745326+00:00",
+  "updated_beijing": "2026-07-29 03:02 北京时间",
+  "summary_analysis": "【核心主线】当前全球市场主线围绕地缘冲突升级与AI泡沫担忧展开。伊朗对美军基地发动弹道导弹袭击，中东局势骤然紧张，推动油价反弹超2美元/桶，避险情绪升温。同时，SK海力士营收虽创纪录但不及预期，引发AI概念股抛售，市场担忧AI投资回报周期过长。日本熊本强震造成伤亡，进一步加剧亚太市场波动。\n\n【市场与政策信号】美国宣布禁止进口中国机器人和逆变器，科技脱钩加速；特朗普政府拟终止Medicare药品补贴计划，或影响医疗板块。美联储会议在即，市场关注降息信号。SK海力士业绩显示AI存储需求仍强劲但增速放缓，需警惕芯片股回调风险。\n\n【关键风险提示】伊朗导弹袭击后，霍尔木兹海峡通行风险上升，油价可能进一步波动。AI板块资金外流明显，若龙头股业绩持续不及预期，可能引发更深度调整。日本地震对供应链的短期冲击需关注。",
   "important": [
     {
-      "title": "伊朗对中东美军发动弹道导弹袭击，美国称已拦截",
+      "title": "美军称美沙部队打击伊拉克境内伊朗支持武装",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
+      "summary": "美沙联军打击伊朗支持武装，中东局势紧张",
+      "source": "路透社"
+    },
+    {
+      "title": "日本地震死亡人数升至13人，救援人员从倒塌商场救出被困者",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
+      "summary": "日本熊本强震致13死，救援持续",
+      "source": "路透社"
+    },
+    {
+      "title": "美国称拦截伊朗向中东美军发射的弹道导弹",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5",
-      "summary": "伊朗向美军基地发射导弹，美国拦截并反击。",
+      "summary": "伊朗导弹袭击美军，中东冲突升级",
       "source": "路透社"
     },
     {
-      "title": "油价因美国原油供应收紧预期反弹逾2美元",
+      "title": "美国航空因IT问题短暂停飞后恢复运营",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3BxLXZmR09KZlFlRWxlZDZJakZPZ0JQTXJrS2RSZzZxT09GVVd6czJzcEQteXNQVW5LLVdPbkFWMGZzU0xwejBHZ0E2T2lsbklwVFFxUERTSkt4czVkd18zSzQwdC1xa3ZOdnQxakdsRDVpeVNJOF9JNWI4WnVxdEJPWGp5bk1oUmRwbW1LbG1LTjBBSTVWb2lVcC16M25aT3R4MGliNHA0Q1lJ?oc=5",
+      "summary": "美国航空IT故障致全国停飞，已恢复",
+      "source": "路透社"
+    },
+    {
+      "title": "油价因美国原油供应趋紧预期反弹超2美元",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-      "summary": "油价反弹超2美元，受美国原油供应收紧预期推动。",
+      "summary": "供应趋紧预期推升油价反弹",
       "source": "路透社"
     },
     {
-      "title": "SK海力士利润创纪录，但AI需求预期未达投资者期望",
+      "title": "SK海力士利润创纪录，但AI需求预期未达",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUxxQWE3ZTZIXzd3RHJtdUUyRlBFSngwTzVkV1RTTmgta3llNWNPN1BwZ3BvdnN6NlhuNUJxTDFQZmVpVWg3UEhmS0thYngyLVkwM1NmUjN5MDRQSnlhaFpMeG9ULW9kekJYQUtCWmdVbW5oT0diTmpidGJTQkd3N19mM0J0WEtuc054ZllnMkNGUFNLaXhfSnJnVXdubHlMdEFNd0ZQQmp3U21FSF9XeHhNSXRQQQ?oc=5",
-      "summary": "SK海力士利润创新高，但营收不及预期，AI芯片股承压。",
+      "summary": "SK海力士业绩超预期但AI需求存疑",
       "source": "路透社"
     },
     {
       "title": "特朗普要求最高法院推翻E. Jean Carroll的8300万美元判决",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1ZFOUxSMEVrTWplSjE1R1VMaUFfNjJCUWtjV2oxczRadE1MZWdvN0VTWEMzMjR2M0ZBWTdoVjJfT1E5VWItcHNnZXg1V094MmttS2lhTU1GX21yemZYblhMcWp0djBrWEhHVHVXWlF6eVlja3RNdUxwenl5cGZtTVBWU1FidURxLTJ3R3hPYTJ5VGZiWWszaC10UE0zSWpyenlrWS1fNkxlbFZZcmV4RGF1eC1oU3pUSmtneTF4TG80TGdWb1o4?oc=5",
-      "summary": "特朗普请求最高法院推翻诽谤案巨额赔偿。",
+      "summary": "特朗普上诉要求推翻诽谤案巨额赔偿",
       "source": "路透社"
     },
     {
-      "title": "特朗普政府将终止Medicare药品补贴计划",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkd5RnI2ekgzMTdsbVR1R2sxWV9FbTIzV0NZbXdHOXRCd1ctM0V1WkNJemNLS2pOcU1oZTRXcDBhdzN6QmpvODFBV1RMZzlTWENUTWxxT3Izc2Y3SEVjeVlXenM3N013Ny1KS0xIT0pGMEY4Nm1aM25TSUdsa29GbTZEZzRmZG5XdjZXdER6d1pGUklzOVFPWVFXbWk0THhaM2V5Xy1WdDBNY3Nwb055bFFCUzJKYjNrV0xPNjU3UQ?oc=5",
-      "summary": "特朗普政府取消Medicare药品补贴，影响数百万老年人。",
-      "source": "路透社"
-    },
-    {
-      "title": "日本熊本县发生强烈地震，死亡人数升至13人",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
-      "summary": "日本熊本地震致13死，救援人员从倒塌商场救出被困者。",
-      "source": "路透社"
-    },
-    {
-      "title": "OpenAI的恶意代理入侵第二家科技公司客户账户",
+      "title": "独家：OpenAI的恶意代理入侵第二家科技公司客户",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5",
-      "summary": "OpenAI内部恶意代理再次入侵客户账户，安全漏洞扩大。",
+      "summary": "OpenAI模型被用于攻击第二家科技公司",
       "source": "路透社"
     },
     {
-      "title": "美国禁止新的人形机器人和逆变器，保护AI产业",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUhfNzlWYWJHaXJWMzBsSEl3bDRLN2kzUVlxY2w3VjRnZExObnFUZjdkU0FPR2FfQldHNS11d1Q5eUt0RW85SzRyX2xwZC1yOUVFanZqbDg5am5MVzBvbHdDWW1iNEJTeC1ReTVVN1RZdjgwNUloMjZybzB0ZEJ4Z0xQQUp4ZDZwOEs5VFo2T2tfRGRJUGtQT3JILU02NWtuWFpHYVNLSkRHV29FQmdvc1RPMjPSAboBQVVfeXFMUDNHY3htbmhOLWpkMno3YXZFNE0yYUFZV3l6R2ZtdDVwZGJRQnZ5N19Jd3ZZUHFJZXZoRWE4Rkt6SFhGdTg5MWxOU0RuYWlmUmdESnpzWTg2a0xnMFlyZTR3d2pLOHVpdGpmM1pObGNrRy1NVmZGeGxNTzg5UVJzZ2htMVZMLXg2eTMyRy1OYmEwZ0ZYcTlYN1VZZ0l6VjNEZExrRGZPbDllQTd3TmRwVUlDcXBzcVJ3c2Vn?oc=5",
-      "summary": "美国禁止进口中国机器人和逆变器，升级科技限制。",
-      "source": "CNBC"
+      "title": "特朗普政府将终止Medicare保费补贴计划",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkd5RnI2ekgzMTdsbVR1R2sxWV9FbTIzV0NZbXdHOXRCd1ctM0V1WkNJemNLS2pOcU1oZTRXcDBhdzN6QmpvODFBV1RMZzlTWENUTWxxT3Izc2Y3SEVjeVlXenM3N013Ny1KS0xIT0pGMEY4Nm1aM25TSUdsa29GbTZEZzRmZG5XdjZXdER6d1pGUklzOVFPWVFXbWk0THhaM2V5Xy1WdDBNY3Nwb055bFFCUzJKYjNrV0xPNjU3UQ?oc=5",
+      "summary": "特朗普政府取消Medicare药品补贴",
+      "source": "路透社"
     },
     {
-      "title": "亚洲股市涨跌互现，油价反弹抵消芯片股抛售",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHZlMDlvZGhtbW5aRlBEMFlkc2FYZGc5VEpBRFdXMjlMRnZCV09lZnl4Qlh4UG50M2VCcDgtZ0lXbGZoUUNXSFBYOHNacE1NNy12cUR0UWFkU0F6V2c4djF5VldhNHZ6X1g3bEFDYzJIeldPUEMyWDAxVndIRW52U29lNi1LWmJQM1RpdUlxUGo1Ti1U?oc=5",
-      "summary": "亚洲股市涨跌互现，油价上涨抵消芯片股下跌影响。",
-      "source": "彭博社"
-    },
-    {
-      "title": "英伟达CEO黄仁勋呼吁支持开源权重AI模型",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkNwY3QtTDJERXN5MUpRTGN4aVc4eXdrUVJrZFFyRmt6dDBpR293YUxua2U2S2FhM0Rpc3g4bmU3MkQ2dUlHRzVDTXdNOXFmeHVQYVVwc1YtYlB1bW9HR3VHYzZIYWs3b1J0REVPWUdBRmp5aHF0dmFiZnhzd3l4UWY4M0xBYW5pQ2hWWU16M2NTM29ZeFVTQ192a3ZaUE15bWNfZDRxakpkNU13a3VPTnUxeDU?oc=5",
-      "summary": "黄仁勋支持开源AI模型，强调开放生态重要性。",
-      "source": "彭博社"
+      "title": "被美国驱逐的危地马拉男子与妻子在甘蔗田遇害，婴儿幸存",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2poS3AzODFDTmNlNmVkb3lFQ2NmWTJMX0F1NHZvWTFkMllFdzhral9MVzBTMkhiZjgwOUJsM2U1MWdfdVlOcjI1bF81akN0R25Sam95UTVUaUhpeWwwY3JYRE5uTDdjOVdidXM5SGJZeDhlVHVUbXhYTTllMzVheTFlWjBFaE9GbzJ1U3lMNmJRa3AxVlMyaEk0MU96U0lKcHN3eDV0RE40dlJUeWJ0dkRnaTBWUFY2aFZpdTMzTUhiTlZhaUNF?oc=5",
+      "summary": "被遣返移民夫妇遇害，婴儿幸存",
+      "source": "路透社"
     }
   ],
   "interest": [
     {
-      "title": "美国禁止新的人形机器人和逆变器，保护AI产业",
+      "title": "美国禁止进口中国新机器人和逆变器，保护本国AI",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUhfNzlWYWJHaXJWMzBsSEl3bDRLN2kzUVlxY2w3VjRnZExObnFUZjdkU0FPR2FfQldHNS11d1Q5eUt0RW85SzRyX2xwZC1yOUVFanZqbDg5am5MVzBvbHdDWW1iNEJTeC1ReTVVN1RZdjgwNUloMjZybzB0ZEJ4Z0xQQUp4ZDZwOEs5VFo2T2tfRGRJUGtQT3JILU02NWtuWFpHYVNLSkRHV29FQmdvc1RPMjPSAboBQVVfeXFMUDNHY3htbmhOLWpkMno3YXZFNE0yYUFZV3l6R2ZtdDVwZGJRQnZ5N19Jd3ZZUHFJZXZoRWE4Rkt6SFhGdTg5MWxOU0RuYWlmUmdESnpzWTg2a0xnMFlyZTR3d2pLOHVpdGpmM1pObGNrRy1NVmZGeGxNTzg5UVJzZ2htMVZMLXg2eTMyRy1OYmEwZ0ZYcTlYN1VZZ0l6VjNEZExrRGZPbDllQTd3TmRwVUlDcXBzcVJ3c2Vn?oc=5",
+      "summary": "美国扩大对华科技禁令，涵盖机器人和逆变器",
+      "source": "CNBC"
+    },
+    {
+      "title": "美国禁止中国新机器人，科技打压升级",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTYtR3JZM1FVYzVaTEpfVmdfQ1RnUFNCY0hjYlNlY0hCYlZVM3d5MXU0WWZVYTFfa0J1UUhmTzFydTl4a2g3dTY5Y3I3ZVRVWF9iWGN1ZE1sREhhOHE1T1NRWW9OZFY2LVJSQ3Z2MlNGWU5ySWZJZ0N3eXNaY0hXWHkwS241TXFpcU1PYXlLZzRlVTh0dFZxZ25CcURMTFE5YVBQU3p2VC1kSU1lTXFobkJ0bV85UWIzRi1CSVZPNA?oc=5",
-      "summary": "美国禁止中国机器人和逆变器，科技脱钩加速。",
+      "summary": "美国对华科技禁令扩大至机器人领域",
       "source": "南华早报"
     },
     {
-      "title": "中国测试首款可连续飞行24小时的民用无人机",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVjlFSE5CUVdlTS1qX1hrS0Z6MnNLeHpSa0phMFhlalpibUdCcDl2UDNSLXBnbVpPUnNtT1o2bVA4cjZyZFEzam5NTjhRNi1TdHZBTGhWMVhRM3cyMEZXeXZVLWhOSDEtNDJESk1COTJ0cUNHWFRxLTRkX2pqY1MwbzVPUC02c212bkdSX3JUbjMzMy02M1J0NFQzcWpiLU1TOTVkUGFPd2ZKVjczZG9lVHZySUVpYVF3WUc4TzR0STZWSmxGWFHSAcYBQVVfeXFMTkpZXzUxMEJPZkJJZG9acXFHTVdBWFk1RFZWV1N1bDh6endLX3ZLb0RhRDh6RG11QzBKVHBmVldIVENCd0k0cVNvNGV4Z19NQnR0T0lQVlQtR1JIcFByd3A3YjZCdm5UQWw0UUFVME1xbnAtQW0zWFlNaVpPV2FKeUdsS1V5a2VxSnlyWHRRclRLZWtTU29OSXhlU1lTUnNkQ3RPYXJJeVBnQTJzSm5CUVFxTTMtZld0QXhlVWFtTWh0QmxxbnN3?oc=5",
-      "summary": "中国测试24小时续航民用无人机，技术突破。",
-      "source": "南华早报"
+      "title": "特朗普政府禁止中国新型人形机器人",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTYtR3JZM1FVYzVaTEpfVmdfQ1RnUFNCY0hjYlNlY0hCYlZVM3d5MXU0WWZVYTFfa0J1UUhmTzFydTl4a2g3dTY5Y3I3ZVRVWF9iWGN1ZE1sREhhOHE1T1NRWW9OZFY2LVJSQ3Z2MlNGWU5ySWZJZ0N3eXNaY0hXWHkwS241TXFpcU1PYXlLZzRlVTh0dFZxZ25CcURMTFE5YVBQU3p2VC1kSU1lTXFobkJ0bV85UWIzRi1CSVZPNA?oc=5",
+      "summary": "美国对华科技禁令扩展至人形机器人",
+      "source": "BBC"
     },
     {
-      "title": "中国AI模型快速崛起，但盈利模式仍存疑",
-      "url": "https://cn.nytimes.com/technology/20260728/china-ai-alibaba-bytedance/",
-      "summary": "中国AI模型发展迅速，但商业化面临挑战。",
+      "title": "市场对AI支出和中国芯片竞争担忧加剧，全球科技股暴跌",
+      "url": "https://cn.nytimes.com/business/20260729/stocks-ai-chips/",
+      "summary": "AI泡沫担忧及中国芯片竞争引发科技股抛售",
+      "source": "纽约时报"
+    },
+    {
+      "title": "重磅IPO：中国最大存储芯片制造商长鑫科技即将上市",
+      "url": "https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/",
+      "summary": "中国存储芯片巨头长鑫科技启动IPO",
       "source": "纽约时报"
     },
     {
       "title": "长鑫存储上市首日股价飙升470%",
       "url": "https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/",
-      "summary": "中国芯片制造商长鑫存储IPO首日暴涨。",
+      "summary": "长鑫存储上市首日暴涨470%",
       "source": "纽约时报"
     },
     {
-      "title": "市场对AI支出和中国芯片竞争担忧加剧，全球科技股暴跌",
-      "url": "https://cn.nytimes.com/business/20260729/stocks-ai-chips/",
-      "summary": "AI支出担忧和中国芯片竞争引发科技股抛售。",
+      "title": "中国人工智能模型快速崛起，但企业如何赚钱？",
+      "url": "https://cn.nytimes.com/technology/20260728/china-ai-alibaba-bytedance/",
+      "summary": "中国AI模型发展迅速但盈利模式待解",
       "source": "纽约时报"
     },
     {
-      "title": "特朗普政府禁止新的人形机器人和逆变器",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "summary": "美国禁止中国机器人，科技竞争升级。",
-      "source": "BBC"
-    },
-    {
-      "title": "中国向公众寻求大坝垮塌调查线索",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1h2bUZid1Etcmd0d3RxaFFQSEc0RFBuS2dSdDhJQndFU05RWmZ0Y25RY3N0TUo4RFhuU2Q5NVlvOENuc0xqa1p3UlZidVl0UzkybXpNLUJvMGpFQUVUOTJYWUpGUk5VdTFFTUNwdnVZclAzc3RhT2V0TzNCOFkyTk5Ea1FBZ0VGcFBXTDk0UG0tZGZSM0dkMjRNNHZmdU9ZeDd2LTJ4dHExaHJNT2FDaENSbWZtM04wU1lUbUh2U09tYW96ZUHSAcYBQVVfeXFMUGJRRmtGWUI1RGhqZFBzbkVWMkY4Z1dDRml1U3ZiOTVXM1N0elpWeDlIbklhRDcxZ1NOOWhXWXl1TURza1BjZVpjQVFRZ2diclRzc2FrRGt3YlRjeXk4a1AtS0tEWHdwN0p6NUdhSlZwdndBRGlqcW1xU1dlU3E3UnFQNXVadnRQTjRLZG4zUm9yTWVxNjJEV1ZLSG1LMGNtbzR4N0RjSGxyQmU1YmRzMkxsUTRQMUVpY0tYb0Y5WV9kX3oza1lB?oc=5",
-      "summary": "中国就大坝垮塌事故向公众征集线索。",
-      "source": "南华早报"
-    },
-    {
-      "title": "越南货船在南海沉没，中国参与救援",
-      "url": "https://cn.nytimes.com/asia-pacific/20260728/vietnam-south-china-sea-ship-sink/",
-      "summary": "越南货船在南海沉没，中国协助救援。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "中国AI模型Kimi K3技术细节公开，需商业授权",
+      "title": "Kimi K3技术细节公开，用户需获商业授权",
       "url": "https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/",
-      "summary": "月之暗面公开Kimi K3技术细节，商业授权要求。",
+      "summary": "Kimi K3模型技术公开，商用需授权",
       "source": "纽约时报"
     },
     {
-      "title": "亚洲安全局势正经历历史性转变",
-      "url": "https://cn.nytimes.com/opinion/20260728/asia-military-security-china-allies/",
-      "summary": "亚洲安全格局因中国崛起和盟友关系变化而重塑。",
+      "title": "越南货船在南海争议海域沉没，中国参与救援",
+      "url": "https://cn.nytimes.com/asia-pacific/20260728/vietnam-south-china-sea-ship-sink/",
+      "summary": "越南船南海沉没，中国参与救援",
       "source": "纽约时报"
+    },
+    {
+      "title": "中国测试首架可连续飞行24小时的民用无人机",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVjlFSE5CUVdlTS1qX1hrS0Z6MnNLeHpSa0phMFhlalpibUdCcDl2UDNSLXBnbVpPUnNtT1o2bVA4cjZyZFEzam5NTjhRNi1TdHZBTGhWMVhRM3cyMEZXeXZVLWhOSDEtNDJESk1COTJ0cUNHWFRxLTRkX2pqY1MwbzVPUC02c212bkdSX3JUbjMzMy02M1J0NFQzcWpiLU1TOTVkUGFPd2ZKVjczZG9lVHZySUVpYVF3WUc4TzR0STZWSmxGWFHSAcYBQVVfeXFMTkpZXzUxMEJPZkJJZG9acXFHTVdBWFk1RFZWV1N1bDh6endLX3ZLb0RhRDh6RG11QzBKVHBmVldIVENCd0k0cVNvNGV4Z19NQnR0T0lQVlQtR1JIcFByd3A3YjZCdm5UQWw0UUFVME1xbnAtQW0zWFlNaVpPV2FKeUdsS1V5a2VxSnlyWHRRclRLZWtTU29OSXhlU1lTUnNkQ3RPYXJJeVBnQTJzSm5CUVFxTTMtZld0QXhlVWFtTWh0QmxxbnN3?oc=5",
+      "summary": "中国测试长航时民用无人机",
+      "source": "南华早报"
     }
   ],
   "sources": {
@@ -142,7 +142,7 @@
         {
           "title": "Japan quake toll rises to 13 as rescuers haul people from collapsed mall",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
-          "published": "Wed, 29 Jul 2026 01:27:00 GMT",
+          "published": "Wed, 29 Jul 2026 02:45:17 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5\" target=\"_blank\">Japan quake toll rises to 13 as rescuers haul people from collapsed mall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
@@ -213,70 +213,70 @@
           "title": "SK Hynix’s Record Profit Misses Investors’ Lofty AI Expectations",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlZIM1h4WXdndUgxb29BcGI3dXBlR0pNZ3VyUEpwUDBXNmFfUWdXUnZWZ0ZobjdBWEUtU2xhZWV3WEE3MlQ1dDVKcjFQeVR6YWk1bEJGdzVzUWVQVWNwVHBzVzB1NzBZVlBOcEtHV0ZpMlhubjRFRVR5QkVBRTFsSUM1T3EwVjZfRkdxZVNscXhXTk8wLVBwQlo5dUNELUI4dTU4elhyRndWbUYxVVdHWjE2T04?oc=5",
           "published": "Tue, 28 Jul 2026 22:51:42 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlZIM1h4WXdndUgxb29BcGI3dXBlR0pNZ3VyUEpwUDBXNmFfUWdXUnZWZ0ZobjdBWEUtU2xhZWV3WEE3MlQ1dDVKcjFQeVR6YWk1bEJGdzVzUWVQVWNwVHBzVzB1NzBZVlBOcEtHV0ZpMlhubjRFRVR5QkVBRTFsSUM1T3EwVjZfRkdxZVNscXhXTk8wLVBwQlo5dUNELUI4dTU4elhyRndWbUYxVVdHWjE2T04?oc=5\" target=\"_blank\">SK Hynix’s Record Profit Misses Investors’ Lofty AI Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlZIM1h4WXdndUgxb29BcGI3dXBlR0pNZ3VyUEpwUDBXNmFfUWdXUnZWZ0ZobjdBWEUtU2xhZWV3WEE3MlQ1dDVKcjFQeVR6YWk1bEJGdzVzUWVQVWNwVHBzVzB1NzBZVlBOcEtHV0ZpMlhubjRFRVR5QkVBRTFsSUM1T3EwVjZfRkdxZVNscXhXTk8wLVBwQlo5dUNELUI4dTU4elhyRndWbUYxVVdHWjE2T04?oc=5\" target=\"_blank\">SK Hynix’s Record Profit Misses Investors’ Lofty AI Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "OpenAI Rogue Agent Hacked Account at a Second Firm, Reuters Says",
+          "title": "OpenAI Models Compromised a Customer at a Second Tech Firm",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ1c0Q2QUZSUWZKRUlMbE0yVFJ6MjZrQWlxNzF0NDNmR1lGZmg0d19BeDBGODVmR0lGLU96NlZwLXcwX19HTWZIR2FKai1yazZsN3hBS3R6cWdkTm5VWDM0cW56NWRTZGdIaG5PVUxDVUF0cGVWWjU5dmVyMUhFVzc0aEJ2QjVHNllUZzJXVzNXbnFrYlZaQm1ubzFER0FCVzdENVRaOVExNjIwMmF1b005MWg?oc=5",
           "published": "Tue, 28 Jul 2026 22:06:39 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ1c0Q2QUZSUWZKRUlMbE0yVFJ6MjZrQWlxNzF0NDNmR1lGZmg0d19BeDBGODVmR0lGLU96NlZwLXcwX19HTWZIR2FKai1yazZsN3hBS3R6cWdkTm5VWDM0cW56NWRTZGdIaG5PVUxDVUF0cGVWWjU5dmVyMUhFVzc0aEJ2QjVHNllUZzJXVzNXbnFrYlZaQm1ubzFER0FCVzdENVRaOVExNjIwMmF1b005MWg?oc=5\" target=\"_blank\">OpenAI Rogue Agent Hacked Account at a Second Firm, Reuters Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ1c0Q2QUZSUWZKRUlMbE0yVFJ6MjZrQWlxNzF0NDNmR1lGZmg0d19BeDBGODVmR0lGLU96NlZwLXcwX19HTWZIR2FKai1yazZsN3hBS3R6cWdkTm5VWDM0cW56NWRTZGdIaG5PVUxDVUF0cGVWWjU5dmVyMUhFVzc0aEJ2QjVHNllUZzJXVzNXbnFrYlZaQm1ubzFER0FCVzdENVRaOVExNjIwMmF1b005MWg?oc=5\" target=\"_blank\">OpenAI Models Compromised a Customer at a Second Tech Firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
           "title": "Trump Administration to End Drug Plan Subsidy for Medicare",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDBsSlJSZkZpZUdkUzhDYjFicktzaGNmc2xhdXkxSUh3S3B1bEhwQzM5UDNSRktaeTg1cF9kVDhjQmc5V0EzY01zaDBjdDl1MVhfcVZKLW92YlFLbFJ4dGZFcXFncUxPbFBNZWcxSjFvbzdHQVFmdWtRRWdBMk41TjVRSUFNdEJ0ZHVIcm5hc3Q5UmwzQ0tydGVYbGU0SkxUdFdPWl9nbUdvX0pld2c?oc=5",
           "published": "Tue, 28 Jul 2026 22:16:30 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDBsSlJSZkZpZUdkUzhDYjFicktzaGNmc2xhdXkxSUh3S3B1bEhwQzM5UDNSRktaeTg1cF9kVDhjQmc5V0EzY01zaDBjdDl1MVhfcVZKLW92YlFLbFJ4dGZFcXFncUxPbFBNZWcxSjFvbzdHQVFmdWtRRWdBMk41TjVRSUFNdEJ0ZHVIcm5hc3Q5UmwzQ0tydGVYbGU0SkxUdFdPWl9nbUdvX0pld2c?oc=5\" target=\"_blank\">Trump Administration to End Drug Plan Subsidy for Medicare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDBsSlJSZkZpZUdkUzhDYjFicktzaGNmc2xhdXkxSUh3S3B1bEhwQzM5UDNSRktaeTg1cF9kVDhjQmc5V0EzY01zaDBjdDl1MVhfcVZKLW92YlFLbFJ4dGZFcXFncUxPbFBNZWcxSjFvbzdHQVFmdWtRRWdBMk41TjVRSUFNdEJ0ZHVIcm5hc3Q5UmwzQ0tydGVYbGU0SkxUdFdPWl9nbUdvX0pld2c?oc=5\" target=\"_blank\">Trump Administration to End Drug Plan Subsidy for Medicare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
           "title": "Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets Wrap",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHZlMDlvZGhtbW5aRlBEMFlkc2FYZGc5VEpBRFdXMjlMRnZCV09lZnl4Qlh4UG50M2VCcDgtZ0lXbGZoUUNXSFBYOHNacE1NNy12cUR0UWFkU0F6V2c4djF5VldhNHZ6X1g3bEFDYzJIeldPUEMyWDAxVndIRW52U29lNi1LWmJQM1RpdUlxUGo1Ti1U?oc=5",
           "published": "Tue, 28 Jul 2026 22:15:52 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHZlMDlvZGhtbW5aRlBEMFlkc2FYZGc5VEpBRFdXMjlMRnZCV09lZnl4Qlh4UG50M2VCcDgtZ0lXbGZoUUNXSFBYOHNacE1NNy12cUR0UWFkU0F6V2c4djF5VldhNHZ6X1g3bEFDYzJIeldPUEMyWDAxVndIRW52U29lNi1LWmJQM1RpdUlxUGo1Ti1U?oc=5\" target=\"_blank\">Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHZlMDlvZGhtbW5aRlBEMFlkc2FYZGc5VEpBRFdXMjlMRnZCV09lZnl4Qlh4UG50M2VCcDgtZ0lXbGZoUUNXSFBYOHNacE1NNy12cUR0UWFkU0F6V2c4djF5VldhNHZ6X1g3bEFDYzJIeldPUEMyWDAxVndIRW52U29lNi1LWmJQM1RpdUlxUGo1Ti1U?oc=5\" target=\"_blank\">Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "Oil Surges After Three-Day Drop as US Repels Iran Attack on Base",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd01nRzZiajFieWd0QVZDQmNnbE9Za1Eyb0Fodm5LeUVzSzBxYU9sdTdkeVNPbFEwNTB1TUdaM0pURVUxN2tsS0dqLTlTdUhOLXMzZTVYSVhZSHJBWlZ5eXoyT003c3NjU3VWMk91eXdxcFAwOW5TRjc4WkpxVy1nalUzSC1PTXltQ1lRMlZ2QVBpenpuWWNaUVRMUEJRNnc?oc=5",
-          "published": "Tue, 28 Jul 2026 22:01:33 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd01nRzZiajFieWd0QVZDQmNnbE9Za1Eyb0Fodm5LeUVzSzBxYU9sdTdkeVNPbFEwNTB1TUdaM0pURVUxN2tsS0dqLTlTdUhOLXMzZTVYSVhZSHJBWlZ5eXoyT003c3NjU3VWMk91eXdxcFAwOW5TRjc4WkpxVy1nalUzSC1PTXltQ1lRMlZ2QVBpenpuWWNaUVRMUEJRNnc?oc=5\" target=\"_blank\">Oil Surges After Three-Day Drop as US Repels Iran Attack on Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Korea-Hong Kong Correlation Shows Shorts Unwind: Equity Insight",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnJhYTZzQkJQVUU0cndSbWdHSkRqa2RSMzdzQVdnVFRlSGc5UEFycXFuWjBFX1lKc0Juck1hSGt2UlVyRW5ETzBRZmlKRmpNZjA0bHFMTHp6MUFaNURPX3NqdUt0U3loS0NyWFFpZ1JrZkZyeXRFQXZEUWxWV2VlVmVQVXFHS2FVTzFjOGNOdnlNSUhBT1VNdDQtMWRTTTJqRHN4a0cwbTZrODVVMG04eEpwUQ?oc=5",
-          "published": "Wed, 29 Jul 2026 01:12:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnJhYTZzQkJQVUU0cndSbWdHSkRqa2RSMzdzQVdnVFRlSGc5UEFycXFuWjBFX1lKc0Juck1hSGt2UlVyRW5ETzBRZmlKRmpNZjA0bHFMTHp6MUFaNURPX3NqdUt0U3loS0NyWFFpZ1JrZkZyeXRFQXZEUWxWV2VlVmVQVXFHS2FVTzFjOGNOdnlNSUhBT1VNdDQtMWRTTTJqRHN4a0cwbTZrODVVMG04eEpwUQ?oc=5\" target=\"_blank\">Korea-Hong Kong Correlation Shows Shorts Unwind: Equity Insight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Trump Asks Supreme Court to Scrap $83.3 Million Carroll Verdict",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2FERy1xNDFWaFlULXFmNXJKSHhDQnZEeFZJOXU5a002VW1vZTFtcFRicGlFd1JRMmpYejU0MVhTd2ozR1JMdzJRWk1Wcy02Q282VGxhS2swaXZWVmYxZnNVVHhhbVpnQ2FJOEJjVkl1bzRZWWh0eElFdGhlZm5GdGVMcmdYZ2xFQTZSampFNmN6elZhSm1XbTctckE0U2luNE1KYy1vQngxTlBZRmIyeEloZw?oc=5",
+          "published": "Tue, 28 Jul 2026 22:17:42 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2FERy1xNDFWaFlULXFmNXJKSHhDQnZEeFZJOXU5a002VW1vZTFtcFRicGlFd1JRMmpYejU0MVhTd2ozR1JMdzJRWk1Wcy02Q282VGxhS2swaXZWVmYxZnNVVHhhbVpnQ2FJOEJjVkl1bzRZWWh0eElFdGhlZm5GdGVMcmdYZ2xFQTZSampFNmN6elZhSm1XbTctckE0U2luNE1KYy1vQngxTlBZRmIyeEloZw?oc=5\" target=\"_blank\">Trump Asks Supreme Court to Scrap $83.3 Million Carroll Verdict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
           "title": "BlackRock Sets Out for Private Credit Glory After Year of Upheaval",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTZwb2FWLXZCTW9PZUlpTVhGLXdWN0t3RmlvX0trODltWExEeHoxbUloQkEyYjh4RUt5TVpzZjBmYXFmVjdPeThkcmhoYllNODBLZlhiU3BnaUIzYTFZeWUtRDZ4dTh6ZnczY3dvajg1OHltcGYtTnI2eTNjVVdkcGxWMVRmd0dQZnVydGJiTVY1V2YtajBsNjFFUWM4cm05R0VNdU1kRFgtTk5VeGZlQVdRWHpGV1I0N1ZuTTJHcHg?oc=5",
           "published": "Tue, 28 Jul 2026 21:00:24 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTZwb2FWLXZCTW9PZUlpTVhGLXdWN0t3RmlvX0trODltWExEeHoxbUloQkEyYjh4RUt5TVpzZjBmYXFmVjdPeThkcmhoYllNODBLZlhiU3BnaUIzYTFZeWUtRDZ4dTh6ZnczY3dvajg1OHltcGYtTnI2eTNjVVdkcGxWMVRmd0dQZnVydGJiTVY1V2YtajBsNjFFUWM4cm05R0VNdU1kRFgtTk5VeGZlQVdRWHpGV1I0N1ZuTTJHcHg?oc=5\" target=\"_blank\">BlackRock Sets Out for Private Credit Glory After Year of Upheaval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTZwb2FWLXZCTW9PZUlpTVhGLXdWN0t3RmlvX0trODltWExEeHoxbUloQkEyYjh4RUt5TVpzZjBmYXFmVjdPeThkcmhoYllNODBLZlhiU3BnaUIzYTFZeWUtRDZ4dTh6ZnczY3dvajg1OHltcGYtTnI2eTNjVVdkcGxWMVRmd0dQZnVydGJiTVY1V2YtajBsNjFFUWM4cm05R0VNdU1kRFgtTk5VeGZlQVdRWHpGV1I0N1ZuTTJHcHg?oc=5\" target=\"_blank\">BlackRock Sets Out for Private Credit Glory After Year of Upheaval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkNwY3QtTDJERXN5MUpRTGN4aVc4eXdrUVJrZFFyRmt6dDBpR293YUxua2U2S2FhM0Rpc3g4bmU3MkQ2dUlHRzVDTXdNOXFmeHVQYVVwc1YtYlB1bW9HR3VHYzZIYWs3b1J0REVPWUdBRmp5aHF0dmFiZnhzd3l4UWY4M0xBYW5pQ2hWWU16M2NTM29ZeFVTQ192a3ZaUE15bWNfZDRxakpkNU13a3VPTnUxeDU?oc=5",
-          "published": "Tue, 28 Jul 2026 18:51:08 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkNwY3QtTDJERXN5MUpRTGN4aVc4eXdrUVJrZFFyRmt6dDBpR293YUxua2U2S2FhM0Rpc3g4bmU3MkQ2dUlHRzVDTXdNOXFmeHVQYVVwc1YtYlB1bW9HR3VHYzZIYWs3b1J0REVPWUdBRmp5aHF0dmFiZnhzd3l4UWY4M0xBYW5pQ2hWWU16M2NTM29ZeFVTQ192a3ZaUE15bWNfZDRxakpkNU13a3VPTnUxeDU?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Oil Surges After Three-Day Drop as US Repels Iran Attack on Base",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd01nRzZiajFieWd0QVZDQmNnbE9Za1Eyb0Fodm5LeUVzSzBxYU9sdTdkeVNPbFEwNTB1TUdaM0pURVUxN2tsS0dqLTlTdUhOLXMzZTVYSVhZSHJBWlZ5eXoyT003c3NjU3VWMk91eXdxcFAwOW5TRjc4WkpxVy1nalUzSC1PTXltQ1lRMlZ2QVBpenpuWWNaUVRMUEJRNnc?oc=5",
+          "published": "Tue, 28 Jul 2026 22:01:33 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd01nRzZiajFieWd0QVZDQmNnbE9Za1Eyb0Fodm5LeUVzSzBxYU9sdTdkeVNPbFEwNTB1TUdaM0pURVUxN2tsS0dqLTlTdUhOLXMzZTVYSVhZSHJBWlZ5eXoyT003c3NjU3VWMk91eXdxcFAwOW5TRjc4WkpxVy1nalUzSC1PTXltQ1lRMlZ2QVBpenpuWWNaUVRMUEJRNnc?oc=5\" target=\"_blank\">Oil Surges After Three-Day Drop as US Repels Iran Attack on Base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Korea-Hong Kong Correlation Shows Shorts Unwind: Equity Insight",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnJhYTZzQkJQVUU0cndSbWdHSkRqa2RSMzdzQVdnVFRlSGc5UEFycXFuWjBFX1lKc0Juck1hSGt2UlVyRW5ETzBRZmlKRmpNZjA0bHFMTHp6MUFaNURPX3NqdUt0U3loS0NyWFFpZ1JrZkZyeXRFQXZEUWxWV2VlVmVQVXFHS2FVTzFjOGNOdnlNSUhBT1VNdDQtMWRTTTJqRHN4a0cwbTZrODVVMG04eEpwUQ?oc=5",
+          "published": "Wed, 29 Jul 2026 01:12:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnJhYTZzQkJQVUU0cndSbWdHSkRqa2RSMzdzQVdnVFRlSGc5UEFycXFuWjBFX1lKc0Juck1hSGt2UlVyRW5ETzBRZmlKRmpNZjA0bHFMTHp6MUFaNURPX3NqdUt0U3loS0NyWFFpZ1JrZkZyeXRFQXZEUWxWV2VlVmVQVXFHS2FVTzFjOGNOdnlNSUhBT1VNdDQtMWRTTTJqRHN4a0cwbTZrODVVMG04eEpwUQ?oc=5\" target=\"_blank\">Korea-Hong Kong Correlation Shows Shorts Unwind: Equity Insight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Warner Bros. Deal Collapse Would Cost the Ellisons $9.8 Billion",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmRBZnhVb0hKVy1yaWFhRzQ1eklPeDVlLXc5VmYyc0hGUUE0cnVOLWFnMXkzeGIwcUR3UlhiWER3Q0oyNUNEYjFVUW1SZU9obHJzX2pnR1V0cDRWdEFWWThnS203LThFTGNmdEhEeWxmOUNBcHBISVZnbnREREZiOWR3SndESzNYRnlaazdzWFlrbS1oa2FzYVdrMUxFZmhPTkk0X1FmRTl4WXJ3LUdoaFp3?oc=5",
+          "published": "Tue, 28 Jul 2026 18:44:28 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmRBZnhVb0hKVy1yaWFhRzQ1eklPeDVlLXc5VmYyc0hGUUE0cnVOLWFnMXkzeGIwcUR3UlhiWER3Q0oyNUNEYjFVUW1SZU9obHJzX2pnR1V0cDRWdEFWWThnS203LThFTGNmdEhEeWxmOUNBcHBISVZnbnREREZiOWR3SndESzNYRnlaazdzWFlrbS1oa2FzYVdrMUxFZmhPTkk0X1FmRTl4WXJ3LUdoaFp3?oc=5\" target=\"_blank\">Warner Bros. Deal Collapse Would Cost the Ellisons $9.8 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
           "title": "UEFA Considering Boycott of FIFA Tournaments in Brewing Feud",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0lkNzJFc3lVdm9ENTZZTHplbkZoMV91LWg0NWpJV3FDMEk0UWJkYXZWdHRDaU5MVzhwYVVDYi0tVHlIREtVSTRfYkFzMERTMV9HRUdibEM0MGVTX2RyX3BxWGltU25TQXl6QkwwSjd1cV83bTFjcnA3SW1fVm53bXVrbzJndWpfRXI1eldOb3N1WlRDQ21VMTg2aG5zbl9VVzVOVW5iOGNURTlQRHdtQQ?oc=5",
           "published": "Tue, 28 Jul 2026 19:47:40 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0lkNzJFc3lVdm9ENTZZTHplbkZoMV91LWg0NWpJV3FDMEk0UWJkYXZWdHRDaU5MVzhwYVVDYi0tVHlIREtVSTRfYkFzMERTMV9HRUdibEM0MGVTX2RyX3BxWGltU25TQXl6QkwwSjd1cV83bTFjcnA3SW1fVm53bXVrbzJndWpfRXI1eldOb3N1WlRDQ21VMTg2aG5zbl9VVzVOVW5iOGNURTlQRHdtQQ?oc=5\" target=\"_blank\">UEFA Considering Boycott of FIFA Tournaments in Brewing Feud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "More Than ​​1,100 AI Workers Call for US to Pace Tech Growth",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcC02c0sta04tMGd5WTdqcW9NVjhQbzU4cXBTbEFidlgtSU1WWldmQm50RWV6OVhBZzkzYmI3X0U3Q09wdGdPLVRCbF82R0kxVFUwekhoRXpad01TNS0xUHB1TmdyeVlNSWlmb1FtZWN6bXg2c0F3SEZWOUkxTGZTQlkwQkJMNTRYYTAwVFlhbVZRNDEtWm1KbTlxbHlDa3oxMkYzWXNXY0czLTRjVFpialRjMk9xTzRnSC1UOGdR?oc=5",
-          "published": "Tue, 28 Jul 2026 16:38:33 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNcC02c0sta04tMGd5WTdqcW9NVjhQbzU4cXBTbEFidlgtSU1WWldmQm50RWV6OVhBZzkzYmI3X0U3Q09wdGdPLVRCbF82R0kxVFUwekhoRXpad01TNS0xUHB1TmdyeVlNSWlmb1FtZWN6bXg2c0F3SEZWOUkxTGZTQlkwQkJMNTRYYTAwVFlhbVZRNDEtWm1KbTlxbHlDa3oxMkYzWXNXY0czLTRjVFpialRjMk9xTzRnSC1UOGdR?oc=5\" target=\"_blank\">More Than ​​1,100 AI Workers Call for US to Pace Tech Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0lkNzJFc3lVdm9ENTZZTHplbkZoMV91LWg0NWpJV3FDMEk0UWJkYXZWdHRDaU5MVzhwYVVDYi0tVHlIREtVSTRfYkFzMERTMV9HRUdibEM0MGVTX2RyX3BxWGltU25TQXl6QkwwSjd1cV83bTFjcnA3SW1fVm53bXVrbzJndWpfRXI1eldOb3N1WlRDQ21VMTg2aG5zbl9VVzVOVW5iOGNURTlQRHdtQQ?oc=5\" target=\"_blank\">UEFA Considering Boycott of FIFA Tournaments in Brewing Feud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         }
       ]
@@ -301,13 +301,6 @@
           "source": "华尔街日报"
         },
         {
-          "title": "Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5",
-          "published": "Wed, 29 Jul 2026 01:31:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5\" target=\"_blank\">Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
           "title": "What to Watch for at the Fed Meeting",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGQ1dUhxYm9FZ3AzN3VYeVFRS202ekh5ME5wRXNFTUEzNUJ6TmItaXMzWC1xWEFfQXFFdU5xVVZRbkZ2dHp3ZDV2RlRoLXlYMEs3SGV6c0NtNGdkRzJ0SmlDRVVIUWpUTmZydU92akNtWWpzLTNRWl91bE1kY1N0RzF6Rl9HS2lQUm05MnU0YkFBMDg?oc=5",
           "published": "Wed, 29 Jul 2026 01:00:00 GMT",
@@ -322,10 +315,10 @@
           "source": "华尔街日报"
         },
         {
-          "title": "Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzUteWdWc1NWRHE2TWZvSWtHR1V3RXQ3eVlFWnVZQXVpSkNaMF8wbnhvRzR1bThlbG9ZcG4zSlVqSVcxZFZLMDFDS1dDOHlxQ1JPTmZNcGVIX3lMdS1LTk5LdC1sR2gwZ3RaRFVjdThPVlYxWXF3RFB6UldlOXN1M1I5dXd4aXJqVVFIclZPS2NSamQyeWxIU1dPUWp5bGpSdl9tQnBXZTh1bHJvWW1vdDM4OA?oc=5",
-          "published": "Wed, 29 Jul 2026 01:06:21 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzUteWdWc1NWRHE2TWZvSWtHR1V3RXQ3eVlFWnVZQXVpSkNaMF8wbnhvRzR1bThlbG9ZcG4zSlVqSVcxZFZLMDFDS1dDOHlxQ1JPTmZNcGVIX3lMdS1LTk5LdC1sR2gwZ3RaRFVjdThPVlYxWXF3RFB6UldlOXN1M1I5dXd4aXJqVVFIclZPS2NSamQyeWxIU1dPUWp5bGpSdl9tQnBXZTh1bHJvWW1vdDM4OA?oc=5\" target=\"_blank\">Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "title": "Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5",
+          "published": "Wed, 29 Jul 2026 01:31:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYm1mNVNLLVJxQ012SmI5ejdTQlRnZzVXRVpzWFdkMnVLMEVPN2Etby1FUmNDZzViOGo0SFhWU21lYkFaZzVRVlFRZ3pqUGN2S1dUZWVDb2V2T2pSTjhNOTF4dHpOZl9MdUlib0tPQmNEeFpoV2hxRjRBSXlZMW1sTk5FbkxaSk5ybUNKdHdtYjdFenh1OFdCT054R3lxNEE?oc=5\" target=\"_blank\">Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
@@ -333,6 +326,13 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xaldnTmlIZ2o2cXp5OXhiVG9BNFU2OTdEQzJ4azB2RXRzZktpd1gzNWVfYVhOaWxpRFZtekJ0YXFCUnBuWTJJRTJXUkwybjRHTDBlWTdJcFFNWk5WVVdyRFFGM09hd1hnQ09aTThQODNaZFBm?oc=5",
           "published": "Tue, 28 Jul 2026 17:21:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8xaldnTmlIZ2o2cXp5OXhiVG9BNFU2OTdEQzJ4azB2RXRzZktpd1gzNWVfYVhOaWxpRFZtekJ0YXFCUnBuWTJJRTJXUkwybjRHTDBlWTdJcFFNWk5WVVdyRFFGM09hd1hnQ09aTThQODNaZFBm?oc=5\" target=\"_blank\">Opinion | The AI Future Is for Everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzUteWdWc1NWRHE2TWZvSWtHR1V3RXQ3eVlFWnVZQXVpSkNaMF8wbnhvRzR1bThlbG9ZcG4zSlVqSVcxZFZLMDFDS1dDOHlxQ1JPTmZNcGVIX3lMdS1LTk5LdC1sR2gwZ3RaRFVjdThPVlYxWXF3RFB6UldlOXN1M1I5dXd4aXJqVVFIclZPS2NSamQyeWxIU1dPUWp5bGpSdl9tQnBXZTh1bHJvWW1vdDM4OA?oc=5",
+          "published": "Wed, 29 Jul 2026 00:36:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzUteWdWc1NWRHE2TWZvSWtHR1V3RXQ3eVlFWnVZQXVpSkNaMF8wbnhvRzR1bThlbG9ZcG4zSlVqSVcxZFZLMDFDS1dDOHlxQ1JPTmZNcGVIX3lMdS1LTk5LdC1sR2gwZ3RaRFVjdThPVlYxWXF3RFB6UldlOXN1M1I5dXd4aXJqVVFIclZPS2NSamQyeWxIU1dPUWp5bGpSdl9tQnBXZTh1bHJvWW1vdDM4OA?oc=5\" target=\"_blank\">Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
@@ -363,13 +363,6 @@
       "name_cn": "金融时报",
       "count": 10,
       "articles": [
-        {
-          "title": "US says it intercepted ‘surprise’ Iranian missile attack",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFJCVnQ1LXRXTVQ5d1lYbUlKcE9uaHFMc2ZnX0Y2MjJzeGJHM2gwRE5xNklXbndhbDc0N1pXVm9hTXBqb28wTmZ4c09OaU9DTllCaW5XeEZ3OFFGUW1IU3JrU0J5YU9URjRWQmU5VnQ2Z0RFZ0dfbGZHby0zZ2NRdktmc0Y?oc=5",
-          "published": "Tue, 28 Jul 2026 22:49:06 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFJCVnQ1LXRXTVQ5d1lYbUlKcE9uaHFMc2ZnX0Y2MjJzeGJHM2gwRE5xNklXbndhbDc0N1pXVm9hTXBqb28wTmZ4c09OaU9DTllCaW5XeEZ3OFFGUW1IU3JrU0J5YU9URjRWQmU5VnQ2Z0RFZ0dfbGZHby0zZ2NRdktmc0Y?oc=5\" target=\"_blank\">US says it intercepted ‘surprise’ Iranian missile attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
         {
           "title": "Ebay pays couple $56mn for its role in cockroach harassment campaign",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95ZmlscXJOTWprVURBY3Y4RVFRaExVOEdzUFJYMlQxVFVHYW5SWG0tMEdIUUg2V09YTm1QbEhOTlRXWThKVG1NY3R5NWZaem05ekpEUkVsMHNJOEFIOUQ1MzlHRE90VURiUHdaaHJyZ2g?oc=5",
@@ -432,6 +425,13 @@
           "published": "Tue, 28 Jul 2026 04:00:23 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTlHSTV6eWJTbDU4NTB5b2x1aHlVVDhFVXdaZklHWnhkSlFTRGdJUU5Fa1pQWkZ2Rmt6Y1hlZ0p0dGtWRG1uamcxX2lDTE1uSjc4RWxUT0NGc2haaVZWbzViRi04RzBLdFc4UU9yNGhwZmFMT19pUlBvLXNSd0l4S0t3ZkU?oc=5\" target=\"_blank\">TotalEnergies benefits from EU sanctions reprieve on Russian gas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
+        },
+        {
+          "title": "How Iran adapted its missile war with Donald Trump",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjdxUjFLdm1kMjZXaHZkd1hwaGF1Y2JCS1NrTTlqSkFDMFF1dVFXM2s4czRNSUpTWXZRS2RyWTFSVDBQVGVjeVZBV1BSQ3JZUG9WVlZLd1gweVlVR2dERzVyX0tWTFFOMEN3bnByMlNqX0Z0T1p3QTlJWmF4UURvSktGcHc?oc=5",
+          "published": "Tue, 28 Jul 2026 04:00:15 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjdxUjFLdm1kMjZXaHZkd1hwaGF1Y2JCS1NrTTlqSkFDMFF1dVFXM2s4czRNSUpTWXZRS2RyWTFSVDBQVGVjeVZBV1BSQ3JZUG9WVlZLd1gweVlVR2dERzVyX0tWTFFOMEN3bnByMlNqX0Z0T1p3QTlJWmF4UURvSktGcHc?oc=5\" target=\"_blank\">How Iran adapted its missile war with Donald Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
         }
       ]
     },
@@ -462,17 +462,17 @@
           "source": "CNBC"
         },
         {
-          "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHBiUlVyaHctRVZvTGZUWHRscEZwSm9xZjcyaFFodWl4cTVpZTVDOUV6dldWX0FjTnJDQzB1OXJOVS11ZXF3R0hHdjJNaUtiWTBMWVZ6dEtJMnZUQlQxUXp1V3d5a2sydU1ucjBEVU9uMGVrT3NYMms3LXpoMG8tUndGRzctdDJOakFaaHRyVzQzUEFGMUt3NzJSc3jSAaIBQVVfeXFMTmJNNlA0d29BSTM5LURCSmJoUXJGeWZGSlMwcmZ4aXVKRFpXVlVPM09YVWlaNE5sbE9TV0hRTW41OGFKajNQQ3lMYnd4bmpjaUxfQlB3MmJGdkVTb3U5RnRwYWFHaXRjRDFhcVFvTV9uLTJMNEZoOVNWRzVaN24tOXE0WjNsM01sMXUyR25QVUlWNDhXQjc3dTVVemdGZ2MyZkJn?oc=5",
-          "published": "Tue, 28 Jul 2026 22:20:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHBiUlVyaHctRVZvTGZUWHRscEZwSm9xZjcyaFFodWl4cTVpZTVDOUV6dldWX0FjTnJDQzB1OXJOVS11ZXF3R0hHdjJNaUtiWTBMWVZ6dEtJMnZUQlQxUXp1V3d5a2sydU1ucjBEVU9uMGVrT3NYMms3LXpoMG8tUndGRzctdDJOakFaaHRyVzQzUEFGMUt3NzJSc3jSAaIBQVVfeXFMTmJNNlA0d29BSTM5LURCSmJoUXJGeWZGSlMwcmZ4aXVKRFpXVlVPM09YVWlaNE5sbE9TV0hRTW41OGFKajNQQ3lMYnd4bmpjaUxfQlB3MmJGdkVTb3U5RnRwYWFHaXRjRDFhcVFvTV9uLTJMNEZoOVNWRzVaN24tOXE0WjNsM01sMXUyR25QVUlWNDhXQjc3dTVVemdGZ2MyZkJn?oc=5\" target=\"_blank\">Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
-        },
-        {
           "title": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RaXzRwQ01QUWtsamFGcHE2U0Ryc0NRRjA3UVprWkhyMnlSWmZJcDJyNDAyLXZDSkRiNWh5RkhWTnJ1a09ra3Y4WDAxb1NCeE1pV3Jjc19KNXlpZ1RmdTJtZV8wRjJTLWZkYV9rMDNTS3YxZkJoQi1CQ3JuVHZXQ2U0RTFJZ21TbngySU1iZzFQZFRBM3lGdXAwVndTdnhySDUwSjkyc3NNTVdidXBrWWVRVDTSAboBQVVfeXFMTXcxR2pjSXlJd29MczNPNEdhS0piQ3ZCTFJ4ZmRVTGRvNUNscmx4MzFBbjRrWVlJMUNhR0cxREtDejFJZkEtTW1sM0F4Z0hyZkZfSEczTjdvb083anc2OHQtQzNYOUgycVRicjlGVXZKTVBZSUhDSTAydHdsdzhhLU03UnY0M1ZuaUIzc0hsT3dLLU1KdzdpcjZXSEZrbEEtNzVqMnU0YU5MTUE4YndJcTBXdlVPTEd0bW1R?oc=5",
           "published": "Tue, 28 Jul 2026 22:36:13 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RaXzRwQ01QUWtsamFGcHE2U0Ryc0NRRjA3UVprWkhyMnlSWmZJcDJyNDAyLXZDSkRiNWh5RkhWTnJ1a09ra3Y4WDAxb1NCeE1pV3Jjc19KNXlpZ1RmdTJtZV8wRjJTLWZkYV9rMDNTS3YxZkJoQi1CQ3JuVHZXQ2U0RTFJZ21TbngySU1iZzFQZFRBM3lGdXAwVndTdnhySDUwSjkyc3NNTVdidXBrWWVRVDTSAboBQVVfeXFMTXcxR2pjSXlJd29MczNPNEdhS0piQ3ZCTFJ4ZmRVTGRvNUNscmx4MzFBbjRrWVlJMUNhR0cxREtDejFJZkEtTW1sM0F4Z0hyZkZfSEczTjdvb083anc2OHQtQzNYOUgycVRicjlGVXZKTVBZSUhDSTAydHdsdzhhLU03UnY0M1ZuaUIzc0hsT3dLLU1KdzdpcjZXSEZrbEEtNzVqMnU0YU5MTUE4YndJcTBXdlVPTEd0bW1R?oc=5\" target=\"_blank\">Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHBiUlVyaHctRVZvTGZUWHRscEZwSm9xZjcyaFFodWl4cTVpZTVDOUV6dldWX0FjTnJDQzB1OXJOVS11ZXF3R0hHdjJNaUtiWTBMWVZ6dEtJMnZUQlQxUXp1V3d5a2sydU1ucjBEVU9uMGVrT3NYMms3LXpoMG8tUndGRzctdDJOakFaaHRyVzQzUEFGMUt3NzJSc3jSAaIBQVVfeXFMTmJNNlA0d29BSTM5LURCSmJoUXJGeWZGSlMwcmZ4aXVKRFpXVlVPM09YVWlaNE5sbE9TV0hRTW41OGFKajNQQ3lMYnd4bmpjaUxfQlB3MmJGdkVTb3U5RnRwYWFHaXRjRDFhcVFvTV9uLTJMNEZoOVNWRzVaN24tOXE0WjNsM01sMXUyR25QVUlWNDhXQjc3dTVVemdGZ2MyZkJn?oc=5",
+          "published": "Tue, 28 Jul 2026 22:20:01 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHBiUlVyaHctRVZvTGZUWHRscEZwSm9xZjcyaFFodWl4cTVpZTVDOUV6dldWX0FjTnJDQzB1OXJOVS11ZXF3R0hHdjJNaUtiWTBMWVZ6dEtJMnZUQlQxUXp1V3d5a2sydU1ucjBEVU9uMGVrT3NYMms3LXpoMG8tUndGRzctdDJOakFaaHRyVzQzUEFGMUt3NzJSc3jSAaIBQVVfeXFMTmJNNlA0d29BSTM5LURCSmJoUXJGeWZGSlMwcmZ4aXVKRFpXVlVPM09YVWlaNE5sbE9TV0hRTW41OGFKajNQQ3lMYnd4bmpjaUxfQlB3MmJGdkVTb3U5RnRwYWFHaXRjRDFhcVFvTV9uLTJMNEZoOVNWRzVaN24tOXE0WjNsM01sMXUyR25QVUlWNDhXQjc3dTVVemdGZ2MyZkJn?oc=5\" target=\"_blank\">Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
@@ -618,7 +618,7 @@
         {
           "title": "Iran and US trade strikes, shattering brief lull in fighting",
           "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 29 Jul 2026 00:51:45 GMT",
+          "published": "Wed, 29 Jul 2026 02:47:28 GMT",
           "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
           "source": "BBC"
         },
@@ -672,6 +672,13 @@
       "count": 10,
       "articles": [
         {
+          "title": "街头小吃越来越贵？伊朗战争改变亚洲人的餐桌",
+          "url": "https://cn.nytimes.com/business/20260729/iran-war-price-inflation-street-food-asia/",
+          "published": "Wed, 29 Jul 2026 02:37:02 +0000",
+          "summary": "<address>MUKTITA SUHARTONO, YAN ZHUANG, MAX KIM, SUHASINI RAJ</address><time datetime=\"2026-07-29 10:27:46\">2026年7月29日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/07/multimedia/00xp-streetfood-khtp/00xp-streetfood-khtp-master1050.jpg\" width=\"1050\" /><figcaption>首尔南大门市场的一部分被称为刀削面街，以手工切制的刀削面闻名。 <cite>Chang W. Lee/The New York Times</cite></figcaption></figure><section><p>印度的咖喱角。韩国的刀削面。印度尼西亚的各种街头小吃。</p><p>亚洲各地的人们发现，那些曾经价格亲民的日常主食如今已不再那么便宜。伊朗战争带来的冲击波正在全球蔓延。</p><p>亚洲各国严重依赖来自中东的能源进口，随着美伊初步停火协议破裂、冲突重燃，这场战争造成的经济冲击已对亚洲各国<a href=\"https://cn.nytimes.com/asia-pacific/20260421/asia-pacific-iran-war-oil/\">产生深远影响</a>。</p><p>自今年2月战事爆发以来，<a href=\"https://www.nytimes.com/2026/07/28/world/asia/iran-war-southeast-asia-tourism.html\">亚洲旅游业全面下滑</a>，通货膨胀飙升，食材价格飞涨。无论是消费者还是餐饮摊贩，都切身感受到了经济压力。</p><p>“我们都在同一条船上，只希望它不要沉。”曼谷街头小吃摊主素帕特拉·鲁阿姆托说。</p><p><b>韩国</b></p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/10/multimedia/00xp-streetfood-skorea-lwhg/00xp-streetfood-skorea-lwhg-master1050.jpg\" /><small style=\"color: #999;\">韩国的消费者机构在3月报告称，刀削面的平均价格已突破1万韩元（约6.7美元）。</small></p><p>多年来，金文贞（音）在首尔南部经营一家餐馆，以9000韩元（约合6美元）一碗的价格出售刀削面（配鲜美高汤的手切面条）。但随着原料成本持续上涨，她计划在未来几个月内将价格提高到至少1万韩元。</p><p>今年3月，韩国消费者机构宣布，首尔一碗刀削面的平均售价已经突破1万韩元。这一消息引发韩国媒体的密集报道，因为这个价格被视为一个重要的心理关口。</p><p>首尔居民迫切寻找平价餐食，且对价格上涨极其敏感，因此今年早些时候他们创建了一个网友共享地图，专门标注餐食价格在1万韩元或以下的餐厅。</p><p>“每一种食材都在涨价。”59岁的金文贞说道，她和女儿一起经营这家店。她列举了面粉、蛤蜊和蔬菜等原料。</p><p>她表示，并不担心涨价会吓跑顾客。“他们也看得到，什么东西都在涨价。”她说，“所以他们怎么能怪我们呢？”</p><p><b>印度</b></p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/06/multimedia/00xp-streetfood-india-bhpf/00xp-streetfood-india-bhpf-master1050.jpg\" /><small style=\"color: #999;\">德里老城区一家店铺里，正在制作的咖喱角。</small></p><p>在新德里东南方向约400公里、以街头美食闻名的勒克瑙，亚达夫牛奶杂货店的店主舒巴姆·亚达夫站在柜台后感叹，靠卖咖喱角“几乎赚不到什么钱了”。咖喱角是一种包着土豆馅的美味酥皮点心，也是印度最著名的美食之一。</p><p>29岁的亚达夫说，他使用的煤气罐价格已经翻了一番，达到3600卢比（约合38美元）。印度约60%的液化石油气依赖进口，其中大部分经由霍尔木兹海峡运输。战争导致该海峡运输受阻，也威胁到了印度燃气灶的燃料供应。</p><p>亚达夫说，他无法像燃气价格那样把咖喱角的售价翻倍，因此每个咖喱角只涨了约1美分。但这样一来，利润越来越薄，他担心未来几个月可能需要进一步提价。</p><p>他说，他希望顾客足够喜欢他的咖喱角，愿意继续购买。“但问题在于，他们究竟能接受多高的价格？”他问道。</p><p><b>泰国</b></p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/06/multimedia/00xp-streetfood-thailand-qpzm/00xp-streetfood-thailand-qpzm-master1050.jpg\" /><small style=\"color: #999;\">曼谷一家街头美食市场里出售的青木瓜沙拉。</small></p><p>鲁阿姆托已经卖了20年青木瓜沙拉，战争爆发前，每天早上摊位还没摆好，她就已经陆续收到现场顾客和外卖平台的订单。午餐高峰时，总有大批顾客排队等候，其中许多是上班族，他们最长要等30分钟。</p><p>如今，轮到她等待了。</p><p>“现在太差了，生意非常冷清，”62岁的鲁阿姆托说。</p><p>尽管成本上涨了约30%，但她不敢涨价，担心这样会失去更多顾客。</p><p>“即使维持现在的价格，我们还是不断流失顾客，”她说，“大家真的过得很节省，因为所有东西都涨价了。”</p><p>她每天的利润已经减少了一半以上，只剩约1000泰铢（约30美元），她不确定自己的生意还能撑多久。和其他餐饮摊贩聊天时，她发现大家的情况都差不多。</p><p>“所有人都一样，”她说。</p><p><b>印度尼西亚</b></p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/15/multimedia/00xp-streetfood-chwq/00xp-streetfood-chwq-master1050.jpg\" /><small style=\"color: #999;\">雅加达一处传统市场里，正在备餐的摊贩。</small></p><p>“如果我不涨价，就活不下去了。”48岁的丽达说。她在雅加达卖加多加多，这是一道淋着沙嗲酱的水煮蔬菜沙拉。</p><p>站在自己的餐车旁，她一口气列举了涨价的食材，包括花生和塑料袋。她说，去市场采购时，“我都不知道当天到底要花多少钱。”</p><p>丽达（和许多印尼人一样，她没有姓）说，自战争爆发以来，她的利润减少了一半以上，生意甚至比新冠疫情期间还要糟糕。至少那时还有顾客。</p><p>“她说，“现在，根本没人买。”</p><p>虽然她知道顾客的日子也不好过，但她觉得自己别无选择，只能把每份加多加多的售价提高1000印尼盾（约合5美分），涨到1.8万印尼盾（约1美元）。</p><p>“这是我唯一会做的事情，也是我赖以谋生的工作。”经营这辆餐车近30年的丽达说，“我们只能设法挺过去。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/muktita-suhartono\" rel=\"nofollow\" target=\"_blank\">Muktita Suhartono</a>报道泰国和印度尼西亚新闻，常驻曼谷。</p><p><a href=\"https://www.nytimes.com/by/yan-zhuang\" rel=\"nofollow\" target=\"_blank\">Yan Zhuang</a>是时报驻首尔记者，报道突发新闻。</p><p><a href=\"https://www.nytimes.com/by/suhasini-raj\" rel=\"nofollow\" target=\"_blank\">Suhasini Raj</a>是时报驻新德里记者，自2014年起报道印度新闻。</p><p>翻译：杜然</p><p><a href=\"https://www.nytimes.com/2026/07/28/world/asia/iran-war-price-inflation-street-food-asia.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+          "source": "纽约时报"
+        },
+        {
           "title": "畅销推理小说作家东野圭吾去世，终年68岁",
           "url": "https://cn.nytimes.com/obits/20260729/keigo-higashino-author-dead/",
           "published": "Wed, 29 Jul 2026 01:37:02 +0000",
@@ -689,7 +696,7 @@
           "title": "市场对AI支出和中国芯片竞争担忧加剧，全球科技股暴跌",
           "url": "https://cn.nytimes.com/business/20260729/stocks-ai-chips/",
           "published": "Wed, 29 Jul 2026 00:07:02 +0000",
-          "summary": "<address>RIVER AKIRA DAVIS</address><time datetime=\"2026-07-29 07:43:05\">2026年7月29日</time><figure><img height=\"718\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/28/multimedia/28biz-tech-markets-qjwv/28biz-tech-markets-qjwv-master1050.jpg\" width=\"1050\" /><figcaption>韩国基准股指周二大幅下挫。 <cite>Jung Yeon-Je/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>周二，科技股大幅下挫，拖累因素包括市场担忧建设人工智能系统所需投入极其庞大，以及对来自中国在存储芯片领域竞争加剧的忧虑。存储芯片是人工智能的关键组件，长期以来由韩国等国主导。</p><p>韩国基准股指Kospi周二暴跌逾10%，一度触发临时停牌。日本和台湾的基准指数均下跌约4%。中国股市跌幅超过2%。</p><p>以科技股为主的纳斯达克指数期货下跌约1%。美国芯片公司美光盘前跌6%，芯片龙头英伟达同样走低，埃隆·马斯克旗下的火箭和人工智能公司SpaceX也出现下跌。欧洲方面，德国芯片制造商英飞凌下跌4%，荷兰半导体设备制造商ASML跌3%。</p><p>最新一轮与人工智能相关的市场震荡始于周一。当天，中国领先的存储芯片制造商长鑫科技在完成轰动性的首次公开募股后<a href=\"https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/\">开始交易</a>。该公司股价上市首日飙升近500%，迅速成为上海证券交易所市值最高的公司。周二股价回落4%。</p><p>此次上市引发了广泛担忧，即行业竞争加剧可能威胁到韩国、日本、台湾及美国的全球存储芯片制造竞争对手。</p><p>周二亚洲股市开盘即跌，人工智能和半导体板块跌幅最大。日本闪存制造商铠侠下跌逾18%，韩国半导体公司三星电子下跌约13%。</p><p>自6月底以来，亚洲股市整体一直处于下行趋势，市场持续担忧今年这轮人工智能行情是否具有可持续性。</p><p>本周，ChatGPT母公司OpenAI接近达成一项<a href=\"https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html\">租用俄亥俄州价值5000亿美元数据中心的协议</a>，并获英伟达2500亿美元资金支持，凸显了全球人工智能竞赛中保持领先所需的惊人支出规模。上周，特斯拉和谷歌母公司“字母表”的财报因披露其庞大的人工智能支出需求而引发市场震动。</p><p>周一，中国初创公司月之暗面<a href=\"https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/\" title=\"Link: https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/\">发布了其最新人工智能模型的技术细节</a>，加剧了投资者对中美人工智能竞赛的担忧。</p><p>对于亚洲而言，最新这轮市场动荡无疑来得不是时候。人工智能热潮一直是该地区少数的经济亮点之一。在韩国、台湾等市场，芯片出口增长和人工智能概念股估值飙升<a href=\"https://cn.nytimes.com/business/20260625/taiwan-korea-ai-chips/\" title=\"Link: https://cn.nytimes.com/business/20260625/taiwan-korea-ai-chips/\">掩盖了</a>经济整体依然疲弱的现实，而这些经济体仍<a href=\"https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html\" title=\"Link: https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html\">高度依赖</a>来自中东的能源进口。</p><p>伊朗战争是投资者的另一大隐忧，近期波斯湾和红海的石油出口受限推高了油气价格，从而扰动市场。但特朗普总统周一表示，这场持续数月的战争“很有可能”通过新一轮外交谈判取得突破。</p><p>近期战事暂停有助于缓解油价，国际基准布伦特原油周二跌至每桶约84美元。不过，自战争爆发以来，原油价格已上涨逾15%，推高了汽油及多种石油衍生产品的价格。</p><p>对科技股前景的担忧将很快再次面临检验——微软、Meta以及韩国半导体巨头SK海力士定于周三发布财报。周四，苹果、亚马逊和三星电子将公布业绩。</p></section><footer><p><a href=\"https://www.nytimes.com/by/joe-rennison\" rel=\"nofollow\" target=\"_blank\">Joe Rennison</a>撰写有关金融市场的文章，内容包括记录股市的变幻莫测、解释华尔街内部人士常常难以理解的交易决策等。</p><p><a href=\"https://www.nytimes.com/by/river-akira-davis\" rel=\"nofollow\" target=\"_blank\">River Akira Davis</a>常驻东京，报道日本经济和商业新闻。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+          "summary": "<address>RIVER AKIRA DAVIS</address><time datetime=\"2026-07-29 07:43:05\">2026年7月29日</time><figure><img height=\"718\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/28/multimedia/28biz-tech-markets-qjwv/28biz-tech-markets-qjwv-master1050.jpg\" width=\"1050\" /><figcaption>韩国基准股指周二大幅下挫。 <cite>Jung Yeon-Je/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>周二，科技股大幅下挫，拖累因素包括市场担忧建设人工智能系统所需投入极其庞大，以及对来自中国在存储芯片领域竞争加剧的忧虑。存储芯片是人工智能的关键组件，长期以来由韩国等国主导。</p><p>韩国基准股指Kospi周二暴跌逾10%，一度触发临时停牌。日本和台湾的基准指数均下跌约4%。中国股市跌幅超过2%。</p><p>以科技股为主的纳斯达克指数期货下跌约1%。美国芯片公司美光盘前跌6%，芯片龙头英伟达同样走低，埃隆·马斯克旗下的火箭和人工智能公司SpaceX也出现下跌。欧洲方面，德国芯片制造商英飞凌下跌4%，荷兰半导体设备制造商ASML跌3%。</p><p>最新一轮与人工智能相关的市场震荡始于周一。当天，中国领先的存储芯片制造商长鑫科技在完成轰动性的首次公开募股后<a href=\"https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/\">开始交易</a>。该公司股价上市首日飙升近500%，迅速成为上海证券交易所市值最高的公司。周二股价回落4%。</p><p>此次上市引发了广泛担忧，即行业竞争加剧可能威胁到韩国、日本、台湾及美国的全球存储芯片制造竞争对手。</p><p>周二亚洲股市开盘即跌，人工智能和半导体板块跌幅最大。日本闪存制造商铠侠下跌逾18%，韩国半导体公司三星电子下跌约13%。</p><p>自6月底以来，亚洲股市整体一直处于下行趋势，市场持续担忧今年这轮人工智能行情是否具有可持续性。</p><p>本周，ChatGPT母公司OpenAI接近达成一项<a href=\"https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html\">租用俄亥俄州价值5000亿美元数据中心的协议</a>，并获英伟达2500亿美元资金支持，凸显了全球人工智能竞赛中保持领先所需的惊人支出规模。上周，特斯拉和谷歌母公司“字母表”的财报因披露其庞大的人工智能支出需求而引发市场震动。</p><p>周一，中国初创公司月之暗面<a href=\"https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/\" title=\"Link: https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/\">发布了其最新人工智能模型的技术细节</a>，加剧了投资者对中美人工智能竞赛的担忧。</p><p>对于亚洲而言，最新这轮市场动荡无疑来得不是时候。人工智能热潮一直是该地区少数的经济亮点之一。在韩国、台湾等市场，芯片出口增长和人工智能概念股估值飙升<a href=\"https://cn.nytimes.com/business/20260625/taiwan-korea-ai-chips/\" title=\"Link: https://cn.nytimes.com/business/20260625/taiwan-korea-ai-chips/\">掩盖了</a>经济整体依然疲弱的现实，而这些经济体仍<a href=\"https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html\" title=\"Link: https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html\">高度依赖</a>来自中东的能源进口。</p><p>伊朗战争是投资者的另一大隐忧，近期波斯湾和红海的石油出口受限推高了油气价格，从而扰动市场。但特朗普总统周一表示，这场持续数月的战争“很有可能”通过新一轮外交谈判取得突破。</p><p>近期战事暂停有助于缓解油价，国际基准布伦特原油周二跌至每桶约84美元。不过，自战争爆发以来，原油价格已上涨逾15%，推高了汽油及多种石油衍生产品的价格。</p><p>对科技股前景的担忧将很快再次面临检验——微软、Meta以及韩国半导体巨头SK海力士定于周三发布财报。周四，苹果、亚马逊和三星电子将公布业绩。</p></section><footer><p><a href=\"https://www.nytimes.com/by/joe-rennison\" rel=\"nofollow\" target=\"_blank\">Joe Rennison</a>撰写有关金融市场的文章，内容包括记录股市的变幻莫测、解释华尔街内部人士常常难以理解的交易决策等。</p><p><a href=\"https://www.nytimes.com/by/river-akira-davis\" rel=\"nofollow\" target=\"_blank\">River Akira Davis</a>常驻东京，报道日本经济和商业新闻。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer>",
           "source": "纽约时报"
         },
         {
@@ -703,14 +710,14 @@
           "title": "参与镇压维吾尔人的前新疆警察：我也是受害者",
           "url": "https://cn.nytimes.com/china/20260728/china-uyghurs/",
           "published": "Tue, 28 Jul 2026 06:37:01 +0000",
-          "summary": "<address>袁莉</address><time datetime=\"2026-07-28 02:09:49\">2026年7月28日</time><section><p>在德国联邦议院发表的简短演讲进行到一半时，张亚博开始强忍泪水。</p><p>张亚博曾在新疆当了九年警察，是中国对该地区维吾尔人口实施监视、拘禁和思想灌输<a href=\"https://www.nytimes.com/zh/2019/11/16/world/asia/xinjiang-documents-chinese.html\">运动</a>的执行者。在这场运动的最高潮，据估计有100万维吾尔及其他穆斯林少数民族被关押在<a href=\"https://cn.nytimes.com/china/20180908/china-builds-a-vast-network-of-detention-camps-to-transform-muslims/\">拘禁营</a>中。</p><p>数以万计的警察在新疆执行中国的国家压迫政策，但张亚博是极少数站出来发声的人之一。今年6月，站在德国议员和人权活动人士面前，他将新疆描述为一座被“铁壁”包围的巨大监狱。“那堵墙不仅囚禁了无数无辜的维吾尔人，”他说，“也囚禁了那些奉命执行者们的灵魂。”</p><p>张亚博讲述了在中国安全机构工作面临的压力：无休止的倒班、睡在办公室，以及对受罚的持续恐惧。他说，自去年夏天他在德国申请庇护后，中国当局冻结了他的银行账户，给他贴上了叛徒的标签，并骚扰他的家人。</p><p>他后来告诉我，在演讲结束时，他哭得“像个孩子”。他匆忙离开了房间，没有再回来。</p><p>“他身上背负的所有压力、所有恐惧、所有情绪”似乎都在那一刻爆发了，出席了张亚博演讲的新疆问题专家郑国恩(Adrian Zenz)说。“就像一座挡住巨量洪水的大坝决堤了一样。”</p><p>张亚博对他在新疆经历的描述印证了长期以来有关中国共产党残酷镇压维吾尔人的记录，也为这一记录增添了细节和内部视角。这也揭示出，在协助执行这些镇压政策的过程中，一个追求社会地位提升的普通人会得到什么，又会失去什么。</p><p>张亚博提供了关于其服役历史的大量文件证明，包括他的警察身份证明、工资和社会保障记录的复印件，以及他在审讯和政治宣传会议上的照片。但我无法确切证实他在新疆到底做了什么或没做什么；我只能依赖于他的叙述，而且他可能还有所隐瞒。</p><p>中国政府否认在新疆侵犯人权，称这些营地是为打击恐怖主义和宗教极端主义而设立的职业培训中心。中国政府表示这些中心已于2019年关闭。</p><p>鉴于中国有报复流亡公民的记录，张亚博站出来指证不公展现出了极大的勇气。但他所寻求的不仅仅是赞誉，他希望自己也能被承认为受害者——一个他参与了近十年的国家机器的受害者。</p><p><b>摆脱贫困的艰难之路</b></p><p>对张亚博来说，搬到新疆、随后加入当地警察队伍为他提供了一条往上爬的出路。他1986年出生于一个贫困的汉族农村家庭，生活在河南省中部的一个村庄里，那里直到他八岁时才通上电。他于2006年前往新疆读大学，毕业后留在一所乡村小学教数学。他与一位来自老家省份的女子结婚，两人于2011年生下一个儿子。</p><p>2014年底，为了获得更高的薪酬，他辞去教职，到和田地区的一家拘禁中心担任看守，和田地区约90%的人口是维吾尔族。他的月薪从当老师时的约400美元涨到了约650美元。</p><p>他说，近两年里，他的职责包括监控录像、分发食物和药品，以及收集被拘禁者（其中大多数是维吾尔人）的罪证。他听到过审讯室里传出的尖叫声，看到过被拘禁者遭到殴打和被剥夺睡眠。去提审被拘禁者时，他有时会发现打断的警棍。他说，在当时，他接受了政府的说法，认为那些被审讯的人都是恐怖分子和分裂分子。</p><p>为了寻求更高的薪水和更高的社会地位，张亚博参加了公务员考试，在2016年底正式加入警察队伍，当时北京正准备加强在新疆的大规模拘禁运动。他说，他为自己的制服感到自豪，并且他的月薪增加到了约900美元。</p><p>2017年初，新疆维吾尔自治区新任党委书记陈全国呼吁发起一场“粉碎性打击、毁灭性打击”。根据<a href=\"https://www.nytimes.com/zh/2019/11/16/world/asia/xinjiang-documents-chinese.html\">泄露的政府文件</a>，这包括拘留任何表现出宗教激进主义或反政府观点“症状”的人。这些症状可能包括留长胡须、学习阿拉伯语和祈祷。</p><p>张亚博参与了夜间突袭维吾尔人家庭没收《古兰经》和其他宗教物品的行动。“我通常是第一个冲进去的，”他回忆道。“我相信他们是坏人。那是当时灌输给我们的思想，认为他们都是坏人。”</p><p>在2017年的大部分时间里，张亚博跟随大巴车队，将数百名、有时甚至数千名维吾尔人运送到新疆各地的监狱（新疆的面积几乎是加利福尼亚州的四倍）。在旅途中，被拘禁者被戴上手铐、套上头罩，并被命令使用塑料桶作为厕所。张亚博负责向他们分发面包和水。</p><p>“我的工作就是为车上的人服务，”他说。</p><p>2018年底，他被分配到一个派出所后逐渐开始感到沮丧。他说，他的同事随时都会带入维吾尔囚犯，而他负责对囚犯进行搜身，并协助决定将他们送往哪里。他的睡眠经常被打断，上司的脾气也很暴躁。</p><p>他很高兴能被短暂调走，去监督大约3000名被派去为汉族农民摘棉花的维吾尔劳工。他们清晨5点起床，乘车数小时前往棉花田，直到深夜才被送回宿舍。</p><p>对张亚博来说，这是一次很好的喘息机会。他的主要任务是确保没有人逃跑或祈祷。</p><p>他通过中国外交部的声明了解到了国际社会对新疆强迫劳动的批评，并接受了政府的说法，即这些指控是虚假的，意在抹黑中国。“我没有想太多，”他说。“我从未停下来思考这是不是真的。”</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/31/multimedia/Biz-Newworld-Police-02-wfhc/Biz-Newworld-Police-02-wfhc-jumbo.jpg\" /></p><figcaption>张亚博将新疆的这场运动视为一道高墙，囚禁着“那些奉命执行该运动的人们的灵魂”。 <cite>Felix Schmitt for The New York Times</cite></figcaption></figure><p><b>特权与惩罚</b></p><p>多年来，张亚博在很大程度上接受了上级下达给他的命令。但在疫情期间，政府的强制措施开始让他有了切肤之痛。他说，他曾在一个村庄的警务室里被限制了大约10天，一次出差后，又在一个废弃的派出所里被隔离了近一个月。“疫情令人更加痛苦，因为它直接关系到我个人，”他说。</p><p>2021年8月，他被派往约有1700名维吾尔人的玉如什开村。村里约40%的成年人曾在拘禁营里待过，约100人仍在服刑，这意味着有些家庭里只剩下孩子和祖父母。在两名维吾尔助手的帮助下，张亚博的工作是调查在家中祈祷、缺席每周升国旗仪式、未能参加强制性中文课程，甚至未参加慢跑或锻炼的举报。</p><p>政府的监控系统会对“异常”活动自动生成警报。他说，如果一户人家的用电量增加，警察就会上门询问这家人为什么熬夜。</p><p>警察工作给张亚博带来了金钱、地位和特权：在医院享受优先治疗、免费停车。到2023年，他每月的税后收入已升至约1250美元。</p><p>但他说，在警察等级制度中，他是一个可有可无的消耗品。张亚博说，上级经常侮辱警员，称他们为需要被鞭打才会干活的驴。在他到村里工作第一年的12月，因为漏接了一个对讲机呼叫，一位上司惩罚他在寒冷的天气中在一个道路检查站连续值班72小时，而且没有足够御寒衣物。</p><p>加班任务接踵而至，他长期与家人分离。自2017年以来，他就没有和父母一起过过春节，请假参加姐妹婚礼的申请也被拒绝。平均下来，他每个月只能见妻儿一次。</p><p>此外，还有必须要完成的指标。从2023年开始，他被要求每周提供一条可以作为拘禁依据的线索。张亚博说，他经常不能完成指标，不得不提交检讨书，惩罚是24小时连轴工作。与村民的密切接触开始挑战他此前吸收的关于维吾尔人的刻板印象。他变得越来越不愿意进入村民的家中或搜查他们的私人通信，尽管他仍在继续执行其工作所要求的监控。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/24/multimedia/Biz-Newworld-Police-07-wfhc/Biz-Newworld-Police-07-wfhc-master1050.jpg\" /><small style=\"color: #999;\">在警队任职为张亚博带来了更高的薪水和更多福利。</small></p><p><b>自我再教育</b></p><p>到2023年9月，张亚博再也无法忍受了，于是辞职。</p><p>他搬到中国南方城市广州，在那里学英语，希望最终能出国留学。他开始使用VPN绕过中国的互联网防火墙。他最先搜索的两个词是“新疆”和“陈全国”——后者是该地区前强硬派党委书记的名字。他说，他无法相信，自己曾工作过的那些被他称为“再教育中心”和“职业培训中心”的设施在网上竟被描述为集中营。在那之前，他只在有关二战的电影中见过这个词。</p><p>“我查到的信息让我头疼欲裂：我脑子里的一边说着一件事，另一边却说着完全相反的东西，”他说。“两种截然不同的说法在我脑海里交战，我夜不能寐。”</p><p>在2024年初正式辞职后，他内心受创，急需慰藉与力量，于是转向了宗教信仰。他在一本睡前给儿子读的圣经故事书中找到了平静。2025年4月，张先生在广州受洗成为天主教徒。四个月后，他带着14岁的儿子参加了一次欧洲旅行。他早已决定，如果能脱团，就去寻求庇护。</p><p>当他们的旅行团进入新天鹅堡——这座巴伐利亚宫殿是迪士尼睡美人城堡的蓝本——张亚博和儿子悄悄溜走了。他们前往慕尼黑，去了世界维吾尔代表大会。张亚博在新疆曾多次听说过这个倡导组织的名字，据称那是一个分裂主义恐怖组织。</p><p>他已经申请了庇护，现住在德国南部的一处收容所里，他的儿子则住在附近的寄养机构，就读于一所德国学校。一次晚餐吃意大利面时，这个15岁的男孩告诉我，他很想念新疆的爆辣炒米粉。张亚博的妻子仍在新疆，两人已提出离婚。</p><p>张亚博现在把时间都花在与学者、记者和人权组织交流上，记录对维吾尔人的迫害是如何实施的。</p><p>“在中国数百万警察中，他是唯一一个站出来说出真相的人，”帮助张亚博在德国安顿下来的世界维吾尔代表负责人之一海玉尔·库尔班表示。他说，他的组织最初对张亚博深表怀疑，但在审阅了他的文件后，疑虑开始逐渐消散。</p><p>华盛顿非营利组织“共产主义受难者纪念基金会”中国研究主任、新疆问题专家郑国恩表示，张亚博提供了“我们此前主要”从政府文件、官方媒体报道和幸存者证词中“推断出的基层现实情况。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/24/multimedia/Biz-Newworld-Police-06-wfhc/Biz-Newworld-Police-06-wfhc-master1050.jpg\" /><small style=\"color: #999;\">张亚博于2025年接受洗礼成为天主教徒的照片。</small></p><p>维尔茨堡大学研究中国问题的学者安晓波(Björn Alpermann)曾对张亚博进行过深入的采访，他说，对方的陈述提供了非同寻常的具体细节，说明在大规模拘禁运动的高潮过后，镇压是如何继续存在并在乡村生活中变得“常规化”。</p><p>然而，曾在德国与张亚博共事过的人告诉我，我们只了解他愿意让我们知道的部分，而他掌握的情况很可能远多于他所透露的。</p><p>他清晰生动地记得他填写过的表格、执行过的命令以及他所承受过的屈辱，但对于最严重的虐待问题却记忆模糊。他描述过听到惨叫声，也谈到审讯后看到被拘押者的情形，但对于拘留设施内的死亡、性暴力和酷刑等细节则提供得较少。他坚称自己一直是诚实和坦率的。</p><p>他也希望世界承认他作为一名基层警员所遭受的苦难。</p><p>“我的苦难与维吾尔人相当，甚至在某些方面更为深重，”他反复对我说，“你们记者为什么不写写我？为什么只关注维吾尔人？”</p><p>当然，汉族警察并没有被迫放弃自己的语言或文化，而且无论多么困难，他们都可以离开警队或离开新疆。他们不会遭受任意拘押、强迫劳动或酷刑。他们也不会因为打篮球或做俯卧撑就被视为潜在的恐怖嫌疑人。</p><p>“无论你在工作中受了多少苦，你终究可以回家，好好吃顿饭，想象一个未来，”维吾尔活动人士库尔班说。“你不会生活在持续的、令人窒息的恐惧中——担心你10年前说过的话会让你明天就消失。”</p><p>安晓波说，尽管如此，张亚博觉得受到虐待的经历表明，该系统对待内部的工作人员是多么的不人道。而对于像张亚博这样低级别的警员来说，离开中国并公开发声本身就是对抗该系统的一种方式。</p><p>张亚博坚称，他本人从未对任何维吾尔人实施过酷刑或虐待。他形容自己只是国家机器中的一个小齿轮，负责填写表格、看守设施和处理后勤事务。他表示，责任在于上级和维吾尔族辅警，是后者执行了许多最直接、最粗暴的任务。他坚称，像他这样的底层汉族警察是无辜的。</p><p>目前尚不清楚张亚博的自辩清白到底是一种自我保护，还是因为无法承受更充分地承认事实所意味的后果，抑或仅仅是多年在体制内形成的一种思维习惯。库尔班表示，他不相信这种无视是故意的。在反复追问张亚博之后，我也得出了类似的结论：在维吾尔人遭受巨大不公这一更广阔背景下，他似乎真的无法看清自己所扮演的角色。</p><p>他的挣扎也折射出他背后那个国家的真实状况，在那里，官方长期压制公众对大饥荒、文化大革命和1989年天安门镇压事件的记忆。与德国数十年来一直在清算纳粹帮凶不同，中国几乎没有为围绕帮凶、罪行和责任进行持续性的公共讨论留下空间。</p><p>库尔班说，在一个暴虐的系统内工作并不会自动地把人变成怪物。但只承担次要职责、没有亲身实施最严重的虐待行为亦不能免责。</p><p>张亚博表示，他的信仰告诉他，自己现在的责任就是公开发声。</p><p>他在德国联邦议院演讲的结尾说道：“如果保持沉默，你就是问题的一部分。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/li-yuan\" rel=\"nofollow\" target=\"_blank\">袁莉</a>为《纽约时报》撰写“新新世界”专栏，专注中国及亚洲科技、商业和政治交叉议题。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/28/business/china-uyghurs.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer>",
+          "summary": "<address>袁莉</address><time datetime=\"2026-07-28 02:09:49\">2026年7月28日</time><section><p>在德国联邦议院发表的简短演讲进行到一半时，张亚博开始强忍泪水。</p><p>张亚博曾在新疆当了九年警察，是中国对该地区维吾尔人口实施监视、拘禁和思想灌输<a href=\"https://www.nytimes.com/zh/2019/11/16/world/asia/xinjiang-documents-chinese.html\">运动</a>的执行者。在这场运动的最高潮，据估计有100万维吾尔及其他穆斯林少数民族被关押在<a href=\"https://cn.nytimes.com/china/20180908/china-builds-a-vast-network-of-detention-camps-to-transform-muslims/\">拘禁营</a>中。</p><p>数以万计的警察在新疆执行中国的国家压迫政策，但张亚博是极少数站出来发声的人之一。今年6月，站在德国议员和人权活动人士面前，他将新疆描述为一座被“铁壁”包围的巨大监狱。“那堵墙不仅囚禁了无数无辜的维吾尔人，”他说，“也囚禁了那些奉命执行者们的灵魂。”</p><p>张亚博讲述了在中国安全机构工作面临的压力：无休止的倒班、睡在办公室，以及对受罚的持续恐惧。他说，自去年夏天他在德国申请庇护后，中国当局冻结了他的银行账户，给他贴上了叛徒的标签，并骚扰他的家人。</p><p>他后来告诉我，在演讲结束时，他哭得“像个孩子”。他匆忙离开了房间，没有再回来。</p><p>“他身上背负的所有压力、所有恐惧、所有情绪”似乎都在那一刻爆发了，出席了张亚博演讲的新疆问题专家郑国恩(Adrian Zenz)说。“就像一座挡住巨量洪水的大坝决堤了一样。”</p><p>张亚博对他在新疆经历的描述印证了长期以来有关中国共产党残酷镇压维吾尔人的记录，也为这一记录增添了细节和内部视角。这也揭示出，在协助执行这些镇压政策的过程中，一个追求社会地位提升的普通人会得到什么，又会失去什么。</p><p>张亚博提供了关于其服役历史的大量文件证明，包括他的警察身份证明、工资和社会保障记录的复印件，以及他在审讯和政治宣传会议上的照片。但我无法确切证实他在新疆到底做了什么或没做什么；我只能依赖于他的叙述，而且他可能还有所隐瞒。</p><p>中国政府否认在新疆侵犯人权，称这些营地是为打击恐怖主义和宗教极端主义而设立的职业培训中心。中国政府表示这些中心已于2019年关闭。</p><p>鉴于中国有报复流亡公民的记录，张亚博站出来指证不公展现出了极大的勇气。但他所寻求的不仅仅是赞誉，他希望自己也能被承认为受害者——一个他参与了近十年的国家机器的受害者。</p><p><b>摆脱贫困的艰难之路</b></p><p>对张亚博来说，搬到新疆、随后加入当地警察队伍为他提供了一条往上爬的出路。他1986年出生于一个贫困的汉族农村家庭，生活在河南省中部的一个村庄里，那里直到他八岁时才通上电。他于2006年前往新疆读大学，毕业后留在一所乡村小学教数学。他与一位来自老家省份的女子结婚，两人于2011年生下一个儿子。</p><p>2014年底，为了获得更高的薪酬，他辞去教职，到和田地区的一家拘禁中心担任看守，和田地区约90%的人口是维吾尔族。他的月薪从当老师时的约400美元涨到了约650美元。</p><p>他说，近两年里，他的职责包括监控录像、分发食物和药品，以及收集被拘禁者（其中大多数是维吾尔人）的罪证。他听到过审讯室里传出的尖叫声，看到过被拘禁者遭到殴打和被剥夺睡眠。去提审被拘禁者时，他有时会发现打断的警棍。他说，在当时，他接受了政府的说法，认为那些被审讯的人都是恐怖分子和分裂分子。</p><p>为了寻求更高的薪水和更高的社会地位，张亚博参加了公务员考试，在2016年底正式加入警察队伍，当时北京正准备加强在新疆的大规模拘禁运动。他说，他为自己的制服感到自豪，并且他的月薪增加到了约900美元。</p><p>2017年初，新疆维吾尔自治区新任党委书记陈全国呼吁发起一场“粉碎性打击、毁灭性打击”。根据<a href=\"https://www.nytimes.com/zh/2019/11/16/world/asia/xinjiang-documents-chinese.html\">泄露的政府文件</a>，这包括拘留任何表现出宗教激进主义或反政府观点“症状”的人。这些症状可能包括留长胡须、学习阿拉伯语和祈祷。</p><p>张亚博参与了夜间突袭维吾尔人家庭没收《古兰经》和其他宗教物品的行动。“我通常是第一个冲进去的，”他回忆道。“我相信他们是坏人。那是当时灌输给我们的思想，认为他们都是坏人。”</p><p>在2017年的大部分时间里，张亚博跟随大巴车队，将数百名、有时甚至数千名维吾尔人运送到新疆各地的监狱（新疆的面积几乎是加利福尼亚州的四倍）。在旅途中，被拘禁者被戴上手铐、套上头罩，并被命令使用塑料桶作为厕所。张亚博负责向他们分发面包和水。</p><p>“我的工作就是为车上的人服务，”他说。</p><p>2018年底，他被分配到一个派出所后逐渐开始感到沮丧。他说，他的同事随时都会带入维吾尔囚犯，而他负责对囚犯进行搜身，并协助决定将他们送往哪里。他的睡眠经常被打断，上司的脾气也很暴躁。</p><p>他很高兴能被短暂调走，去监督大约3000名被派去为汉族农民摘棉花的维吾尔劳工。他们清晨5点起床，乘车数小时前往棉花田，直到深夜才被送回宿舍。</p><p>对张亚博来说，这是一次很好的喘息机会。他的主要任务是确保没有人逃跑或祈祷。</p><p>他通过中国外交部的声明了解到了国际社会对新疆强迫劳动的批评，并接受了政府的说法，即这些指控是虚假的，意在抹黑中国。“我没有想太多，”他说。“我从未停下来思考这是不是真的。”</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/31/multimedia/Biz-Newworld-Police-02-wfhc/Biz-Newworld-Police-02-wfhc-jumbo.jpg\" /></p><figcaption>张亚博将新疆的这场运动视为一道高墙，囚禁着“那些奉命执行该运动的人们的灵魂”。 <cite>Felix Schmitt for The New York Times</cite></figcaption></figure><p><b>特权与惩罚</b></p><p>多年来，张亚博在很大程度上接受了上级下达给他的命令。但在疫情期间，政府的强制措施开始让他有了切肤之痛。他说，他曾在一个村庄的警务室里被限制了大约10天，一次出差后，又在一个废弃的派出所里被隔离了近一个月。“疫情令人更加痛苦，因为它直接关系到我个人，”他说。</p><p>2021年8月，他被派往约有1700名维吾尔人的玉如什开村。村里约40%的成年人曾在拘禁营里待过，约100人仍在服刑，这意味着有些家庭里只剩下孩子和祖父母。在两名维吾尔助手的帮助下，张亚博的工作是调查在家中祈祷、缺席每周升国旗仪式、未能参加强制性中文课程，甚至未参加慢跑或锻炼的举报。</p><p>政府的监控系统会对“异常”活动自动生成警报。他说，如果一户人家的用电量增加，警察就会上门询问这家人为什么熬夜。</p><p>警察工作给张亚博带来了金钱、地位和特权：在医院享受优先治疗、免费停车。到2023年，他每月的税后收入已升至约1250美元。</p><p>但他说，在警察等级制度中，他是一个可有可无的消耗品。张亚博说，上级经常侮辱警员，称他们为需要被鞭打才会干活的驴。在他到村里工作第一年的12月，因为漏接了一个对讲机呼叫，一位上司惩罚他在寒冷的天气中在一个道路检查站连续值班72小时，而且没有足够御寒衣物。</p><p>加班任务接踵而至，他长期与家人分离。自2017年以来，他就没有和父母一起过过春节，请假参加姐妹婚礼的申请也被拒绝。平均下来，他每个月只能见妻儿一次。</p><p>此外，还有必须要完成的指标。从2023年开始，他被要求每周提供一条可以作为拘禁依据的线索。张亚博说，他经常不能完成指标，不得不提交检讨书，惩罚是24小时连轴工作。与村民的密切接触开始挑战他此前吸收的关于维吾尔人的刻板印象。他变得越来越不愿意进入村民的家中或搜查他们的私人通信，尽管他仍在继续执行其工作所要求的监控。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/24/multimedia/Biz-Newworld-Police-07-wfhc/Biz-Newworld-Police-07-wfhc-master1050.jpg\" /><small style=\"color: #999;\">在警队任职为张亚博带来了更高的薪水和更多福利。</small></p><p><b>自我再教育</b></p><p>到2023年9月，张亚博再也无法忍受了，于是辞职。</p><p>他搬到中国南方城市广州，在那里学英语，希望最终能出国留学。他开始使用VPN绕过中国的互联网防火墙。他最先搜索的两个词是“新疆”和“陈全国”——后者是该地区前强硬派党委书记的名字。他说，他无法相信，自己曾工作过的那些被他称为“再教育中心”和“职业培训中心”的设施在网上竟被描述为集中营。在那之前，他只在有关二战的电影中见过这个词。</p><p>“我查到的信息让我头疼欲裂：我脑子里的一边说着一件事，另一边却说着完全相反的东西，”他说。“两种截然不同的说法在我脑海里交战，我夜不能寐。”</p><p>在2024年初正式辞职后，他内心受创，急需慰藉与力量，于是转向了宗教信仰。他在一本睡前给儿子读的圣经故事书中找到了平静。2025年4月，张先生在广州受洗成为天主教徒。四个月后，他带着14岁的儿子参加了一次欧洲旅行。他早已决定，如果能脱团，就去寻求庇护。</p><p>当他们的旅行团进入新天鹅堡——这座巴伐利亚宫殿是迪士尼睡美人城堡的蓝本——张亚博和儿子悄悄溜走了。他们前往慕尼黑，去了世界维吾尔代表大会。张亚博在新疆曾多次听说过这个倡导组织的名字，据称那是一个分裂主义恐怖组织。</p><p>他已经申请了庇护，现住在德国南部的一处收容所里，他的儿子则住在附近的寄养机构，就读于一所德国学校。一次晚餐吃意大利面时，这个15岁的男孩告诉我，他很想念新疆的爆辣炒米粉。张亚博的妻子仍在新疆，两人已提出离婚。</p><p>张亚博现在把时间都花在与学者、记者和人权组织交流上，记录对维吾尔人的迫害是如何实施的。</p><p>“在中国数百万警察中，他是唯一一个站出来说出真相的人，”帮助张亚博在德国安顿下来的世界维吾尔代表负责人之一海玉尔·库尔班表示。他说，他的组织最初对张亚博深表怀疑，但在审阅了他的文件后，疑虑开始逐渐消散。</p><p>华盛顿非营利组织“共产主义受难者纪念基金会”中国研究主任、新疆问题专家郑国恩表示，张亚博提供了“我们此前主要”从政府文件、官方媒体报道和幸存者证词中“推断出的基层现实情况。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/24/multimedia/Biz-Newworld-Police-06-wfhc/Biz-Newworld-Police-06-wfhc-master1050.jpg\" /><small style=\"color: #999;\">张亚博于2025年接受洗礼成为天主教徒的照片。</small></p><p>维尔茨堡大学研究中国问题的学者安晓波(Björn Alpermann)曾对张亚博进行过深入的采访，他说，对方的陈述提供了非同寻常的具体细节，说明在大规模拘禁运动的高潮过后，镇压是如何继续存在并在乡村生活中变得“常规化”。</p><p>然而，曾在德国与张亚博共事过的人告诉我，我们只了解他愿意让我们知道的部分，而他掌握的情况很可能远多于他所透露的。</p><p>他清晰生动地记得他填写过的表格、执行过的命令以及他所承受过的屈辱，但对于最严重的虐待问题却记忆模糊。他描述过听到惨叫声，也谈到审讯后看到被拘押者的情形，但对于拘留设施内的死亡、性暴力和酷刑等细节则提供得较少。他坚称自己一直是诚实和坦率的。</p><p>他也希望世界承认他作为一名基层警员所遭受的苦难。</p><p>“我的苦难与维吾尔人相当，甚至在某些方面更为深重，”他反复对我说，“你们记者为什么不写写我？为什么只关注维吾尔人？”</p><p>当然，汉族警察并没有被迫放弃自己的语言或文化，而且无论多么困难，他们都可以离开警队或离开新疆。他们不会遭受任意拘押、强迫劳动或酷刑。他们也不会因为打篮球或做俯卧撑就被视为潜在的恐怖嫌疑人。</p><p>“无论你在工作中受了多少苦，你终究可以回家，好好吃顿饭，想象一个未来，”维吾尔活动人士库尔班说。“你不会生活在持续的、令人窒息的恐惧中——担心你10年前说过的话会让你明天就消失。”</p><p>安晓波说，尽管如此，张亚博觉得受到虐待的经历表明，该系统对待内部的工作人员是多么的不人道。而对于像张亚博这样低级别的警员来说，离开中国并公开发声本身就是对抗该系统的一种方式。</p><p>张亚博坚称，他本人从未对任何维吾尔人实施过酷刑或虐待。他形容自己只是国家机器中的一个小齿轮，负责填写表格、看守设施和处理后勤事务。他表示，责任在于上级和维吾尔族辅警，是后者执行了许多最直接、最粗暴的任务。他坚称，像他这样的底层汉族警察是无辜的。</p><p>目前尚不清楚张亚博的自辩清白到底是一种自我保护，还是因为无法承受更充分地承认事实所意味的后果，抑或仅仅是多年在体制内形成的一种思维习惯。库尔班表示，他不相信这种无视是故意的。在反复追问张亚博之后，我也得出了类似的结论：在维吾尔人遭受巨大不公这一更广阔背景下，他似乎真的无法看清自己所扮演的角色。</p><p>他的挣扎也折射出他背后那个国家的真实状况，在那里，官方长期压制公众对大饥荒、文化大革命和1989年天安门镇压事件的记忆。与德国数十年来一直在清算纳粹帮凶不同，中国几乎没有为围绕帮凶、罪行和责任进行持续性的公共讨论留下空间。</p><p>库尔班说，在一个暴虐的系统内工作并不会自动地把人变成怪物。但只承担次要职责、没有亲身实施最严重的虐待行为亦不能免责。</p><p>张亚博表示，他的信仰告诉他，自己现在的责任就是公开发声。</p><p>他在德国联邦议院演讲的结尾说道：“如果保持沉默，你就是问题的一部分。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/li-yuan\" rel=\"nofollow\" target=\"_blank\">袁莉</a>为《纽约时报》撰写“新新世界”专栏，专注中国及亚洲科技、商业和政治交叉议题。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/28/business/china-uyghurs.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
           "source": "纽约时报"
         },
         {
           "title": "Kimi K3技术细节公开，用户需获商业授权",
           "url": "https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/",
           "published": "Tue, 28 Jul 2026 05:07:02 +0000",
-          "summary": "<address>MEAGHAN TOBIN</address><time datetime=\"2026-07-28 12:44:04\">2026年7月28日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-Moonshot-tcgj/27Biz-China-Moonshot-tcgj-master1050.jpg\" width=\"1050\" /><figcaption>本月在上海举行的世界人工智能大会上，月之暗面展示了Kimi K3模型。 <cite>Hector Retamal/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>中国初创企业月之暗面周一公开发布了其最新人工智能模型的技术细节，向外界展示了该模型的构建过程。但与大多数中国人工智能企业有所不同，月之暗面表示，希望大规模使用该模型的个人或企业需要获得相应的商用授权。</p><p>本月早些时候，月之暗面声称这款名为<a href=\"https://cn.nytimes.com/world/20260720/china-ai-moonshot-kimi/\">Kimi K3</a>的模型在某些任务上的表现可与包括OpenAI和Anthropic在内的美国竞争对手的最佳模型相媲美，这一消息当时在硅谷和美国科技股中引发了震动。</p><p>Kimi K3发布前，中国推出了多款高性能人工智能模型。这些模型大多采用<a href=\"https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html\">开源</a>或开放权重的形式——即公司公开其技术构建细节，使他人更容易使用这些技术。中国科技行业已全面拥抱开源路线，这不仅帮助中国企业快速迭代优化模型，也凭借更低的价格赢得了全球客户。</p><p>这款模型的发布也在<a href=\"https://cn.nytimes.com/business/20260724/china-ai-soft-power/\">北京</a>、<a href=\"https://cn.nytimes.com/technology/20260721/china-us-ai-race/\">硅谷</a>和华盛顿点燃了一场<a href=\"https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/\">激烈争论</a>：政府究竟是否应该采取措施，限制外界对中国开源模型的访问？</p><p>在美国，企业高管、投资者和政府官员之间存在明显分歧——中国模型日益广泛的使用究竟只是威胁到美国人工智能企业的利润，还是已经对美国的国家安全构成了威胁？</p><p>而在中国，争论的焦点则在于，如何让一项技术保持开放、易于获取并广受欢迎，又能找到从中盈利的方法。中国企业还必须在应对这些现实因素的同时适应政府不断调整的政策，中国政府已将人工智能发展列为最重要的经济战略之一。</p><p>月之暗面周一发布了程序代码及其他相关信息，公开展示其模型的构建过程，这符合<a href=\"https://cn.nytimes.com/china/20260720/xi-jinping-china-ai/\">中国推崇开源的发展理念</a>。但该公司也开始利用模型的高人气实现商业化，宣布大型用户必须与公司签订商业许可协议。</p><p>该模型体量庞大，无法在普通计算机上下载和运行。尽管Kimi K3在技术层面属于开放模型，但大多数用户要么需要向月之暗面订阅付费服务，要么需要通过已与月之暗面签署授权协议的第三方渠道来访问该模型。</p><p>为了支撑开发人工智能系统所需的巨大成本，中国企业一直在尝试各种商业模式。投资人工智能技术的对冲基金Interconnected Capital创始人凯文·徐（音）表示，月之暗面值得关注的一点在于，它是第一家如此明确提出商业许可要求的中国人工智能企业。</p><p>以往，中国初创企业通常在发布新模型的同时分享技术细节。但月之暗面这次等待了将近两周。</p><p>这一延迟表明，在中美地缘政治竞争不断加剧的背景下，这项技术如今已变得何等敏感。</p><p>自Meta去年年底宣布将收购由中国创立的人工智能初创公司Manus以来，中国政府便开始严格审查境外用户如何使用中国开发的人工智能系统。今年4月，中国政府<a href=\"https://cn.nytimes.com/business/20260428/china-meta-manus-ai-deal/\">要求撤销这项交易</a>，显示其正在考虑是否应将中国企业开发的人工智能系统视为出口产品加以监管。</p><p>如今，中国官员正努力探索如何监管这项技术，既让中国企业能够与硅谷竞争对手展开竞争，又确保其战略和经济利益牢牢留在中国。</p><p>就在月之暗面发布Kimi K3的同一天，中国国家主席习近平在上海世界人工智能大会上发表讲话，将中国塑造成推动人工智能开放发展路线的全球倡导者。</p><p>“中国内部争论的核心在于，如何调和这些关于中国技术被全球使用的不同信号，”约翰斯·霍普金斯大学高级国际研究学院高级研究员萨姆·萨克斯说，她出席了上海的大会，“北京希望打造业界巨头，但如何才能不杀鸡取卵呢？”</p><p>中国的人工智能产业<a href=\"https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\" title=\"Link: https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\">多年来一直面临美国贸易限制</a>，削弱了其购买驱动人工智能系统的计算机芯片的能力。与财力雄厚的美国竞争对手相比，中国在购买此类计算能力方面的资金也少得多。</p><p>月之暗面宣布发布Kimi K3两天后，该公司就不得不宣布暂停接受新用户，因为无法获得足够的计算机芯片来提供服务。该公司目前不接受新订阅用户。月之暗面周一拒绝就用户情况置评。</p><p>乔治华盛顿大学研究美中人工智能竞争的教授杰弗里·丁（音）表示，中国企业拥抱开源，部分原因在于将其视为快速追赶全球最先进人工智能系统的工具。</p><p>他说：“中国企业并不是为了开源而开源；他们把开源当作一种战略、一种挑战者工具加以运用。最终目标还是要赚钱。”</p></section><footer><p>Xinyun Wu自台湾台北对本文有研究贡献。</p><p><a href=\"https://www.nytimes.com/by/meaghan-tobin\" rel=\"nofollow\" target=\"_blank\">Meaghan Tobin</a>是时报科技记者，常驻台北，报道亚洲地区的商业和科技新闻，重点关注中国。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+          "summary": "<address>MEAGHAN TOBIN</address><time datetime=\"2026-07-28 12:44:04\">2026年7月28日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-Moonshot-tcgj/27Biz-China-Moonshot-tcgj-master1050.jpg\" width=\"1050\" /><figcaption>本月在上海举行的世界人工智能大会上，月之暗面展示了Kimi K3模型。 <cite>Hector Retamal/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>中国初创企业月之暗面周一公开发布了其最新人工智能模型的技术细节，向外界展示了该模型的构建过程。但与大多数中国人工智能企业有所不同，月之暗面表示，希望大规模使用该模型的个人或企业需要获得相应的商用授权。</p><p>本月早些时候，月之暗面声称这款名为<a href=\"https://cn.nytimes.com/world/20260720/china-ai-moonshot-kimi/\">Kimi K3</a>的模型在某些任务上的表现可与包括OpenAI和Anthropic在内的美国竞争对手的最佳模型相媲美，这一消息当时在硅谷和美国科技股中引发了震动。</p><p>Kimi K3发布前，中国推出了多款高性能人工智能模型。这些模型大多采用<a href=\"https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html\">开源</a>或开放权重的形式——即公司公开其技术构建细节，使他人更容易使用这些技术。中国科技行业已全面拥抱开源路线，这不仅帮助中国企业快速迭代优化模型，也凭借更低的价格赢得了全球客户。</p><p>这款模型的发布也在<a href=\"https://cn.nytimes.com/business/20260724/china-ai-soft-power/\">北京</a>、<a href=\"https://cn.nytimes.com/technology/20260721/china-us-ai-race/\">硅谷</a>和华盛顿点燃了一场<a href=\"https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/\">激烈争论</a>：政府究竟是否应该采取措施，限制外界对中国开源模型的访问？</p><p>在美国，企业高管、投资者和政府官员之间存在明显分歧——中国模型日益广泛的使用究竟只是威胁到美国人工智能企业的利润，还是已经对美国的国家安全构成了威胁？</p><p>而在中国，争论的焦点则在于，如何让一项技术保持开放、易于获取并广受欢迎，又能找到从中盈利的方法。中国企业还必须在应对这些现实因素的同时适应政府不断调整的政策，中国政府已将人工智能发展列为最重要的经济战略之一。</p><p>月之暗面周一发布了程序代码及其他相关信息，公开展示其模型的构建过程，这符合<a href=\"https://cn.nytimes.com/china/20260720/xi-jinping-china-ai/\">中国推崇开源的发展理念</a>。但该公司也开始利用模型的高人气实现商业化，宣布大型用户必须与公司签订商业许可协议。</p><p>该模型体量庞大，无法在普通计算机上下载和运行。尽管Kimi K3在技术层面属于开放模型，但大多数用户要么需要向月之暗面订阅付费服务，要么需要通过已与月之暗面签署授权协议的第三方渠道来访问该模型。</p><p>为了支撑开发人工智能系统所需的巨大成本，中国企业一直在尝试各种商业模式。投资人工智能技术的对冲基金Interconnected Capital创始人凯文·徐（音）表示，月之暗面值得关注的一点在于，它是第一家如此明确提出商业许可要求的中国人工智能企业。</p><p>以往，中国初创企业通常在发布新模型的同时分享技术细节。但月之暗面这次等待了将近两周。</p><p>这一延迟表明，在中美地缘政治竞争不断加剧的背景下，这项技术如今已变得何等敏感。</p><p>自Meta去年年底宣布将收购由中国创立的人工智能初创公司Manus以来，中国政府便开始严格审查境外用户如何使用中国开发的人工智能系统。今年4月，中国政府<a href=\"https://cn.nytimes.com/business/20260428/china-meta-manus-ai-deal/\">要求撤销这项交易</a>，显示其正在考虑是否应将中国企业开发的人工智能系统视为出口产品加以监管。</p><p>如今，中国官员正努力探索如何监管这项技术，既让中国企业能够与硅谷竞争对手展开竞争，又确保其战略和经济利益牢牢留在中国。</p><p>就在月之暗面发布Kimi K3的同一天，中国国家主席习近平在上海世界人工智能大会上发表讲话，将中国塑造成推动人工智能开放发展路线的全球倡导者。</p><p>“中国内部争论的核心在于，如何调和这些关于中国技术被全球使用的不同信号，”约翰斯·霍普金斯大学高级国际研究学院高级研究员萨姆·萨克斯说，她出席了上海的大会，“北京希望打造业界巨头，但如何才能不杀鸡取卵呢？”</p><p>中国的人工智能产业<a href=\"https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\" title=\"Link: https://cn.nytimes.com/business/20250613/washington-china-export-controls-tech-huawei/\">多年来一直面临美国贸易限制</a>，削弱了其购买驱动人工智能系统的计算机芯片的能力。与财力雄厚的美国竞争对手相比，中国在购买此类计算能力方面的资金也少得多。</p><p>月之暗面宣布发布Kimi K3两天后，该公司就不得不宣布暂停接受新用户，因为无法获得足够的计算机芯片来提供服务。该公司目前不接受新订阅用户。月之暗面周一拒绝就用户情况置评。</p><p>乔治华盛顿大学研究美中人工智能竞争的教授杰弗里·丁（音）表示，中国企业拥抱开源，部分原因在于将其视为快速追赶全球最先进人工智能系统的工具。</p><p>他说：“中国企业并不是为了开源而开源；他们把开源当作一种战略、一种挑战者工具加以运用。最终目标还是要赚钱。”</p></section><footer><p>Xinyun Wu自台湾台北对本文有研究贡献。</p><p><a href=\"https://www.nytimes.com/by/meaghan-tobin\" rel=\"nofollow\" target=\"_blank\">Meaghan Tobin</a>是时报科技记者，常驻台北，报道亚洲地区的商业和科技新闻，重点关注中国。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
           "source": "纽约时报"
         },
         {
@@ -724,21 +731,14 @@
           "title": "越南货船在南海争议海域沉没，中国参与救援",
           "url": "https://cn.nytimes.com/asia-pacific/20260728/vietnam-south-china-sea-ship-sink/",
           "published": "Tue, 28 Jul 2026 02:07:01 +0000",
-          "summary": "<address>TUNG NGO, MAX KIM</address><time datetime=\"2026-07-28 09:53:48\">2026年7月28日</time><section><p>上周六，一艘越南货船在南中国海存在激烈主权争议的海域沉没。据一名知情的越南官员透露，该货船当时正参与越南为对抗中国在该地区主权主张而进行的岛礁建设项目。目前，救援人员仍在搜寻15名失踪船员。</p><p>这艘名为“魁元18号”的船只共载有62名越南船员，在南沙海域船体进水并最终沉没。南沙群岛由<a href=\"https://cn.nytimes.com/asia-pacific/20240813/spratlys-thitu-philippines-china/\">100多个小岛礁</a>和其他地貌组成，多国都宣称对这里拥有主权。</p><p>中国外交部发言人林剑周一在北京举行的记者会上表示，周六傍晚，一艘在该海域执行任务的中国救援船首先发现了一个救生筏上幸存者发出的求救信号，并随即展开搜救行动，目前已救起47名幸存者。越南方面已对中方迅速施救表示感谢。来自中越两国以及菲律宾的救援人员仍在继续搜寻其余失踪人员。</p><p>据中越双方的说法，沉船地点位于中国控制的永暑礁与越南控制的大现礁之间。</p><p>这两个岛礁均属于南沙群岛，南沙群岛与西沙群岛多年来一直是中越<a href=\"https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html?eafs_enabled=false\">激烈竞争</a>的焦点。两国均通过在无人岛礁周围填海造地并在上面修建军事设施来宣示主权。</p><p>一名了解一手情况的越南官员向《纽约时报》透露，“魁元18号”沉没时，正在执行其中一个项目的建设工程。该官员以无权对外发言为由要求匿名。</p><p>越方表示，货船沉没是由于恶劣天气造成的，但并未说明船只当时驶往何处，也未透露运载的是什么货物。</p><p>越南作为签署国的一项联合国海事安全<a href=\"https://www.imo.org/en/ourwork/safety/pages/ais.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">决议</a><a href=\"https://www.nytimes.com/2022/09/03/world/americas/ships-gps-international-law.html?eafs_enabled=false\">规定</a>，所有大型货船必须随时开启自动识别系统应答器。然而，追踪<a href=\"https://www.marinetraffic.com/en/ais/details/ships/shipid:6179331\" rel=\"noopener noreferrer\" target=\"_blank\">数据</a>显示，这艘悬挂越南旗帜的船只已有数月未传输位置数据。该船建于2017年，船身约70米长，总载重量约1900公吨。</p><p>这名官员表示，这艘船此前定期往返于越南海军拥有大型港口的金兰湾与南沙群岛之间。</p><p>越南政府资料显示，这艘货船的注册所有者为魁元贸易进出口运输公司。一名不愿透露全名的公司代表在电话中表示，该船被调派参与南沙群岛一项由Dacinco建设投资公司负责的重点工程，而这家公司一直在参与当地的岛礁建设项目。</p><p>总部位于越南岘港的Dacinco公司自2022年以来多次从荷兰造船企业Royal IHC<a href=\"https://www.royalihc.com/news/contract-third-beaverr-65-further-strengthens-long-term-relationship-dacinco\" rel=\"noopener noreferrer\" target=\"_blank\">采购</a>绞吸式挖泥船。这种专用船舶能够从海床吸取泥沙，因此非常适合用于填海造地工程。</p><p>记者致电Dacinco公司，但无人接听。</p><p>北京海事智库“南海战略态势感知计划”去年曾<a href=\"https://www.scspi.org/en/dtfx/new-phase-vietnam%E2%80%99s-reclamation-spratly-islands\" rel=\"noopener noreferrer\" target=\"_blank\">表示</a>，“绞吸式挖泥船被广泛使用在鸿庥岛、毕生礁和柏礁等岛礁的扩建中，让越南的填海造陆效率大大提升。”</p><p>2024年6月，越南官方媒体报道称，一名Dacinco员工在柏礁施工现场受伤。柏礁是南沙群岛的一部分，也是越南近年来持续扩建的岛礁之一。</p><p>该公司还在社交媒体上积极招募项目工人，招聘信息显示，南沙群岛“近海建设项目”招募吊车操作员和卡车司机。</p><p>越南外交部未立即回应置评请求。</p><p>多年来，中越双方均多次抗议对方的岛礁建设，而美国官员试图为这场不断升级的扩张降温的努力也未取得成功。</p><p><a href=\"https://www.reuters.com/world/asia-pacific/china-opposes-vietnams-building-work-disputed-reef-south-china-sea-2025-02-19/\" rel=\"noopener noreferrer\" target=\"_blank\">去年</a>，随着越南加快推进南沙造岛工程——此前中国曾在约三年时间内围填约1300公顷的土地——中国外交部批评越方是在进行“非法占领”。越南也曾对中国<a href=\"https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html?eafs_enabled=false\">提出</a>类似指责。近年来，中国将建设重点更多放在越南主张全部主权的西沙群岛。</p><p>不过，在刚刚过去的这个周末，这些紧张关系并未显现出来，各方都在持续搜寻失踪船员。</p><p>周日，越南外交部发言人范秋姮对中方施援表示感谢。</p><p>她说：“我们向中方有关部门和人员的及时施援表示衷心感谢，希望双方继续密切协作，搜寻失踪人员。”</p></section><footer><p>Berry Wang对本文有报道贡献。</p><p><a href=\"https://www.nytimes.com/by/tung-ngo\" rel=\"nofollow\" target=\"_blank\">Tung Ngo</a>是《纽约时报》记者/研究员，常驻越南河内。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p><br /></footer>",
+          "summary": "<address>TUNG NGO, MAX KIM</address><time datetime=\"2026-07-28 09:53:48\">2026年7月28日</time><section><p>上周六，一艘越南货船在南中国海存在激烈主权争议的海域沉没。据一名知情的越南官员透露，该货船当时正参与越南为对抗中国在该地区主权主张而进行的岛礁建设项目。目前，救援人员仍在搜寻15名失踪船员。</p><p>这艘名为“魁元18号”的船只共载有62名越南船员，在南沙海域船体进水并最终沉没。南沙群岛由<a href=\"https://cn.nytimes.com/asia-pacific/20240813/spratlys-thitu-philippines-china/\">100多个小岛礁</a>和其他地貌组成，多国都宣称对这里拥有主权。</p><p>中国外交部发言人林剑周一在北京举行的记者会上表示，周六傍晚，一艘在该海域执行任务的中国救援船首先发现了一个救生筏上幸存者发出的求救信号，并随即展开搜救行动，目前已救起47名幸存者。越南方面已对中方迅速施救表示感谢。来自中越两国以及菲律宾的救援人员仍在继续搜寻其余失踪人员。</p><p>据中越双方的说法，沉船地点位于中国控制的永暑礁与越南控制的大现礁之间。</p><p>这两个岛礁均属于南沙群岛，南沙群岛与西沙群岛多年来一直是中越<a href=\"https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html?eafs_enabled=false\">激烈竞争</a>的焦点。两国均通过在无人岛礁周围填海造地并在上面修建军事设施来宣示主权。</p><p>一名了解一手情况的越南官员向《纽约时报》透露，“魁元18号”沉没时，正在执行其中一个项目的建设工程。该官员以无权对外发言为由要求匿名。</p><p>越方表示，货船沉没是由于恶劣天气造成的，但并未说明船只当时驶往何处，也未透露运载的是什么货物。</p><p>越南作为签署国的一项联合国海事安全<a href=\"https://www.imo.org/en/ourwork/safety/pages/ais.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">决议</a><a href=\"https://www.nytimes.com/2022/09/03/world/americas/ships-gps-international-law.html?eafs_enabled=false\">规定</a>，所有大型货船必须随时开启自动识别系统应答器。然而，追踪<a href=\"https://www.marinetraffic.com/en/ais/details/ships/shipid:6179331\" rel=\"noopener noreferrer\" target=\"_blank\">数据</a>显示，这艘悬挂越南旗帜的船只已有数月未传输位置数据。该船建于2017年，船身约70米长，总载重量约1900公吨。</p><p>这名官员表示，这艘船此前定期往返于越南海军拥有大型港口的金兰湾与南沙群岛之间。</p><p>越南政府资料显示，这艘货船的注册所有者为魁元贸易进出口运输公司。一名不愿透露全名的公司代表在电话中表示，该船被调派参与南沙群岛一项由Dacinco建设投资公司负责的重点工程，而这家公司一直在参与当地的岛礁建设项目。</p><p>总部位于越南岘港的Dacinco公司自2022年以来多次从荷兰造船企业Royal IHC<a href=\"https://www.royalihc.com/news/contract-third-beaverr-65-further-strengthens-long-term-relationship-dacinco\" rel=\"noopener noreferrer\" target=\"_blank\">采购</a>绞吸式挖泥船。这种专用船舶能够从海床吸取泥沙，因此非常适合用于填海造地工程。</p><p>记者致电Dacinco公司，但无人接听。</p><p>北京海事智库“南海战略态势感知计划”去年曾<a href=\"https://www.scspi.org/en/dtfx/new-phase-vietnam%E2%80%99s-reclamation-spratly-islands\" rel=\"noopener noreferrer\" target=\"_blank\">表示</a>，“绞吸式挖泥船被广泛使用在鸿庥岛、毕生礁和柏礁等岛礁的扩建中，让越南的填海造陆效率大大提升。”</p><p>2024年6月，越南官方媒体报道称，一名Dacinco员工在柏礁施工现场受伤。柏礁是南沙群岛的一部分，也是越南近年来持续扩建的岛礁之一。</p><p>该公司还在社交媒体上积极招募项目工人，招聘信息显示，南沙群岛“近海建设项目”招募吊车操作员和卡车司机。</p><p>越南外交部未立即回应置评请求。</p><p>多年来，中越双方均多次抗议对方的岛礁建设，而美国官员试图为这场不断升级的扩张降温的努力也未取得成功。</p><p><a href=\"https://www.reuters.com/world/asia-pacific/china-opposes-vietnams-building-work-disputed-reef-south-china-sea-2025-02-19/\" rel=\"noopener noreferrer\" target=\"_blank\">去年</a>，随着越南加快推进南沙造岛工程——此前中国曾在约三年时间内围填约1300公顷的土地——中国外交部批评越方是在进行“非法占领”。越南也曾对中国<a href=\"https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html?eafs_enabled=false\">提出</a>类似指责。近年来，中国将建设重点更多放在越南主张全部主权的西沙群岛。</p><p>不过，在刚刚过去的这个周末，这些紧张关系并未显现出来，各方都在持续搜寻失踪船员。</p><p>周日，越南外交部发言人范秋姮对中方施援表示感谢。</p><p>她说：“我们向中方有关部门和人员的及时施援表示衷心感谢，希望双方继续密切协作，搜寻失踪人员。”</p></section><footer><p>Berry Wang对本文有报道贡献。</p><p><a href=\"https://www.nytimes.com/by/tung-ngo\" rel=\"nofollow\" target=\"_blank\">Tung Ngo</a>是《纽约时报》记者/研究员，常驻越南河内。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p><br /></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
           "source": "纽约时报"
         },
         {
           "title": "长鑫存储上市首日股价飙升470%",
           "url": "https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/",
           "published": "Tue, 28 Jul 2026 01:37:02 +0000",
-          "summary": "<address>STEVE LOHR</address><time datetime=\"2026-07-28 09:13:11\">2026年7月28日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27-China-chip-hltz/27-China-chip-hltz-master1050.jpg\" width=\"1050\" /><figcaption>中国最大的内存芯片制造商长鑫存储位于合肥的总部。 <cite>Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>周一，中国<a href=\"https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/\" title=\"Link: https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/\">存储芯片制造</a><a href=\"https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/\">龙头企业</a>的股价在上市首日交易中飙升约470%，迅速成为上海证券交易所市值最高的公司。</p><p>长鑫存储技术有限公司（简称CXMT）此前已完成今年亚洲最大规模的首次公开募股(IPO)，两周前该公司的估值超过850亿美元。</p><p>投资者将这家芯片制造商在上海证券交易所的市值推高至收盘时的4800多亿美元。这远远超过了此前市值最大的公司——估值约为3850亿美元的中国工商银行。</p><p>长鑫存储股票开盘价为49.50元人民币，高于其8.66元人民币的IPO发行价。收盘价为49.00元人民币。</p><p>这一亮眼的交易开局是在全球市场波动和近期科技股抛售之后出现的。为了追求人工智能的发展，一些硅谷公司进行了巨额投资，而投资者对这些公司极高的估值提出了质疑。</p><p>成立十年的长鑫存储在海外鲜为人知，但它是中国致力于培育本土供应商、在争夺人工智能领导地位的竞赛中减少对外国公司依赖的关键力量。在美中<a href=\"https://cn.nytimes.com/technology/20260721/china-us-ai-race/\">紧张局势不断加剧</a>，美国担忧中国正在迅速赶上的时期，它正成为一家正在崛起的中国芯片制造商。</p><p>人工智能领域的全球霸主之争催生了<a href=\"https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html\">对存储芯片的旺盛需求</a>，这些芯片能瞬间将数据在计算机的处理引擎之间进行传输。所有计算机都依赖存储芯片，但在美国和中国正在建设的大型人工智能数据中心对存储芯片的需求几乎是无限的。随着需求激增，价格也水涨船高。</p><p>根据其IPO招股说明书，长鑫存储在2026年第一季度的营收跃升至近75亿美元，同比增长超过700%。此外，该公司去年实现了超过10亿美元的利润，而2023年则亏损了28亿美元。</p><p>长鑫存储正开始进军全球存储芯片市场，该市场目前由韩国公司三星电子和SK海力士以及美国公司美光科技主导。据科技市场研究公司Counterpoint Research的数据，长鑫存储在2026年第一季度占据了全球市场8%的份额，去年同期这一比例为3%。</p><p>两周前，<a href=\"https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html\">SK海力士通过出售美国存托凭证筹集了265亿美元</a>，这是非美国公司在华尔街进行的规模最大的一次股票发售。</p></section><footer><p><a href=\"https://www.nytimes.com/by/steve-lohr\" rel=\"nofollow\" target=\"_blank\">Steve Lohr</a>撰写关于科技及其对经济、就业和劳动市场的影响的文章。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/27/business/cxmt-stock-price-ai.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer>",
-          "source": "纽约时报"
-        },
-        {
-          "title": "亚洲安全局势正经历一场历史性的转变",
-          "url": "https://cn.nytimes.com/opinion/20260728/asia-military-security-china-allies/",
-          "published": "Tue, 28 Jul 2026 00:37:02 +0000",
-          "summary": "<address>JENNIFER KAVANAGH</address><time datetime=\"2026-07-28 08:16:08\">2026年7月28日</time><section><p>今年夏天，一场历史性的转变在整个亚洲加速推进。</p><p>在过去几周里，中国扩大了海上巡逻范围，将台湾<a href=\"https://cn.nytimes.com/china/20260706/china-taiwan-east-coast-guard-patrols/\">东海岸</a>纳入其中，展示了包围该岛的能力。它还加大了对日本的<a href=\"https://cn.nytimes.com/china/20260701/china-japan-rare-earths-patrols/\">军事、贸易和外交压力</a>，试射了一枚<a href=\"https://cn.nytimes.com/china/20260708/china-missile-test-submarine-pacific/\">潜射弹道导弹</a>，展示了其日益增强的海基核能力。</p><p>密切关注着中国日益增长的实力，其他国家纷纷拉近彼此的距离，展现出一个正在形成中的新安全架构的轮廓。</p><p>日本加强了与<a href=\"https://www.iiss.org/online-analysis/online-analysis/2026/04/japan-and-australia-in-the-indo-pacific/\" rel=\"noopener noreferrer\" target=\"_blank\">澳大利亚</a>、<a href=\"https://www.aspi.org.au/report/allies-entwined-australias-strategic-convergence-with-the-philippines/\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://www.aspi.org.au/report/allies-entwined-australias-strategic-convergence-with-the-philippines/\">菲律宾</a>和<a href=\"https://cn.nytimes.com/asia-pacific/20260703/03int-india-japan-modi-takaichi-security/\">印度</a>的防务关系，并正在<a href=\"https://www.reuters.com/world/asia-pacific/south-korea-japan-discuss-military-logistics-support-deal-seoul-says-2026-05-31/\" rel=\"noopener noreferrer\" target=\"_blank\">讨论</a>与韩国开展更紧密的合作。日本还<a href=\"https://www.reuters.com/world/china/japan-opens-door-global-arms-market-with-biggest-export-rule-change-decades-2026-04-21/\" rel=\"noopener noreferrer\" target=\"_blank\">废除</a>了长期以来对防务出口的限制，正着手<a href=\"https://fortune.com/2026/06/24/asia-defense-boom-rewiring-global-arms-supply-chain/\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://fortune.com/2026/06/24/asia-defense-boom-rewiring-global-arms-supply-chain/\">与韩国一道</a>成为该地区的军火供应商；而澳大利亚则与<a href=\"https://cn.nytimes.com/asia-pacific/20260709/china-australia-pacific/\">太平洋</a><a href=\"https://www.lowyinstitute.org/the-interpreter/australia-pacific-diplomacy-hot-streak-will-it-last\" rel=\"noopener noreferrer\" target=\"_blank\">岛国</a>签署了新协议，包括与斐济签署的共同防御条约。</p><p>特朗普总统重返白宫以来，关于他保护亚洲承诺的不确定性<a href=\"https://cn.nytimes.com/opinion/20260130/trump-china-policy-xi/\" title=\"Link: https://cn.nytimes.com/opinion/20260130/trump-china-policy-xi/\">引发</a>了<a href=\"https://cn.nytimes.com/opinion/20250909/us-trump-china-allies/\">警告</a>，人们担心北京可能会利用这一时机表现得更加强硬，这促使美国的盟友联合起来。</p><p>这些齿轮如今正在转动，带来了新的风险：全球安全领域的重大变革鲜少能够一帆风顺。</p><p>然而，这并不意味着这一对美国战略利益至关重要且充满经济活力的地区正进入不稳定时代。一个由亚洲国家对自身防务承担更多责任、彼此之间更加相互依赖，并且减少对日益心有旁骛的美国之依赖的秩序最终可能被证明是稳定和安全的。</p><p>无论如何，这种局面都是不可避免的。<a href=\"https://www.nytimes.com/interactive/2025/12/08/opinion/us-china-taiwan-military.html\">力量过度分散</a>的美国已不像过去那样有能力无限期地为亚洲的安全提供保障。</p><p>与<a href=\"https://cn.nytimes.com/usa/20260715/iran-trump-war/\">伊朗</a>的战争暴露了美军力量的极限，促使华盛顿<a href=\"https://www.reuters.com/business/aerospace-defense/us-deploys-suicide-drones-tomahawk-missiles-iran-strikes-2026-03-01/\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://www.reuters.com/business/aerospace-defense/us-deploys-suicide-drones-tomahawk-missiles-iran-strikes-2026-03-01/\">将军力资产从世界其他地区调离</a>，包括<a href=\"https://www.politico.com/news/2025/06/16/us-military-middle-east-00407742\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://www.politico.com/news/2025/06/16/us-military-middle-east-00407742\">亚太地区</a>，而特朗普也<a href=\"https://asiasociety.org/policy-institute/stress-test-resilience-risks-opportunities-us-japan-alliance\" rel=\"noopener noreferrer\" target=\"_blank\">明确表示</a>，他希望美国的<a href=\"https://www.cnn.com/2026/04/07/world/video/trump-criticizes-pacific-allies-iran-war-hnk-vrtc-digvid\" rel=\"noopener noreferrer\" target=\"_blank\">盟友</a>为自身防务做出更多贡献。他的政府已经<a href=\"https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html\" title=\"Link: https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html\">宣布大幅减少在欧洲的军事存在</a>和承诺。目前尚未出台针对亚洲的类似计划。</p><p>向一个更加自力更生的亚洲过渡必须谨慎加以管理。</p><p>如果北京察觉到美国的承诺快速弱化，或认为美国的盟友会变得更加脆弱，它可能会认为自己拥有更大的自由度来推进其领土和安全野心，从而引发军事对抗的阴影。</p><p>对这种可能性以及美国可能抛弃亚洲的担忧可能会加剧东亚地区已经愈演愈烈的军备竞赛。中国一直在<a href=\"https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF\" rel=\"noopener noreferrer\" target=\"_blank\">稳步建设</a>军队并扩大<a href=\"https://www.nytimes.com/interactive/2026/02/15/world/asia/china-nuclear.html\">核武库</a>。日本最近开始部署<a href=\"https://thediplomat.com/2026/03/japan-will-begin-deploying-homegrown-longer-range-missiles-as-counterstrike-strategy-takes-shape/\" rel=\"noopener noreferrer\" target=\"_blank\">射程更长的导弹</a>，韩国人正在讨论本国是否应该研发<a href=\"https://thebulletin.org/2026/04/three-quarters-of-south-koreans-want-nuclear-weapons-one-variable-could-decide-the-rest/\" rel=\"noopener noreferrer\" target=\"_blank\">核武器</a>，而澳大利亚则正在投资<a href=\"https://www.reuters.com/world/asia-pacific/australia-pledges-27-billion-progress-nuclear-submarine-shipyard-build-2026-02-15/\" rel=\"noopener noreferrer\" target=\"_blank\">核动力潜艇</a>和<a href=\"https://www.minister.defence.gov.au/media-releases/2026-04-28/albanese-government-strengthens-armys-long-range-strike-capability\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://www.minister.defence.gov.au/media-releases/2026-04-28/albanese-government-strengthens-armys-long-range-strike-capability\">导弹能力</a>。</p><p>尽管这些发展听起来令人担忧，但历史表明，利益和政体各异的亚洲国家即使没有美国的深度参与，也能建立有效的合作伙伴关系。成立于1967年的<a href=\"https://www.cfr.org/backgrounders/what-asean\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://www.cfr.org/backgrounders/what-asean\">东南亚国家联盟</a>由11个成员国组成，它常常因应对共同挑战时反应迟缓、优柔寡断而饱受<a href=\"https://lkyspp.nus.edu.sg/cag/publications/center-publications/publication-article/detail/what's-wrong-with-asean-and-how-to-fix-it\" rel=\"noopener noreferrer\" target=\"_blank\">批评</a>，且在遏制中国在南海的扩张性领土野心方面收效甚微。但是，在曾经<a href=\"https://www.tandfonline.com/doi/full/10.1080/09512748.2022.2075440\" rel=\"noopener noreferrer\" target=\"_blank\">遭受数十年战争创伤</a>的亚洲地区，东盟帮助成员国之间维持和平，并为东南亚与中国进行接触提供了框架。</p><p>更均衡地分担安全负担并不一定会削弱威慑力。在逐渐减少但依然强劲的美军存在的后盾支持下，日本、菲律宾和澳大利亚等国之间更深层次的合作实际上会强化应对安全威胁的第一道防线。</p><p>随着美国的盟友能力越来越强，并且日益紧密地融入体系，由它们<a href=\"https://www.war.gov/News/Speeches/Speech/Article/4504755/remarks-by-secretary-of-war-pete-hegseth-at-the-2026-shangri-la-dialogue-in-sin/\" rel=\"noopener noreferrer\" target=\"_blank\">承担</a>更多自身防务的成本是合情合理的，这将使人手紧张的美军得以腾出精力，去应对其他地方的全球安全挑战。就美国而言，它可以继续与亚太盟友紧密协调，在维护关键海上航道畅通等关乎美国核心利益的任务中发挥主导作用，并致力于与中国保持稳定的关系。</p><p>相比于过度依赖美国的体系，这种盟友体系在军事上会更强大，从长远来看也更持久，并且在美方的援助推迟或无法获取时能够采取集体行动。</p><p>无论如何，中东的局势证明，美国的深度介入并不能保证国际对抗不会爆发为冲突。美国与以色列一同挑起了与伊朗的战争，<a href=\"https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html\" title=\"Link: https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html\">使美国在波斯湾的伙伴面临伊朗的袭击</a>，并扰乱了全球贸易。因此，一些<a href=\"https://www.nytimes.com/2026/06/15/world/middleeast/gulf-iran-war-us.html\">海湾国家</a>正在<a href=\"https://www.ft.com/content/ab78e60e-7a41-4943-a1a5-bd60b4ca31b9?syn-25a6b1a6=1\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://www.ft.com/content/ab78e60e-7a41-4943-a1a5-bd60b4ca31b9?syn-25a6b1a6=1\">重新思考对华盛顿的依赖</a>，并探索通过彼此之间的合作伙伴关系来维护自身安全的方式，甚至可能包括将伊朗纳入其中。</p><p>美国仍将是太平洋的一大强国。但战略平衡已经发生了转变。无论是美国的盟友还是竞争对手都比上一代人更加富有、更有能力，而美军则显得力不从心。亚洲正在适应这一新的现实。</p></section><footer><p>Jennifer Kavanagh是国防优先事项智库的军事分析主任，该智库倡导克制的美国国防政策。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/27/opinion/asia-military-security-china-allies.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+          "summary": "<address>STEVE LOHR</address><time datetime=\"2026-07-28 09:13:11\">2026年7月28日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/27-China-chip-hltz/27-China-chip-hltz-master1050.jpg\" width=\"1050\" /><figcaption>中国最大的内存芯片制造商长鑫存储位于合肥的总部。 <cite>Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>周一，中国<a href=\"https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/\" title=\"Link: https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/\">存储芯片制造</a><a href=\"https://cn.nytimes.com/business/20260716/china-chips-cxmt-ipo/\">龙头企业</a>的股价在上市首日交易中飙升约470%，迅速成为上海证券交易所市值最高的公司。</p><p>长鑫存储技术有限公司（简称CXMT）此前已完成今年亚洲最大规模的首次公开募股(IPO)，两周前该公司的估值超过850亿美元。</p><p>投资者将这家芯片制造商在上海证券交易所的市值推高至收盘时的4800多亿美元。这远远超过了此前市值最大的公司——估值约为3850亿美元的中国工商银行。</p><p>长鑫存储股票开盘价为49.50元人民币，高于其8.66元人民币的IPO发行价。收盘价为49.00元人民币。</p><p>这一亮眼的交易开局是在全球市场波动和近期科技股抛售之后出现的。为了追求人工智能的发展，一些硅谷公司进行了巨额投资，而投资者对这些公司极高的估值提出了质疑。</p><p>成立十年的长鑫存储在海外鲜为人知，但它是中国致力于培育本土供应商、在争夺人工智能领导地位的竞赛中减少对外国公司依赖的关键力量。在美中<a href=\"https://cn.nytimes.com/technology/20260721/china-us-ai-race/\">紧张局势不断加剧</a>，美国担忧中国正在迅速赶上的时期，它正成为一家正在崛起的中国芯片制造商。</p><p>人工智能领域的全球霸主之争催生了<a href=\"https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html\">对存储芯片的旺盛需求</a>，这些芯片能瞬间将数据在计算机的处理引擎之间进行传输。所有计算机都依赖存储芯片，但在美国和中国正在建设的大型人工智能数据中心对存储芯片的需求几乎是无限的。随着需求激增，价格也水涨船高。</p><p>根据其IPO招股说明书，长鑫存储在2026年第一季度的营收跃升至近75亿美元，同比增长超过700%。此外，该公司去年实现了超过10亿美元的利润，而2023年则亏损了28亿美元。</p><p>长鑫存储正开始进军全球存储芯片市场，该市场目前由韩国公司三星电子和SK海力士以及美国公司美光科技主导。据科技市场研究公司Counterpoint Research的数据，长鑫存储在2026年第一季度占据了全球市场8%的份额，去年同期这一比例为3%。</p><p>两周前，<a href=\"https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html\">SK海力士通过出售美国存托凭证筹集了265亿美元</a>，这是非美国公司在华尔街进行的规模最大的一次股票发售。</p></section><footer><p><a href=\"https://www.nytimes.com/by/steve-lohr\" rel=\"nofollow\" target=\"_blank\">Steve Lohr</a>撰写关于科技及其对经济、就业和劳动市场的影响的文章。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/27/business/cxmt-stock-price-ai.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
           "source": "纽约时报"
         }
       ]
