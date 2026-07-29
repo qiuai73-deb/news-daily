@@ -32,11 +32,11 @@ SOURCES = {
         "name_cn": "CNBC",
         "rss": "https://news.google.com/rss/search?q=site:cnbc.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     },
-    "scmp": {
-        "name": "South China Morning Post",
-        "name_cn": "南华早报",
-        "rss": "https://news.google.com/rss/search?q=site:scmp.com+when:1d&hl=en-US&gl=US&ceid=US:en",
-    },
+#   "scmp": {
+#       "name": "South China Morning Post",
+#       "name_cn": "南华早报",
+#       "rss": "https://news.google.com/rss/search?q=site:scmp.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+#   },
     "BBC": {
         "name": "BBC",
         "name_cn": "BBC",
@@ -105,7 +105,7 @@ def generate_markdown(all_data):
         "wsj": "🔵", 
         "ft": "🟡", 
         "cnbc": "🟠", 
-        "scmp": "🟣", 
+#       "scmp": "🟣", 
         "BBC": "🇬🇧", 
         "NYT": "🇺🇸"
     }
