@@ -1,129 +1,129 @@
 {
-  "updated": "2026-08-02T11:00:31.706397+00:00",
-  "updated_beijing": "2026-08-02 11:00 北京时间",
-  "summary_analysis": "【核心主线】当前全球政治经济格局动荡，地缘政治冲突频发，美国与伊朗紧张关系因特朗普取消打击而出现缓和迹象，但不确定性仍高。日本与美国联合干预汇市，显示对日元疲软的担忧。经济方面，美国通胀压力与增长放缓并存，中国则面临经济疲软与政策刺激的平衡。此外，自然灾害与安全事故频发，影响地区稳定。\n\n【市场与政策信号】OPEC+计划九月增产，可能缓解油价压力。美国大型银行交易业务表现强劲，显示市场活跃。中国AI发展迅速，但引发国内治理风险。美国拟限制中国人形机器人进口，可能加剧中美科技脱钩。全球供应链受地缘政治影响，能源价格波动。\n\n【关键风险提示】地缘政治冲突升级风险，特别是中东与东欧。全球经济增长放缓与通胀压力并存。自然灾害频发，影响粮食与能源安全。中美科技与贸易摩擦加剧，可能影响全球产业链。",
+  "updated": "2026-08-02T11:57:00.990414+00:00",
+  "updated_beijing": "2026-08-02 11:57 北京时间",
+  "summary_analysis": "【核心主线】当前全球政治经济主线围绕地缘冲突与政策应对展开。美国与伊朗紧张关系因特朗普威胁打击而升级，但特朗普表示若达成快速协议可暂缓，显示外交与军事手段并行。日本与美国联合干预汇市以支撑日元，反映主要经济体对货币贬值的担忧。OPEC+计划九月增产，显示对油价高企的回应。此外，美国国内政治与金融事件频发，如特朗普相关账户关闭、爱达荷州枪击等，影响市场情绪。\n\n【市场与政策信号】市场信号方面，日元干预、OPEC+增产、油价波动、AI投资竞赛等影响资产价格。政策信号上，美国对伊朗政策摇摆、日本汇率协调、中国甘肃灾害救援等，显示各国政策重点。金融监管方面，Capital One关闭特朗普组织账户，凸显反洗钱审查加强。\n\n【关键风险提示】地缘冲突风险：美伊冲突可能升级，影响油价与全球稳定。自然灾害风险：印尼渡轮火灾、新西兰地震、华盛顿州山火、中国甘肃山体滑坡等，造成人员伤亡与经济损失。市场风险：日元干预效果有限，OPEC+增产或致油价下跌，AI投资泡沫担忧。",
   "important": [
     {
-      "title": "特朗普称若迅速达成协议将取消对伊朗打击",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVo3dGdxY2VTTVREYUphQmZETi1naGt0SXBzSnZvbUY3UGRSZm5ERE83cWN0bHE5Z2MzUGVwR2xHUXAweUlxVE4xVElvNUdndUFnSGtnVGRVNkUxUDR2eUNCMHllcTRTUUdIY1I4bkxSQWkya0RkbmRJemxHVlMteVJDNFR4NXFjYTVTY0ppUTM4ZnlJNGtQNkRRNC1nRHUwcHEzUmh5VGNmc190OGFz?oc=5",
-      "summary": "特朗普取消对伊打击，但保留协议可能。",
-      "source": "彭博社"
-    },
-    {
-      "title": "莫斯科餐厅爆炸致三死二十一伤",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRENJV3V6amU0MlZqenVoS3ZlaUNFMGpwMmE4anUtWklia1N1S3U1c0NRcWlXS0lsZUlCam8xYmVCSGNGcWpMY1RTZWlXYy05Z0pROGtac0k0anduZ29fYVZwSE9pZndHcWs5cHRVSUpDMUh3RjRzbnhmVE9PUHlxdTlGZXRTZWhUTnJBVE9lR0p4RnhiSUlmRzJORGxnZ3VtRkxCblp3OGJ1cHQzMEk2bjhlNGQyQzFnaDVia2RqUXY?oc=5",
-      "summary": "莫斯科餐厅爆炸，恐袭风险上升。",
-      "source": "彭博社"
-    },
-    {
-      "title": "沙特王子对特朗普打击伊朗计划表示担忧",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXk2RUtDc0Q3ZUNKQWM1X01Ld3BtbTJRUmh5bVB3dVY1WURWY05mRWtoNVh3N25PeXRuUE5zRy04TGxxcWRMLVNqU2hiTVBOUE9xTFRlUUxZSjRnSTRsa1BBT3RSWmR2SGVmVlF4X0ROejlvQnJjWTVMdV9FNmpUOTczaTMyOVU3Q2Y0dloxQWNKNDFqbnFIVzBNVUU0YkJBemdMWm4zNTVRRGE1WHc?oc=5",
-      "summary": "沙特担忧美伊冲突，影响油价。",
-      "source": "彭博社"
-    },
-    {
-      "title": "日本将宣布与美国联合干预日元汇率",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
-      "summary": "美日联合干预汇市，日元获支撑。",
+      "title": "印尼渡轮起火致5人死亡，41人失踪",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5",
+      "summary": "印尼渡轮火灾致5死41失踪",
       "source": "路透社"
     },
     {
-      "title": "OPEC+计划九月增产随后暂停",
+      "title": "新西兰北岛东海岸发生5.9级地震",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdaQkJhWGNkUHZsUkZqQXAyLWJ1MGs1XzJCTlVuUFVrald2bzBLdnU4TnNHVjFIYXNmOTJJNVVrVFR2QmVDZjJJU0x2b0NiOF9iLVViQjk2VkViT0lmZ0Fpd1R4T1NiLTdWQ1JKemFTNmhaM2lxQ0FaV2NvdW1RbHJYMkZQZElYN29kcWNxd09rUzRVRHMxS05SbzVFal9TNUgzS1hka2xLcmFMbUFHNVc3eWppcUJBTElvbjRsNHpfU2VGcEJLczNn?oc=5",
+      "summary": "新西兰北岛东海岸5.9级地震",
+      "source": "路透社"
+    },
+    {
+      "title": "OPEC+消息人士称九月增产配额后将暂停",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
-      "summary": "OPEC+增产，油价或承压。",
+      "summary": "OPEC+九月增产配额后暂停",
       "source": "路透社"
     },
     {
-      "title": "美国通胀加剧，经济增速放缓",
-      "url": "https://cn.nytimes.com/business/20260731/us-economy-gdp-growth/",
-      "summary": "美国经济滞胀风险上升。",
-      "source": "纽约时报"
+      "title": "乌克兰无人机袭击俄罗斯致两人死亡，并击中Wildberries仓库",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+      "summary": "乌克兰无人机袭俄致2死",
+      "source": "路透社"
     },
     {
-      "title": "中国经济持续疲软，北京拟加大刺激但未见重大政策转向",
-      "url": "https://cn.nytimes.com/business/20260731/china-economy-politburo/",
-      "summary": "中国刺激政策温和，经济承压。",
-      "source": "纽约时报"
+      "title": "西捷航空空乘罢工致航班停飞",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5",
+      "summary": "西捷航空空乘罢工致航班停飞",
+      "source": "路透社"
     },
     {
-      "title": "美国拟禁止进口中国人形机器人，北京威胁反制",
-      "url": "https://cn.nytimes.com/business/20260731/china-robots-ban-fcc/",
-      "summary": "中美科技脱钩加剧，机器人成新战场。",
-      "source": "纽约时报"
+      "title": "华盛顿州超25万英亩山火迫使居民撤离",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYThmc2Z4VmNwMVRiazd6X3c4T0Myd0pqbWplTkNMU3o5M0RoVnFNRzViejJ3UlZnUGk4Z29tVGwwRXk2ZS1hM1BWa252d2t3bVhPcU1LLWs1UTVxdTR0Yl91cTl3blhQV2xBMERaODkwZ29iU1RjXzBXY25qTkh6djNXTjdmSTRBNUZRYVo2d1l5cm9jWFpTRjMwOEpzRmlqeHpDNXlOSDFnSzltaFdldk5MNUtWZkVy?oc=5",
+      "summary": "华盛顿州山火蔓延，25万英亩受灾",
+      "source": "路透社"
     },
     {
-      "title": "美国航母停靠岘港，促进美越安全纽带并向中国展示实力",
-      "url": "https://cn.nytimes.com/asia-pacific/20260731/vietnam-aircraft-carrier/",
-      "summary": "美越加强军事合作，制衡中国。",
-      "source": "纽约时报"
+      "title": "中国甘肃山体滑坡死亡人数上升，暴雨持续",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6?oc=5",
+      "summary": "甘肃山体滑坡死亡人数上升",
+      "source": "路透社"
     },
     {
-      "title": "中国人工智能模型日渐强大，可能对中共构成威胁",
-      "url": "https://cn.nytimes.com/china/20260731/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing/",
-      "summary": "中国AI发展带来治理风险。",
-      "source": "纽约时报"
+      "title": "独家：日本将宣布与美国联合干预日元",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
+      "summary": "日本将宣布与美国联合干预日元",
+      "source": "路透社"
+    },
+    {
+      "title": "爱达荷州购物中心枪击致三人死亡",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5",
+      "summary": "爱达荷州购物中心枪击致3死",
+      "source": "路透社"
+    },
+    {
+      "title": "第一资本称反洗钱调查后关闭特朗普集团账户",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5",
+      "summary": "第一资本关闭特朗普集团账户",
+      "source": "路透社"
     }
   ],
   "interest": [
     {
-      "title": "中国风投机构三年干旱后急于募资",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUgzOWpmQS1wT1RNaWZhemhBWWQ0VkJqeVEycTJ0NUp6NHh1dDI5M0t2b3g4RVpnQ1EzRWtWZGc1OG14dnpzVXhRMG5sZzRObkNDYy0yckNmT2hway05MzlXRFRUMDhKTk40WERjU0M2dzZjNGliN2RvOC1MeXo5Y0w5MGo?oc=5",
-      "summary": "中国风投募资回暖，但挑战仍存。",
+      "title": "特朗普称若快速达成协议将暂缓对伊朗打击",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVo3dGdxY2VTTVREYUphQmZETi1naGt0SXBzSnZvbUY3UGRSZm5ERE83cWN0bHE5Z2MzUGVwR2xHUXAweUlxVE4xVElvNUdndUFnSGtnVGRVNkUxUDR2eUNCMHllcTRTUUdIY1I4bkxSQWkya0RkbmRJemxHVlMteVJDNFR4NXFjYTVTY0ppUTM4ZnlJNGtQNkRRNC1nRHUwcHEzUmh5VGNmc190OGFz?oc=5",
+      "summary": "特朗普称若快速达成协议将暂缓对伊打击",
+      "source": "彭博社"
+    },
+    {
+      "title": "莫斯科市中心餐厅爆炸致3死21伤",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRENJV3V6amU0MlZqenVoS3ZlaUNFMGpwMmE4anUtWklia1N1S3U1c0NRcWlXS0lsZUlCam8xYmVCSGNGcWpMY1RTZWlXYy05Z0pROGtac0k0anduZ29fYVZwSE9pZndHcWs5cHRVSUpDMUh3RjRzbnhmVE9PUHlxdTlGZXRTZWhUTnJBVE9lR0p4RnhiSUlmRzJORGxnZ3VtRkxCblp3OGJ1cHQzMEk2bjhlNGQyQzFnaDVia2RqUXY?oc=5",
+      "summary": "莫斯科餐厅爆炸致3死21伤",
+      "source": "彭博社"
+    },
+    {
+      "title": "沙特王子担忧特朗普对伊朗打击计划",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXk2RUtDc0Q3ZUNKQWM1X01Ld3BtbTJRUmh5bVB3dVY1WURWY05mRWtoNVh3N25PeXRuUE5zRy04TGxxcWRMLVNqU2hiTVBOUE9xTFRlUUxZSjRnSTRsa1BBT3RSWmR2SGVmVlF4X0ROejlvQnJjWTVMdV9FNmpUOTczaTMyOVU3Q2Y0dloxQWNKNDFqbnFIVzBNVUU0YkJBemdMWm4zNTVRRGE1WHc?oc=5",
+      "summary": "沙特王子担忧特朗普对伊打击计划",
+      "source": "彭博社"
+    },
+    {
+      "title": "韩国股市暴跌，愤怒的韩国人抨击李在镕并誓言抵制",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVVlbmVWV1UxSzR2YWNic2dKV1h3RWRETWhXbUN3dVBXaVNfOF94TnRFUnhDQ3RTVHExMmxuSV9PWUk5V1A1YWMwQmpqWWVXT2FBNnJ2c210emxPZ1YxR2VESjVGejFoeTFHXzRhZHFjR1NoMXBSaG9oRGxxMm1fU2o5VFo2ZzB4Q1lqeWRMSjNPTWpYcEh0U0RuWFd2ZkVIcmpBM2VQTUwtSTRXSlo5ZXFjUQ?oc=5",
+      "summary": "韩国股市暴跌，民众愤怒抵制",
+      "source": "彭博社"
+    },
+    {
+      "title": "美国向世界输出困惑",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVFSMkVjLUNBSWJGN1NiUWJHbU54MGsxVHRqQlQxYTI5RnMtcWE3VHRibUcxZWJiNC1jZkctNzRmekZzcUtLVFBaNDBHWURQRVUtdFRxYnNhNHZFMkxWcHFyVmVGbUxhS2tYVnpyUkxta1hHMkdXLVV5LUlWVmZUcTJsUHlrUmg0VUtnQlo4OUtKZkdGY1R5OV85a0UwdEZwOFgtSmdKRUhEZHBGNThqUndn?oc=5",
+      "summary": "美国政策不确定性令世界困惑",
+      "source": "彭博社"
+    },
+    {
+      "title": "贷款投资者因恐惧上升而抵制",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDlScHZObVVWbV9nbkJ1WG9YNDlBSEFHblgycnJTbEczVUFydS02ZWJFRUF6bFlveERwSlVheXdTWktzRktBcDBRU2tybTd6SXFEQ2hCWHRvWXZHQnBfNWw1Ujd4M0RrZk9ybWw1UDBYVFdPbXd6TUVfTWxEY2NjLS15dWtGdG0wdDJIYzJkTW1VUDh6QWxCZ0NNOHJkaUZkZldaaUhDeERCenl5Wl9N?oc=5",
+      "summary": "贷款投资者因恐惧上升而抵制",
+      "source": "彭博社"
+    },
+    {
+      "title": "片山表示日美正协调遏制日元疲软",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDl6Tmd2ckw3UTVkOG5jVGVjNXBERmpsbk1Wak4zSmM1QVhobHUzS0pKVnI1N29vWUhZYWljM0l2TlBIRl85emJJYXRuM2IzUmI2dHN5SUQ1a0QtMUs0R09DekNiODZXeDFXeGVXUVVLdDEtalhyX2ZEMjREWjNTc3FnNWNzVUI2T096SmxzR2kwcHZYbS1xVFh2a3VXQld1aTc5VmpBMEdDZ0tfaDQ3UmgtOA?oc=5",
+      "summary": "日美协调遏制日元疲软",
+      "source": "彭博社"
+    },
+    {
+      "title": "埃克森、雪佛龙警告战争冲击炼油，燃料价格将持续高企",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEFSVEJaREprdDZoWjl6Q3IwMlhSdUZ2VkY2S2drNkVjUnlRUEdOOTBIQThuZjkwa1ZkenRfUjZYdUNLNVY1bmlReXhfNEJTLXh2eWh6cnhldkxVemYteTdDYzNIVzVEWVl1ajI0ZmtUbUw5ZVJVblRGcW5ZSFl6SWdaTXIyM0o2Z2dnZktFSHBfa1ZOR0REX0ZDaUtjUmlWZmdGNlduYU9pWmhKaExaS0lDQi0?oc=5",
+      "summary": "战争冲击炼油，燃料价格高企",
+      "source": "彭博社"
+    },
+    {
+      "title": "美国支持的民主谈判将委内瑞拉反对派领导人边缘化",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXhpcmR3YzBxSE1GRnN3VTFVWWpUMG1sZDl0WE1IRTV0ZnY3WVk5UTNpMGJ6VlRkN1FpZXJ4YXpYbGF3a2gtMUVNYVRLdE9TRl9ZUm1OY21vS1JqcE8zbWNvUnhXckFvNEFzYW1JU25DVEZMbTRfME9jN0t5ZURKSWRoYWVBNkJRSHFRX241MW5aLWdwd0lTdS1QLTRvQlFIX1dTdXVTU0NKNEJf?oc=5",
+      "summary": "委内瑞拉反对派领导人在民主谈判中被边缘化",
+      "source": "华尔街日报"
+    },
+    {
+      "title": "特朗普称取消对伊朗打击因中东盟友请求",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtrbTYtQlNUbXJqenRFN2JkS1E0dktsNFB1bW9TSkUzMHRKWUlZalAyRW1fU2Q0ZXJRQnQ0SjRqdlZZeFlVMWNpZWdaekFTWlFoZlBmY3VZTVRFM19BcTdNQUp3emRkNG5fcFU1MEdlQmNBc0pZaDFMQjRLcjdIMW9lRXM?oc=5",
+      "summary": "特朗普称取消对伊打击因盟友请求",
       "source": "金融时报"
-    },
-    {
-      "title": "美国拟禁止进口中国人形机器人，北京威胁反制",
-      "url": "https://cn.nytimes.com/business/20260731/china-robots-ban-fcc/",
-      "summary": "中美科技战延伸至机器人领域。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "中国人工智能模型日渐强大，可能对中共构成威胁",
-      "url": "https://cn.nytimes.com/china/20260731/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing/",
-      "summary": "AI发展或影响中国政治稳定。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "中国经济持续疲软，北京拟加大刺激但未见重大政策转向",
-      "url": "https://cn.nytimes.com/business/20260731/china-economy-politburo/",
-      "summary": "中国政策温和，经济复苏缓慢。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "美国航母停靠岘港，促进美越安全纽带并向中国展示实力",
-      "url": "https://cn.nytimes.com/asia-pacific/20260731/vietnam-aircraft-carrier/",
-      "summary": "美越合作牵制中国。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "气候变化和关税如何帮助中国成为“牛肉大国”",
-      "url": "https://cn.nytimes.com/business/20260730/china-beef-imports-tariffs/",
-      "summary": "中国牛肉进口激增，影响全球市场。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "战火摧毁了缅甸，富人却仍在享乐、消费、传播“正能量”",
-      "url": "https://cn.nytimes.com/world/20260730/myanmar-war-nightlife-luxury/",
-      "summary": "缅甸内战下贫富分化加剧。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "酷热高温、野火肆虐：欧洲的夏天为何变得如此“要命”",
-      "url": "https://cn.nytimes.com/world/20260730/europe-summer-heat-fires-saudi/",
-      "summary": "欧洲极端天气频发，影响经济。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "福奇听证会，一场政治闹剧",
-      "url": "https://cn.nytimes.com/opinion/20260731/anthony-fauci-hearing-covid/",
-      "summary": "美国疫情政治化，科学受质疑。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "人到中年，九个可能帮助你延长寿命的习惯",
-      "url": "https://cn.nytimes.com/health/20260731/longevity-expert-tips-middle-age/",
-      "summary": "健康习惯受关注，或影响保险业。",
-      "source": "纽约时报"
     }
   ],
   "sources": {
@@ -135,7 +135,7 @@
         {
           "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5",
-          "published": "Sun, 02 Aug 2026 09:46:40 GMT",
+          "published": "Sun, 02 Aug 2026 10:05:22 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5\" target=\"_blank\">Five dead, 41 missing after Indonesian ferry catches fire, authorities say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
@@ -154,17 +154,17 @@
           "source": "路透社"
         },
         {
-          "title": "WestJet flight attendants go on strike after talks fall through, grounding flights",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5",
-          "published": "Sun, 02 Aug 2026 06:16:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5\" target=\"_blank\">WestJet flight attendants go on strike after talks fall through, grounding flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
           "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
           "published": "Sun, 02 Aug 2026 09:17:54 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5\" target=\"_blank\">Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
+          "title": "WestJet flight attendants go on strike after talks fall through, grounding flights",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5",
+          "published": "Sun, 02 Aug 2026 06:16:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5\" target=\"_blank\">WestJet flight attendants go on strike after talks fall through, grounding flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
@@ -210,10 +210,10 @@
       "count": 10,
       "articles": [
         {
-          "title": "Trump Says US to Cancel Iran Attack Subject to a Rapid Deal",
+          "title": "Trump Says US to Hold Off Iran Attack If Rapid Deal Agreed",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVo3dGdxY2VTTVREYUphQmZETi1naGt0SXBzSnZvbUY3UGRSZm5ERE83cWN0bHE5Z2MzUGVwR2xHUXAweUlxVE4xVElvNUdndUFnSGtnVGRVNkUxUDR2eUNCMHllcTRTUUdIY1I4bkxSQWkya0RkbmRJemxHVlMteVJDNFR4NXFjYTVTY0ppUTM4ZnlJNGtQNkRRNC1nRHUwcHEzUmh5VGNmc190OGFz?oc=5",
-          "published": "Sun, 02 Aug 2026 09:28:53 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVo3dGdxY2VTTVREYUphQmZETi1naGt0SXBzSnZvbUY3UGRSZm5ERE83cWN0bHE5Z2MzUGVwR2xHUXAweUlxVE4xVElvNUdndUFnSGtnVGRVNkUxUDR2eUNCMHllcTRTUUdIY1I4bkxSQWkya0RkbmRJemxHVlMteVJDNFR4NXFjYTVTY0ppUTM4ZnlJNGtQNkRRNC1nRHUwcHEzUmh5VGNmc190OGFz?oc=5\" target=\"_blank\">Trump Says US to Cancel Iran Attack Subject to a Rapid Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "published": "Sun, 02 Aug 2026 11:14:52 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVo3dGdxY2VTTVREYUphQmZETi1naGt0SXBzSnZvbUY3UGRSZm5ERE83cWN0bHE5Z2MzUGVwR2xHUXAweUlxVE4xVElvNUdndUFnSGtnVGRVNkUxUDR2eUNCMHllcTRTUUdIY1I4bkxSQWkya0RkbmRJemxHVlMteVJDNFR4NXFjYTVTY0ppUTM4ZnlJNGtQNkRRNC1nRHUwcHEzUmh5VGNmc190OGFz?oc=5\" target=\"_blank\">Trump Says US to Hold Off Iran Attack If Rapid Deal Agreed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
@@ -287,6 +287,13 @@
       "count": 10,
       "articles": [
         {
+          "title": "Helicopter Parents Are Co-Piloting Their Adult Children’s Careers",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORk1wcVEwTEhUVnpnMkVNd1BMT0tVNWQ3QjU0dG9ibU8xRTBFNGpzVUxiUGhOdzJGQk4yOFlfd3h0cDhfMkloWmFWTHVGTzZoalA4REoyckRJdWhpZUFEU3Q2TldIQ0JGWlZkSHE1blV4dzZ5eUNmdE9ZeG41UGhrU002ZFctdXJnZnJsaGpkbk9SZw?oc=5",
+          "published": "Sun, 02 Aug 2026 09:30:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORk1wcVEwTEhUVnpnMkVNd1BMT0tVNWQ3QjU0dG9ibU8xRTBFNGpzVUxiUGhOdzJGQk4yOFlfd3h0cDhfMkloWmFWTHVGTzZoalA4REoyckRJdWhpZUFEU3Q2TldIQ0JGWlZkSHE1blV4dzZ5eUNmdE9ZeG41UGhrU002ZFctdXJnZnJsaGpkbk9SZw?oc=5\" target=\"_blank\">Helicopter Parents Are Co-Piloting Their Adult Children’s Careers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
           "title": "‘How Can Someone Vanish Without a Trace?’",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcUFNOW9EMHdvTXVGNms2anJwTTgxUHhiYnFIa2E4TVRYWVJtNkNVN2ZsclZCRGJDV2w1SWxadUV2SkdZOFoxVlEwU1ZNT0w1aG44UnBhdW5BaTJSWXc5TVVCUEFOZmNpc2JNczNTZEdXXzJPSWJPRUpKbEMzNEJ6MQ?oc=5",
           "published": "Sun, 02 Aug 2026 00:30:00 GMT",
@@ -315,6 +322,13 @@
           "source": "华尔街日报"
         },
         {
+          "title": "The Race to Build an American Alternative to Cheap AI From China",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5",
+          "published": "Sun, 02 Aug 2026 01:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5\" target=\"_blank\">The Race to Build an American Alternative to Cheap AI From China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
           "title": "A Tech Founder Wanted to Start a New Country. An Actual Country Got in the Way.",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlhfV0dxREhMcWxyMWFhS2hiYWN6YXNSek9xYzBSMlVSNnFBVU9iSEVoYnN2MjVSSWRmMGlOUE1rajRLdjIzM2g2YkNJZEttUUtIMk5qMDF6S2ZtQTFxbXlXLXg3UkNUbktUbGpSQWRWeV9wSDc5VkZhTGtpUC1mYjBVLVFYU1EzdF9mN1pobndoaGNJbkxlcXJRZUJPdG5KOWY0Y1RtbE9DdUt6WmZNQQ?oc=5",
           "published": "Sat, 01 Aug 2026 16:00:00 GMT",
@@ -329,20 +343,6 @@
           "source": "华尔街日报"
         },
         {
-          "title": "Settlers Torch Mosques and Villagers Guard Homes: West Bank Violence Is Surging",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFY4LTZQMldtdUtLZTdMN3hKa2V1VzQ1eU9FcXdybWVtUU9pcVlHRFRQRTM4MTNpWExwMERQU3A0T0Z6bzk4NkRIUEFhOE5UdEQzVmNuN1dtZUhlazRFa3JJcmc2QUJuX0FDaTVLRlFYaXIzUTRkU1VISzZTR2hiWl9PWXc0SFVaMThsNFJFTElRZzNOZzVkSVFXVndaYzMzdmxtODMwelRENHNqMXhuLWd5MU9MZTVuRUJqLWUyRXp5NEE?oc=5",
-          "published": "Sat, 01 Aug 2026 13:19:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFY4LTZQMldtdUtLZTdMN3hKa2V1VzQ1eU9FcXdybWVtUU9pcVlHRFRQRTM4MTNpWExwMERQU3A0T0Z6bzk4NkRIUEFhOE5UdEQzVmNuN1dtZUhlazRFa3JJcmc2QUJuX0FDaTVLRlFYaXIzUTRkU1VISzZTR2hiWl9PWXc0SFVaMThsNFJFTElRZzNOZzVkSVFXVndaYzMzdmxtODMwelRENHNqMXhuLWd5MU9MZTVuRUJqLWUyRXp5NEE?oc=5\" target=\"_blank\">Settlers Torch Mosques and Villagers Guard Homes: West Bank Violence Is Surging</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "U.S.-Backed Democracy Talks Sideline Venezuela’s Opposition Leader",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXhpcmR3YzBxSE1GRnN3VTFVWWpUMG1sZDl0WE1IRTV0ZnY3WVk5UTNpMGJ6VlRkN1FpZXJ4YXpYbGF3a2gtMUVNYVRLdE9TRl9ZUm1OY21vS1JqcE8zbWNvUnhXckFvNEFzYW1JU25DVEZMbTRfME9jN0t5ZURKSWRoYWVBNkJRSHFRX241MW5aLWdwd0lTdS1QLTRvQlFIX1dTdXVTU0NKNEJf?oc=5",
-          "published": "Sat, 01 Aug 2026 15:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXhpcmR3YzBxSE1GRnN3VTFVWWpUMG1sZDl0WE1IRTV0ZnY3WVk5UTNpMGJ6VlRkN1FpZXJ4YXpYbGF3a2gtMUVNYVRLdE9TRl9ZUm1OY21vS1JqcE8zbWNvUnhXckFvNEFzYW1JU25DVEZMbTRfME9jN0t5ZURKSWRoYWVBNkJRSHFRX241MW5aLWdwd0lTdS1QLTRvQlFIX1dTdXVTU0NKNEJf?oc=5\" target=\"_blank\">U.S.-Backed Democracy Talks Sideline Venezuela’s Opposition Leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
           "title": "Trump Says He’ll Revive Plan to Compensate Allies After Declaring It ‘Dead’",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHo3c3NhOVBVX0phemZXN1JZbzh1YXpudzV1T1lZVTBWWEFTWHp5NzlwSjBHTUM4ZWVCaDNmUEYwamx6OWdSOWgxcDlPN3JmTUEzVjhHeWl0TzJ3SG9aVzE4WGhhSzV5M3U2NUpCRi10c1BYejNaLWVGSHA4QlBXdVd6YW5qZlRyNHVRT3k3cjN0dC1fMFNZdl8wQXpXRktzVk5lRVJVLV9CNWZ4SWRuR19BU2JIR05G?oc=5",
           "published": "Sat, 01 Aug 2026 17:10:00 GMT",
@@ -350,10 +350,10 @@
           "source": "华尔街日报"
         },
         {
-          "title": "Print Edition | Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ydlZzM0FGSVQ2TWNEalRKY01nNTRWd01fVnpzd3I5anlsNC12djJxeUE4N29ZUkk0cVhRQjRYOWYzSk4xYUVpWk9ud0NWQV84SFhPb0w0TnA5dmpZakRMN0VR?oc=5",
-          "published": "Sun, 02 Aug 2026 05:28:24 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ydlZzM0FGSVQ2TWNEalRKY01nNTRWd01fVnpzd3I5anlsNC12djJxeUE4N29ZUkk0cVhRQjRYOWYzSk4xYUVpWk9ud0NWQV84SFhPb0w0TnA5dmpZakRMN0VR?oc=5\" target=\"_blank\">Print Edition | Wall Street Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "title": "U.S.-Backed Democracy Talks Sideline Venezuela’s Opposition Leader",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXhpcmR3YzBxSE1GRnN3VTFVWWpUMG1sZDl0WE1IRTV0ZnY3WVk5UTNpMGJ6VlRkN1FpZXJ4YXpYbGF3a2gtMUVNYVRLdE9TRl9ZUm1OY21vS1JqcE8zbWNvUnhXckFvNEFzYW1JU25DVEZMbTRfME9jN0t5ZURKSWRoYWVBNkJRSHFRX241MW5aLWdwd0lTdS1QLTRvQlFIX1dTdXVTU0NKNEJf?oc=5",
+          "published": "Sat, 01 Aug 2026 15:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXhpcmR3YzBxSE1GRnN3VTFVWWpUMG1sZDl0WE1IRTV0ZnY3WVk5UTNpMGJ6VlRkN1FpZXJ4YXpYbGF3a2gtMUVNYVRLdE9TRl9ZUm1OY21vS1JqcE8zbWNvUnhXckFvNEFzYW1JU25DVEZMbTRfME9jN0t5ZURKSWRoYWVBNkJRSHFRX241MW5aLWdwd0lTdS1QLTRvQlFIX1dTdXVTU0NKNEJf?oc=5\" target=\"_blank\">U.S.-Backed Democracy Talks Sideline Venezuela’s Opposition Leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         }
       ]
@@ -385,24 +385,10 @@
           "source": "金融时报"
         },
         {
-          "title": "Chinese VC firms rush to raise funds after 3-year drought",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUgzOWpmQS1wT1RNaWZhemhBWWQ0VkJqeVEycTJ0NUp6NHh1dDI5M0t2b3g4RVpnQ1EzRWtWZGc1OG14dnpzVXhRMG5sZzRObkNDYy0yckNmT2hway05MzlXRFRUMDhKTk40WERjU0M2dzZjNGliN2RvOC1MeXo5Y0w5MGo?oc=5",
-          "published": "Sun, 02 Aug 2026 08:27:09 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUgzOWpmQS1wT1RNaWZhemhBWWQ0VkJqeVEycTJ0NUp6NHh1dDI5M0t2b3g4RVpnQ1EzRWtWZGc1OG14dnpzVXhRMG5sZzRObkNDYy0yckNmT2hway05MzlXRFRUMDhKTk40WERjU0M2dzZjNGliN2RvOC1MeXo5Y0w5MGo?oc=5\" target=\"_blank\">Chinese VC firms rush to raise funds after 3-year drought</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
           "title": "Air France-KLM targets easyJet passengers during takeover turmoil",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHRUMDF4VWhKUzh5aHRLNF9HR2tlYjV3aDYzRDdJYXVKS0J1VFJzcV94TVllODJJaHFXTlMyYzFJWlZzQ3p6Y0EzZ2F5RjlGQ3JTdzQ2QTFpOVRwTWtfUlFzUzByaWdnWElSZ1RnYTEtUERpUmNCMHZwT3F1OG1yUjhEemQ?oc=5",
           "published": "Sun, 02 Aug 2026 04:00:27 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHRUMDF4VWhKUzh5aHRLNF9HR2tlYjV3aDYzRDdJYXVKS0J1VFJzcV94TVllODJJaHFXTlMyYzFJWlZzQ3p6Y0EzZ2F5RjlGQ3JTdzQ2QTFpOVRwTWtfUlFzUzByaWdnWElSZ1RnYTEtUERpUmNCMHZwT3F1OG1yUjhEemQ?oc=5\" target=\"_blank\">Air France-KLM targets easyJet passengers during takeover turmoil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZlb21va0dHaEhfWFM0YUJzZ3FOLW1FUmN4d0pOaWx1cnM2VTlTNENubGZTNmlSTFZmS1p0SjBvampPTGFOU3U4YVhLX0lhbmNQTk9sYks3dXQyN1JFdDVGNGRZbmw5S3NpQ2NNaHNvN1UtS2UwV1ZxZFhFRlV4NmJlZ0Y?oc=5",
-          "published": "Sun, 02 Aug 2026 04:00:27 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZlb21va0dHaEhfWFM0YUJzZ3FOLW1FUmN4d0pOaWx1cnM2VTlTNENubGZTNmlSTFZmS1p0SjBvampPTGFOU3U4YVhLX0lhbmNQTk9sYks3dXQyN1JFdDVGNGRZbmw5S3NpQ2NNaHNvN1UtS2UwV1ZxZFhFRlV4NmJlZ0Y?oc=5\" target=\"_blank\">Apple struggles to keep pace with AI ‘bug’ hunters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
@@ -413,6 +399,20 @@
           "source": "金融时报"
         },
         {
+          "title": "Chinese VC firms rush to raise funds after 3-year drought",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUgzOWpmQS1wT1RNaWZhemhBWWQ0VkJqeVEycTJ0NUp6NHh1dDI5M0t2b3g4RVpnQ1EzRWtWZGc1OG14dnpzVXhRMG5sZzRObkNDYy0yckNmT2hway05MzlXRFRUMDhKTk40WERjU0M2dzZjNGliN2RvOC1MeXo5Y0w5MGo?oc=5",
+          "published": "Sun, 02 Aug 2026 08:27:09 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUgzOWpmQS1wT1RNaWZhemhBWWQ0VkJqeVEycTJ0NUp6NHh1dDI5M0t2b3g4RVpnQ1EzRWtWZGc1OG14dnpzVXhRMG5sZzRObkNDYy0yckNmT2hway05MzlXRFRUMDhKTk40WERjU0M2dzZjNGliN2RvOC1MeXo5Y0w5MGo?oc=5\" target=\"_blank\">Chinese VC firms rush to raise funds after 3-year drought</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "Bangladesh’s future depends on the military distancing itself from politics",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wU3BLS0pMTG5STW03S2c2eVBBSVFsTjZvYzI2ZnptOEk3SVZ2VmVPTzk4eXJpV2E4QXFpd1A5MW1wOW84MHk1RHBGYjgyTWV0WGlDemxLbi1FR08waWlGR2FPM0otU0c1OHRwd3pjNUs?oc=5",
+          "published": "Sun, 02 Aug 2026 04:00:27 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8wU3BLS0pMTG5STW03S2c2eVBBSVFsTjZvYzI2ZnptOEk3SVZ2VmVPTzk4eXJpV2E4QXFpd1A5MW1wOW84MHk1RHBGYjgyTWV0WGlDemxLbi1FR08waWlGR2FPM0otU0c1OHRwd3pjNUs?oc=5\" target=\"_blank\">Bangladesh’s future depends on the military distancing itself from politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
           "title": "Spain pushes migrants home as Ceuta vents over ‘invasion’",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUpvOENLcHliRi1GMy1wQ0NUcDVpaHlyRzNSQzBSbk54aXN2b0pVWkpkSGRmVlhxcmVxSGo5Yl9aVEFKTzVyQ1hLVmNQclUxak1iZ211UDlHZXo3NnhJUjh2aUV2QUNtNEczOHhtUVhFeXBTS04ySURmZVRTdlB2QWoxeUc?oc=5",
           "published": "Sat, 01 Aug 2026 22:43:08 GMT",
@@ -420,17 +420,17 @@
           "source": "金融时报"
         },
         {
-          "title": "Who needs junior markets like Aim anyway?",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObllxa0ZhSm4yYi0xbnVyVWpmWGJhLU12M2dQSENVNlBxdmF3cU1GT25XTkJYWHVmVE5FWlZpQnB0TUlhWWxHVzExd09DTWRvMVdDRzRWeGRZVU02TWFLVWp1bVpoM2ZybTcxUnR5SzZndlpIMzFQdHFNUkdFNGtXUkQybzM?oc=5",
+          "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZlb21va0dHaEhfWFM0YUJzZ3FOLW1FUmN4d0pOaWx1cnM2VTlTNENubGZTNmlSTFZmS1p0SjBvampPTGFOU3U4YVhLX0lhbmNQTk9sYks3dXQyN1JFdDVGNGRZbmw5S3NpQ2NNaHNvN1UtS2UwV1ZxZFhFRlV4NmJlZ0Y?oc=5",
           "published": "Sun, 02 Aug 2026 04:00:27 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObllxa0ZhSm4yYi0xbnVyVWpmWGJhLU12M2dQSENVNlBxdmF3cU1GT25XTkJYWHVmVE5FWlZpQnB0TUlhWWxHVzExd09DTWRvMVdDRzRWeGRZVU02TWFLVWp1bVpoM2ZybTcxUnR5SzZndlpIMzFQdHFNUkdFNGtXUkQybzM?oc=5\" target=\"_blank\">Who needs junior markets like Aim anyway?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZlb21va0dHaEhfWFM0YUJzZ3FOLW1FUmN4d0pOaWx1cnM2VTlTNENubGZTNmlSTFZmS1p0SjBvampPTGFOU3U4YVhLX0lhbmNQTk9sYks3dXQyN1JFdDVGNGRZbmw5S3NpQ2NNaHNvN1UtS2UwV1ZxZFhFRlV4NmJlZ0Y?oc=5\" target=\"_blank\">Apple struggles to keep pace with AI ‘bug’ hunters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
-          "title": "Burnham says devolution plan paves the way for a written UK constitution",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEhRVFFkQTREclNXdEk5WHpMbk9seXdXa1VqSERVeW16WU5idzYxQXVlaDN1ck9kUUItRlVLczFRRlh2YUVLb1dPNnU3ZzcwY0poOWE5dTJaVVZjWWxJdTM4Wk9GeFN2N2ZvV3pmenVfZ1pmaTREbFdaNnl5ZmRubXdkMmI?oc=5",
-          "published": "Sat, 01 Aug 2026 18:14:56 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEhRVFFkQTREclNXdEk5WHpMbk9seXdXa1VqSERVeW16WU5idzYxQXVlaDN1ck9kUUItRlVLczFRRlh2YUVLb1dPNnU3ZzcwY0poOWE5dTJaVVZjWWxJdTM4Wk9GeFN2N2ZvV3pmenVfZ1pmaTREbFdaNnl5ZmRubXdkMmI?oc=5\" target=\"_blank\">Burnham says devolution plan paves the way for a written UK constitution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Foreign bidders woo UK companies with ‘bear hug’ takeover offers",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWVmUEphSGRJUkpsdk5tLUVGcWFxMU0zalk4aUlOdmNQSnN5VkJCdnhrMlJrRGR3VVY4TjByVDRMdTViNmFyb0FUSUxwQkVyQkN5X2RUX2hlQnFGQTd3U2NBWUdjeG5ON0dmRDdYZWdtajdqdFdadmE4eEdqV2htcFJ0NWM?oc=5",
+          "published": "Sun, 02 Aug 2026 04:00:27 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWVmUEphSGRJUkpsdk5tLUVGcWFxMU0zalk4aUlOdmNQSnN5VkJCdnhrMlJrRGR3VVY4TjByVDRMdTViNmFyb0FUSUxwQkVyQkN5X2RUX2hlQnFGQTd3U2NBWUdjeG5ON0dmRDdYZWdtajdqdFdadmE4eEdqV2htcFJ0NWM?oc=5\" target=\"_blank\">Foreign bidders woo UK companies with ‘bear hug’ takeover offers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         }
       ]
@@ -527,7 +527,7 @@
         {
           "title": "The global currency beef | August 1st 2026",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCNnM2TzZ5SHRQclhCM1BiMTdqcWMtTlBYaXJwQ3ZNTGVhZXFyNzM1TndLYlJzQVpQTHJaVUgxOU55ZFUza2t6aU1oMXlPekJQY004N0ZPRlFNMmhpbHhr?oc=5",
-          "published": "Sun, 02 Aug 2026 10:40:12 GMT",
+          "published": "Sun, 02 Aug 2026 10:18:31 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCNnM2TzZ5SHRQclhCM1BiMTdqcWMtTlBYaXJwQ3ZNTGVhZXFyNzM1TndLYlJzQVpQTHJaVUgxOU55ZFUza2t6aU1oMXlPekJQY004N0ZPRlFNMmhpbHhr?oc=5\" target=\"_blank\">The global currency beef | August 1st 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
@@ -553,6 +553,20 @@
           "source": "经济学人"
         },
         {
+          "title": "Science & technology",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWpyMVFmM1NBM1dxOTN5Nm15RTN3c0ZPOUNhSWo5b1VHSEZHbURETXJIQ19rWU96QXVlWUp0TUJ0N3pfZm1zUVBLOE94cUxiNFFvVi1oUm1mVDNiekxYYURUUmwyczY1RDBDb1BEb3ZSWk1RdlJSeHZRMFY1TTVRQkx6OHVScXVXYlptVk9JdC1lWUh3cjdhaTNGS1E3NUk?oc=5",
+          "published": "Sun, 02 Aug 2026 03:17:19 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWpyMVFmM1NBM1dxOTN5Nm15RTN3c0ZPOUNhSWo5b1VHSEZHbURETXJIQ19rWU96QXVlWUp0TUJ0N3pfZm1zUVBLOE94cUxiNFFvVi1oUm1mVDNiekxYYURUUmwyczY1RDBDb1BEb3ZSWk1RdlJSeHZRMFY1TTVRQkx6OHVScXVXYlptVk9JdC1lWUh3cjdhaTNGS1E3NUk?oc=5\" target=\"_blank\">Science & technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "Science & technology",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWno1Zk40b3Q4Q0ZGdUdCcFIzd09nQzBZQk9rTFh4RmxBUnJ5eVFCN1A0SjhhVjJZdnNWRW82cENKVVgzTEltbmcwU0ZMY2pjRnB3dGpPclZfdzM2TW5sYTZRbkU1MjFVcTVCX1pVLTJlTlVFRHRGaFJ4eHU4ZmZVbUN6NkFoMzA1ZVdfM3pNWHRkRDFwZ0tvYWRjM01jY28?oc=5",
+          "published": "Sat, 01 Aug 2026 20:47:38 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWno1Zk40b3Q4Q0ZGdUdCcFIzd09nQzBZQk9rTFh4RmxBUnJ5eVFCN1A0SjhhVjJZdnNWRW82cENKVVgzTEltbmcwU0ZMY2pjRnB3dGpPclZfdzM2TW5sYTZRbkU1MjFVcTVCX1pVLTJlTlVFRHRGaFJ4eHU4ZmZVbUN6NkFoMzA1ZVdfM3pNWHRkRDFwZ0tvYWRjM01jY28?oc=5\" target=\"_blank\">Science & technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
           "title": "Finance & economics",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0xQNFE2ZWk0QU1iQzd0N1BvaElpSGdtLXdQSlNaN055c0ZUc0g1Wkt2d2lLTmxBZk5OZW1iNjM4VjhwcHpIZEVaaWFFRVVtS2pKdGNXRjVJcDBoRk8zaFRQRExueWtPbUU1S1I5MHdLdExJSGZWM1EtbmpsUm1kdVFWWE92QnZmX2dvVlp1OXViMGNvNU5CeVNpUU0wdw?oc=5",
           "published": "Sat, 01 Aug 2026 17:40:53 GMT",
@@ -560,31 +574,17 @@
           "source": "经济学人"
         },
         {
-          "title": "Science & technology",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmlpeFBVb243bDNrZkVEZDdKVTR4X3A5MDhkRmRNTG03eEZ2c0JKY2FmVm5lU1pnUTlHWU5FSGhHbWJlOGhsSzZiWXpYSHk3Z040Nm1oVGNBMzB5VzZRWkJEdnFFandiQnNIdHpTd24yQ01Ca05kWndRMWtRdEppQnN0QVNBRnVYX2NsXzlLb2RIdUhLV2lLZmNjSW9JS0E?oc=5",
-          "published": "Sat, 01 Aug 2026 12:47:21 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmlpeFBVb243bDNrZkVEZDdKVTR4X3A5MDhkRmRNTG03eEZ2c0JKY2FmVm5lU1pnUTlHWU5FSGhHbWJlOGhsSzZiWXpYSHk3Z040Nm1oVGNBMzB5VzZRWkJEdnFFandiQnNIdHpTd24yQ01Ca05kWndRMWtRdEppQnN0QVNBRnVYX2NsXzlLb2RIdUhLV2lLZmNjSW9JS0E?oc=5\" target=\"_blank\">Science & technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "Culture",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0p2Y2x0OHZyWml1OGNuUVR4eWZHZTNuWDdwSEVKdGJXdGh4VENFSTJRUWs0Q0FjVzFOTFFWQ1cwQzRrWUFnUFBmVnFfVGxGNWpzSUpGenZ1X1daUFBLMUpMTTMxMVEtM0M4bGtFSkRCN2FHSUpIRW43R1lvQUpuSW9TcU94RVhFeG53?oc=5",
+          "published": "Sun, 02 Aug 2026 04:26:11 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0p2Y2x0OHZyWml1OGNuUVR4eWZHZTNuWDdwSEVKdGJXdGh4VENFSTJRUWs0Q0FjVzFOTFFWQ1cwQzRrWUFnUFBmVnFfVGxGNWpzSUpGenZ1X1daUFBLMUpMTTMxMVEtM0M4bGtFSkRCN2FHSUpIRW43R1lvQUpuSW9TcU94RVhFeG53?oc=5\" target=\"_blank\">Culture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
-          "title": "Europe",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXZMdGh3QnJyY080T2E2dUxiUXpzbTZ1Rm5ISFZjWmszYkpDVmZELTBWQ0J4OE42REpXLTNkcW1FZWVycE9lVXdQanJSXy14c2FhVlg3RENTdFBQWVg1NXhITFpfbVVSN3BIRnBOeTNzX3NaYkxXZ2JWbUduNlhjSUtqVDZRcHlMMUE?oc=5",
-          "published": "Sat, 01 Aug 2026 13:17:15 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXZMdGh3QnJyY080T2E2dUxiUXpzbTZ1Rm5ISFZjWmszYkpDVmZELTBWQ0J4OE42REpXLTNkcW1FZWVycE9lVXdQanJSXy14c2FhVlg3RENTdFBQWVg1NXhITFpfbVVSN3BIRnBOeTNzX3NaYkxXZ2JWbUduNlhjSUtqVDZRcHlMMUE?oc=5\" target=\"_blank\">Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-          "source": "经济学人"
-        },
-        {
-          "title": "Letters",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1NDWW5GUnJSbVlGNXItck1nSkdlakZKNHdsdW02UnY1el9DbWp4LWVpTGlBNWpyTjk4NDBHUWhNWWlWSjhvanl5czZmWHc3VmgxX25NeXhyQ3ZEWDZTaHZvUEFsWk1MNUc3UGZSbU1OSnBtTkdod0hhanZnZk5nbXpKUGpXcGtIQXFZ?oc=5",
-          "published": "Sat, 01 Aug 2026 15:48:22 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1NDWW5GUnJSbVlGNXItck1nSkdlakZKNHdsdW02UnY1el9DbWp4LWVpTGlBNWpyTjk4NDBHUWhNWWlWSjhvanl5czZmWHc3VmgxX25NeXhyQ3ZEWDZTaHZvUEFsWk1MNUc3UGZSbU1OSnBtTkdod0hhanZnZk5nbXpKUGpXcGtIQXFZ?oc=5\" target=\"_blank\">Letters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-          "source": "经济学人"
-        },
-        {
-          "title": "Finance & economics",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUZsNjF3dGlVSWZqUmFaa3U0SjRrNUdGRm5RSmZmNkY1dzBFdUlQSzNiVlJtUUgzLVlVNWVsOFFjdmJMOGVrN0tSRWNJR09MTDVXT01PUVVCcEtMNF9XZUJHQUNjblh2Szh4WnZzNGV2VTZrS3Y1LXNkdXIyOURRWVhJYWN5VlhEckVXLXhySVF3WS02NnJkbUE3UXZjdw?oc=5",
-          "published": "Sat, 01 Aug 2026 15:46:46 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTUZsNjF3dGlVSWZqUmFaa3U0SjRrNUdGRm5RSmZmNkY1dzBFdUlQSzNiVlJtUUgzLVlVNWVsOFFjdmJMOGVrN0tSRWNJR09MTDVXT01PUVVCcEtMNF9XZUJHQUNjblh2Szh4WnZzNGV2VTZrS3Y1LXNkdXIyOURRWVhJYWN5VlhEckVXLXhySVF3WS02NnJkbUE3UXZjdw?oc=5\" target=\"_blank\">Finance & economics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "Forget gold and copper. Africa’s latest boom is in blueberries and oranges",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWJDdUJ3OFZXVFBqQVctbjR5QjhiaUw1M05kUnJsX2otWHFYU3BoYWNQTkc5WTFkYTh2M3o4R0p2akhlS3N2cGJyV3RZU212dWlNWVdTaElOUWtVRDBCZkQ4U0JSeFRIR2dSaHA1TDk3a0M0azRnYWQ0ZnhaX0Y3YlJvaWlUU1JrREN5a19hU3Q5U1N1ZlhUZjNkUTBVRC1NQWc5c1VNNzhhQU56WlN6U2x5am54WjYzRWNXZ1E5UU5nb3ZCVlVNaThKMVY?oc=5",
+          "published": "Sun, 02 Aug 2026 10:05:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWJDdUJ3OFZXVFBqQVctbjR5QjhiaUw1M05kUnJsX2otWHFYU3BoYWNQTkc5WTFkYTh2M3o4R0p2akhlS3N2cGJyV3RZU212dWlNWVdTaElOUWtVRDBCZkQ4U0JSeFRIR2dSaHA1TDk3a0M0azRnYWQ0ZnhaX0Y3YlJvaWlUU1JrREN5a19hU3Q5U1N1ZlhUZjNkUTBVRC1NQWc5c1VNNzhhQU56WlN6U2x5am54WjYzRWNXZ1E5UU5nb3ZCVlVNaThKMVY?oc=5\" target=\"_blank\">Forget gold and copper. Africa’s latest boom is in blueberries and oranges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         }
       ]
@@ -597,7 +597,7 @@
         {
           "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
           "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 02 Aug 2026 09:10:51 GMT",
+          "published": "Sun, 02 Aug 2026 11:12:00 GMT",
           "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
           "source": "BBC"
         },
@@ -609,10 +609,17 @@
           "source": "BBC"
         },
         {
-          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-          "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 02 Aug 2026 10:54:44 GMT",
-          "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+          "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+          "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 10:11:26 GMT",
+          "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+          "source": "BBC"
+        },
+        {
+          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+          "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 11:49:40 GMT",
+          "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
           "source": "BBC"
         },
         {
@@ -623,17 +630,10 @@
           "source": "BBC"
         },
         {
-          "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-          "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 02 Aug 2026 10:11:26 GMT",
-          "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-          "source": "BBC"
-        },
-        {
-          "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
-          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 02 Aug 2026 10:32:28 GMT",
-          "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+          "title": "It was about the adventure, says fastest runner to cross the Alps",
+          "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 10:59:55 GMT",
+          "summary": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
           "source": "BBC"
         },
         {
