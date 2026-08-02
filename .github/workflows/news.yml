@@ -1,0 +1,74 @@
+name: 每日新闻抓取
+
+on:
+  schedule:
+    - cron: "0 22,4,13 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: |
+          pip install feedparser openai
+
+      - name: 抓取新闻并进行 AI 分析
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python fetch_news.py
+
+      - name: 提交更新
+        run: |
+          git config --global user.name "News Bot"
+          git config --global user.email "news-bot@github.com"
+
+          git add news.json
+          git add news.md
+          git add pushed_news.json
+
+          if git diff --staged --quiet; then
+            echo "没有新的内容，跳过提交"
+          else
+            git commit -m "📰 $(date -u '+%Y-%m-%d %H:%M') 新闻更新"
+            git push
+            echo "✅ 已推送更新"
+          fi
+
+      - name: 检查新闻文件
+        run: |
+          test -f news.json
+          echo "✅ news.json 已生成"
+
+      - name: 生成网页
+        run: |
+          mkdir -p pages-dist
+          cp news.json pages-dist/news.json
+          cp news.md pages-dist/news.md
+          python generate_page.py
+
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: pages-dist
+          publish_branch: gh-pages
+          keep_files: false
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
+          commit_message: "🚀 Deploy news to GitHub Pages"
