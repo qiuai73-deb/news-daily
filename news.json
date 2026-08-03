@@ -1,129 +1,129 @@
 {
-  "updated": "2026-08-03T15:49:27.014775+00:00",
-  "updated_beijing": "2026-08-03 15:49 北京时间",
-  "summary_analysis": "【核心主线】当前全球政治经济主线围绕地缘冲突、能源安全与AI竞争展开。美国与伊朗紧张关系出现缓和迹象，特朗普取消打击并称谈判在即，但伊朗否认，市场避险情绪降温，油价下跌。欧洲面临多重挑战：希腊山火持续，西班牙休达移民危机，莱茵河水位创新低，极端天气与地缘政治交织。AI领域竞争白热化，亚马逊市值突破3万亿美元，中国阿里发布最强AI模型，韩国DeepX估值飙升，AI技能价值凸显。\n\n【市场与政策信号】金融市场聚焦企业财报与并购活动，KKR、Prysmian等大额交易频现，阿斯利康与百时美施贵宝洽谈合并引发关注。美国对日元进行干预，日本表示必要时将与美国联合行动。美国国债收益率因油价下跌而走低。监管方面，瑞银因洗钱被罚1.25亿美元，欧盟AI法案加强执法。中国方面，旅游价格战影响消费，德国汽车业困境引发讨论。\n\n【关键风险提示】地缘政治风险仍存，伊朗局势不确定性高。欧洲极端天气与移民压力加剧，可能引发社会动荡。AI监管趋严，企业面临合规风险。全球供应链受干旱影响，莱茵河低水位威胁运输。美国经济增速放缓与通胀并存，政策空间受限。",
+  "updated": "2026-08-03T23:12:26.129221+00:00",
+  "updated_beijing": "2026-08-03 23:12 北京时间",
+  "summary_analysis": "【核心主线】当前全球政治经济主线围绕美国大选、贸易政策与地缘冲突展开。民调显示民主党在经济议题上首次领先共和党，反映选民对特朗普关税政策的不满。特朗普政府对伊朗的军事威胁与谈判反复，以及对中国等国的关税战，加剧了全球市场不确定性。同时，美国国内政治斗争激烈，特朗普与媒体、企业界关系紧张。\n\n【市场与政策信号】企业财报显示分化：Palantir、Snap等科技公司业绩强劲，而传统行业如Tyson面临成本压力。波音737 MAX 7获认证，利好航空业。并购活动活跃，如KKR收购Integer Holdings。美联储政策与美元走势受关注，日本与美国联合支撑日元。AI领域，中国以更低成本实现突破，引发对美国AI竞争力的担忧。\n\n【关键风险提示】地缘冲突风险：伊朗核问题与霍尔木兹海峡潜在封锁；贸易战升级：美国多州起诉特朗普关税政策，全球供应链受扰；欧洲极端天气与野火造成经济损失；英国脱欧后移民政策争议；美国国内政治极化可能影响政策稳定性。",
   "important": [
     {
-      "title": "亚马逊加入市值3万亿美元俱乐部，AI与云增长推动涨势",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2h5X3dkMzhkV3ZxZ3UtZ2ZlMEh4bVVzeUF6RDlYS3R6SEFrSXlRRlJ6SDBCVFZITUV1eUYwX21VcFlIQkhrV05NM3Rudnp4LVNxNEN5WnlFM0FrSDZFNC1nX2dISGx5Z0xqQndiWHRqdkxDaHJ3ek5hcjNnZERtWTRnYThyd3MwRkVHdmg3djFLeFdFMFBLeW91NXVaVjUxQUpwSDhkUUpBa2hHNGxlcHVEbUc2NUlrUjdIYWhwcWFsZw?oc=5",
-      "summary": "亚马逊市值突破3万亿美元，AI与云业务驱动。",
+      "title": "民调显示美国选民在经济议题上十年来首次更青睐民主党",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
+      "summary": "经济议题民调逆转，民主党十年来首次领先。",
       "source": "路透社"
     },
     {
-      "title": "丹麦因应俄罗斯与特朗普扩大义务兵役制",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFFyX2FGQlBGYWZVYkc5dlBIbGZFaEFQa0dHVkpCLU9wQS1kbWVsclUtNUdnUDBDNXNGUVpfTU96UlY3SUpsN1FRb1M2bzZFY1Z0OXAxS1ZHSmxISVJId1ZVNGZ0dE5vQVRNUkVoak90c1VkYWFVLWJVdXhnVWVSUWxXcHdEX0NCaGV5Ty04RER2NktkQllod1dPSDljSFphaTNlYUQ5Slh0TUJ6c0E?oc=5",
-      "summary": "丹麦扩大征兵以应对俄罗斯威胁及特朗普政策。",
+      "title": "美国最高法院维持对巴勒斯坦组织6.55亿美元判决",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnJXbFlTcnd5ekloOUVSVFItaUU1d1lSR2wxOXp0V2VHdUd5aHl0Z1QzVTE4cjZ0M2JlOU81d05NaHkzeTlTdEZNRkVMaFoxcVRmMDg4aEgwMTZVTUlxTjZDcTVRLU5aM0hYZmdtbk8zbWlaY3d5ZUFsa3NfaE9EelNhWDJuYWVUSnFZSG1FMXhpblRXRWFTWjdZdkVEUTZHakt5dmlaTkZpYU9qYVo0a1c1eTRfaXZyMzAtSjZ1Z3ZsVVRE?oc=5",
+      "summary": "最高法院拒绝暂停对巴勒斯坦的巨额赔偿判决。",
       "source": "路透社"
     },
     {
-      "title": "瑞银因洗钱违规被美国监管机构罚款1.25亿美元",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2NEeHdNTkNSVkRlY2RoazlTc1F6U2tjOEd0TkpIZVY4cmZjRS1mMGdYVnRTcXQ4UmFxNENaem5tUGhKcjNDU3Y3RG1NOGEtdU9NQzlIdXhKLVBRVjBXZE9wTGVFQ1dUbmU3MHJ1c1VjbjZVTlZJUGlLaWM5Ym5vYk1feXlzLUE2Vk0tQ01KV2Y2Qk1vMkx2bkFxVHFscXhtSkpXcFJZak9pOXBydjlQbVJsZw?oc=5",
-      "summary": "瑞银因洗钱违规被罚1.25亿美元。",
+      "title": "美国多州起诉特朗普政府最新关税政策",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw?oc=5",
+      "summary": "25州联合起诉，挑战特朗普关税合法性。",
       "source": "路透社"
     },
     {
-      "title": "美国签署协议提高爱国者与萨德导弹部件产量",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
-      "summary": "美国扩大导弹部件生产以增强防御能力。",
+      "title": "雪佛龙因业绩强劲向员工发放特别奖金",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlptZlhWZjNYS0pKU2laTkx3NkZuQ0p0cFQ0ZC1jVU5MTGYyOWVicVRpQ1dmTU12VHN4UUFLcFBtTDh0OHlzWWpnX0k5OHN6WEhWcm9sZkhaSmM1dGtEQ2ZkWENKN3JCZ1daNUU5bVRBM19xZTEyNUZBU0hfTnhhOWs1eVFqbk9CYnBLRmNlam41UWpjWW1fdjVBdEZ3MlJVTkx5TU9rRTdGcXVCNklqTGlxTjk?oc=5",
+      "summary": "雪佛龙业绩超预期，发放特别奖金。",
       "source": "路透社"
     },
     {
-      "title": "西班牙休达移民潮：数千人滞留边境，城市不堪重负",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
-      "summary": "西班牙休达因移民涌入而陷入危机。",
+      "title": "特朗普称伊朗若不达成协议将面临“斩首”",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
+      "summary": "特朗普威胁伊朗，若不谈判将遭斩首。",
       "source": "路透社"
     },
     {
-      "title": "欧盟承诺向摩洛哥提供更多边境支持，冯德莱恩回应休达争端",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNC1XNmpUMjU2RUMyZE04eEY4VFp0eU5YUUZ0bDdLTExPR3BPT3ExOFpmSmVaOHdzQjVmNllkalBHMVlVVHB4LWZGWFM5S3hkeElyMXhWN05aczJKMjI1SUdQakt1dmFjYXVTZTkteVRmTXVQVDFjeTNNQWY0T0lQVFB3TC1EMEFHcGx2NDVHSjJva0t3ZzhsTC1pWThVUFBNejNLYUNGX0pfR0lsZFBFQllldWdfeDNDTi1zWHpZTTJsRDFKRHhwcQ?oc=5",
-      "summary": "欧盟将加强摩洛哥边境支持以缓解移民压力。",
+      "title": "泽连斯基解雇乌克兰驻美大使",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5",
+      "summary": "泽连斯基撤换驻美大使，外交调整。",
       "source": "路透社"
     },
     {
-      "title": "伊朗称霍尔木兹谈判进行中，特朗普取消打击后",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzVjSTNHNjdiR2p5TmZKZ1J6Zy02TzUwWjJRUXAteDN2YTJLbTFUZllzRVg1OGtlNGNFQmxaeHZFNEhyQk5haTBNTC12WHR2RU5tdUwyckZhVUdfQm5Hd0ZwcGllaDlFYnl2cGV6UFpMRnFhNWotUXFnY1l4czZKMk51azdDeWRaMURHQTIxNU11OU42VnNLbUxDSnN6YW16WDg5S2g3bFNtN2trWTJNRTln?oc=5",
-      "summary": "伊朗称与阿曼谈判，否认与美国直接谈判。",
+      "title": "美国联邦航空管理局认证波音737 MAX 7",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5",
+      "summary": "波音737 MAX 7获FAA认证，重大胜利。",
+      "source": "路透社"
+    },
+    {
+      "title": "苹果新CEO任命退休硬件高管加入管理团队",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmNQQ2pVVjBPek1xTDI5MjlkTTNKZ0tkdjEzUWpvdm5YaGQydkFoMnA2RnI3Z2hfVi0zMVpGME1hTGJfc003NzNFaU1oTThHbEMxMFZkaFktdDN3alFkTDFJVThkeGVkaTJqaXB2cVo2YmZQNXhfMmNHMkF5blNzRUpFWkhBX1dEdWNEQTRTOHQ4dG9OVWQ5dllxcXIyal9JcHp1X1laUk5YQ082c01tMERnVEFoaVJoWEE?oc=5",
+      "summary": "苹果新CEO引入退休高管，管理层重组。",
       "source": "彭博社"
     },
     {
-      "title": "美国铜进口激增，市场等待特朗普关税决定",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHRPdU9CU1NzbjFjVnd4RlJRWEV2SnoyZ0Y5UU9OMVl2MkdPN3FBeDJydm44bnJlYUNLSkVGSnBLc3ZMcTI0U3lhalJwcHlRb1lnUGgwWnJRVnYtLWFGX085a0JtMzU4Zm5JWWNqVlFtdC1DOTdXNUtRQzBEclE3dks0WENTbFh2Z1NOMXEtb0xERng5Rm8wcEc2cXBJU2s2QkZUVEx0bHotNEc3a2c?oc=5",
-      "summary": "美国铜进口激增，市场关注关税政策。",
+      "title": "Palantir上调业绩预期，CEO称业务“超凡”",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2NpTktqRjQyX3VmZHVUV3A0ck1JTDk5WEFjY1RONC1aek9oLXRXbm50Z0N3YzNmVXV0UlM0SS1zd09JVC1EdUVRd3dn?oc=5",
+      "summary": "Palantir上调指引，商业销售强劲。",
       "source": "彭博社"
     },
     {
-      "title": "特朗普终于为伊朗战争找到出路？",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQblNoa0Q4ZV9CLXNXQjJldXY5eWZoNmc1Yngyc3JFVzduUkltZ3V1YWVkX0JJYXN4SmUtclBxZnBGY3Y5QUdvaEhNcllJSm1wVC1EM2gyR1c3WUtCMC02bTd0d1NEd0o5VExPanJFZHVfby1FM0dFOEc2TGpqUDFmUncyMkVfcnZjS2Q1RGViYnplUQ?oc=5",
-      "summary": "特朗普取消对伊打击，寻求外交解决。",
-      "source": "华尔街日报"
-    },
-    {
-      "title": "KKR以43亿美元现金收购Integer Holdings",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWElROF9pWmtRRjVsZXF6MDJZRnNQOU5FUUtjY0M3emgyelpkNk85U3hUYUZ4UlJ5STJiQWZkSnZIVXR0QnV4dUNoSE1WNWdCdjIzbmpNV2gxUVhaWFE3dE1hZFR6WTgtam9LYS1hVFFra3NUVS1VUTJCQjhpcWxLaGhiaEZ1RW80ek9VUTRPWjc?oc=5",
-      "summary": "KKR以43亿美元现金收购Integer Holdings。",
-      "source": "华尔街日报"
+      "title": "特朗普称谈判是伊朗的“最后机会”",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVBVLUFIT0pwUVFUMml4SFhxVDIxN3UxbGIzLTFLU29aMmpOaHZJUER3UjNTWERsakw5c2M4MDZLQkNSd28zQ0p4c29uVG4wQ05sT2lxYWFFbE1lenc4UURiV3ExSlRLWWlYVlBRMFJlbkludEhDanJBUDlPaHVVMFRJSFQxT0RSVHIwTTN0aWhMbUhmOUEzWXQxRW9jb0pTd0hIdFJnVnAwMmRnNFN4bEdJVQ?oc=5",
+      "summary": "特朗普称伊朗谈判为最后机会，局势紧张。",
+      "source": "彭博社"
     }
   ],
   "interest": [
     {
-      "title": "阿里巴巴发布最强AI模型，股价上涨，中美竞争加剧",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOHNuTXBFVE9uUDBvRm5oSFBmSHFvZ0R1T256QzJUNXFOTjVyZDJlT19NNUxhM1NwVXQzS08tZFlmRXRDVzE0Q3lobzFGYllSMWJPNVdIUzRaSHpLbklBNjBZNWpGS0RVUEMyOERfNUJzOVMzWXh4MUIycjVudmvSAYQBQVVfeXFMTmNfWEdiZ0E3andENy1sZXZhLVZxWi1FY0ZyZnozeDFxQXppQzI1NGdDZlVlODZBR0I5dGhvaHJlWmhfWnJFekhyT050aUo3UTFRTWFxUnkwN3JFSDliXzNJVjh1T2JwY2RESVgyT2I5UDZQMVFlalR6dDI4cmU0T2toLWJV?oc=5",
-      "summary": "阿里发布最强AI模型，股价上涨。",
-      "source": "CNBC"
+      "title": "苹果就英国政府要求访问加密数据提起法律挑战",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5",
+      "summary": "苹果挑战英国加密数据访问要求，隐私之争。",
+      "source": "金融时报"
     },
     {
-      "title": "旅游价格战威胁中国消费亮点",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kb1drUGRfck50RDRjbU92Y1JWT1JURnRreWxpQzFLOC1keC1Mc3Y1TTNEX3lfVjlKQUFnYnNSY3JaTHozZks3T2FUaGppcXd5Ykp1eGZhdzllaUNpZ0toNEE4NldBZl9vSjIwU0pySFpjOTNoRnNUM9IBfkFVX3lxTE8yQVpTWi1qeGh2UFlqcDZ2aTVwbnVPdXJ5amtURHkwTS1ucVpoeEc1ZHk0VlJ2RVJkbHNCOEZHTEQ2eDZFNE1kNEhRWEQycDZWWVI2RTZHY0o0VkRHYUVVOGctRWp5SEQ1NHFZZzUtdzM4X3NZb3NZcTcwZXU1dw?oc=5",
-      "summary": "旅游价格战或损害中国消费复苏。",
-      "source": "CNBC"
+      "title": "阿斯利康与百时美施贵宝洽谈4000亿美元合并",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5",
+      "summary": "阿斯利康洽谈巨额合并，或重塑制药业。",
+      "source": "金融时报"
+    },
+    {
+      "title": "中国在AI领域比美国更划算",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5",
+      "summary": "中国AI投入产出比优于美国，引发关注。",
+      "source": "经济学人"
+    },
+    {
+      "title": "中国不会为产能过剩道歉",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZLcTE0TDFST3djQnlwdDRnTmxhV3dQRlAtd05oQ3l4V3pfRlFVbVNGcHNKUlJoMFRCeEs5TmlTOThEU1FDS2N5R01OMWJyUFFfcVB6Z0x2TFFIYW9Dc3JadnRQbnd4c3JySnpIUy0wNmlQd00wdTYtanhqME5TM2gwQlJ2WTA?oc=5",
+      "summary": "中国坚持产能政策，回应西方批评。",
+      "source": "经济学人"
+    },
+    {
+      "title": "墨西哥总统不再忍气吞声",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDl6WXRuOG1GT0R6NlRnNjhrS3l1MmlkQjhsazk0ZjdaTkp6VkZYQ3NQYlYtOTlRZV83U2ItM2hLREMyekZ3VHdTUUF2WGx0OTd1SGdxWE9ybzBRU01VTFgzZ2dpdkl4aWZINEQ2Q2YwUmFZSmkzNC1BWnJFcEFEMUhxUHlwcTBIVngwcW1vdTYzN2MySGFuYnJXTEJJUQ?oc=5",
+      "summary": "墨西哥总统对美态度转强硬，外交转向。",
+      "source": "经济学人"
     },
     {
       "title": "德国汽车工业困境：关税、中国与劳工关系",
       "url": "https://cn.nytimes.com/business/20260803/germany-mercedes-bmw-volkswagen/",
-      "summary": "德国汽车业面临多重挑战，转型艰难。",
+      "summary": "德国车企面临多重挑战，行业转型艰难。",
       "source": "纽约时报"
     },
     {
-      "title": "休达移民危机：5万人如何涌入西班牙非洲飞地？",
-      "url": "https://cn.nytimes.com/world/20260803/spain-ceuta-migrants-morocco/",
-      "summary": "休达移民危机揭示欧洲边境管理困境。",
+      "title": "《奥德赛》：诺兰巨作每一帧都充满激情",
+      "url": "https://cn.nytimes.com/culture/20260803/the-odyssey-review/",
+      "summary": "诺兰新片《奥德赛》获好评，视觉震撼。",
       "source": "纽约时报"
     },
     {
-      "title": "通胀加剧，美国经济增速放缓",
-      "url": "https://cn.nytimes.com/business/20260731/us-economy-gdp-growth/",
-      "summary": "美国经济增速放缓，通胀压力上升。",
-      "source": "纽约时报"
-    },
-    {
-      "title": "日本誓言必要时与美国联合干预日元",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1BZYkpxbTJJTU4xdUtjeGluTTBtZm9CZjRlSjAtQ2oxcEg3NWt0eG5HVzlqX0dlZHJDc2FvU3VTTlNCQ1ZrVzB5UWtOSnNpZGZKMl9MXzlUN2ZycFdDcXZhTTY2Vk9aLWsya0VzZnFUSVRCSDBfMmdHUFRCR1pCSUVaaVc?oc=5",
-      "summary": "日本表示必要时与美国联合干预日元。",
+      "title": "美国汽油车击败欧洲电动车，汽车战升级",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGZYdXY4aHJ3WWVxbFJEUjE1ZGVyeWk2dVZrWmVwV3U0dWtOeU1mTTRrU3BZcDdDZmpFdXYxMTNtMk5MajY3bWRBdTZYeXhSVUNPMUliN2pKQkFZOTk1VU1YVDgzREJHVng4SlNzY2ZndExKVVdFMXpadTlPU0F1cy1CbWw?oc=5",
+      "summary": "美国燃油车市场占优，欧洲电动车受挫。",
       "source": "金融时报"
     },
     {
-      "title": "美国消费者抛弃百威淡啤",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5",
-      "summary": "百威淡啤销量下滑，美国消费者偏好转变。",
-      "source": "金融时报"
-    },
-    {
-      "title": "华尔街开始拥抱区块链",
+      "title": "华尔街开始拥抱区块链技术",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1BLMlMxS2dTVk44bERfUl9UVjhqbjRtM3JHOWE1d0llM0lrdnRWMVBqU2s2Mlg4V0pVRjUwMmJCejZ5X0U5TjlONXJhekZsbElLUmxveElEdkhkWXBnTzlPck1rT3NjZ3FVYVNwOU1oMFItSEl6TG51SkVxSm1uek5RUzU?oc=5",
-      "summary": "华尔街金融机构逐渐接受区块链技术。",
+      "summary": "华尔街金融机构加速采用区块链。",
       "source": "金融时报"
     },
     {
-      "title": "Visa以24亿美元收购网络安全公司BioCatch，应对AI诈骗激增",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bXQ4eGVhbVBxUl9QZkQ5TXp5UlBlQXBzeE0yb2tNTkxQOXM2cjhGMkFUUUE5Qmt1YjBaLTU1VDNwS1pXN0daa1Zuck5zd2xReVlXeFN0SXJQTVNMdkZmS2ExNVFYdmNUa3BKa3lJS1hiX09QdGI4NWxoSdIBgAFBVV95cUxOSzgzZGdnWVhZajdLeGM3REVSWFRaOFllSUlaSDQ4NlBVVk05MEFWNVJMTjU1WG8yaUxjeHpFYlpJbEVWUkZyZ3pDMHVmSEFvME5MRFZtMi1Pb3Vqa1FqaEhsc3EtdFg4MFROeGNka1ZTckJmRFZ6Y3JRYUp6Si1FRw?oc=5",
-      "summary": "Visa收购BioCatch以加强网络安全。",
-      "source": "CNBC"
-    },
-    {
-      "title": "欧盟AI法案执法权加强，Anthropic、OpenAI等面临新审查",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjkyZXhrLU11dksxVTNxUFlkZEhKdUtQU2dDMUpNUExTNG9PdGFGZFAxY05UamxEWFNlcGYwSWJQOERRV3FwN2F2ZXRHc014bDkwUTh5SktKekgzVFlseWh0WXRfUlBMTkpEMnR6dlp1YWPSAXhBVV95cUxNMFJrbWFkYTFaNGxpVVpScmJ5dVdrZGhMZ0NmZFU4dmdNSnlLa0dVaU1scllBOThZcjFQUXBuazFmMEJNZi1laGVPQjBFZ2UzZ1E3QjQwSE1fa0M2WjM4bUx4N1RKQ2NGMi1RdklGMzh1bTBLR01Ba3Q?oc=5",
-      "summary": "欧盟AI法案加强执法，AI公司面临审查。",
-      "source": "CNBC"
+      "title": "美国饮酒者为何不再爱百威淡啤",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5",
+      "summary": "百威淡啤销量下滑，消费者偏好转变。",
+      "source": "金融时报"
     }
   ],
   "sources": {
@@ -133,73 +133,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "Greek crews fight wildfire northwest of Athens for fourth day",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc?oc=5",
-          "published": "Mon, 03 Aug 2026 15:09:46 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc?oc=5\" target=\"_blank\">Greek crews fight wildfire northwest of Athens for fourth day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
+          "published": "Mon, 03 Aug 2026 21:19:43 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5\" target=\"_blank\">Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Amazon enters $3 trillion club as AI, cloud growth power rally",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2h5X3dkMzhkV3ZxZ3UtZ2ZlMEh4bVVzeUF6RDlYS3R6SEFrSXlRRlJ6SDBCVFZITUV1eUYwX21VcFlIQkhrV05NM3Rudnp4LVNxNEN5WnlFM0FrSDZFNC1nX2dISGx5Z0xqQndiWHRqdkxDaHJ3ek5hcjNnZERtWTRnYThyd3MwRkVHdmg3djFLeFdFMFBLeW91NXVaVjUxQUpwSDhkUUpBa2hHNGxlcHVEbUc2NUlrUjdIYWhwcWFsZw?oc=5",
-          "published": "Mon, 03 Aug 2026 14:08:27 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2h5X3dkMzhkV3ZxZ3UtZ2ZlMEh4bVVzeUF6RDlYS3R6SEFrSXlRRlJ6SDBCVFZITUV1eUYwX21VcFlIQkhrV05NM3Rudnp4LVNxNEN5WnlFM0FrSDZFNC1nX2dISGx5Z0xqQndiWHRqdkxDaHJ3ek5hcjNnZERtWTRnYThyd3MwRkVHdmg3djFLeFdFMFBLeW91NXVaVjUxQUpwSDhkUUpBa2hHNGxlcHVEbUc2NUlrUjdIYWhwcWFsZw?oc=5\" target=\"_blank\">Amazon enters $3 trillion club as AI, cloud growth power rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "US Supreme Court won't halt $655 million judgment against Palestinians over attacks",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnJXbFlTcnd5ekloOUVSVFItaUU1d1lSR2wxOXp0V2VHdUd5aHl0Z1QzVTE4cjZ0M2JlOU81d05NaHkzeTlTdEZNRkVMaFoxcVRmMDg4aEgwMTZVTUlxTjZDcTVRLU5aM0hYZmdtbk8zbWlaY3d5ZUFsa3NfaE9EelNhWDJuYWVUSnFZSG1FMXhpblRXRWFTWjdZdkVEUTZHakt5dmlaTkZpYU9qYVo0a1c1eTRfaXZyMzAtSjZ1Z3ZsVVRE?oc=5",
+          "published": "Mon, 03 Aug 2026 21:13:03 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnJXbFlTcnd5ekloOUVSVFItaUU1d1lSR2wxOXp0V2VHdUd5aHl0Z1QzVTE4cjZ0M2JlOU81d05NaHkzeTlTdEZNRkVMaFoxcVRmMDg4aEgwMTZVTUlxTjZDcTVRLU5aM0hYZmdtbk8zbWlaY3d5ZUFsa3NfaE9EelNhWDJuYWVUSnFZSG1FMXhpblRXRWFTWjdZdkVEUTZHakt5dmlaTkZpYU9qYVo0a1c1eTRfaXZyMzAtSjZ1Z3ZsVVRE?oc=5\" target=\"_blank\">US Supreme Court won't halt $655 million judgment against Palestinians over attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Denmark begins extended military conscription in response to Russia, Trump",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFFyX2FGQlBGYWZVYkc5dlBIbGZFaEFQa0dHVkpCLU9wQS1kbWVsclUtNUdnUDBDNXNGUVpfTU96UlY3SUpsN1FRb1M2bzZFY1Z0OXAxS1ZHSmxISVJId1ZVNGZ0dE5vQVRNUkVoak90c1VkYWFVLWJVdXhnVWVSUWxXcHdEX0NCaGV5Ty04RER2NktkQllod1dPSDljSFphaTNlYUQ5Slh0TUJ6c0E?oc=5",
-          "published": "Mon, 03 Aug 2026 13:19:30 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFFyX2FGQlBGYWZVYkc5dlBIbGZFaEFQa0dHVkpCLU9wQS1kbWVsclUtNUdnUDBDNXNGUVpfTU96UlY3SUpsN1FRb1M2bzZFY1Z0OXAxS1ZHSmxISVJId1ZVNGZ0dE5vQVRNUkVoak90c1VkYWFVLWJVdXhnVWVSUWxXcHdEX0NCaGV5Ty04RER2NktkQllod1dPSDljSFphaTNlYUQ5Slh0TUJ6c0E?oc=5\" target=\"_blank\">Denmark begins extended military conscription in response to Russia, Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Democratic US states sue to challenge Trump's latest tariffs",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw?oc=5",
+          "published": "Mon, 03 Aug 2026 20:53:08 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw?oc=5\" target=\"_blank\">Democratic US states sue to challenge Trump's latest tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "UBS fined $125 million by US regulators for money laundering violations",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2NEeHdNTkNSVkRlY2RoazlTc1F6U2tjOEd0TkpIZVY4cmZjRS1mMGdYVnRTcXQ4UmFxNENaem5tUGhKcjNDU3Y3RG1NOGEtdU9NQzlIdXhKLVBRVjBXZE9wTGVFQ1dUbmU3MHJ1c1VjbjZVTlZJUGlLaWM5Ym5vYk1feXlzLUE2Vk0tQ01KV2Y2Qk1vMkx2bkFxVHFscXhtSkpXcFJZak9pOXBydjlQbVJsZw?oc=5",
-          "published": "Mon, 03 Aug 2026 14:25:19 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2NEeHdNTkNSVkRlY2RoazlTc1F6U2tjOEd0TkpIZVY4cmZjRS1mMGdYVnRTcXQ4UmFxNENaem5tUGhKcjNDU3Y3RG1NOGEtdU9NQzlIdXhKLVBRVjBXZE9wTGVFQ1dUbmU3MHJ1c1VjbjZVTlZJUGlLaWM5Ym5vYk1feXlzLUE2Vk0tQ01KV2Y2Qk1vMkx2bkFxVHFscXhtSkpXcFJZak9pOXBydjlQbVJsZw?oc=5\" target=\"_blank\">UBS fined $125 million by US regulators for money laundering violations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Chevron awards staff special bonus following earnings blowout",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlptZlhWZjNYS0pKU2laTkx3NkZuQ0p0cFQ0ZC1jVU5MTGYyOWVicVRpQ1dmTU12VHN4UUFLcFBtTDh0OHlzWWpnX0k5OHN6WEhWcm9sZkhaSmM1dGtEQ2ZkWENKN3JCZ1daNUU5bVRBM19xZTEyNUZBU0hfTnhhOWs1eVFqbk9CYnBLRmNlam41UWpjWW1fdjVBdEZ3MlJVTkx5TU9rRTdGcXVCNklqTGlxTjk?oc=5",
+          "published": "Mon, 03 Aug 2026 18:01:43 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlptZlhWZjNYS0pKU2laTkx3NkZuQ0p0cFQ0ZC1jVU5MTGYyOWVicVRpQ1dmTU12VHN4UUFLcFBtTDh0OHlzWWpnX0k5OHN6WEhWcm9sZkhaSmM1dGtEQ2ZkWENKN3JCZ1daNUU5bVRBM19xZTEyNUZBU0hfTnhhOWs1eVFqbk9CYnBLRmNlam41UWpjWW1fdjVBdEZ3MlJVTkx5TU9rRTdGcXVCNklqTGlxTjk?oc=5\" target=\"_blank\">Chevron awards staff special bonus following earnings blowout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "US signs deal to boost Patriot and THAAD missile parts production",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
-          "published": "Mon, 03 Aug 2026 15:35:44 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5\" target=\"_blank\">US signs deal to boost Patriot and THAAD missile parts production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Trump says Iran faces 'decapitation' if it doesn't strike deal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
+          "published": "Mon, 03 Aug 2026 19:49:01 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5\" target=\"_blank\">Trump says Iran faces 'decapitation' if it doesn't strike deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Reform UK proposes military-led operation to stop asylum seekers",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2tLQnhCUXRGMDk1T1g3THZjNXVTbFBsUFIzSVc2U19xUl9UM3haNWRQbERvWElBVHA4Y2h0NHJ4c0dzYzhHUjZ4aFBoaS1UX29Cc3JPeHZBRkplNTJaU3JvamtqNDFqTnZEYTluVjNGUk5mZFVhekpBTHMxcUltLUxOSU1rUl9Za1dOcXkyejQwNzhYemRxSE1keDVpRlNiWEo3WjZBNF9TZw?oc=5",
-          "published": "Mon, 03 Aug 2026 12:37:47 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2tLQnhCUXRGMDk1T1g3THZjNXVTbFBsUFIzSVc2U19xUl9UM3haNWRQbERvWElBVHA4Y2h0NHJ4c0dzYzhHUjZ4aFBoaS1UX29Cc3JPeHZBRkplNTJaU3JvamtqNDFqTnZEYTluVjNGUk5mZFVhekpBTHMxcUltLUxOSU1rUl9Za1dOcXkyejQwNzhYemRxSE1keDVpRlNiWEo3WjZBNF9TZw?oc=5\" target=\"_blank\">Reform UK proposes military-led operation to stop asylum seekers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Trump blasts Jeanine Pirro, says she 'choked' in dropping reflecting pool case",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnlOQ24wLWR5VXJNU0h2M3ZTRzV6Zng1eFVHT1ZjVzdOTHIzTmtrMkxxWDBzQlFNRk1ya0NNbHFzSlMwSFlBVWJqWGo1ZUU0NFhxdGdFbUIzVW85UmRRUEpiTHdsZzVqWF9TZFB4MDVkYmFiaVdDbGEwV0FzeXN5bUlkUmgtZzR2a212OTBBSTVKWTdWRU54R1l1clBGQU5qYkdpa2lEUU5vYmdCZkFGMU5PLVhCWnFnWGYyWnZBUFBRSGc?oc=5",
+          "published": "Mon, 03 Aug 2026 20:17:12 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnlOQ24wLWR5VXJNU0h2M3ZTRzV6Zng1eFVHT1ZjVzdOTHIzTmtrMkxxWDBzQlFNRk1ya0NNbHFzSlMwSFlBVWJqWGo1ZUU0NFhxdGdFbUIzVW85UmRRUEpiTHdsZzVqWF9TZFB4MDVkYmFiaVdDbGEwV0FzeXN5bUlkUmgtZzR2a212OTBBSTVKWTdWRU54R1l1clBGQU5qYkdpa2lEUU5vYmdCZkFGMU5PLVhCWnFnWGYyWnZBUFBRSGc?oc=5\" target=\"_blank\">Trump blasts Jeanine Pirro, says she 'choked' in dropping reflecting pool case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
-          "published": "Mon, 03 Aug 2026 12:05:43 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5\" target=\"_blank\">Spain's Ceuta overwhelmed as thousands remain after migrant border rush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Zelenskiy dismisses Ukraine's ambassador to US",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5",
+          "published": "Mon, 03 Aug 2026 18:26:30 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5\" target=\"_blank\">Zelenskiy dismisses Ukraine's ambassador to US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "EU can give Morocco more border support, von der Leyen tells Spain after Ceuta spat",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNC1XNmpUMjU2RUMyZE04eEY4VFp0eU5YUUZ0bDdLTExPR3BPT3ExOFpmSmVaOHdzQjVmNllkalBHMVlVVHB4LWZGWFM5S3hkeElyMXhWN05aczJKMjI1SUdQakt1dmFjYXVTZTkteVRmTXVQVDFjeTNNQWY0T0lQVFB3TC1EMEFHcGx2NDVHSjJva0t3ZzhsTC1pWThVUFBNejNLYUNGX0pfR0lsZFBFQllldWdfeDNDTi1zWHpZTTJsRDFKRHhwcQ?oc=5",
-          "published": "Mon, 03 Aug 2026 13:37:57 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNC1XNmpUMjU2RUMyZE04eEY4VFp0eU5YUUZ0bDdLTExPR3BPT3ExOFpmSmVaOHdzQjVmNllkalBHMVlVVHB4LWZGWFM5S3hkeElyMXhWN05aczJKMjI1SUdQakt1dmFjYXVTZTkteVRmTXVQVDFjeTNNQWY0T0lQVFB3TC1EMEFHcGx2NDVHSjJva0t3ZzhsTC1pWThVUFBNejNLYUNGX0pfR0lsZFBFQllldWdfeDNDTi1zWHpZTTJsRDFKRHhwcQ?oc=5\" target=\"_blank\">EU can give Morocco more border support, von der Leyen tells Spain after Ceuta spat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "US FAA certifies Boeing 737 MAX 7 in win for planemaker",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5",
+          "published": "Mon, 03 Aug 2026 22:26:27 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5\" target=\"_blank\">US FAA certifies Boeing 737 MAX 7 in win for planemaker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "WestJet flight attendants to end strike after reaching tentative wage deal",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
-          "published": "Mon, 03 Aug 2026 14:26:51 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5\" target=\"_blank\">WestJet flight attendants to end strike after reaching tentative wage deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Philippines' Eala wins first WTA title, Fritz claims Washington crown",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmtWVWU3am81Nld3VnVMR0I2c010SVMxWHllcTMweUJDcGFDWVIxMHVGSnBWNUg1X3pwb3BUZnFRUDBmZEx4UDlkVmxEVGF1QUtfVW1qSXRUSWhaWnFvbnpHMkM1MmpydlhTRGhrWklyekVhMFdlQkR1WHE4YXNsWEhzMWxXMmFEUVQxcm4tc2JfdjY5S1BGMFZldWptMEYyUnhVVjctMWZCc0pmQmphR1dWSHZxMVNlRGd6bEVB?oc=5",
+          "published": "Mon, 03 Aug 2026 20:15:16 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmtWVWU3am81Nld3VnVMR0I2c010SVMxWHllcTMweUJDcGFDWVIxMHVGSnBWNUg1X3pwb3BUZnFRUDBmZEx4UDlkVmxEVGF1QUtfVW1qSXRUSWhaWnFvbnpHMkM1MmpydlhTRGhrWklyekVhMFdlQkR1WHE4YXNsWEhzMWxXMmFEUVQxcm4tc2JfdjY5S1BGMFZldWptMEYyUnhVVjctMWZCc0pmQmphR1dWSHZxMVNlRGd6bEVB?oc=5\" target=\"_blank\">Philippines' Eala wins first WTA title, Fritz claims Washington crown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
-          "title": "Anti-war politician Boris Nadezhdin says he is now outside Russia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXJPaUhiYU03NkhYaVpidzJMTGwxbGlqakU5Sk1EalYtdmJvTjdjWTZ4WnVNNEllVU5WZVgyTEF5dXdWSEluMXFaSExyRVNMeFYtX082REJ5dUcyYWFsZUpZc3h4YTRkeklBQ1VLOS1iVXpwYWpjY3hHTEQ1ay1UcFJoNUV1eFRHbGN0c2NTMmJnNFhJRmpyY1FRSl9KVFhyV1Z1REI3QlRFbDg?oc=5",
-          "published": "Mon, 03 Aug 2026 12:09:44 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXJPaUhiYU03NkhYaVpidzJMTGwxbGlqakU5Sk1EalYtdmJvTjdjWTZ4WnVNNEllVU5WZVgyTEF5dXdWSEluMXFaSExyRVNMeFYtX082REJ5dUcyYWFsZUpZc3h4YTRkeklBQ1VLOS1iVXpwYWpjY3hHTEQ1ay1UcFJoNUV1eFRHbGN0c2NTMmJnNFhJRmpyY1FRSl9KVFhyV1Z1REI3QlRFbDg?oc=5\" target=\"_blank\">Anti-war politician Boris Nadezhdin says he is now outside Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Michigan reports first US deaths in cyclosporiasis outbreak",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5",
+          "published": "Mon, 03 Aug 2026 22:02:48 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5\" target=\"_blank\">Michigan reports first US deaths in cyclosporiasis outbreak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         }
       ]
@@ -210,73 +210,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUC1Ubll5MmJwbGRZT2FqMlJnWFl1TlVGUGtVS3dwY0N3czUwXzNhXzlzZ0lZdDhXNEU5cDJTRm1vak9PN21EUnVLY0R6TndGYW1jUmRvVGl2MlNuc1VuX3dyWXkxWEkwb1d4Y2Q4cWlYSnZseEdGek5PY0lnajZ2M1ZkSTFUMWk5aktObFh1QldrSkZnLUdHdko4UE84MGZ2dHNiWDQtMjdlTEFWZ3pWRQ?oc=5",
-          "published": "Mon, 03 Aug 2026 13:38:54 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUC1Ubll5MmJwbGRZT2FqMlJnWFl1TlVGUGtVS3dwY0N3czUwXzNhXzlzZ0lZdDhXNEU5cDJTRm1vak9PN21EUnVLY0R6TndGYW1jUmRvVGl2MlNuc1VuX3dyWXkxWEkwb1d4Y2Q4cWlYSnZseEdGek5PY0lnajZ2M1ZkSTFUMWk5aktObFh1QldrSkZnLUdHdko4UE84MGZ2dHNiWDQtMjdlTEFWZ3pWRQ?oc=5\" target=\"_blank\">Amazon Joins Elite List of Stocks to Top $3 Trillion in Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Apple’s New CEO Taps Retired Hardware Executive for Management Team",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmNQQ2pVVjBPek1xTDI5MjlkTTNKZ0tkdjEzUWpvdm5YaGQydkFoMnA2RnI3Z2hfVi0zMVpGME1hTGJfc003NzNFaU1oTThHbEMxMFZkaFktdDN3alFkTDFJVThkeGVkaTJqaXB2cVo2YmZQNXhfMmNHMkF5blNzRUpFWkhBX1dEdWNEQTRTOHQ4dG9OVWQ5dllxcXIyal9JcHp1X1laUk5YQ082c01tMERnVEFoaVJoWEE?oc=5",
+          "published": "Mon, 03 Aug 2026 20:09:45 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmNQQ2pVVjBPek1xTDI5MjlkTTNKZ0tkdjEzUWpvdm5YaGQydkFoMnA2RnI3Z2hfVi0zMVpGME1hTGJfc003NzNFaU1oTThHbEMxMFZkaFktdDN3alFkTDFJVThkeGVkaTJqaXB2cVo2YmZQNXhfMmNHMkF5blNzRUpFWkhBX1dEdWNEQTRTOHQ4dG9OVWQ5dllxcXIyal9JcHp1X1laUk5YQ082c01tMERnVEFoaVJoWEE?oc=5\" target=\"_blank\">Apple’s New CEO Taps Retired Hardware Executive for Management Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "US Soccer Coach Pochettino Signs New Contract, Funded by Griffin",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFE2b291cDMzX0VrVVVody1oOUNEMkQ0NVN2ZWkwRlVWeU8wcnV0NVU0SlBjcEFQbnJKcGFwNXUxZm1pV3ZMbWJMOENvc2Rxd3Jlb0FkTGp4dWVmcmh1RzZUeHpldzNxcTBnSlYyRnZvMWVHb0ktQk44bnE5ekktcjFfek9jRGNlVG5qRDFoSUlxRnpQXzJyVzd1RkswUkpvc2hXMWpsdW51di1tN29wSEdzbkg1UQ?oc=5",
-          "published": "Mon, 03 Aug 2026 13:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFE2b291cDMzX0VrVVVody1oOUNEMkQ0NVN2ZWkwRlVWeU8wcnV0NVU0SlBjcEFQbnJKcGFwNXUxZm1pV3ZMbWJMOENvc2Rxd3Jlb0FkTGp4dWVmcmh1RzZUeHpldzNxcTBnSlYyRnZvMWVHb0ktQk44bnE5ekktcjFfek9jRGNlVG5qRDFoSUlxRnpQXzJyVzd1RkswUkpvc2hXMWpsdW51di1tN29wSEdzbkg1UQ?oc=5\" target=\"_blank\">US Soccer Coach Pochettino Signs New Contract, Funded by Griffin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Palantir Raises Outlook, Karp Calls Business Sales ‘Otherworldy’",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2NpTktqRjQyX3VmZHVUV3A0ck1JTDk5WEFjY1RONC1aek9oLXRXbm50Z0N3YzNmVXV0UlM0SS1zd09JVC1EdUVRd3dn?oc=5",
+          "published": "Mon, 03 Aug 2026 22:03:33 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2NpTktqRjQyX3VmZHVUV3A0ck1JTDk5WEFjY1RONC1aek9oLXRXbm50Z0N3YzNmVXV0UlM0SS1zd09JVC1EdUVRd3dn?oc=5\" target=\"_blank\">Palantir Raises Outlook, Karp Calls Business Sales ‘Otherworldy’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazBqMDU1dldOZmo5RWk0SnNpRmdjazJjOFZ3ZWx0TVFfWFBLNXBIVmFhZEhkZ3ZycDhpQ0w1clI4V3ZwV3o4VFpWQ0RkcHd1WS1tMVZ6SlJQTG1nSXBNdjR4cE50U1FSZ1pSalFSTVVnclA1ZWhFeUJ6ZE5EaTAxdnpRWkdKTFMyTVM5a1dWWE5IbzBCNFFZc21LTFpBUHZyV0Y4ZTY4dlctN0dlUmRHc0hn?oc=5",
-          "published": "Mon, 03 Aug 2026 12:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNazBqMDU1dldOZmo5RWk0SnNpRmdjazJjOFZ3ZWx0TVFfWFBLNXBIVmFhZEhkZ3ZycDhpQ0w1clI4V3ZwV3o4VFpWQ0RkcHd1WS1tMVZ6SlJQTG1nSXBNdjR4cE50U1FSZ1pSalFSTVVnclA1ZWhFeUJ6ZE5EaTAxdnpRWkdKTFMyTVM5a1dWWE5IbzBCNFFZc21LTFpBUHZyV0Y4ZTY4dlctN0dlUmRHc0hn?oc=5\" target=\"_blank\">McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Taco Bell Met With Michigan on Parasite Weeks Before Recall",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEU0THBkWHVuTVBPX1AtUFNTNFNyX3hJMnFQRFFSWUZpWnNEU1BPcElwUG50OGQxWHVOZV9HUWE2YkowZnNFaDV6VDE1UW9xSzkzVkZvMXNXdjlUaEZOeWlNTVA1bkdnMVVpanVSWFNBbzhOMlBocm1Fc09NZXhkNVkxUGctS1BfTWZqMWFCTG04bG9LWDNkVlNHeEM4aTZ2NkFBbzFONWhqay15OTRWamVmTQ?oc=5",
+          "published": "Mon, 03 Aug 2026 19:12:59 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEU0THBkWHVuTVBPX1AtUFNTNFNyX3hJMnFQRFFSWUZpWnNEU1BPcElwUG50OGQxWHVOZV9HUWE2YkowZnNFaDV6VDE1UW9xSzkzVkZvMXNXdjlUaEZOeWlNTVA1bkdnMVVpanVSWFNBbzhOMlBocm1Fc09NZXhkNVkxUGctS1BfTWZqMWFCTG04bG9LWDNkVlNHeEM4aTZ2NkFBbzFONWhqay15OTRWamVmTQ?oc=5\" target=\"_blank\">Taco Bell Met With Michigan on Parasite Weeks Before Recall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "Mamdani’s Rent Freeze Heaps Pressure on a Teetering CMBS Deal",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSktHamJVM2hSWXNhYXkwYUJpcjRmenlFWUNGY3ZVZ1lhdUV6cFo5c3RRSFQ2SXFfYUkxMzlHaHJzOXdlbkxEZ0stcXExMWg0N1JhT29mQzdkd3BzMUlxZVV2YXhrbkg4RlpDR1JGUWNNOWljMmNsc0tXQ0ZiZmwtdlJZLXhwSGhtSTc1ZzBrLW1oUXJvb2xid28zbDJRYVliVTh5UVhIc3Q0TE1tTjlrYmlB?oc=5",
-          "published": "Mon, 03 Aug 2026 10:30:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSktHamJVM2hSWXNhYXkwYUJpcjRmenlFWUNGY3ZVZ1lhdUV6cFo5c3RRSFQ2SXFfYUkxMzlHaHJzOXdlbkxEZ0stcXExMWg0N1JhT29mQzdkd3BzMUlxZVV2YXhrbkg4RlpDR1JGUWNNOWljMmNsc0tXQ0ZiZmwtdlJZLXhwSGhtSTc1ZzBrLW1oUXJvb2xid28zbDJRYVliVTh5UVhIc3Q0TE1tTjlrYmlB?oc=5\" target=\"_blank\">Mamdani’s Rent Freeze Heaps Pressure on a Teetering CMBS Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Trump Says Talks Are Iran’s ‘Last Chance’ After Strikes Scrubbed",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVBVLUFIT0pwUVFUMml4SFhxVDIxN3UxbGIzLTFLU29aMmpOaHZJUER3UjNTWERsakw5c2M4MDZLQkNSd28zQ0p4c29uVG4wQ05sT2lxYWFFbE1lenc4UURiV3ExSlRLWWlYVlBRMFJlbkludEhDanJBUDlPaHVVMFRJSFQxT0RSVHIwTTN0aWhMbUhmOUEzWXQxRW9jb0pTd0hIdFJnVnAwMmRnNFN4bEdJVQ?oc=5",
+          "published": "Mon, 03 Aug 2026 18:38:31 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVBVLUFIT0pwUVFUMml4SFhxVDIxN3UxbGIzLTFLU29aMmpOaHZJUER3UjNTWERsakw5c2M4MDZLQkNSd28zQ0p4c29uVG4wQ05sT2lxYWFFbE1lenc4UURiV3ExSlRLWWlYVlBRMFJlbkludEhDanJBUDlPaHVVMFRJSFQxT0RSVHIwTTN0aWhMbUhmOUEzWXQxRW9jb0pTd0hIdFJnVnAwMmRnNFN4bEdJVQ?oc=5\" target=\"_blank\">Trump Says Talks Are Iran’s ‘Last Chance’ After Strikes Scrubbed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "AI Skills More Valuable Than MBAs, 86% of Finance Executives Say",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW81YmNNal9nLUZ4UTI1RmQ1aXRqUUN0VEpRbDFlVUVxUmVKYThaYV9FTzlSMXppMVYwby0wbnc2eTZ2MVJnTzVNOXJpeVN2WW4zNkx3RTFlZHVUQ1RQMEZHMWJrTEtldnlCbzAtVXpWdUZIeTVwSi1yMnl5WXJnd3N2YjhGV1NpS1FfWVNHUm5tWVVxb2FudDZZWGtjbU41UlRtZkdTeXJmMHZJdlpIVjVQVQ?oc=5",
-          "published": "Mon, 03 Aug 2026 13:30:39 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW81YmNNal9nLUZ4UTI1RmQ1aXRqUUN0VEpRbDFlVUVxUmVKYThaYV9FTzlSMXppMVYwby0wbnc2eTZ2MVJnTzVNOXJpeVN2WW4zNkx3RTFlZHVUQ1RQMEZHMWJrTEtldnlCbzAtVXpWdUZIeTVwSi1yMnl5WXJnd3N2YjhGV1NpS1FfWVNHUm5tWVVxb2FudDZZWGtjbU41UlRtZkdTeXJmMHZJdlpIVjVQVQ?oc=5\" target=\"_blank\">AI Skills More Valuable Than MBAs, 86% of Finance Executives Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Mamdani Dismisses Business Leaders Advising NYC’s Mayor’s Fund",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2VWQ2sxSHJWb0xydWd1SzdCUWlTZDRFVFg3bDVHU3BaNjN0ZEExTHlMdUIwd00zWDRnWEdVTU1PdnR6bnhWLVUyVlpBVlBwc0kwTy1xOVduRUp4VnJ4ZE9zNmlaN2tDaWhRQ0M4RGcxeGt3WmdIQmkza0hBZmozVmlXNTlmY1FDS1pMeG5idWxRSExscDN0aXFOYnJkakFtQkVXUWVnZmdTUE1aY1hzT1Z3dw?oc=5",
+          "published": "Mon, 03 Aug 2026 19:33:56 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2VWQ2sxSHJWb0xydWd1SzdCUWlTZDRFVFg3bDVHU3BaNjN0ZEExTHlMdUIwd00zWDRnWEdVTU1PdnR6bnhWLVUyVlpBVlBwc0kwTy1xOVduRUp4VnJ4ZE9zNmlaN2tDaWhRQ0M4RGcxeGt3WmdIQmkza0hBZmozVmlXNTlmY1FDS1pMeG5idWxRSExscDN0aXFOYnJkakFtQkVXUWVnZmdTUE1aY1hzT1Z3dw?oc=5\" target=\"_blank\">Mamdani Dismisses Business Leaders Advising NYC’s Mayor’s Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "US Futures Climb as Focus Shifts Back to Earnings, Oil Slides",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWJvS0hxbGZiUVc3T1V0NUxKMHZ2ODBNYTJ6d0tKRTJkTTF3b2Q5RjE4SmtNdkxRWXNneEU3clBib1dIUGdFajhDZnh0azdkT214a1pQMmVweTNCaExqcERHS2RmSERTV01aLXZaNDQxSjk4ZllCamNfNkxTZzZqbEticlVvdU1hU1RHV3p2OENBejBCZGd5QTdzT3IzcnlmektFUGVQbTJ6VFRFb2sySA?oc=5",
-          "published": "Mon, 03 Aug 2026 11:49:28 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWJvS0hxbGZiUVc3T1V0NUxKMHZ2ODBNYTJ6d0tKRTJkTTF3b2Q5RjE4SmtNdkxRWXNneEU3clBib1dIUGdFajhDZnh0azdkT214a1pQMmVweTNCaExqcERHS2RmSERTV01aLXZaNDQxSjk4ZllCamNfNkxTZzZqbEticlVvdU1hU1RHV3p2OENBejBCZGd5QTdzT3IzcnlmektFUGVQbTJ6VFRFb2sySA?oc=5\" target=\"_blank\">US Futures Climb as Focus Shifts Back to Earnings, Oil Slides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Williams Agrees to Buy Momentum Midstream for $5.5 Billion",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjYyVTU3TkRqczZaZ2ZjcnhRRTlMX3liWTZIbndQS3BYMFFHTXpuZW5Yb0dQWnk5ZFhTVEczckFHbFpla2RWWk1hajZDaEpsVmM4OUNWYmZIazBpZE03RnowZU5Oam9CdmNPWllqWk13WDBrdDdTOTRWSTlCLTZfbjVNU1pMcC1IeGx2cXNkMTBjWWVReEdwU1J3aTVQTmh5d3IxWHduVlRJRS1SUWNleFB6bm0?oc=5",
+          "published": "Mon, 03 Aug 2026 21:22:37 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjYyVTU3TkRqczZaZ2ZjcnhRRTlMX3liWTZIbndQS3BYMFFHTXpuZW5Yb0dQWnk5ZFhTVEczckFHbFpla2RWWk1hajZDaEpsVmM4OUNWYmZIazBpZE03RnowZU5Oam9CdmNPWllqWk13WDBrdDdTOTRWSTlCLTZfbjVNU1pMcC1IeGx2cXNkMTBjWWVReEdwU1J3aTVQTmh5d3IxWHduVlRJRS1SUWNleFB6bm0?oc=5\" target=\"_blank\">Williams Agrees to Buy Momentum Midstream for $5.5 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "Iran War Made Belgium Wholly Dependent on Russia for LNG in July",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1RhLXdTMHhVRW1NWHBBV3hocl9ZWlFMZ2FVRWhnLUI4ZC1GNC16aWkyUW1sRWlLa25ySTBwMWxBbjlqTkE5UDNESjZ3bFFmeWFZWkxuYkRMS2tZVFk0bzFXM3VycnRMYkUwUl9tckJ3SVo2QTNvWWZXUlItTjdCeEZPVDZQSlRTdHdfbEhBbFl3amxmT041NmF2OWVOYnZ2ZnFTV2x0REtjZV9kR2NBdDg0NE9Edw?oc=5",
-          "published": "Mon, 03 Aug 2026 12:50:30 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1RhLXdTMHhVRW1NWHBBV3hocl9ZWlFMZ2FVRWhnLUI4ZC1GNC16aWkyUW1sRWlLa25ySTBwMWxBbjlqTkE5UDNESjZ3bFFmeWFZWkxuYkRMS2tZVFk0bzFXM3VycnRMYkUwUl9tckJ3SVo2QTNvWWZXUlItTjdCeEZPVDZQSlRTdHdfbEhBbFl3amxmT041NmF2OWVOYnZ2ZnFTV2x0REtjZV9kR2NBdDg0NE9Edw?oc=5\" target=\"_blank\">Iran War Made Belgium Wholly Dependent on Russia for LNG in July</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Citadel Securities Says Bull Market Drivers Are ‘Firmly Intact’",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWJxNGlTb1B5eDBOcmUtTW9nWm5ldi1rMGVuRVI5bFMxT2RqN3U3OXdNYlhLdmFDRWpOZXNoajhrcFVtMEwtQ005ZnNQbTUyV3BZLTJkYnowSTVHYWZnQ3JSU0Z2b1hMYjVTb1RhdHFXUmlGZkUza1RqRDREckNTRkFLZnQ1bmF2SDVWZFRIWEc2V1F3aU5NNmtwRnRLYWEwSUdza0JCNVBiT2hsZnQtQTB3?oc=5",
+          "published": "Mon, 03 Aug 2026 18:20:11 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWJxNGlTb1B5eDBOcmUtTW9nWm5ldi1rMGVuRVI5bFMxT2RqN3U3OXdNYlhLdmFDRWpOZXNoajhrcFVtMEwtQ005ZnNQbTUyV3BZLTJkYnowSTVHYWZnQ3JSU0Z2b1hMYjVTb1RhdHFXUmlGZkUza1RqRDREckNTRkFLZnQ1bmF2SDVWZFRIWEc2V1F3aU5NNmtwRnRLYWEwSUdza0JCNVBiT2hsZnQtQTB3?oc=5\" target=\"_blank\">Citadel Securities Says Bull Market Drivers Are ‘Firmly Intact’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "Iran Says Hormuz Talks Underway After Trump Calls Off Strikes",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzVjSTNHNjdiR2p5TmZKZ1J6Zy02TzUwWjJRUXAteDN2YTJLbTFUZllzRVg1OGtlNGNFQmxaeHZFNEhyQk5haTBNTC12WHR2RU5tdUwyckZhVUdfQm5Hd0ZwcGllaDlFYnl2cGV6UFpMRnFhNWotUXFnY1l4czZKMk51azdDeWRaMURHQTIxNU11OU42VnNLbUxDSnN6YW16WDg5S2g3bFNtN2trWTJNRTln?oc=5",
-          "published": "Mon, 03 Aug 2026 14:45:45 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzVjSTNHNjdiR2p5TmZKZ1J6Zy02TzUwWjJRUXAteDN2YTJLbTFUZllzRVg1OGtlNGNFQmxaeHZFNEhyQk5haTBNTC12WHR2RU5tdUwyckZhVUdfQm5Hd0ZwcGllaDlFYnl2cGV6UFpMRnFhNWotUXFnY1l4czZKMk51azdDeWRaMURHQTIxNU11OU42VnNLbUxDSnN6YW16WDg5S2g3bFNtN2trWTJNRTln?oc=5\" target=\"_blank\">Iran Says Hormuz Talks Underway After Trump Calls Off Strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Boeing Wins Certification for Long-Delayed 737 Max 7 Jet",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjYwRUVJRC0xN1lDYVU3U3p1SlVOM3hhRjdRWlNPRnJFUGNMbThVZUJTbm1hUUhKOUFrR083djdJYzhEYnowUEVJQ2hOZS02S0pPNUJBS2d1bmxtVF9iQ19nQlZtOFljVEhSTDNIWlVKU25nNHRVWER3cnFwVFZrVXRycU1HdVN5bjA0clhWZE1TNll3TUdZdVFZMGZQN3Y5SEYyakE5YnlkUTA?oc=5",
+          "published": "Mon, 03 Aug 2026 16:53:24 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjYwRUVJRC0xN1lDYVU3U3p1SlVOM3hhRjdRWlNPRnJFUGNMbThVZUJTbm1hUUhKOUFrR083djdJYzhEYnowUEVJQ2hOZS02S0pPNUJBS2d1bmxtVF9iQ19nQlZtOFljVEhSTDNIWlVKU25nNHRVWER3cnFwVFZrVXRycU1HdVN5bjA0clhWZE1TNll3TUdZdVFZMGZQN3Y5SEYyakE5YnlkUTA?oc=5\" target=\"_blank\">Boeing Wins Certification for Long-Delayed 737 Max 7 Jet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "US Copper Inflows Surge as Market Awaits Trump Tariff Call",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHRPdU9CU1NzbjFjVnd4RlJRWEV2SnoyZ0Y5UU9OMVl2MkdPN3FBeDJydm44bnJlYUNLSkVGSnBLc3ZMcTI0U3lhalJwcHlRb1lnUGgwWnJRVnYtLWFGX085a0JtMzU4Zm5JWWNqVlFtdC1DOTdXNUtRQzBEclE3dks0WENTbFh2Z1NOMXEtb0xERng5Rm8wcEc2cXBJU2s2QkZUVEx0bHotNEc3a2c?oc=5",
-          "published": "Mon, 03 Aug 2026 14:38:29 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHRPdU9CU1NzbjFjVnd4RlJRWEV2SnoyZ0Y5UU9OMVl2MkdPN3FBeDJydm44bnJlYUNLSkVGSnBLc3ZMcTI0U3lhalJwcHlRb1lnUGgwWnJRVnYtLWFGX085a0JtMzU4Zm5JWWNqVlFtdC1DOTdXNUtRQzBEclE3dks0WENTbFh2Z1NOMXEtb0xERng5Rm8wcEc2cXBJU2s2QkZUVEx0bHotNEc3a2c?oc=5\" target=\"_blank\">US Copper Inflows Surge as Market Awaits Trump Tariff Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Trump Chastises Chevron CEO for Failing to Praise Administration",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGQxS2lhN0hRajMzVTYtdWFjQ2hvdEJXd3BvM3dBTFJ4STc2YWcxTGYwaUhNb2NVbHAyZDJMTGtBcjdaUGxnTGVYNl9aZlpSckN2ZGZPeW1PYnpsTG9TOTJNVHR6S2RaZjZnaWp3dHJNMVVxSDYtUEI3SUZnZHlLdlktUW91bDhqaXFKUGZBdFQ4bkFVRU85SlFwXzNZRUJiOHpGQ2tib0RsRklmMXdYQ1dPUDRUUQ?oc=5",
+          "published": "Mon, 03 Aug 2026 15:16:54 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONGQxS2lhN0hRajMzVTYtdWFjQ2hvdEJXd3BvM3dBTFJ4STc2YWcxTGYwaUhNb2NVbHAyZDJMTGtBcjdaUGxnTGVYNl9aZlpSckN2ZGZPeW1PYnpsTG9TOTJNVHR6S2RaZjZnaWp3dHJNMVVxSDYtUEI3SUZnZHlLdlktUW91bDhqaXFKUGZBdFQ4bkFVRU85SlFwXzNZRUJiOHpGQ2tib0RsRklmMXdYQ1dPUDRUUQ?oc=5\" target=\"_blank\">Trump Chastises Chevron CEO for Failing to Praise Administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
-          "title": "South Korea AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm5Pb3I1Q3dMNTlMQTE0ZVpjT2tvRF91UW5qZ29IMFgyTWF3dVNwb0lQZWxmYURjSmhqcnA5UXhnUk5lOElmMjR2c2VuMF9zSHQyb3lfSi0zanFORHZHRFZoV0tZUDRXMS1iUmRiaGR0RTZsVHY0RjdyNkJlbnJ2cVk1UWJWd2Q1VFU2NzlySXdWX1NfblJFWVJ1RExlNkhwTnNfMTh0VHdkSVJEZVFpZF8ya04?oc=5",
-          "published": "Mon, 03 Aug 2026 09:45:07 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm5Pb3I1Q3dMNTlMQTE0ZVpjT2tvRF91UW5qZ29IMFgyTWF3dVNwb0lQZWxmYURjSmhqcnA5UXhnUk5lOElmMjR2c2VuMF9zSHQyb3lfSi0zanFORHZHRFZoV0tZUDRXMS1iUmRiaGR0RTZsVHY0RjdyNkJlbnJ2cVk1UWJWd2Q1VFU2NzlySXdWX1NfblJFWVJ1RExlNkhwTnNfMTh0VHdkSVJEZVFpZF8ya04?oc=5\" target=\"_blank\">South Korea AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+          "title": "Venezuela Oil Flows Drop as Iran War Pause Cools Indian Appetite",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXA0N1lWSGVyQ1NMZklvWVJTak9nb3J4NjFLbnJwanp3aFBSdkYzdUljaXo1M09PNUhsUVNCSm44Si1fQk5lQy15NFF1ZTFudWZQR1JFczdPNFVObm5OVld2MUpIY29uMTB0Q1hMRk1lNVlERzg5SGRnZlJNa1pCU05rQ0ZtSWxELVRodEtRN2MtMTEzXzFFWkRFamsyTE1jdkNzWVUxdllyOFl1NDREb3d6R0MzZw?oc=5",
+          "published": "Mon, 03 Aug 2026 16:41:06 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXA0N1lWSGVyQ1NMZklvWVJTak9nb3J4NjFLbnJwanp3aFBSdkYzdUljaXo1M09PNUhsUVNCSm44Si1fQk5lQy15NFF1ZTFudWZQR1JFczdPNFVObm5OVld2MUpIY29uMTB0Q1hMRk1lNVlERzg5SGRnZlJNa1pCU05rQ0ZtSWxELVRodEtRN2MtMTEzXzFFWkRFamsyTE1jdkNzWVUxdllyOFl1NDREb3d6R0MzZw?oc=5\" target=\"_blank\">Venezuela Oil Flows Drop as Iran War Pause Cools Indian Appetite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         }
       ]
@@ -287,9 +287,37 @@
       "count": 10,
       "articles": [
         {
+          "title": "Trump Discusses Jeanine Pirro’s Removal After Reflecting Pool Reversal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGFxYUI3bDVmSENmLVZ5Q2Y0NTVIODRTS2pLSmNqdzNXUmFwVEwxR3lsZ29vbFBpNENWTnBkQkRpNE5FU05Ya1YyTnNwNnQ0cWNaU2R1Nlp1WUd4dm9zUE1ETEZMMmpVdjZsc2RraGQ4SzFES0EtRUxxekl1bHdkcVZUNHYtUWlPR2g4XzZkSlh6Y2lGN2RUcDMyZThqR3U1OUU1aHJiNEFLZFdhOXVVX0hPLW0?oc=5",
+          "published": "Mon, 03 Aug 2026 21:49:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGFxYUI3bDVmSENmLVZ5Q2Y0NTVIODRTS2pLSmNqdzNXUmFwVEwxR3lsZ29vbFBpNENWTnBkQkRpNE5FU05Ya1YyTnNwNnQ0cWNaU2R1Nlp1WUd4dm9zUE1ETEZMMmpVdjZsc2RraGQ4SzFES0EtRUxxekl1bHdkcVZUNHYtUWlPR2g4XzZkSlh6Y2lGN2RUcDMyZThqR3U1OUU1aHJiNEFLZFdhOXVVX0hPLW0?oc=5\" target=\"_blank\">Trump Discusses Jeanine Pirro’s Removal After Reflecting Pool Reversal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "FBI Agent Is Accused of Taking Cryptocurrency From Suspect’s Accounts",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEQ5cV83UlJnTGk5X00xY3BGQk5VS0pLSnZCVHppNWFwRDAwTnkxZEFEOU1wZkFROE9CVlZIM3BtNV9CRWZGcW13QU9acGJ1aUlDOVNWSUN4dGQzUC13SHRQekN6T0s4empJS1hpMUVQZW1JZ0tmRkNQbFFYelJkMzByUU55czlMN3d4WnVsb1BaTTJjNG5ydFR4TWtoaTB1c21udTFIY1FxanJwR1k1Mzg5SQ?oc=5",
+          "published": "Mon, 03 Aug 2026 20:03:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEQ5cV83UlJnTGk5X00xY3BGQk5VS0pLSnZCVHppNWFwRDAwTnkxZEFEOU1wZkFROE9CVlZIM3BtNV9CRWZGcW13QU9acGJ1aUlDOVNWSUN4dGQzUC13SHRQekN6T0s4empJS1hpMUVQZW1JZ0tmRkNQbFFYelJkMzByUU55czlMN3d4WnVsb1BaTTJjNG5ydFR4TWtoaTB1c21udTFIY1FxanJwR1k1Mzg5SQ?oc=5\" target=\"_blank\">FBI Agent Is Accused of Taking Cryptocurrency From Suspect’s Accounts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Palantir Shares Jump on ‘Otherworldly’ Sales, Improved Forecast",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPblhBSU5ndlFUZTBqbDR5RmFXbXRHUHh6VnI0cjlRN29nMFAtMWMtVXBDMnRDZE82RTlyUk9FZm9zbGJHNXY0U25ablU5V3M0eXpfVzZjT0dkU0xkTnVSR25sZkxMeGJycThFSGtlOENQM2JQblNFMTBQaEFkdFdNZVRjdEhhMllxNElQeThyQmhyc19DMTNVQTFpNGE?oc=5",
+          "published": "Mon, 03 Aug 2026 21:24:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPblhBSU5ndlFUZTBqbDR5RmFXbXRHUHh6VnI0cjlRN29nMFAtMWMtVXBDMnRDZE82RTlyUk9FZm9zbGJHNXY0U25ablU5V3M0eXpfVzZjT0dkU0xkTnVSR25sZkxMeGJycThFSGtlOENQM2JQblNFMTBQaEFkdFdNZVRjdEhhMllxNElQeThyQmhyc19DMTNVQTFpNGE?oc=5\" target=\"_blank\">Palantir Shares Jump on ‘Otherworldly’ Sales, Improved Forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Trump Blasts Big Oil Companies for ‘Making Too Much Money’",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUhHa2x5TXMzbE5uaWZrNDY4VzVEdW5idDF3OTNBbnU2MzlPc2Rua2dxWVM5aVRuMG9WYlpFak1YdUtORFBiMDdlRWtxZE1IeUxVTW54c1llS1U3QkVDUjdseXFUWWNnQ1NPejlzZmx1ck9LMFR5bkFySmJfYkFXbWVPLXlXT1Y4MVgzb3ZMeXNQOVZUbUZJbC12dUkzeW12R2Z2dHRmWEk?oc=5",
+          "published": "Mon, 03 Aug 2026 19:37:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUhHa2x5TXMzbE5uaWZrNDY4VzVEdW5idDF3OTNBbnU2MzlPc2Rua2dxWVM5aVRuMG9WYlpFak1YdUtORFBiMDdlRWtxZE1IeUxVTW54c1llS1U3QkVDUjdseXFUWWNnQ1NPejlzZmx1ck9LMFR5bkFySmJfYkFXbWVPLXlXT1Y4MVgzb3ZMeXNQOVZUbUZJbC12dUkzeW12R2Z2dHRmWEk?oc=5\" target=\"_blank\">Trump Blasts Big Oil Companies for ‘Making Too Much Money’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
           "title": "Print Edition | Wall Street Journal",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNi1QQ3FnOWtLNURBWF8xVWk4b20yRkx0QXlNWUIzQlRDTUlHcnkxZUV6aENOODJXbXhMd3NBQXNrQWlVWkNEU1otWExDZE40MG1ubnNWWFRHS1JwdzZyQmlB?oc=5",
-          "published": "Mon, 03 Aug 2026 13:53:31 GMT",
+          "published": "Mon, 03 Aug 2026 22:55:03 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNi1QQ3FnOWtLNURBWF8xVWk4b20yRkx0QXlNWUIzQlRDTUlHcnkxZUV6aENOODJXbXhMd3NBQXNrQWlVWkNEU1otWExDZE40MG1ubnNWWFRHS1JwdzZyQmlB?oc=5\" target=\"_blank\">Print Edition | Wall Street Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
@@ -301,6 +329,20 @@
           "source": "华尔街日报"
         },
         {
+          "title": "Rising Beef Costs Pressure Tyson’s Bottom Line",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkhsRV9vUjhxRC1fTHNhbnQ3NXlidkRQcmxWOWNUVGlRZ01SdkRQWTZVeHU0aGI5TDkxLXBjYkVTWU5ldEcwcTBfbkJBZWJEMkw5QXVVcHR2M1QwMHZfbHZ1TlNFQTlKcUhGTUpUSTZCSlJoS3pLOFdFbzdwN2UtSWtFbF9HMGlWU0NFdWlYRnEzcTkyRzF3?oc=5",
+          "published": "Mon, 03 Aug 2026 15:54:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkhsRV9vUjhxRC1fTHNhbnQ3NXlidkRQcmxWOWNUVGlRZ01SdkRQWTZVeHU0aGI5TDkxLXBjYkVTWU5ldEcwcTBfbkJBZWJEMkw5QXVVcHR2M1QwMHZfbHZ1TlNFQTlKcUhGTUpUSTZCSlJoS3pLOFdFbzdwN2UtSWtFbF9HMGlWU0NFdWlYRnEzcTkyRzF3?oc=5\" target=\"_blank\">Rising Beef Costs Pressure Tyson’s Bottom Line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "EchoStar’s Hughes Network Files for Bankruptcy as $1.5 Billion Debt Comes Due",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTZNV1Q4X2pRN0t6cURsQXZobjNqSTlEV2h5WlpTdEpPbXVWb2dSNmN1RHR2MVVCOU90OXNzNVg4WlBlWXBRY0wwNHBkU0JTRmdkU21fNTRmSzVJei1ZTkxwWi1lZS1oRk9TTWRMWUI5VjRwckI0LUZORmlYYjE1QVZoQy16MHkwR0tVdGxueGJYdVNqVkxoUS1tLWl1SXRaMDVZWHFPWUdDVHJlVzVHTXBVR2s?oc=5",
+          "published": "Mon, 03 Aug 2026 11:19:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTZNV1Q4X2pRN0t6cURsQXZobjNqSTlEV2h5WlpTdEpPbXVWb2dSNmN1RHR2MVVCOU90OXNzNVg4WlBlWXBRY0wwNHBkU0JTRmdkU21fNTRmSzVJei1ZTkxwWi1lZS1oRk9TTWRMWUI5VjRwckI0LUZORmlYYjE1QVZoQy16MHkwR0tVdGxueGJYdVNqVkxoUS1tLWl1SXRaMDVZWHFPWUdDVHJlVzVHTXBVR2s?oc=5\" target=\"_blank\">EchoStar’s Hughes Network Files for Bankruptcy as $1.5 Billion Debt Comes Due</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
           "title": "KKR to Buy Integer Holdings for $4.3 Billion in Cash",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWElROF9pWmtRRjVsZXF6MDJZRnNQOU5FUUtjY0M3emgyelpkNk85U3hUYUZ4UlJ5STJiQWZkSnZIVXR0QnV4dUNoSE1WNWdCdjIzbmpNV2gxUVhaWFE3dE1hZFR6WTgtam9LYS1hVFFra3NUVS1VUTJCQjhpcWxLaGhiaEZ1RW80ek9VUTRPWjc?oc=5",
           "published": "Mon, 03 Aug 2026 14:48:00 GMT",
@@ -308,52 +350,10 @@
           "source": "华尔街日报"
         },
         {
-          "title": "AstraZeneca Shares Drop, Bristol Myers Squibb’s Climb After Merger Talks Reports",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekYwV1hCemJVVnJJa3BYa1k4ZjNjNURUSnhNYjE0TDNBRWhxTnEyVFVzM2hkQTQ1R1RQQzc3NmdJOXNqSHFkbVI1UnRYWThEeXc2eWpldUNOay1mMG1MQktFbW94aGZxajJjVEJsU2pJSUwzWFhTcDl2RjlzdnpmejQzNVVfV2JDRTZZa0o4UnFvZ1pyTng2NjNjdlY2c0cxcTJLN2JnakplU1Zkb0szQnl6VkdHekZJ?oc=5",
-          "published": "Mon, 03 Aug 2026 09:55:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekYwV1hCemJVVnJJa3BYa1k4ZjNjNURUSnhNYjE0TDNBRWhxTnEyVFVzM2hkQTQ1R1RQQzc3NmdJOXNqSHFkbVI1UnRYWThEeXc2eWpldUNOay1mMG1MQktFbW94aGZxajJjVEJsU2pJSUwzWFhTcDl2RjlzdnpmejQzNVVfV2JDRTZZa0o4UnFvZ1pyTng2NjNjdlY2c0cxcTJLN2JnakplU1Zkb0szQnl6VkdHekZJ?oc=5\" target=\"_blank\">AstraZeneca Shares Drop, Bristol Myers Squibb’s Climb After Merger Talks Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
           "title": "Exclusive | Zach Dell Is Raising Money to Put a Battery in Your Backyard",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXFIa3AyOEx4b09QM01RRzNkR2QxdlhnZlJMWXpoc3BHLVlVT0Q1NnprM3gwVUpDVUtoUUNsVE5uZDZBTHBMMzFGdWVHajJKREg4RDgwR1BqS0FiYV9TV2FKNE1NaU1nSDN3N2lRSXFTbTVaZklYM21DajNGWjc5b3UyWjFZd2FrQkVqRkFlWmFoNzRFbGNuXzJxS3dyYkNHZ08tOUJjcHY4VkVMR0E?oc=5",
           "published": "Mon, 03 Aug 2026 10:00:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXFIa3AyOEx4b09QM01RRzNkR2QxdlhnZlJMWXpoc3BHLVlVT0Q1NnprM3gwVUpDVUtoUUNsVE5uZDZBTHBMMzFGdWVHajJKREg4RDgwR1BqS0FiYV9TV2FKNE1NaU1nSDN3N2lRSXFTbTVaZklYM21DajNGWjc5b3UyWjFZd2FrQkVqRkFlWmFoNzRFbGNuXzJxS3dyYkNHZ08tOUJjcHY4VkVMR0E?oc=5\" target=\"_blank\">Exclusive | Zach Dell Is Raising Money to Put a Battery in Your Backyard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "How ServiceNow’s CEO Weighs Long-Term Bets",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaHk1QnJnV1Rhdk12SHFxUkdkSUVhRTcxOWx5UjRBWkhYNGZRaHNqdkdSaFJEUmI2VzQzR0NXdUs2RXFRRU1yTkdReUNUbjRPQlk4ZUtCVEhxM3p6cnIxQVRHN1dTVXo5dS12LVlZcWx6MHRlOTJzMW0tWFFqVXY3VjJHWWY5Zw?oc=5",
-          "published": "Mon, 03 Aug 2026 09:45:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaHk1QnJnV1Rhdk12SHFxUkdkSUVhRTcxOWx5UjRBWkhYNGZRaHNqdkdSaFJEUmI2VzQzR0NXdUs2RXFRRU1yTkdReUNUbjRPQlk4ZUtCVEhxM3p6cnIxQVRHN1dTVXo5dS12LVlZcWx6MHRlOTJzMW0tWFFqVXY3VjJHWWY5Zw?oc=5\" target=\"_blank\">How ServiceNow’s CEO Weighs Long-Term Bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Nissan Posts First Quarterly Profit in Two Years, Keeps Outlook",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkdDVW42cExHQlhqUnFtVFBKN05WRW9ucXBxUzJ6U2FucnF1Ym5EdXYxR0JUUVkwYWtnUWdvSHhKdlQtMzRoNFZzZkFUYUNnMVpYdGlNbkFmck9vc1dZNUVzNW5fcC1DTkNjMXZ1Qk5JWFVwaXQ2V1R3NkpPSjl6VnR3R3JCUHJMaU9mRFNjMFhsY2ROUmpiS0RicVY3Zw?oc=5",
-          "published": "Mon, 03 Aug 2026 13:23:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWkdDVW42cExHQlhqUnFtVFBKN05WRW9ucXBxUzJ6U2FucnF1Ym5EdXYxR0JUUVkwYWtnUWdvSHhKdlQtMzRoNFZzZkFUYUNnMVpYdGlNbkFmck9vc1dZNUVzNW5fcC1DTkNjMXZ1Qk5JWFVwaXQ2V1R3NkpPSjl6VnR3R3JCUHJMaU9mRFNjMFhsY2ROUmpiS0RicVY3Zw?oc=5\" target=\"_blank\">Nissan Posts First Quarterly Profit in Two Years, Keeps Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Atkore Agrees to Be Bought by Prysmian for $3.8 Billion, Including Debt",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWt1R2dLaktRdUN5UF9aczZzeTl4RHVnemhTZ2hGSEdWM3J6ZUdoM25Rck1vNWF3N2hvdzE0SVNGUjJwekhNMDhQUS1lS0QydUxoSFJ0OUR0eHB1djdBQ2dsa1dPQU0wUnU5bjN5VnJoSXVmY1diUHcwT3ZZS1NaQnA4Wk1KNkdEd0FnN0lsdVdTSTJ6c1JXZENMblhkTVoxQkNLRGxBUEExS01YTTFGRVlKVQ?oc=5",
-          "published": "Mon, 03 Aug 2026 10:47:22 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWt1R2dLaktRdUN5UF9aczZzeTl4RHVnemhTZ2hGSEdWM3J6ZUdoM25Rck1vNWF3N2hvdzE0SVNGUjJwekhNMDhQUS1lS0QydUxoSFJ0OUR0eHB1djdBQ2dsa1dPQU0wUnU5bjN5VnJoSXVmY1diUHcwT3ZZS1NaQnA4Wk1KNkdEd0FnN0lsdVdTSTJ6c1JXZENMblhkTVoxQkNLRGxBUEExS01YTTFGRVlKVQ?oc=5\" target=\"_blank\">Atkore Agrees to Be Bought by Prysmian for $3.8 Billion, Including Debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "The Kremlin Is Bullying More Russians Into Fighting in Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzJVSWFQWFZXcHVITHRqdUE5QVdRdFJIZG1SNGRWQllVei00UEozRmVEU0l0V3VhYXpYRGtsQ3hONmhhQmpNRjlHdjYtZTJTSHg4UVM5b1JMSzNaejN1ZHlLMUhiblhNTF85RG1WVHJzX0lCSVpjYlI0cEFaajUtUzVPV21aUU5Da1VvY0V6Y3ZPZTktZzI2a2tzMFlqb1BfTTc2cHJYUQ?oc=5",
-          "published": "Mon, 03 Aug 2026 02:01:24 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzJVSWFQWFZXcHVITHRqdUE5QVdRdFJIZG1SNGRWQllVei00UEozRmVEU0l0V3VhYXpYRGtsQ3hONmhhQmpNRjlHdjYtZTJTSHg4UVM5b1JMSzNaejN1ZHlLMUhiblhNTF85RG1WVHJzX0lCSVpjYlI0cEFaajUtUzVPV21aUU5Da1VvY0V6Y3ZPZTktZzI2a2tzMFlqb1BfTTc2cHJYUQ?oc=5\" target=\"_blank\">The Kremlin Is Bullying More Russians Into Fighting in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "TotalEnergies Sells Stake in European Renewable Assets to KKR",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFRkY2t0bHpmR0dHcFFpSHN1QS1MVGs1SWpFNjNfbE53cldrUWptTHBndHFsOGxmXzJPV3RGUEZDUzVOejA3NG5hUlJvYkhFb1ZCVnBxTEdsNEhBeV85RTJvRkxMNUFqelh1TWlsUDJ2WXNsRHMxRURyNlBod2tfeXdScURKVkJQNTFEaEI4bEo0UDdjSXpnVXE5ODBsMmM4Rlh1SXc3bTY?oc=5",
-          "published": "Mon, 03 Aug 2026 07:49:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFRkY2t0bHpmR0dHcFFpSHN1QS1MVGs1SWpFNjNfbE53cldrUWptTHBndHFsOGxmXzJPV3RGUEZDUzVOejA3NG5hUlJvYkhFb1ZCVnBxTEdsNEhBeV85RTJvRkxMNUFqelh1TWlsUDJ2WXNsRHMxRURyNlBod2tfeXdScURKVkJQNTFEaEI4bEo0UDdjSXpnVXE5ODBsMmM4Rlh1SXc3bTY?oc=5\" target=\"_blank\">TotalEnergies Sells Stake in European Renewable Assets to KKR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         }
       ]
@@ -364,23 +364,30 @@
       "count": 10,
       "articles": [
         {
-          "title": "US gas guzzlers see off Europe’s EVs in latest round of car wars",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGZYdXY4aHJ3WWVxbFJEUjE1ZGVyeWk2dVZrWmVwV3U0dWtOeU1mTTRrU3BZcDdDZmpFdXYxMTNtMk5MajY3bWRBdTZYeXhSVUNPMUliN2pKQkFZOTk1VU1YVDgzREJHVng4SlNzY2ZndExKVVdFMXpadTlPU0F1cy1CbWw?oc=5",
-          "published": "Mon, 03 Aug 2026 04:00:13 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGZYdXY4aHJ3WWVxbFJEUjE1ZGVyeWk2dVZrWmVwV3U0dWtOeU1mTTRrU3BZcDdDZmpFdXYxMTNtMk5MajY3bWRBdTZYeXhSVUNPMUliN2pKQkFZOTk1VU1YVDgzREJHVng4SlNzY2ZndExKVVdFMXpadTlPU0F1cy1CbWw?oc=5\" target=\"_blank\">US gas guzzlers see off Europe’s EVs in latest round of car wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Todd Blanche wins backing of senators after scrapping $1.8bn ‘slush fund’",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFo0WENqYzZuNmQ2VHAxTnotbmVOQjExOE44Sjh0LVlVTTlnNHFhaHRGZ09qMFQya2tBaFVCSHlIMzRkMlJpVHM1bVFlYlhjSlk4VUlJUnNwSmJTQzV5Y1VHMlp5T3o0bDRlcHM4LU5hWlRyODhvcXhib3pRQ2dyT1p0a0s?oc=5",
+          "published": "Mon, 03 Aug 2026 07:47:34 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFo0WENqYzZuNmQ2VHAxTnotbmVOQjExOE44Sjh0LVlVTTlnNHFhaHRGZ09qMFQya2tBaFVCSHlIMzRkMlJpVHM1bVFlYlhjSlk4VUlJUnNwSmJTQzV5Y1VHMlp5T3o0bDRlcHM4LU5hWlRyODhvcXhib3pRQ2dyT1p0a0s?oc=5\" target=\"_blank\">Todd Blanche wins backing of senators after scrapping $1.8bn ‘slush fund’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
           "title": "How US drinkers fell out of love with Bud Light",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5",
-          "published": "Mon, 03 Aug 2026 04:01:27 GMT",
+          "published": "Mon, 03 Aug 2026 04:00:13 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5\" target=\"_blank\">How US drinkers fell out of love with Bud Light</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "US gas guzzlers see off Europe’s EVs in latest round of car wars",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGZYdXY4aHJ3WWVxbFJEUjE1ZGVyeWk2dVZrWmVwV3U0dWtOeU1mTTRrU3BZcDdDZmpFdXYxMTNtMk5MajY3bWRBdTZYeXhSVUNPMUliN2pKQkFZOTk1VU1YVDgzREJHVng4SlNzY2ZndExKVVdFMXpadTlPU0F1cy1CbWw?oc=5",
+          "published": "Mon, 03 Aug 2026 09:40:29 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGZYdXY4aHJ3WWVxbFJEUjE1ZGVyeWk2dVZrWmVwV3U0dWtOeU1mTTRrU3BZcDdDZmpFdXYxMTNtMk5MajY3bWRBdTZYeXhSVUNPMUliN2pKQkFZOTk1VU1YVDgzREJHVng4SlNzY2ZndExKVVdFMXpadTlPU0F1cy1CbWw?oc=5\" target=\"_blank\">US gas guzzlers see off Europe’s EVs in latest round of car wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
           "title": "Wall Street learns to love blockchain",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1BLMlMxS2dTVk44bERfUl9UVjhqbjRtM3JHOWE1d0llM0lrdnRWMVBqU2s2Mlg4V0pVRjUwMmJCejZ5X0U5TjlONXJhekZsbElLUmxveElEdkhkWXBnTzlPck1rT3NjZ3FVYVNwOU1oMFItSEl6TG51SkVxSm1uek5RUzU?oc=5",
-          "published": "Mon, 03 Aug 2026 10:15:13 GMT",
+          "published": "Mon, 03 Aug 2026 04:00:04 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1BLMlMxS2dTVk44bERfUl9UVjhqbjRtM3JHOWE1d0llM0lrdnRWMVBqU2s2Mlg4V0pVRjUwMmJCejZ5X0U5TjlONXJhekZsbElLUmxveElEdkhkWXBnTzlPck1rT3NjZ3FVYVNwOU1oMFItSEl6TG51SkVxSm1uek5RUzU?oc=5\" target=\"_blank\">Wall Street learns to love blockchain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
@@ -392,10 +399,17 @@
           "source": "金融时报"
         },
         {
-          "title": "Japan vows further yen intervention with US if needed",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1BZYkpxbTJJTU4xdUtjeGluTTBtZm9CZjRlSjAtQ2oxcEg3NWt0eG5HVzlqX0dlZHJDc2FvU3VTTlNCQ1ZrVzB5UWtOSnNpZGZKMl9MXzlUN2ZycFdDcXZhTTY2Vk9aLWsya0VzZnFUSVRCSDBfMmdHUFRCR1pCSUVaaVc?oc=5",
-          "published": "Mon, 03 Aug 2026 09:48:11 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1BZYkpxbTJJTU4xdUtjeGluTTBtZm9CZjRlSjAtQ2oxcEg3NWt0eG5HVzlqX0dlZHJDc2FvU3VTTlNCQ1ZrVzB5UWtOSnNpZGZKMl9MXzlUN2ZycFdDcXZhTTY2Vk9aLWsya0VzZnFUSVRCSDBfMmdHUFRCR1pCSUVaaVc?oc=5\" target=\"_blank\">Japan vows further yen intervention with US if needed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Apple launches legal challenge to UK attempt to access encrypted user data",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5",
+          "published": "Mon, 03 Aug 2026 14:11:07 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5\" target=\"_blank\">Apple launches legal challenge to UK attempt to access encrypted user data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "AstraZeneca investors raise concerns over mega-merger talks",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2htRTRBeFduZE95d05fbmdpS251MTVPN3l0SGFtMWdZaXVidFpVNVlpdDh6VWpkOU9qdHVFSDMwN0NjdVM1cTBHSXFwdUw0a28weUN4R0V6VjdNaVVmX2I2cmpLYm1sX0dBcDcyR2V4Z0Vtd1NsMHhQcVVBeDhfTUNDTkQ?oc=5",
+          "published": "Mon, 03 Aug 2026 16:24:25 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2htRTRBeFduZE95d05fbmdpS251MTVPN3l0SGFtMWdZaXVidFpVNVlpdDh6VWpkOU9qdHVFSDMwN0NjdVM1cTBHSXFwdUw0a28weUN4R0V6VjdNaVVmX2I2cmpLYm1sX0dBcDcyR2V4Z0Vtd1NsMHhQcVVBeDhfTUNDTkQ?oc=5\" target=\"_blank\">AstraZeneca investors raise concerns over mega-merger talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
@@ -406,13 +420,6 @@
           "source": "金融时报"
         },
         {
-          "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5",
-          "published": "Sun, 02 Aug 2026 18:30:03 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5\" target=\"_blank\">AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
           "title": "European wildfire costs this year have already surpassed €3bn",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRC1WREloXzdfVWprQlJQYzllTkprWTVCZklsVFhYcTl1LVFJaXk5bmFqdHZ3aFFSc0ROSGt3YTg0dE9ILTlwbUVNODR5MzR4aG5qbHB5TDBvUHkxR1lubHZrOXNocFpxUjNRWEdfakIxeVE5MXF2bmgzWlF0bUROZGdBZ1E?oc=5",
           "published": "Mon, 03 Aug 2026 04:00:21 GMT",
@@ -420,17 +427,10 @@
           "source": "金融时报"
         },
         {
-          "title": "Iran denies Trump claim of imminent talks",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQejVYV1RBOVd3bTdBMXpUNDc5VlhwOFNQam83b0NiYThFRXd3eXBLcko3dXY3c29EM2t6Rkx2SkJxMzQ0Wmxpd3FJLWgtLTJQREpSdkR2ZUhSSFVqQ0ozV1dHbS1GSFl2UVNxMURxMXFlZXVROFVsUEtPdWQyUzhGbTFvVGg?oc=5",
-          "published": "Sun, 02 Aug 2026 19:00:24 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQejVYV1RBOVd3bTdBMXpUNDc5VlhwOFNQam83b0NiYThFRXd3eXBLcko3dXY3c29EM2t6Rkx2SkJxMzQ0Wmxpd3FJLWgtLTJQREpSdkR2ZUhSSFVqQ0ozV1dHbS1GSFl2UVNxMURxMXFlZXVROFVsUEtPdWQyUzhGbTFvVGg?oc=5\" target=\"_blank\">Iran denies Trump claim of imminent talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVE9jZWhhYmdldjU5OHBpWUdmYkxaZmlhU3o1MHFRMUg3TUs4czgwNi1TcUFSZnBKMDI5a2pwcTlHWHdONWpjLXZEcnpGaHo3NHJndGV0X2FoVzFqTUdtSXhvX3BkQ0ptUV9CeVNZd2FwcG0xZHF3Q254Qk5keVdBNFVoOU4?oc=5",
-          "published": "Sun, 02 Aug 2026 17:32:45 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVE9jZWhhYmdldjU5OHBpWUdmYkxaZmlhU3o1MHFRMUg3TUs4czgwNi1TcUFSZnBKMDI5a2pwcTlHWHdONWpjLXZEcnpGaHo3NHJndGV0X2FoVzFqTUdtSXhvX3BkQ0ptUV9CeVNZd2FwcG0xZHF3Q254Qk5keVdBNFVoOU4?oc=5\" target=\"_blank\">Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5",
+          "published": "Mon, 03 Aug 2026 16:16:19 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5\" target=\"_blank\">AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         }
       ]
@@ -441,73 +441,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "Washington state fires destroy hundreds of structures and force Spokane-area residents to evacuate",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHJmcFc5YUwwVm1iVnhDYlFaT2xGcDVIejc2UWhGU0dtNjN3d1pYSi1UQXpoaVBTam9PVTFkeTU0R1ptTHBYWEtrQ0t5anNyc1UzSVdmSFhTeEktUEg5azNoZ3p0WTJCdnVsM0cwSTU5cDdxYzBnUmFjSWZqYVdkSUg0a0NETGhucE9ONFA1aktVYk44eHhmYlVvVdIBoAFBVV95cUxPaE9vVmZTR0RpS1YzOThLUzF3U0JlMWtraVRRTnJCc05ydnpFeTh5ZVFLTHRDZlh1LWpjQUE1TTVZX1ZuVWt1UFBzT2g5NDNEaENBY29HdndMYUpJNUUzZFNxVzQxWVNzdEVRRFRBXzc5eWRNNGQtZHFsVGlWZkRpb2NWY1RyNE5iTjVpX2NfMXpZb0o2bXRuS0hkaW1UdVpi?oc=5",
-          "published": "Mon, 03 Aug 2026 13:41:51 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHJmcFc5YUwwVm1iVnhDYlFaT2xGcDVIejc2UWhGU0dtNjN3d1pYSi1UQXpoaVBTam9PVTFkeTU0R1ptTHBYWEtrQ0t5anNyc1UzSVdmSFhTeEktUEg5azNoZ3p0WTJCdnVsM0cwSTU5cDdxYzBnUmFjSWZqYVdkSUg0a0NETGhucE9ONFA1aktVYk44eHhmYlVvVdIBoAFBVV95cUxPaE9vVmZTR0RpS1YzOThLUzF3U0JlMWtraVRRTnJCc05ydnpFeTh5ZVFLTHRDZlh1LWpjQUE1TTVZX1ZuVWt1UFBzT2g5NDNEaENBY29HdndMYUpJNUUzZFNxVzQxWVNzdEVRRFRBXzc5eWRNNGQtZHFsVGlWZkRpb2NWY1RyNE5iTjVpX2NfMXpZb0o2bXRuS0hkaW1UdVpi?oc=5\" target=\"_blank\">Washington state fires destroy hundreds of structures and force Spokane-area residents to evacuate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHprU1oxa1ZnVTY4R09BdC1ZejFVcjhkRW8tZmFfdnNlN1Fscy1TU3Z0MVpBNnNKNmVBUlBVSTdJRU5XNDd2bkNBM1ZoXzZyeFYtVDEzc1J5SUFIMTlRTHpsT3U2T0NBOXBkTmU4MHJsSzQyMENvVXpvMnpENXVJdF9EY1lGVk5kMk9qVDlwOFF4YkdKakI1Mw?oc=5",
+          "published": "Mon, 03 Aug 2026 20:45:50 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHprU1oxa1ZnVTY4R09BdC1ZejFVcjhkRW8tZmFfdnNlN1Fscy1TU3Z0MVpBNnNKNmVBUlBVSTdJRU5XNDd2bkNBM1ZoXzZyeFYtVDEzc1J5SUFIMTlRTHpsT3U2T0NBOXBkTmU4MHJsSzQyMENvVXpvMnpENXVJdF9EY1lGVk5kMk9qVDlwOFF4YkdKakI1Mw?oc=5\" target=\"_blank\">Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "What the market is saying about the U.S. intervention to prop up the yen",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVV1V0VZS092TEtRczhUcDBRN3R6YUh3aWt0cG11ZGJROEVIZzJaU2k4cUF2VGFwVjVxZU1pbTZJVEVpa29jUXFCTkVIbElwalhjME9ITzZVNTFqZGNyX0VOSlU0MU1QOEdqTTV1eGd4M2FCRnIxbG5zcXVfczN2Ml9qSWjSAYoBQVVfeXFMUEdPR1NNLWNHamo0bEdMMVVfMDc0SEsyNkJUNVdqUGxqVEYxbEtjXzhobkR6ZDUzMm94ZjE1VWVVS2gxMGNKM2JOOXVhck81bEpvZGs0VFBKQzBnOWxKcDUySC1oN3VvUVNjSXJyZ2VZcUR6VHNEckh3LUhKRnZyNkZ3VC1WOWhDZ0tB?oc=5",
-          "published": "Mon, 03 Aug 2026 11:19:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVV1V0VZS092TEtRczhUcDBRN3R6YUh3aWt0cG11ZGJROEVIZzJaU2k4cUF2VGFwVjVxZU1pbTZJVEVpa29jUXFCTkVIbElwalhjME9ITzZVNTFqZGNyX0VOSlU0MU1QOEdqTTV1eGd4M2FCRnIxbG5zcXVfczN2Ml9qSWjSAYoBQVVfeXFMUEdPR1NNLWNHamo0bEdMMVVfMDc0SEsyNkJUNVdqUGxqVEYxbEtjXzhobkR6ZDUzMm94ZjE1VWVVS2gxMGNKM2JOOXVhck81bEpvZGs0VFBKQzBnOWxKcDUySC1oN3VvUVNjSXJyZ2VZcUR6VHNEckh3LUhKRnZyNkZ3VC1WOWhDZ0tB?oc=5\" target=\"_blank\">What the market is saying about the U.S. intervention to prop up the yen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52OERCNE9wbUxaWThFYXNFaFNSeGladF9kcVVuenFDX3BmU1U0ZHBURHp1S3VuSVl2ZHVLblU0TzVwWS1HR2RQand0NXFDdnpiNVk3eDBQdGpOQ2FsQWp0WHJiNHU0ckJCZmgtdjQxdlNfTEdqRVE?oc=5",
+          "published": "Mon, 03 Aug 2026 20:08:29 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE52OERCNE9wbUxaWThFYXNFaFNSeGladF9kcVVuenFDX3BmU1U0ZHBURHp1S3VuSVl2ZHVLblU0TzVwWS1HR2RQand0NXFDdnpiNVk3eDBQdGpOQ2FsQWp0WHJiNHU0ckJCZmgtdjQxdlNfTEdqRVE?oc=5\" target=\"_blank\">Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bXQ4eGVhbVBxUl9QZkQ5TXp5UlBlQXBzeE0yb2tNTkxQOXM2cjhGMkFUUUE5Qmt1YjBaLTU1VDNwS1pXN0daa1Zuck5zd2xReVlXeFN0SXJQTVNMdkZmS2ExNVFYdmNUa3BKa3lJS1hiX09QdGI4NWxoSdIBgAFBVV95cUxOSzgzZGdnWVhZajdLeGM3REVSWFRaOFllSUlaSDQ4NlBVVk05MEFWNVJMTjU1WG8yaUxjeHpFYlpJbEVWUkZyZ3pDMHVmSEFvME5MRFZtMi1Pb3Vqa1FqaEhsc3EtdFg4MFROeGNka1ZTckJmRFZ6Y3JRYUp6Si1FRw?oc=5",
-          "published": "Mon, 03 Aug 2026 14:10:26 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFA0bXQ4eGVhbVBxUl9QZkQ5TXp5UlBlQXBzeE0yb2tNTkxQOXM2cjhGMkFUUUE5Qmt1YjBaLTU1VDNwS1pXN0daa1Zuck5zd2xReVlXeFN0SXJQTVNMdkZmS2ExNVFYdmNUa3BKa3lJS1hiX09QdGI4NWxoSdIBgAFBVV95cUxOSzgzZGdnWVhZajdLeGM3REVSWFRaOFllSUlaSDQ4NlBVVk05MEFWNVJMTjU1WG8yaUxjeHpFYlpJbEVWUkZyZ3pDMHVmSEFvME5MRFZtMi1Pb3Vqa1FqaEhsc3EtdFg4MFROeGNka1ZTckJmRFZ6Y3JRYUp6Si1FRw?oc=5\" target=\"_blank\">Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "Twenty five states sue Trump administration over latest global tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGEyTWEwWDd5cS1Sa25DWXBwUExTNzRzMFI4Z0lPMFJQcF9MS3ZWdTZqcEZxUlNZWmVoWlk5STd0ZEZMZ1RNSDZJZEZHc2tfUF9OSkV4WGNDcjUzNGFlZ1dENVVUcnZPelYzU2JYWm9uZDBMNjlZSGdZTV9mUzdWenVkSmo2TmtTX0HSAY8BQVVfeXFMT2Vid1luOHBnLWUtamNtcF9KcjFkRVJfLThFQUxnS3preGw4UDhubWVzRzN6aURJSy11U3ptUTdFejNvUEVpNXQtajJiZXZrY09WbzhYYUpBSVhXT053RGd5UDdVRDhZUnRnTDNxOVh4bWhaMkI3YWVhNjJ1M2lpZGVzTmdYcjVhS1NjNmVxOWc?oc=5",
+          "published": "Mon, 03 Aug 2026 19:44:45 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGEyTWEwWDd5cS1Sa25DWXBwUExTNzRzMFI4Z0lPMFJQcF9MS3ZWdTZqcEZxUlNZWmVoWlk5STd0ZEZMZ1RNSDZJZEZHc2tfUF9OSkV4WGNDcjUzNGFlZ1dENVVUcnZPelYzU2JYWm9uZDBMNjlZSGdZTV9mUzdWenVkSmo2TmtTX0HSAY8BQVVfeXFMT2Vid1luOHBnLWUtamNtcF9KcjFkRVJfLThFQUxnS3preGw4UDhubWVzRzN6aURJSy11U3ptUTdFejNvUEVpNXQtajJiZXZrY09WbzhYYUpBSVhXT053RGd5UDdVRDhZUnRnTDNxOVh4bWhaMkI3YWVhNjJ1M2lpZGVzTmdYcjVhS1NjNmVxOWc?oc=5\" target=\"_blank\">Twenty five states sue Trump administration over latest global tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOHNuTXBFVE9uUDBvRm5oSFBmSHFvZ0R1T256QzJUNXFOTjVyZDJlT19NNUxhM1NwVXQzS08tZFlmRXRDVzE0Q3lobzFGYllSMWJPNVdIUzRaSHpLbklBNjBZNWpGS0RVUEMyOERfNUJzOVMzWXh4MUIycjVudmvSAYQBQVVfeXFMTmNfWEdiZ0E3andENy1sZXZhLVZxWi1FY0ZyZnozeDFxQXppQzI1NGdDZlVlODZBR0I5dGhvaHJlWmhfWnJFekhyT050aUo3UTFRTWFxUnkwN3JFSDliXzNJVjh1T2JwY2RESVgyT2I5UDZQMVFlalR6dDI4cmU0T2toLWJV?oc=5",
-          "published": "Mon, 03 Aug 2026 10:34:35 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOHNuTXBFVE9uUDBvRm5oSFBmSHFvZ0R1T256QzJUNXFOTjVyZDJlT19NNUxhM1NwVXQzS08tZFlmRXRDVzE0Q3lobzFGYllSMWJPNVdIUzRaSHpLbklBNjBZNWpGS0RVUEMyOERfNUJzOVMzWXh4MUIycjVudmvSAYQBQVVfeXFMTmNfWEdiZ0E3andENy1sZXZhLVZxWi1FY0ZyZnozeDFxQXppQzI1NGdDZlVlODZBR0I5dGhvaHJlWmhfWnJFekhyT050aUo3UTFRTWFxUnkwN3JFSDliXzNJVjh1T2JwY2RESVgyT2I5UDZQMVFlalR6dDI4cmU0T2toLWJV?oc=5\" target=\"_blank\">Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObk5LNVZzcGxBT29HZWR0Z2laYVRPNGtNLUhzcTVodmxTdkt2dDR3QnVTRHlnaC03a1dnd0oyYldtOWx6SWxmTXl4VnVmZUY3aTduN2xsdVJVWnVvbjdram1sSzRPMXExWjM1amFqWVNLbGZxMmxtQXVLVEtod1ZTcVdYMEJDUVRLd1JNXzh6T3Q1QmNhd1BTcnZMczlLZU9sSGFMUnZTZE13eHh0R2Zud0lFM0lhWHEwOXhrM0N0emo1emVZazhOUzJyblN5VlQ3NTlTazA2Z3nSAd4BQVVfeXFMT3V4OWU0RTlMeExsOHFzU0ZPX3J2ZHpKVEdJNlpYRGJmdWpXbFN1Nm8zZmptTWdpWkZ5ejdfUGV0TWRHWjhzel9yLVFWWjJmV3RPLVVxTjZmWmZzYWxKVndYZVI3OTQwV1NKMDNVdVBzQlVNbFVGZ2s1QVBLZ2NUZHJuaEZEcjJOZzNrWlFLVUNKTkhobFROa2VXejVSRVM5cklXOHhvd0VUeHlKRml1TDdNNThsZjN2NmhJODZOUVZXb3ljbVlST0MycE5oa3JoVjFWeVhKajk1OTFYR0ln?oc=5",
+          "published": "Mon, 03 Aug 2026 18:32:09 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxObk5LNVZzcGxBT29HZWR0Z2laYVRPNGtNLUhzcTVodmxTdkt2dDR3QnVTRHlnaC03a1dnd0oyYldtOWx6SWxmTXl4VnVmZUY3aTduN2xsdVJVWnVvbjdram1sSzRPMXExWjM1amFqWVNLbGZxMmxtQXVLVEtod1ZTcVdYMEJDUVRLd1JNXzh6T3Q1QmNhd1BTcnZMczlLZU9sSGFMUnZTZE13eHh0R2Zud0lFM0lhWHEwOXhrM0N0emo1emVZazhOUzJyblN5VlQ3NTlTazA2Z3nSAd4BQVVfeXFMT3V4OWU0RTlMeExsOHFzU0ZPX3J2ZHpKVEdJNlpYRGJmdWpXbFN1Nm8zZmptTWdpWkZ5ejdfUGV0TWRHWjhzel9yLVFWWjJmV3RPLVVxTjZmWmZzYWxKVndYZVI3OTQwV1NKMDNVdVBzQlVNbFVGZ2s1QVBLZ2NUZHJuaEZEcjJOZzNrWlFLVUNKTkhobFROa2VXejVSRVM5cklXOHhvd0VUeHlKRml1TDdNNThsZjN2NmhJODZOUVZXb3ljbVlST0MycE5oa3JoVjFWeVhKajk1OTFYR0ln?oc=5\" target=\"_blank\">Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV?oc=5",
-          "published": "Mon, 03 Aug 2026 11:00:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV?oc=5\" target=\"_blank\">ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "Can Palantir pull off a Microsoft-style comeback? Here's what options say",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUNwWlU4SnZWcUZOZnlmSExPUHViS2hkbkxqTFRoNE9EbGhuZVR3RWp5SHZfY0lxelJWQnFQWGxFRjU2d1ZmN1dtdnBfYnB0ZDlSYXFCTFM1SG5OU0hfa3BEM0lWOF80R041VDlLb1d5Z1VpUjRxU0FHNGpfOGlSSUpMYjhNWXpDSEthSnNZZlJqX2xsOFV2UmYwSWZ4U05kUVlGYTFCSWVOSlJl0gGyAUFVX3lxTE1GUkRsY3lVLWJnS3ExRmgteHdIWmh5WXpGdHhFS01yODJZN2ZJMzNBWnNUS0RDaV9YbzVyYldfX2I5WkNxUlZpRXU5Ni0wTWIxY2tkZTFxUlZiSTYzV3ZOMXhRcFFHZVItMjczUWFEemowY2EwR3Z0RlZycVVvZ3oyNVVFaW5HaXNZWVJOTFZoaXVPa0gwT25LMDhfRVFJRDFpaFRVQUtVQ3hQaFZCTUlIMlE?oc=5",
+          "published": "Mon, 03 Aug 2026 18:34:52 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUNwWlU4SnZWcUZOZnlmSExPUHViS2hkbkxqTFRoNE9EbGhuZVR3RWp5SHZfY0lxelJWQnFQWGxFRjU2d1ZmN1dtdnBfYnB0ZDlSYXFCTFM1SG5OU0hfa3BEM0lWOF80R041VDlLb1d5Z1VpUjRxU0FHNGpfOGlSSUpMYjhNWXpDSEthSnNZZlJqX2xsOFV2UmYwSWZ4U05kUVlGYTFCSWVOSlJl0gGyAUFVX3lxTE1GUkRsY3lVLWJnS3ExRmgteHdIWmh5WXpGdHhFS01yODJZN2ZJMzNBWnNUS0RDaV9YbzVyYldfX2I5WkNxUlZpRXU5Ni0wTWIxY2tkZTFxUlZiSTYzV3ZOMXhRcFFHZVItMjczUWFEemowY2EwR3Z0RlZycVVvZ3oyNVVFaW5HaXNZWVJOTFZoaXVPa0gwT25LMDhfRVFJRDFpaFRVQUtVQ3hQaFZCTUlIMlE?oc=5\" target=\"_blank\">Can Palantir pull off a Microsoft-style comeback? Here's what options say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjkyZXhrLU11dksxVTNxUFlkZEhKdUtQU2dDMUpNUExTNG9PdGFGZFAxY05UamxEWFNlcGYwSWJQOERRV3FwN2F2ZXRHc014bDkwUTh5SktKekgzVFlseWh0WXRfUlBMTkpEMnR6dlp1YWPSAXhBVV95cUxNMFJrbWFkYTFaNGxpVVpScmJ5dVdrZGhMZ0NmZFU4dmdNSnlLa0dVaU1scllBOThZcjFQUXBuazFmMEJNZi1laGVPQjBFZ2UzZ1E3QjQwSE1fa0M2WjM4bUx4N1RKQ2NGMi1RdklGMzh1bTBLR01Ba3Q?oc=5",
-          "published": "Mon, 03 Aug 2026 10:59:18 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjkyZXhrLU11dksxVTNxUFlkZEhKdUtQU2dDMUpNUExTNG9PdGFGZFAxY05UamxEWFNlcGYwSWJQOERRV3FwN2F2ZXRHc014bDkwUTh5SktKekgzVFlseWh0WXRfUlBMTkpEMnR6dlp1YWPSAXhBVV95cUxNMFJrbWFkYTFaNGxpVVpScmJ5dVdrZGhMZ0NmZFU4dmdNSnlLa0dVaU1scllBOThZcjFQUXBuazFmMEJNZi1laGVPQjBFZ2UzZ1E3QjQwSE1fa0M2WjM4bUx4N1RKQ2NGMi1RdklGMzh1bTBLR01Ba3Q?oc=5\" target=\"_blank\">Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "Snap's stock jumps 8% on earnings beat and strong sales forecast",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZEN0eDFuMU55dGhQV3VocEpvQVlFVURFNXlscmpWa3pnbXVYMGNoMUtmZWJRRVVtV0NoZDlsSzQ2WTBXekFhck1fdWpSU0RocFh4T0tVWVJyWGw0YldyRGJ3V1h3TWYwSjdEZ1BQQ0lSRmfSAXhBVV95cUxPaTJydHB2alR6b2pWYThzV0RiSnliV3ZBWm1FV3BpMXFpSDRxZFNNdW1OUGo1WTJHYjZlZjlaaUtaMDlwWGUwQlV4YUYyN1Fycm5BM3NMTVlNOXNkQUJfMTBUZG1oNkxMYld6NUE1dDctdTRDZ252OE8?oc=5",
+          "published": "Mon, 03 Aug 2026 20:11:29 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZEN0eDFuMU55dGhQV3VocEpvQVlFVURFNXlscmpWa3pnbXVYMGNoMUtmZWJRRVVtV0NoZDlsSzQ2WTBXekFhck1fdWpSU0RocFh4T0tVWVJyWGw0YldyRGJ3V1h3TWYwSjdEZ1BQQ0lSRmfSAXhBVV95cUxPaTJydHB2alR6b2pWYThzV0RiSnliV3ZBWm1FV3BpMXFpSDRxZFNNdW1OUGo1WTJHYjZlZjlaaUtaMDlwWGUwQlV4YUYyN1Fycm5BM3NMTVlNOXNkQUJfMTBUZG1oNkxMYld6NUE1dDctdTRDZ252OE8?oc=5\" target=\"_blank\">Snap's stock jumps 8% on earnings beat and strong sales forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed'",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVS1KQnBkQTRhaDZnVk5GVWQ0ajd6dzBGUmVhVHBfeXUtcEF1bURTV0JaanVLQzRrcU50Qm95X2NGcV95NDVWV0g1ZXlQaEtLdGtzVU5UbmlsY19SWGZPcjAyQVdlSUxJSVZjaVRadnFvRWhYTk5BaXFMYkpVVFo1aXI3T3ZKZXZYQ2fSAY8BQVVfeXFMUHdwQjRuUHZKTnBURnJHWnB5WG15SDBpWmhIWGVJQXFfWGt6SlFxZ09KeXdRd0NVTmJPNkNIcUVHem5BWDdZeWVaWGZCajc3Qm5lYTZZZTA3bHc5VHJlZUhUblhDZTdlYlByMHJuVzNlVTd1T1dqVGRXNTVpQi1QNHVIZzFra2dTam8zRUFydGc?oc=5",
-          "published": "Mon, 03 Aug 2026 07:17:39 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNVS1KQnBkQTRhaDZnVk5GVWQ0ajd6dzBGUmVhVHBfeXUtcEF1bURTV0JaanVLQzRrcU50Qm95X2NGcV95NDVWV0g1ZXlQaEtLdGtzVU5UbmlsY19SWGZPcjAyQVdlSUxJSVZjaVRadnFvRWhYTk5BaXFMYkpVVFo1aXI3T3ZKZXZYQ2fSAY8BQVVfeXFMUHdwQjRuUHZKTnBURnJHWnB5WG15SDBpWmhIWGVJQXFfWGt6SlFxZ09KeXdRd0NVTmJPNkNIcUVHem5BWDdZeWVaWGZCajc3Qm5lYTZZZTA3bHc5VHJlZUhUblhDZTdlYlByMHJuVzNlVTd1T1dqVGRXNTVpQi1QNHVIZzFra2dTam8zRUFydGc?oc=5\" target=\"_blank\">AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96RWFlUUluM3phek9ZN2VOQU16Uk5Bejc2OUF2dHgzZFVtSlgwUUVOMzMwU2xoU1M5cFJvVkZUVHNZRGRUbU9oZm1jdlNUQlJabFFDRUVyYlJxRDA0STdRWDRpRFNobU5OM0g40gFwQVVfeXFMTWNySElxSTlwek1ab3lOSzRjYlV6bzg5SW1ZMkdFYkpvdWJxLXRiYzlWTGdsN1RiVFRPTjA2SnBzeU9ERnY1aUdfUlJJMVpkZHowbWpxQThJNE1jTTB4djlHSV94RGxhTXN0LUp1aHNTdw?oc=5",
+          "published": "Mon, 03 Aug 2026 17:14:45 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96RWFlUUluM3phek9ZN2VOQU16Uk5Bejc2OUF2dHgzZFVtSlgwUUVOMzMwU2xoU1M5cFJvVkZUVHNZRGRUbU9oZm1jdlNUQlJabFFDRUVyYlJxRDA0STdRWDRpRFNobU5OM0g40gFwQVVfeXFMTWNySElxSTlwek1ab3lOSzRjYlV6bzg5SW1ZMkdFYkpvdWJxLXRiYzlWTGdsN1RiVFRPTjA2SnBzeU9ERnY1aUdfUlJJMVpkZHowbWpxQThJNE1jTTB4djlHSV94RGxhTXN0LUp1aHNTdw?oc=5\" target=\"_blank\">'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kb1drUGRfck50RDRjbU92Y1JWT1JURnRreWxpQzFLOC1keC1Mc3Y1TTNEX3lfVjlKQUFnYnNSY3JaTHozZks3T2FUaGppcXd5Ykp1eGZhdzllaUNpZ0toNEE4NldBZl9vSjIwU0pySFpjOTNoRnNUM9IBfkFVX3lxTE8yQVpTWi1qeGh2UFlqcDZ2aTVwbnVPdXJ5amtURHkwTS1ucVpoeEc1ZHk0VlJ2RVJkbHNCOEZHTEQ2eDZFNE1kNEhRWEQycDZWWVI2RTZHY0o0VkRHYUVVOGctRWp5SEQ1NHFZZzUtdzM4X3NZb3NZcTcwZXU1dw?oc=5",
-          "published": "Mon, 03 Aug 2026 10:32:09 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1kb1drUGRfck50RDRjbU92Y1JWT1JURnRreWxpQzFLOC1keC1Mc3Y1TTNEX3lfVjlKQUFnYnNSY3JaTHozZks3T2FUaGppcXd5Ykp1eGZhdzllaUNpZ0toNEE4NldBZl9vSjIwU0pySFpjOTNoRnNUM9IBfkFVX3lxTE8yQVpTWi1qeGh2UFlqcDZ2aTVwbnVPdXJ5amtURHkwTS1ucVpoeEc1ZHk0VlJ2RVJkbHNCOEZHTEQ2eDZFNE1kNEhRWEQycDZWWVI2RTZHY0o0VkRHYUVVOGctRWp5SEQ1NHFZZzUtdzM4X3NZb3NZcTcwZXU1dw?oc=5\" target=\"_blank\">Tourism price wars threaten to dim a rare bright spot in China's consumer spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zRGI2c1A2SHF1Yzd6LWRmQ2Qza09qanNLeVpkcUk5M3EtWUY2ZlBBZzkxLXNMWDZhZEFMZFFkdXpNVnNIV0R6d2M2ZDlsVUctQWhzOENEc3g5Qm9LdmlOeHpCWkFabmNwLVdOSTh1UWd6blo3ci0yb9IBfkFVX3lxTE5XMjhubVV6SHlNTlhYeTZ3Q3dpaGRkN09Zcy14Y0dETGJwcVBQX1BfWVJMdnJSam1hTnZ4NTNoQ1RRUkp4ZGhBOVFVRk1UNXZyVmIzamczbFUyYTBJOFMxenJYR2xQUHRJRzU3Z1YwQk9MN0hITThPN3FnMW9CUQ?oc=5",
+          "published": "Mon, 03 Aug 2026 16:38:21 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4zRGI2c1A2SHF1Yzd6LWRmQ2Qza09qanNLeVpkcUk5M3EtWUY2ZlBBZzkxLXNMWDZhZEFMZFFkdXpNVnNIV0R6d2M2ZDlsVUctQWhzOENEc3g5Qm9LdmlOeHpCWkFabmNwLVdOSTh1UWd6blo3ci0yb9IBfkFVX3lxTE5XMjhubVV6SHlNTlhYeTZ3Q3dpaGRkN09Zcy14Y0dETGJwcVBQX1BfWVJMdnJSam1hTnZ4NTNoQ1RRUkp4ZGhBOVFVRk1UNXZyVmIzamczbFUyYTBJOFMxenJYR2xQUHRJRzU3Z1YwQk9MN0hITThPN3FnMW9CUQ?oc=5\" target=\"_blank\">FAA clears smallest Boeing 737 Max to fly after years of delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "U.S. Treasury yields fall as oil prices plunge on Iran de-escalation hopes",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUFXSlRPMTVtemNDTGxtNlYza2JNZG56U0Q1SXhwZ0JQT0g3dUJqMTVMQjh5MXJoQUZsVWxyV0F0U0lvUEI0MXg5c2xhRU1nYnM4MjdVdjRQNjJOTXp1RkNnTmRWZFM0VnZRSkxrczBwdi1tT0ZJakRocDZ6cXlkbdIBhgFBVV95cUxNdTlKOEJBTWt2SDJBMnFpTnN5NWEtZ3o4Q1J4endZazl5QmJLN1lUTm84N1ZwVlo1REx2OTBfOThZQThXRnI0aEJmbGRNaFpQbl9TM25jU1lhdzFzdzFBbFhJdGVFX0NTLTZrZ3FLLWg4Y00xX1RwM1VjVmR2SDN5Ukx0SFdqZw?oc=5",
-          "published": "Mon, 03 Aug 2026 08:33:35 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxObUFXSlRPMTVtemNDTGxtNlYza2JNZG56U0Q1SXhwZ0JQT0g3dUJqMTVMQjh5MXJoQUZsVWxyV0F0U0lvUEI0MXg5c2xhRU1nYnM4MjdVdjRQNjJOTXp1RkNnTmRWZFM0VnZRSkxrczBwdi1tT0ZJakRocDZ6cXlkbdIBhgFBVV95cUxNdTlKOEJBTWt2SDJBMnFpTnN5NWEtZ3o4Q1J4endZazl5QmJLN1lUTm84N1ZwVlo1REx2OTBfOThZQThXRnI0aEJmbGRNaFpQbl9TM25jU1lhdzFzdzFBbFhJdGVFX0NTLTZrZ3FLLWg4Y00xX1RwM1VjVmR2SDN5Ukx0SFdqZw?oc=5\" target=\"_blank\">U.S. Treasury yields fall as oil prices plunge on Iran de-escalation hopes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "Trump sours on Pirro over Reflecting Pool case, won't say her job is safe",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnh3a3psSS1hcGpqLV95Z1AtaFltcjBjTllIRnJlQXdXNDhRNU5IOGJXZUJTNWgwcEpVX0JKTVUtYkRyMm02N254bG50NjBHMGVmWmktdTNnMVhMR3F3QlBqX19hWWZNWU1uSDRQLU1neWZCZGhHOVhZUlNTZ1RvTEdsMHY0UdIBiwFBVV95cUxOaUpPckxPaTVNUnRtd1VTSXdVTGUyb2ZqYUFtNGRRUGFmejFJdVhldEw4VlNBYm0ySUxoa0tTRHRubXBRd1BrazNDZTAtVDFmUnZUeFctUFVlWmh5aFNQNFA5V2syR0hkOFRsQkV4Mk43Vk43ZEhIYjNNSUJ1SVBmaURuVzAyVVB0bEZJ?oc=5",
+          "published": "Mon, 03 Aug 2026 19:42:37 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnh3a3psSS1hcGpqLV95Z1AtaFltcjBjTllIRnJlQXdXNDhRNU5IOGJXZUJTNWgwcEpVX0JKTVUtYkRyMm02N254bG50NjBHMGVmWmktdTNnMVhMR3F3QlBqX19hWWZNWU1uSDRQLU1neWZCZGhHOVhZUlNTZ1RvTEdsMHY0UdIBiwFBVV95cUxOaUpPckxPaTVNUnRtd1VTSXdVTGUyb2ZqYUFtNGRRUGFmejFJdVhldEw4VlNBYm0ySUxoa0tTRHRubXBRd1BrazNDZTAtVDFmUnZUeFctUFVlWmh5aFNQNFA5V2syR0hkOFRsQkV4Mk43Vk43ZEhIYjNNSUJ1SVBmaURuVzAyVVB0bEZJ?oc=5\" target=\"_blank\">Trump sours on Pirro over Reflecting Pool case, won't say her job is safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
-          "title": "Curium strikes up to $8 billion deal for radiopharma peer Lantheus",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHlTdURBdjhONHhxcDQ1SDFWODRPUUdLcEU2Q3NYLVV1d0hfODExT3VnbmtSYm5yUGg2WWNOaHhTc2EtYmJSOWFTdE1vX2pSeEQyUlZ2aWVMTUFVQXRoWE5BZU0wcTBycVU5NEI4eW00Z0duQWV4TzE4dWRRcUtSM0VLRTFTdmtJdFBxTmZROU1XZ3R5TXFrdjNJWWlaQVNja0FwYdIBqgFBVV95cUxPQVpSVjZvUmhLakJ3N0tfa0V6TXNtSjVYbDFvLWdSYWo0SV9DQzZJRmkyUUtrZjIzMDlNU0EwMWtDYkIwdFM5WXp6eUJRTk5RSTlkMFVQaDVCNERiemlRLW9KT3Yxd2ZWUC1Nbi14LVI1Rnh6em5NbmdPOHJRTS1ELWtRRmdIMHo3cEpSLUNGQWpGaDRKV3M5RzVDTlBOV1Z5Y3owYmpPa2dWUQ?oc=5",
-          "published": "Mon, 03 Aug 2026 11:53:47 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHlTdURBdjhONHhxcDQ1SDFWODRPUUdLcEU2Q3NYLVV1d0hfODExT3VnbmtSYm5yUGg2WWNOaHhTc2EtYmJSOWFTdE1vX2pSeEQyUlZ2aWVMTUFVQXRoWE5BZU0wcTBycVU5NEI4eW00Z0duQWV4TzE4dWRRcUtSM0VLRTFTdmtJdFBxTmZROU1XZ3R5TXFrdjNJWWlaQVNja0FwYdIBqgFBVV95cUxPQVpSVjZvUmhLakJ3N0tfa0V6TXNtSjVYbDFvLWdSYWo0SV9DQzZJRmkyUUtrZjIzMDlNU0EwMWtDYkIwdFM5WXp6eUJRTk5RSTlkMFVQaDVCNERiemlRLW9KT3Yxd2ZWUC1Nbi14LVI1Rnh6em5NbmdPOHJRTS1ELWtRRmdIMHo3cEpSLUNGQWpGaDRKV3M5RzVDTlBOV1Z5Y3owYmpPa2dWUQ?oc=5\" target=\"_blank\">Curium strikes up to $8 billion deal for radiopharma peer Lantheus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "White House to host AI companies Tuesday to review new model-testing framework",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5",
+          "published": "Mon, 03 Aug 2026 16:18:22 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5\" target=\"_blank\">White House to host AI companies Tuesday to review new model-testing framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         }
       ]
@@ -518,10 +518,10 @@
       "count": 10,
       "articles": [
         {
-          "title": "Catch up: Trump says Iran talks start Monday; Japan and America prop up the yen",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDNYUFJyNWtjNThsZmstTnBJTGhnQzV0WjR1RHhyRlMzbzduZE5jOXlfRHR2cGJPekNNZWpRVlA5SzZkZ3N2U3hPZDRINjNrVldhNE82bWktYWRGdDFlWENNenpoSk8wcHprUXMtTnFTT3M4VzJ2TkFodVNqZ3hxbjVBOWh1bG5OM05YRF8wbTZpZ2JpdmdZ?oc=5",
-          "published": "Mon, 03 Aug 2026 00:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObDNYUFJyNWtjNThsZmstTnBJTGhnQzV0WjR1RHhyRlMzbzduZE5jOXlfRHR2cGJPekNNZWpRVlA5SzZkZ3N2U3hPZDRINjNrVldhNE82bWktYWRGdDFlWENNenpoSk8wcHprUXMtTnFTT3M4VzJ2TkFodVNqZ3hxbjVBOWh1bG5OM05YRF8wbTZpZ2JpdmdZ?oc=5\" target=\"_blank\">Catch up: Trump says Iran talks start Monday; Japan and America prop up the yen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "Catch up: Trump insists Iran talks have resumed; Palantir raises revenue forecast",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaU9UTl9DTmlvM3ZTdzBoQlFwOGFKZTNSLV8wYXRkRlN3M1JEMDVXVXdUSnNYUFhXaV9lX3l5SUZXQmdZOTJTdEpHMDd2TDJGcUhyNUIyRkowVFBsYkJZbHQwaHRjRnNTZmEtOFhYLUl1YXA1b2dnS085elkzRUhSRWg0QThMdXdISHBLdDJiS242aGg1ZkpR?oc=5",
+          "published": "Mon, 03 Aug 2026 22:55:41 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQaU9UTl9DTmlvM3ZTdzBoQlFwOGFKZTNSLV8wYXRkRlN3M1JEMDVXVXdUSnNYUFhXaV9lX3l5SUZXQmdZOTJTdEpHMDd2TDJGcUhyNUIyRkowVFBsYkJZbHQwaHRjRnNTZmEtOFhYLUl1YXA1b2dnS085elkzRUhSRWg0QThMdXdISHBLdDJiS242aGg1ZkpR?oc=5\" target=\"_blank\">Catch up: Trump insists Iran talks have resumed; Palantir raises revenue forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
@@ -532,17 +532,17 @@
           "source": "经济学人"
         },
         {
-          "title": "Ukraine needs the EU to force it to reform",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnotbW4yUlZiQkYyQ3JHcUE0UmUwQjZiQ1RMQXhJVGZjNGY5T00wZWxLaWhEVGdRcnozdENLVEVBdHgtUnNvcFIzejlMdzRxMDhyUEcwbTZWbXA3MkZrd3Z2VVJ6U3VZMXZHejA5ZXBDZHBBcVhQdFF1N2JnWlpsUUpSVHhZX1U3alY5TmpNTQ?oc=5",
-          "published": "Sun, 02 Aug 2026 17:34:02 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnotbW4yUlZiQkYyQ3JHcUE0UmUwQjZiQ1RMQXhJVGZjNGY5T00wZWxLaWhEVGdRcnozdENLVEVBdHgtUnNvcFIzejlMdzRxMDhyUEcwbTZWbXA3MkZrd3Z2VVJ6U3VZMXZHejA5ZXBDZHBBcVhQdFF1N2JnWlpsUUpSVHhZX1U3alY5TmpNTQ?oc=5\" target=\"_blank\">Ukraine needs the EU to force it to reform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "Catch up: Trump says Iran talks start Monday; Japan and America prop up the yen",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDNYUFJyNWtjNThsZmstTnBJTGhnQzV0WjR1RHhyRlMzbzduZE5jOXlfRHR2cGJPekNNZWpRVlA5SzZkZ3N2U3hPZDRINjNrVldhNE82bWktYWRGdDFlWENNenpoSk8wcHprUXMtTnFTT3M4VzJ2TkFodVNqZ3hxbjVBOWh1bG5OM05YRF8wbTZpZ2JpdmdZ?oc=5",
+          "published": "Mon, 03 Aug 2026 00:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObDNYUFJyNWtjNThsZmstTnBJTGhnQzV0WjR1RHhyRlMzbzduZE5jOXlfRHR2cGJPekNNZWpRVlA5SzZkZ3N2U3hPZDRINjNrVldhNE82bWktYWRGdDFlWENNenpoSk8wcHprUXMtTnFTT3M4VzJ2TkFodVNqZ3hxbjVBOWh1bG5OM05YRF8wbTZpZ2JpdmdZ?oc=5\" target=\"_blank\">Catch up: Trump says Iran talks start Monday; Japan and America prop up the yen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
-          "title": "What will Kevin Warsh do if America’s economy breaks?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ?oc=5",
-          "published": "Sun, 02 Aug 2026 16:12:02 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ?oc=5\" target=\"_blank\">What will Kevin Warsh do if America’s economy breaks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "The Economist is hiring a Deputy Head of Social Media",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlU4NTNSTXhTOHVuckhpYlZqMWEwUjdiOC1wNTQwaG9lcks5T2dDd0V1MDF1Mi1LSU9ldU40SXYzQXl5cC12aF9DTDVjeG5OeEpRVDhmbE43TG9QU3c1TGFnb1FZclJqV1FJc0NGSkYxbnVMVElZaDhOSEIyTjNQRUNuMEtZTlJqSk5tTkRRNU1abVp3ZklaeEo5STJBTkU?oc=5",
+          "published": "Mon, 03 Aug 2026 14:58:37 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlU4NTNSTXhTOHVuckhpYlZqMWEwUjdiOC1wNTQwaG9lcks5T2dDd0V1MDF1Mi1LSU9ldU40SXYzQXl5cC12aF9DTDVjeG5OeEpRVDhmbE43TG9QU3c1TGFnb1FZclJqV1FJc0NGSkYxbnVMVElZaDhOSEIyTjNQRUNuMEtZTlJqSk5tTkRRNU1abVp3ZklaeEo5STJBTkU?oc=5\" target=\"_blank\">The Economist is hiring a Deputy Head of Social Media</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
@@ -553,38 +553,38 @@
           "source": "经济学人"
         },
         {
-          "title": "Can America retrain workers before AI leaves them behind?",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0ZhczZaMW5XQThOVDdlcGQ2OXpxQTlaRkgwRGN6UXU3TEJkRWZET1EySGJ4SHNtVDBBdmpDU1VxZ1RrNUZwRUJYWGhtaXgyNUNpTzdNb0JSSURPYl9oTUtOSUxxZC05bHA0dmtRRmRHSmdZTk4wYS1TeUtROEkxa3BaSTdiVVlmN2o3aFN0ZUdxRjd2a3BWYjJvZUpoNzRPLURRcHlTR2pueEk?oc=5",
-          "published": "Sun, 02 Aug 2026 17:51:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0ZhczZaMW5XQThOVDdlcGQ2OXpxQTlaRkgwRGN6UXU3TEJkRWZET1EySGJ4SHNtVDBBdmpDU1VxZ1RrNUZwRUJYWGhtaXgyNUNpTzdNb0JSSURPYl9oTUtOSUxxZC05bHA0dmtRRmRHSmdZTk4wYS1TeUtROEkxa3BaSTdiVVlmN2o3aFN0ZUdxRjd2a3BWYjJvZUpoNzRPLURRcHlTR2pueEk?oc=5\" target=\"_blank\">Can America retrain workers before AI leaves them behind?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-          "source": "经济学人"
-        },
-        {
-          "title": "Attempts to take over easyJet hit turbulence",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGNEajFGWXdEakw0U0JKNGJkRUhfX1o0WWFvaHhyRXVET3B4M3BlNFNuYW41OFdxbXZHZ2tKWDFobjFJU2ctNUVoUkh3RGhqWUFBQzV6aTNma1Z6TmFtLUpHaDl2S3o0TS12VG5lS1VVMm1FaDF4MTBoR0xRT0JReFRfNUx6S1VjeDRJaWF1VDVmYTNWMF84?oc=5",
+          "title": "A status check for summer travel",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjhWX040dG1CUHBNN29fSC1IQ3pkZEFkYTFyS0ZFSERrTUNoYUI5NWhrWmtvZk1pSDBUNFk1WDR2TDJQOThJLVBsRkpJLXZnVmt0NnlHZ2xCYXQ4WDJKSU9UTFlENXJtOWpBR3Y5dklHM3A0dFgtRTkwN2t0WnVsVGhYYlJQR1hTdHVlcDZFeHNNMmZNSnk0?oc=5",
           "published": "Mon, 03 Aug 2026 00:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONGNEajFGWXdEakw0U0JKNGJkRUhfX1o0WWFvaHhyRXVET3B4M3BlNFNuYW41OFdxbXZHZ2tKWDFobjFJU2ctNUVoUkh3RGhqWUFBQzV6aTNma1Z6TmFtLUpHaDl2S3o0TS12VG5lS1VVMm1FaDF4MTBoR0xRT0JReFRfNUx6S1VjeDRJaWF1VDVmYTNWMF84?oc=5\" target=\"_blank\">Attempts to take over easyJet hit turbulence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjhWX040dG1CUHBNN29fSC1IQ3pkZEFkYTFyS0ZFSERrTUNoYUI5NWhrWmtvZk1pSDBUNFk1WDR2TDJQOThJLVBsRkpJLXZnVmt0NnlHZ2xCYXQ4WDJKSU9UTFlENXJtOWpBR3Y5dklHM3A0dFgtRTkwN2t0WnVsVGhYYlJQR1hTdHVlcDZFeHNNMmZNSnk0?oc=5\" target=\"_blank\">A status check for summer travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
-          "title": "Artificial Intelligence (AI)",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjc0eERkMTRCRF95YWVPQnBEbkNid0RMTjJQWGEzRERoV2pvT3RQU0lubC1pRXVsNERGMHZKQ0ZzaklVemFCelR1QURUOWoybjFPc05YSDlVclZ6U1lleDFlelh0dTdFMThXTzhnWlhEblRobDN1NXhqdER5NjhqdUwzMVI5MHIxTDczS3drZk5GV0xGYVg4SUM4VEl6ZjhI?oc=5",
-          "published": "Sun, 02 Aug 2026 18:10:45 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjc0eERkMTRCRF95YWVPQnBEbkNid0RMTjJQWGEzRERoV2pvT3RQU0lubC1pRXVsNERGMHZKQ0ZzaklVemFCelR1QURUOWoybjFPc05YSDlVclZ6U1lleDFlelh0dTdFMThXTzhnWlhEblRobDN1NXhqdER5NjhqdUwzMVI5MHIxTDczS3drZk5GV0xGYVg4SUM4VEl6ZjhI?oc=5\" target=\"_blank\">Artificial Intelligence (AI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "Mexico’s president stops turning the other cheek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDl6WXRuOG1GT0R6NlRnNjhrS3l1MmlkQjhsazk0ZjdaTkp6VkZYQ3NQYlYtOTlRZV83U2ItM2hLREMyekZ3VHdTUUF2WGx0OTd1SGdxWE9ybzBRU01VTFgzZ2dpdkl4aWZINEQ2Q2YwUmFZSmkzNC1BWnJFcEFEMUhxUHlwcTBIVngwcW1vdTYzN2MySGFuYnJXTEJJUQ?oc=5",
+          "published": "Mon, 03 Aug 2026 16:48:45 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcDl6WXRuOG1GT0R6NlRnNjhrS3l1MmlkQjhsazk0ZjdaTkp6VkZYQ3NQYlYtOTlRZV83U2ItM2hLREMyekZ3VHdTUUF2WGx0OTd1SGdxWE9ybzBRU01VTFgzZ2dpdkl4aWZINEQ2Q2YwUmFZSmkzNC1BWnJFcEFEMUhxUHlwcTBIVngwcW1vdTYzN2MySGFuYnJXTEJJUQ?oc=5\" target=\"_blank\">Mexico’s president stops turning the other cheek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
-          "title": "Columns",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHA2RU0wcHZXTFpSWWd2NnMtekpYaGRCVnBjVWlZeGE5YS05RWd0dW1IcERkdmhXYlNJS3hxYmp3V3JGY3R2emh6QlZSWGdpcV9BRjViWGNqNWpoUlFuZncwb3lBUWEzM0p4UUstcmNSR29IZE51elZjbkRBaERZVmVBOW5XRnA1WG04?oc=5",
-          "published": "Mon, 03 Aug 2026 12:54:39 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHA2RU0wcHZXTFpSWWd2NnMtekpYaGRCVnBjVWlZeGE5YS05RWd0dW1IcERkdmhXYlNJS3hxYmp3V3JGY3R2emh6QlZSWGdpcV9BRjViWGNqNWpoUlFuZncwb3lBUWEzM0p4UUstcmNSR29IZE51elZjbkRBaERZVmVBOW5XRnA1WG04?oc=5\" target=\"_blank\">Columns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "How China gets better bang for its buck than America in AI",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5",
+          "published": "Mon, 03 Aug 2026 17:15:13 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5\" target=\"_blank\">How China gets better bang for its buck than America in AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
-          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUhKNnlLUmF2WlhObnl5ZXRReldBaGRscnNrcGJIaWJDNjl4S295TTlXdmtjREFjQlJUTmttaTVnajlmcDJkYVB3amd6UGxMUDlDT2gyUGpCTURyRXFoOE1ZRld2WkFEcHppZUp0dnduVnBXMXJoWmZsODNzaU9yWm1kcXQxMWxTaHpPSmtVcnRDMVFnNVlr?oc=5",
-          "published": "Mon, 03 Aug 2026 12:07:02 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUhKNnlLUmF2WlhObnl5ZXRReldBaGRscnNrcGJIaWJDNjl4S295TTlXdmtjREFjQlJUTmttaTVnajlmcDJkYVB3amd6UGxMUDlDT2gyUGpCTURyRXFoOE1ZRld2WkFEcHppZUp0dnduVnBXMXJoWmZsODNzaU9yWm1kcXQxMWxTaHpPSmtVcnRDMVFnNVlr?oc=5\" target=\"_blank\">Taken littorally: Spain’s sudden crisis in Ceuta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "China won’t apologise for overcapacity",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZLcTE0TDFST3djQnlwdDRnTmxhV3dQRlAtd05oQ3l4V3pfRlFVbVNGcHNKUlJoMFRCeEs5TmlTOThEU1FDS2N5R01OMWJyUFFfcVB6Z0x2TFFIYW9Dc3JadnRQbnd4c3JySnpIUy0wNmlQd00wdTYtanhqME5TM2gwQlJ2WTA?oc=5",
+          "published": "Mon, 03 Aug 2026 17:16:49 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZLcTE0TDFST3djQnlwdDRnTmxhV3dQRlAtd05oQ3l4V3pfRlFVbVNGcHNKUlJoMFRCeEs5TmlTOThEU1FDS2N5R01OMWJyUFFfcVB6Z0x2TFFIYW9Dc3JadnRQbnd4c3JySnpIUy0wNmlQd00wdTYtanhqME5TM2gwQlJ2WTA?oc=5\" target=\"_blank\">China won’t apologise for overcapacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "How long can Iran weaponise Hormuz?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDNLNFdvY2JtaGdkbHVyWEtueW80WkpOakQ1UV9tQUhfSlJZUzEwLUpOblVBVmlpM2s4eWVPZ1J2SnBVUG5rNkJNdHJYNkJvbHZQazdzak8zN3REVmRsbmFLTjl6QUxLU2JYWjNvdF9oUGN4M1A3WVctVnRyMzZEVWh1enBMOVBHc0NWOXo4RkhRYTgxVjF2TWlB?oc=5",
+          "published": "Mon, 03 Aug 2026 20:02:27 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDNLNFdvY2JtaGdkbHVyWEtueW80WkpOakQ1UV9tQUhfSlJZUzEwLUpOblVBVmlpM2s4eWVPZ1J2SnBVUG5rNkJNdHJYNkJvbHZQazdzak8zN3REVmRsbmFLTjl6QUxLU2JYWjNvdF9oUGN4M1A3WVctVnRyMzZEVWh1enBMOVBHc0NWOXo4RkhRYTgxVjF2TWlB?oc=5\" target=\"_blank\">How long can Iran weaponise Hormuz?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         }
       ]
@@ -595,7 +595,21 @@
       "count": 10,
       "articles": [
         {
-          "title": "English FA set to withdraw support for Fifa president Infantino",
+          "title": "Rapists and child sex offenders to be barred from early release scheme",
+          "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 21:35:15 GMT",
+          "summary": "The widow of PC Andrew Harper says it is \"disgusting\" her husband's killers remain eligible for the scheme in England and Wales.",
+          "source": "BBC"
+        },
+        {
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 18:04:30 GMT",
+          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+          "source": "BBC"
+        },
+        {
+          "title": "Infantino opponents threaten 'non co-operation' with Fifa",
           "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
           "published": "Mon, 03 Aug 2026 07:49:33 GMT",
           "summary": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
@@ -604,64 +618,50 @@
         {
           "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
           "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 14:18:30 GMT",
-          "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
+          "published": "Mon, 03 Aug 2026 19:42:55 GMT",
+          "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
           "source": "BBC"
         },
         {
-          "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
-          "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 03:32:21 GMT",
-          "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+          "title": "France hits out at Reform UK plan to return migrants using Navy",
+          "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 16:48:58 GMT",
+          "summary": "It comes after the party said it would override French objections to return migrants to France.",
           "source": "BBC"
         },
         {
-          "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
-          "url": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 13:35:45 GMT",
-          "summary": "The columnist died in hospital in Middlsbrough on Sunday.",
+          "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
+          "url": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 20:09:46 GMT",
+          "summary": "London Stadium recommends West Ham's co-owner stay away amid fears of fan unrest following sexual misconduct claims.",
+          "source": "BBC"
+        },
+        {
+          "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
+          "url": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 15:29:13 GMT",
+          "summary": "The BBC is the first media organisation to gain access to the city and speak to people on the ground in Rawalakot.",
           "source": "BBC"
         },
         {
           "title": "Rhine falls to record low levels as drought strains Europe's rivers",
           "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 14:38:48 GMT",
+          "published": "Mon, 03 Aug 2026 16:27:43 GMT",
           "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
           "source": "BBC"
         },
         {
           "title": "Son who kept mum's body in freezer for years collected £78k of her benefits",
           "url": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 11:14:33 GMT",
+          "published": "Mon, 03 Aug 2026 16:34:36 GMT",
           "summary": "Christopher Phillips’ mother, Sylvia, had yellow and pink roses and a birthday card placed on her body.",
           "source": "BBC"
         },
         {
-          "title": "Reform UK insists using Navy to stop migrant boats would be legal",
-          "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 14:57:19 GMT",
-          "summary": "The party says under its plan it would override French objections to return migrants to France.",
-          "source": "BBC"
-        },
-        {
-          "title": "X Factor finalist denies murdering influencer by running her over with car",
-          "url": "https://www.bbc.co.uk/news/articles/c75gq56qrwno?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 11:35:00 GMT",
-          "summary": "Gabrielle Carrington denies killing Klaudia Zakrzewska outside Inca nightclub in Soho on 19 April.",
-          "source": "BBC"
-        },
-        {
-          "title": "Presenter Tony Livesey leaves BBC Radio 5 Live after 16 years",
-          "url": "https://www.bbc.co.uk/news/articles/c4g6pvv2zgjo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 12:17:22 GMT",
-          "summary": "He stepped back from his show last month following allegations against his former boss David Sullivan.",
-          "source": "BBC"
-        },
-        {
-          "title": "Ariana Grande to take a break from public life citing 'endless, ongoing scrutiny'",
-          "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 10:59:12 GMT",
-          "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+          "title": "EU calls for stronger borders after Ceuta migrant crossings",
+          "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 21:43:10 GMT",
+          "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
           "source": "BBC"
         }
       ]
