@@ -1,129 +1,129 @@
 {
-  "updated": "2026-08-03T23:12:26.129221+00:00",
-  "updated_beijing": "2026-08-03 23:12 北京时间",
-  "summary_analysis": "【核心主线】当前全球政治经济主线围绕美国大选、贸易政策与地缘冲突展开。民调显示民主党在经济议题上首次领先共和党，反映选民对特朗普关税政策的不满。特朗普政府对伊朗的军事威胁与谈判反复，以及对中国等国的关税战，加剧了全球市场不确定性。同时，美国国内政治斗争激烈，特朗普与媒体、企业界关系紧张。\n\n【市场与政策信号】企业财报显示分化：Palantir、Snap等科技公司业绩强劲，而传统行业如Tyson面临成本压力。波音737 MAX 7获认证，利好航空业。并购活动活跃，如KKR收购Integer Holdings。美联储政策与美元走势受关注，日本与美国联合支撑日元。AI领域，中国以更低成本实现突破，引发对美国AI竞争力的担忧。\n\n【关键风险提示】地缘冲突风险：伊朗核问题与霍尔木兹海峡潜在封锁；贸易战升级：美国多州起诉特朗普关税政策，全球供应链受扰；欧洲极端天气与野火造成经济损失；英国脱欧后移民政策争议；美国国内政治极化可能影响政策稳定性。",
+  "updated": "2026-08-04T06:35:36.182267+00:00",
+  "updated_beijing": "2026-08-04 06:35 北京时间",
+  "summary_analysis": "【核心主线】当前全球市场主线围绕中东地缘政治风险与大国博弈展开。美国与伊朗的谈判前景不明，霍尔木兹海峡油轮遇袭事件加剧供应担忧，油价波动剧烈。同时，美国国内政治与经济政策交织，特朗普政府面临多州诉讼，关税政策引发反弹。中国经济与科技领域表现活跃，AI产业快速发展，但面临外部压力与内部调整。\n\n【市场与政策信号】市场信号显示，黄金因避险需求持稳，油价受地缘政治影响波动。美国股市受企业财报驱动，Palantir等AI公司业绩超预期。政策方面，美国多州起诉特朗普关税政策，日本干预汇市，韩国限制杠杆ETF交易。中国AI产业投资效率高，但美国对华科技限制持续。\n\n【关键风险提示】主要风险包括：美伊谈判破裂导致霍尔木兹海峡封锁，油价飙升；美国关税政策引发贸易战升级；全球AI投资泡沫可能破裂；日本干预汇市效果有限；中国AI产业面临美国技术封锁。",
   "important": [
     {
-      "title": "民调显示美国选民在经济议题上十年来首次更青睐民主党",
+      "title": "美伊谈判前景不明，霍尔木兹海峡油轮遇袭",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrT05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+      "summary": "霍尔木兹海峡油轮遇袭，美伊谈判不确定性增加",
+      "source": "路透社"
+    },
+    {
+      "title": "油价在抛售后微涨，美伊战争谈判仍不确定",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+      "summary": "油价微涨，市场关注美伊谈判进展",
+      "source": "路透社"
+    },
+    {
+      "title": "日本将军事建设视为经济繁荣之路",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUJQVVd6S3NYc2pFV2IyYW90UXl5bjJBb3JwcWFDclNEY1VMbzNYZ1V0cjhvd0lBZVFGMlJ0bzYzNl83TVY1Z0U5M1JsXzA3THlBN2xhUjJkOWpadVhCenRTX0QxME5xSnExeWFpRFF0WVd3ZzNxZ1BJeEQzVGctNlBRUEs3ZHllVVBJNWk4TzlNQmFqY3pHV0JEZll1S1RWUDNjRFlFeXRoWHpB?oc=5",
+      "summary": "日本以军事建设促进经济繁荣",
+      "source": "路透社"
+    },
+    {
+      "title": "金价持稳，中东动荡与美国就业数据受关注",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
+      "summary": "金价持稳，市场关注中东局势与美国就业数据",
+      "source": "路透社"
+    },
+    {
+      "title": "美国国务院将关闭驻加拿大、日本和印尼领事馆",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0Rza3lnM0tJaGxLa3N2elcyM0FiYU85V3NTODhJNGowcjRlMS1NU2s2a3diSi1QVnJXNUswZ1l2enR1emtUVndfWkFpNGxiNEhCN0xEcHNkbGVHaVRWVEVUa0Q0Q3VMM1pLMDVWQ0ZFd0RqZTB0eE9yUU9Pa2hTdWhieDQ2bmhqNFVYa29henVRVjBUdEtiSDFXSmh6bUtuMVJ1TjZwX2RRcFR3WUxKaWs4eHI1UDA?oc=5",
+      "summary": "美国关闭多国领事馆，外交收缩",
+      "source": "路透社"
+    },
+    {
+      "title": "印度Nifty 50指数下跌，新收盘机制引发的涨势消退",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkczSk9HZlhtQlVJTFBrN1RZVFBheWlNNThaNnpGRXJvSk1aTFJGalRSOExZelRGTC1GZkRNaks5eDlvQVhJa1NIMEN0WjdCWWM5Q25UQVAyLTRvaUlNNk1xeDZnSHJwUU44alZldVptZHZ1ODJHYnpBbmJ2SVQ5VEROWDQ1YzZhWmxFREE3aFV3VXd6S1ljRGlWWklqRUwzVUgtcHpnaGlEMWZZbklIZFM4YWVoUnM?oc=5",
+      "summary": "印度股市下跌，新收盘机制影响消退",
+      "source": "路透社"
+    },
+    {
+      "title": "TikTok在庭审前和解三起青少年社交媒体诉讼",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGg5Q2I4bXpIX1BXMHVNRldYNWtjbzdtRWxkeFlOQnFVUm9MV0d4Ri1FTDZRMnIwR2tvNzNoODJaQy1LSDNINlloczJCM3BXZnQyOHZlbFZSbUpINEVxX05mbVE4WmNtckdvVmFmN09vMF9GYWRaQWlVazVYVDdKeHNuUDQ1ODJ5SE1xQmhWTXR2X3o3SkRtaUJ5QTdyb0ZHdGJJNlJMRmU?oc=5",
+      "summary": "TikTok和解青少年诉讼，避免庭审",
+      "source": "路透社"
+    },
+    {
+      "title": "民调：选民十年来首次在经济问题上更青睐民主党",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
-      "summary": "经济议题民调逆转，民主党十年来首次领先。",
+      "summary": "民调显示民主党在经济议题上支持率反超",
       "source": "路透社"
     },
     {
-      "title": "美国最高法院维持对巴勒斯坦组织6.55亿美元判决",
+      "title": "美国最高法院不会阻止对巴勒斯坦人的6.55亿美元判决",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnJXbFlTcnd5ekloOUVSVFItaUU1d1lSR2wxOXp0V2VHdUd5aHl0Z1QzVTE4cjZ0M2JlOU81d05NaHkzeTlTdEZNRkVMaFoxcVRmMDg4aEgwMTZVTUlxTjZDcTVRLU5aM0hYZmdtbk8zbWlaY3d5ZUFsa3NfaE9EelNhWDJuYWVUSnFZSG1FMXhpblRXRWFTWjdZdkVEUTZHakt5dmlaTkZpYU9qYVo0a1c1eTRfaXZyMzAtSjZ1Z3ZsVVRE?oc=5",
-      "summary": "最高法院拒绝暂停对巴勒斯坦的巨额赔偿判决。",
+      "summary": "最高法院维持对巴勒斯坦的巨额判决",
       "source": "路透社"
     },
     {
-      "title": "美国多州起诉特朗普政府最新关税政策",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw?oc=5",
-      "summary": "25州联合起诉，挑战特朗普关税合法性。",
-      "source": "路透社"
-    },
-    {
-      "title": "雪佛龙因业绩强劲向员工发放特别奖金",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlptZlhWZjNYS0pKU2laTkx3NkZuQ0p0cFQ0ZC1jVU5MTGYyOWVicVRpQ1dmTU12VHN4UUFLcFBtTDh0OHlzWWpnX0k5OHN6WEhWcm9sZkhaSmM1dGtEQ2ZkWENKN3JCZ1daNUU5bVRBM19xZTEyNUZBU0hfTnhhOWs1eVFqbk9CYnBLRmNlam41UWpjWW1fdjVBdEZ3MlJVTkx5TU9rRTdGcXVCNklqTGlxTjk?oc=5",
-      "summary": "雪佛龙业绩超预期，发放特别奖金。",
-      "source": "路透社"
-    },
-    {
-      "title": "特朗普称伊朗若不达成协议将面临“斩首”",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
-      "summary": "特朗普威胁伊朗，若不谈判将遭斩首。",
-      "source": "路透社"
-    },
-    {
-      "title": "泽连斯基解雇乌克兰驻美大使",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5",
-      "summary": "泽连斯基撤换驻美大使，外交调整。",
-      "source": "路透社"
-    },
-    {
-      "title": "美国联邦航空管理局认证波音737 MAX 7",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5",
-      "summary": "波音737 MAX 7获FAA认证，重大胜利。",
-      "source": "路透社"
-    },
-    {
-      "title": "苹果新CEO任命退休硬件高管加入管理团队",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmNQQ2pVVjBPek1xTDI5MjlkTTNKZ0tkdjEzUWpvdm5YaGQydkFoMnA2RnI3Z2hfVi0zMVpGME1hTGJfc003NzNFaU1oTThHbEMxMFZkaFktdDN3alFkTDFJVThkeGVkaTJqaXB2cVo2YmZQNXhfMmNHMkF5blNzRUpFWkhBX1dEdWNEQTRTOHQ4dG9OVWQ5dllxcXIyal9JcHp1X1laUk5YQ082c01tMERnVEFoaVJoWEE?oc=5",
-      "summary": "苹果新CEO引入退休高管，管理层重组。",
-      "source": "彭博社"
-    },
-    {
-      "title": "Palantir上调业绩预期，CEO称业务“超凡”",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2NpTktqRjQyX3VmZHVUV3A0ck1JTDk5WEFjY1RONC1aek9oLXRXbm50Z0N3YzNmVXV0UlM0SS1zd09JVC1EdUVRd3dn?oc=5",
-      "summary": "Palantir上调指引，商业销售强劲。",
-      "source": "彭博社"
-    },
-    {
-      "title": "特朗普称谈判是伊朗的“最后机会”",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVBVLUFIT0pwUVFUMml4SFhxVDIxN3UxbGIzLTFLU29aMmpOaHZJUER3UjNTWERsakw5c2M4MDZLQkNSd28zQ0p4c29uVG4wQ05sT2lxYWFFbE1lenc4UURiV3ExSlRLWWlYVlBRMFJlbkludEhDanJBUDlPaHVVMFRJSFQxT0RSVHIwTTN0aWhMbUhmOUEzWXQxRW9jb0pTd0hIdFJnVnAwMmRnNFN4bEdJVQ?oc=5",
-      "summary": "特朗普称伊朗谈判为最后机会，局势紧张。",
+      "title": "韩国杠杆ETF交易在新限制下大幅下降",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOENvd0hQenFzRkRNamVZWUxRVU9rOG9wcUZjUlVnUVEtQmxGMm9JanhuYU9lQTg3cHc5Y29TSTBxT2o1UDBRR3RHQVJIeG9Pc1NUYkdIVFZXb2Nkejgxbjdwc2FCVzZ0a3djQXRtVm5qN2hHVnpZZFNJZDZlZ2hUX29CSlBHQzM1dkRUSFNoelpmUnJnaUpKR01mSkkyUmo5a3FqT19SMDAtWDFtczVZTw?oc=5",
+      "summary": "韩国限制杠杆ETF，交易量骤降",
       "source": "彭博社"
     }
   ],
   "interest": [
     {
-      "title": "苹果就英国政府要求访问加密数据提起法律挑战",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5",
-      "summary": "苹果挑战英国加密数据访问要求，隐私之争。",
-      "source": "金融时报"
+      "title": "中国的AI闪电战为美国模型制造商创造“死亡地带”",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTNSMlpYc01vYXl0SENzTVVTYThoYjA1ZDlkOGtyb1djUlBfV3MxbTR6MjZXUGc4bmN5anFzRXF1UXZNMlhEeFRidDN0ejg0MnoyM3dwSlR6bTNOUy15dG9JTm9semZVYXI5QkNaUlRhNXNtaXEyQmVLYldKdHpjeVRLTEVoU1FudTdZcWZaX09aUC1wQlpxLXhxc1kwQVNGYTJpVnZESjBxYVZBQXdXQjNn?oc=5",
+      "summary": "中国AI快速发展，冲击美国模型制造商",
+      "source": "彭博社"
     },
     {
-      "title": "阿斯利康与百时美施贵宝洽谈4000亿美元合并",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5",
-      "summary": "阿斯利康洽谈巨额合并，或重塑制药业。",
-      "source": "金融时报"
+      "title": "中国在特朗普与习近平会晤前对“神话”愈发焦虑",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEhFU0MwaXpUTjJqbnltNk9wTVRqS1RCRUNXT2JoM2E3SGZQQzV4R0VsOTF5YnFtR3BMMWk5SWJrVDlqLVhXd3N0YmpGRi02NVppZkJYcFNTYm1JaFFxdHc2Nk5WM01ZUHNxMDU4VklJdnRoYkRHakxLaWJFc0NDN09RTU5FYVJtM05RN3Nvd3J3UHJQR2trenl0QnI0c01HTXFqbzRyOFlXVnp5Q2NKU2pDZWhOZw?oc=5",
+      "summary": "中国对特朗普会晤前的舆论环境感到焦虑",
+      "source": "彭博社"
     },
     {
       "title": "中国在AI领域比美国更划算",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5",
-      "summary": "中国AI投入产出比优于美国，引发关注。",
+      "summary": "中国AI投资效率高于美国",
       "source": "经济学人"
     },
     {
       "title": "中国不会为产能过剩道歉",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZLcTE0TDFST3djQnlwdDRnTmxhV3dQRlAtd05oQ3l4V3pfRlFVbVNGcHNKUlJoMFRCeEs5TmlTOThEU1FDS2N5R01OMWJyUFFfcVB6Z0x2TFFIYW9Dc3JadnRQbnd4c3JySnpIUy0wNmlQd00wdTYtanhqME5TM2gwQlJ2WTA?oc=5",
-      "summary": "中国坚持产能政策，回应西方批评。",
+      "summary": "中国坚持产能政策，不道歉",
       "source": "经济学人"
     },
     {
-      "title": "墨西哥总统不再忍气吞声",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDl6WXRuOG1GT0R6NlRnNjhrS3l1MmlkQjhsazk0ZjdaTkp6VkZYQ3NQYlYtOTlRZV83U2ItM2hLREMyekZ3VHdTUUF2WGx0OTd1SGdxWE9ybzBRU01VTFgzZ2dpdkl4aWZINEQ2Q2YwUmFZSmkzNC1BWnJFcEFEMUhxUHlwcTBIVngwcW1vdTYzN2MySGFuYnJXTEJJUQ?oc=5",
-      "summary": "墨西哥总统对美态度转强硬，外交转向。",
-      "source": "经济学人"
+      "title": "美国多州起诉特朗普政府最新全球关税",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGEyTWEwWDd5cS1Sa25DWXBwUExTNzRzMFI4Z0lPMFJQcF9MS3ZWdTZqcEZxUlNZWmVoWlk5STd0ZEZMZ1RNSDZJZEZHc2tfUF9OSkV4WGNDcjUzNGFlZ1dENVVUcnZPelYzU2JYWm9uZDBMNjlZSGdZTV9mUzdWenVkSmo2TmtTX0HSAY8BQVVfeXFMT2Vid1luOHBnLWUtamNtcF9KcjFkRVJfLThFQUxnS3preGw4UDhubWVzRzN6aURJSy11U3ptUTdFejNvUEVpNXQtajJiZXZrY09WbzhYYUpBSVhXT053RGd5UDdVRDhZUnRnTDNxOVh4bWhaMkI3YWVhNjJ1M2lpZGVzTmdYcjVhS1NjNmVxOWc?oc=5",
+      "summary": "25州起诉特朗普关税政策",
+      "source": "CNBC"
     },
     {
-      "title": "德国汽车工业困境：关税、中国与劳工关系",
+      "title": "CNBC中国连线：AI胜利伴随旧投资者风险",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHJzeWxSdnhERlBLQVh0dXVRMEV5RHB5OWdhYnp0VWc0eXFVVHBVUTE5ZEpTX0ZVbHQzZy1NbkFZTm9wWmxiNmU5Yk03ZVpBNi1CU25NeFRoazBRQnV2VFRPcVhuZ3pTbVVNSktlZUlIN3JuZnh5ZXdYNFZxT1AwWTBnQndJdFFuZVh2OV91RWx5UDNQRG51Q1R1ZGFua0RTaFZQSmtONNIBrAFBVV95cUxPWHNXM0p2NEpuM3NGcUQ0YWxobnFNbVg3OEY2UlBaRGRLU0tvc1pUeS1NMVUxSUt2SVVINzR1NlV4NUFvZ1lOR1B6eUdUZDBkMVlzU0d5dzU3SFR2NHVDUFBEdTZBMW8xSkJFQ2tVZ0R2VWFIemRJZEZwcHA3SHFVMUZOenpBMjViQksyTWVvcDl1Q3BteTJ6QzFHSHAyRXVRNEZrTFFSZndVMWg4?oc=5",
+      "summary": "AI投资热潮伴随风险",
+      "source": "CNBC"
+    },
+    {
+      "title": "美国为什么要出手“救”日元？",
+      "url": "https://cn.nytimes.com/business/20260804/us-japan-yen-intervention/",
+      "summary": "美国干预日元汇率，原因分析",
+      "source": "纽约时报"
+    },
+    {
+      "title": "美日十余年来首次联合干预汇市，稳定日元跌势",
+      "url": "https://cn.nytimes.com/business/20260804/us-japan-yen/",
+      "summary": "美日联合干预汇市，稳定日元",
+      "source": "纽约时报"
+    },
+    {
+      "title": "关税？中国？劳工关系？德国汽车工业困境谁之过",
       "url": "https://cn.nytimes.com/business/20260803/germany-mercedes-bmw-volkswagen/",
-      "summary": "德国车企面临多重挑战，行业转型艰难。",
+      "summary": "德国汽车工业面临多重困境",
       "source": "纽约时报"
     },
     {
-      "title": "《奥德赛》：诺兰巨作每一帧都充满激情",
-      "url": "https://cn.nytimes.com/culture/20260803/the-odyssey-review/",
-      "summary": "诺兰新片《奥德赛》获好评，视觉震撼。",
+      "title": "人工智能泡沫未必是件坏事？",
+      "url": "https://cn.nytimes.com/technology/20260804/ai-bubble-venture-capital/",
+      "summary": "AI泡沫可能带来积极影响",
       "source": "纽约时报"
-    },
-    {
-      "title": "美国汽油车击败欧洲电动车，汽车战升级",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGZYdXY4aHJ3WWVxbFJEUjE1ZGVyeWk2dVZrWmVwV3U0dWtOeU1mTTRrU3BZcDdDZmpFdXYxMTNtMk5MajY3bWRBdTZYeXhSVUNPMUliN2pKQkFZOTk1VU1YVDgzREJHVng4SlNzY2ZndExKVVdFMXpadTlPU0F1cy1CbWw?oc=5",
-      "summary": "美国燃油车市场占优，欧洲电动车受挫。",
-      "source": "金融时报"
-    },
-    {
-      "title": "华尔街开始拥抱区块链技术",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1BLMlMxS2dTVk44bERfUl9UVjhqbjRtM3JHOWE1d0llM0lrdnRWMVBqU2s2Mlg4V0pVRjUwMmJCejZ5X0U5TjlONXJhekZsbElLUmxveElEdkhkWXBnTzlPck1rT3NjZ3FVYVNwOU1oMFItSEl6TG51SkVxSm1uek5RUzU?oc=5",
-      "summary": "华尔街金融机构加速采用区块链。",
-      "source": "金融时报"
-    },
-    {
-      "title": "美国饮酒者为何不再爱百威淡啤",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5",
-      "summary": "百威淡啤销量下滑，消费者偏好转变。",
-      "source": "金融时报"
     }
   ],
   "sources": {
@@ -133,9 +133,58 @@
       "count": 10,
       "articles": [
         {
+          "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+          "published": "Tue, 04 Aug 2026 03:41:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5\" target=\"_blank\">Status of US-Iran talks uncertain as ship struck in Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
+          "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+          "published": "Tue, 04 Aug 2026 01:02:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5\" target=\"_blank\">Oil ticks up after selloff as talks to end US-Iran war remain uncertain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
+          "title": "Japan casts military buildup as path to economic prosperity",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUJQVVd6S3NYc2pFV2IyYW90UXl5bjJBb3JwcWFDclNEY1VMbzNYZ1V0cjhvd0lBZVFGMlJ0bzYzNl83TVY1Z0U5M1JsXzA3THlBN2xhUjJkOWpadVhCenRTX0QxME5xSnExeWFpRFF0WVd3ZzNxZ1BJeEQzVGctNlBRUEs3ZHllVVBJNWk4TzlNQmFqY3pHV0JEZll1S1RWUDNjRFlFeXRoWHpB?oc=5",
+          "published": "Tue, 04 Aug 2026 02:22:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUJQVVd6S3NYc2pFV2IyYW90UXl5bjJBb3JwcWFDclNEY1VMbzNYZ1V0cjhvd0lBZVFGMlJ0bzYzNl83TVY1Z0U5M1JsXzA3THlBN2xhUjJkOWpadVhCenRTX0QxME5xSnExeWFpRFF0WVd3ZzNxZ1BJeEQzVGctNlBRUEs3ZHllVVBJNWk4TzlNQmFqY3pHV0JEZll1S1RWUDNjRFlFeXRoWHpB?oc=5\" target=\"_blank\">Japan casts military buildup as path to economic prosperity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
+          "title": "Gold holds ground with Middle East turmoil, US jobs data in focus",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
+          "published": "Tue, 04 Aug 2026 01:05:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5\" target=\"_blank\">Gold holds ground with Middle East turmoil, US jobs data in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
+          "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0Rza3lnM0tJaGxLa3N2elcyM0FiYU85V3NTODhJNGowcjRlMS1NU2s2a3diSi1QVnJXNUswZ1l2enR1emtUVndfWkFpNGxiNEhCN0xEcHNkbGVHaVRWVEVUa0Q0Q3VMM1pLMDVWQ0ZFd0RqZTB0eE9yUU9Pa2hTdWhieDQ2bmhqNFVYa29henVRVjBUdEtiSDFXSmh6bUtuMVJ1TjZwX2RRcFR3WUxKaWs4eHI1UDA?oc=5",
+          "published": "Mon, 03 Aug 2026 22:36:41 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0Rza3lnM0tJaGxLa3N2elcyM0FiYU85V3NTODhJNGowcjRlMS1NU2s2a3diSi1QVnJXNUswZ1l2enR1emtUVndfWkFpNGxiNEhCN0xEcHNkbGVHaVRWVEVUa0Q0Q3VMM1pLMDVWQ0ZFd0RqZTB0eE9yUU9Pa2hTdWhieDQ2bmhqNFVYa29henVRVjBUdEtiSDFXSmh6bUtuMVJ1TjZwX2RRcFR3WUxKaWs4eHI1UDA?oc=5\" target=\"_blank\">US State Department to close consulates in Canada, Japan and Indonesia, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
+          "title": "India's Nifty 50 falls as new closing mechanism-led surge unwinds",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkczSk9HZlhtQlVJTFBrN1RZVFBheWlNNThaNnpGRXJvSk1aTFJGalRSOExZelRGTC1GZkRNaks5eDlvQVhJa1NIMEN0WjdCWWM5Q25UQVAyLTRvaUlNNk1xeDZnSHJwUU44alZldVptZHZ1ODJHYnpBbmJ2SVQ5VEROWDQ1YzZhWmxFREE3aFV3VXd6S1ljRGlWWklqRUwzVUgtcHpnaGlEMWZZbklIZFM4YWVoUnM?oc=5",
+          "published": "Tue, 04 Aug 2026 02:47:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkczSk9HZlhtQlVJTFBrN1RZVFBheWlNNThaNnpGRXJvSk1aTFJGalRSOExZelRGTC1GZkRNaks5eDlvQVhJa1NIMEN0WjdCWWM5Q25UQVAyLTRvaUlNNk1xeDZnSHJwUU44alZldVptZHZ1ODJHYnpBbmJ2SVQ5VEROWDQ1YzZhWmxFREE3aFV3VXd6S1ljRGlWWklqRUwzVUgtcHpnaGlEMWZZbklIZFM4YWVoUnM?oc=5\" target=\"_blank\">India's Nifty 50 falls as new closing mechanism-led surge unwinds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
+          "title": "TikTok settling three teen social media lawsuits ahead of trial",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGg5Q2I4bXpIX1BXMHVNRldYNWtjbzdtRWxkeFlOQnFVUm9MV0d4Ri1FTDZRMnIwR2tvNzNoODJaQy1LSDNINlloczJCM3BXZnQyOHZlbFZSbUpINEVxX05mbVE4WmNtckdvVmFmN09vMF9GYWRaQWlVazVYVDdKeHNuUDQ1ODJ5SE1xQmhWTXR2X3o3SkRtaUJ5QTdyb0ZHdGJJNlJMRmU?oc=5",
+          "published": "Mon, 03 Aug 2026 22:40:27 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGg5Q2I4bXpIX1BXMHVNRldYNWtjbzdtRWxkeFlOQnFVUm9MV0d4Ri1FTDZRMnIwR2tvNzNoODJaQy1LSDNINlloczJCM3BXZnQyOHZlbFZSbUpINEVxX05mbVE4WmNtckdvVmFmN09vMF9GYWRaQWlVazVYVDdKeHNuUDQ1ODJ5SE1xQmhWTXR2X3o3SkRtaUJ5QTdyb0ZHdGJJNlJMRmU?oc=5\" target=\"_blank\">TikTok settling three teen social media lawsuits ahead of trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
           "title": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
-          "published": "Mon, 03 Aug 2026 21:19:43 GMT",
+          "published": "Mon, 03 Aug 2026 20:18:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5\" target=\"_blank\">Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
@@ -147,59 +196,10 @@
           "source": "路透社"
         },
         {
-          "title": "Democratic US states sue to challenge Trump's latest tariffs",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw?oc=5",
-          "published": "Mon, 03 Aug 2026 20:53:08 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw?oc=5\" target=\"_blank\">Democratic US states sue to challenge Trump's latest tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "Chevron awards staff special bonus following earnings blowout",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlptZlhWZjNYS0pKU2laTkx3NkZuQ0p0cFQ0ZC1jVU5MTGYyOWVicVRpQ1dmTU12VHN4UUFLcFBtTDh0OHlzWWpnX0k5OHN6WEhWcm9sZkhaSmM1dGtEQ2ZkWENKN3JCZ1daNUU5bVRBM19xZTEyNUZBU0hfTnhhOWs1eVFqbk9CYnBLRmNlam41UWpjWW1fdjVBdEZ3MlJVTkx5TU9rRTdGcXVCNklqTGlxTjk?oc=5",
-          "published": "Mon, 03 Aug 2026 18:01:43 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlptZlhWZjNYS0pKU2laTkx3NkZuQ0p0cFQ0ZC1jVU5MTGYyOWVicVRpQ1dmTU12VHN4UUFLcFBtTDh0OHlzWWpnX0k5OHN6WEhWcm9sZkhaSmM1dGtEQ2ZkWENKN3JCZ1daNUU5bVRBM19xZTEyNUZBU0hfTnhhOWs1eVFqbk9CYnBLRmNlam41UWpjWW1fdjVBdEZ3MlJVTkx5TU9rRTdGcXVCNklqTGlxTjk?oc=5\" target=\"_blank\">Chevron awards staff special bonus following earnings blowout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "Trump says Iran faces 'decapitation' if it doesn't strike deal",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
-          "published": "Mon, 03 Aug 2026 19:49:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5\" target=\"_blank\">Trump says Iran faces 'decapitation' if it doesn't strike deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "Trump blasts Jeanine Pirro, says she 'choked' in dropping reflecting pool case",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnlOQ24wLWR5VXJNU0h2M3ZTRzV6Zng1eFVHT1ZjVzdOTHIzTmtrMkxxWDBzQlFNRk1ya0NNbHFzSlMwSFlBVWJqWGo1ZUU0NFhxdGdFbUIzVW85UmRRUEpiTHdsZzVqWF9TZFB4MDVkYmFiaVdDbGEwV0FzeXN5bUlkUmgtZzR2a212OTBBSTVKWTdWRU54R1l1clBGQU5qYkdpa2lEUU5vYmdCZkFGMU5PLVhCWnFnWGYyWnZBUFBRSGc?oc=5",
-          "published": "Mon, 03 Aug 2026 20:17:12 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnlOQ24wLWR5VXJNU0h2M3ZTRzV6Zng1eFVHT1ZjVzdOTHIzTmtrMkxxWDBzQlFNRk1ya0NNbHFzSlMwSFlBVWJqWGo1ZUU0NFhxdGdFbUIzVW85UmRRUEpiTHdsZzVqWF9TZFB4MDVkYmFiaVdDbGEwV0FzeXN5bUlkUmgtZzR2a212OTBBSTVKWTdWRU54R1l1clBGQU5qYkdpa2lEUU5vYmdCZkFGMU5PLVhCWnFnWGYyWnZBUFBRSGc?oc=5\" target=\"_blank\">Trump blasts Jeanine Pirro, says she 'choked' in dropping reflecting pool case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "Zelenskiy dismisses Ukraine's ambassador to US",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5",
-          "published": "Mon, 03 Aug 2026 18:26:30 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5\" target=\"_blank\">Zelenskiy dismisses Ukraine's ambassador to US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "US FAA certifies Boeing 737 MAX 7 in win for planemaker",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5",
-          "published": "Mon, 03 Aug 2026 22:26:27 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5\" target=\"_blank\">US FAA certifies Boeing 737 MAX 7 in win for planemaker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "Philippines' Eala wins first WTA title, Fritz claims Washington crown",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmtWVWU3am81Nld3VnVMR0I2c010SVMxWHllcTMweUJDcGFDWVIxMHVGSnBWNUg1X3pwb3BUZnFRUDBmZEx4UDlkVmxEVGF1QUtfVW1qSXRUSWhaWnFvbnpHMkM1MmpydlhTRGhrWklyekVhMFdlQkR1WHE4YXNsWEhzMWxXMmFEUVQxcm4tc2JfdjY5S1BGMFZldWptMEYyUnhVVjctMWZCc0pmQmphR1dWSHZxMVNlRGd6bEVB?oc=5",
-          "published": "Mon, 03 Aug 2026 20:15:16 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmtWVWU3am81Nld3VnVMR0I2c010SVMxWHllcTMweUJDcGFDWVIxMHVGSnBWNUg1X3pwb3BUZnFRUDBmZEx4UDlkVmxEVGF1QUtfVW1qSXRUSWhaWnFvbnpHMkM1MmpydlhTRGhrWklyekVhMFdlQkR1WHE4YXNsWEhzMWxXMmFEUVQxcm4tc2JfdjY5S1BGMFZldWptMEYyUnhVVjctMWZCc0pmQmphR1dWSHZxMVNlRGd6bEVB?oc=5\" target=\"_blank\">Philippines' Eala wins first WTA title, Fritz claims Washington crown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "Michigan reports first US deaths in cyclosporiasis outbreak",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5",
-          "published": "Mon, 03 Aug 2026 22:02:48 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5\" target=\"_blank\">Michigan reports first US deaths in cyclosporiasis outbreak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Morocco says Spain should have foreseen migration impact of court ruling",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlVscTc4RWVvWlRtTmI1STNuVkJtdlk0QnA3WnFrMHQxcnNTXzhXNWZ1SnVaTGFCdVZuN0hVN1FEdVFJVXpnb2t4bVpnWDhpNl80NVpxVVJVVU9hVXhqXzNTTjd3M3R5UjRRVnE4aFNyNDIwaW9FZjV3bkVLM2xVeEhUdDlvOThCMFJNcEFqQ3FpVzcyZDVvXzZiaTN5cUlDbHAxYko5aElTOGVpZ0IwMw?oc=5",
+          "published": "Mon, 03 Aug 2026 21:38:01 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlVscTc4RWVvWlRtTmI1STNuVkJtdlk0QnA3WnFrMHQxcnNTXzhXNWZ1SnVaTGFCdVZuN0hVN1FEdVFJVXpnb2t4bVpnWDhpNl80NVpxVVJVVU9hVXhqXzNTTjd3M3R5UjRRVnE4aFNyNDIwaW9FZjV3bkVLM2xVeEhUdDlvOThCMFJNcEFqQ3FpVzcyZDVvXzZiaTN5cUlDbHAxYko5aElTOGVpZ0IwMw?oc=5\" target=\"_blank\">Morocco says Spain should have foreseen migration impact of court ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         }
       ]
@@ -210,73 +210,73 @@
       "count": 10,
       "articles": [
         {
+          "title": "South Korea’s Leveraged ETF Trading Plummets Under New Curbs",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOENvd0hQenFzRkRNamVZWUxRVU9rOG9wcUZjUlVnUVEtQmxGMm9JanhuYU9lQTg3cHc5Y29TSTBxT2o1UDBRR3RHQVJIeG9Pc1NUYkdIVFZXb2Nkejgxbjdwc2FCVzZ0a3djQXRtVm5qN2hHVnpZZFNJZDZlZ2hUX29CSlBHQzM1dkRUSFNoelpmUnJnaUpKR01mSkkyUmo5a3FqT19SMDAtWDFtczVZTw?oc=5",
+          "published": "Tue, 04 Aug 2026 05:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOENvd0hQenFzRkRNamVZWUxRVU9rOG9wcUZjUlVnUVEtQmxGMm9JanhuYU9lQTg3cHc5Y29TSTBxT2o1UDBRR3RHQVJIeG9Pc1NUYkdIVFZXb2Nkejgxbjdwc2FCVzZ0a3djQXRtVm5qN2hHVnpZZFNJZDZlZ2hUX29CSlBHQzM1dkRUSFNoelpmUnJnaUpKR01mSkkyUmo5a3FqT19SMDAtWDFtczVZTw?oc=5\" target=\"_blank\">South Korea’s Leveraged ETF Trading Plummets Under New Curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Apple Briefly Takes Telegram Off App Store Over Abusive Content",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3lLZFBOT2phR2xHekM2RnhDWXF2YjVycVNseUtTeGNoRkk2WFhBOElvUlFVc0ctM1VjQm9CQWE1Z04xaHp0TzhoLUNPakZ3b05WMzVpeGJHdEtyZWRvM1N2TGh1cWdBTlNtTHdpMVFSYnpMSjFsYUUxRHFQazk2ZllRR2F6cFQ1Rk9mV2xrWEpoZEFTYXhRdVFYYVYzMG1CNW5kT2VGU2ZkMHY2RC1pU2JlaDE?oc=5",
+          "published": "Tue, 04 Aug 2026 03:39:53 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3lLZFBOT2phR2xHekM2RnhDWXF2YjVycVNseUtTeGNoRkk2WFhBOElvUlFVc0ctM1VjQm9CQWE1Z04xaHp0TzhoLUNPakZ3b05WMzVpeGJHdEtyZWRvM1N2TGh1cWdBTlNtTHdpMVFSYnpMSjFsYUUxRHFQazk2ZllRR2F6cFQ1Rk9mV2xrWEpoZEFTYXhRdVFYYVYzMG1CNW5kT2VGU2ZkMHY2RC1pU2JlaDE?oc=5\" target=\"_blank\">Apple Briefly Takes Telegram Off App Store Over Abusive Content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Iran Sees US as Weak After Trump Backs Off Strikes, CSIS Says",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVplcjhJOUhfZDFnZ2p3UnBZcTRLZ0FELUpXUHlHcmM5NlN0OFY5UTlEaTR4a1RhTlBLQ2pQclExZzQzSGZ6MlVrejk2dEwyc1VfVVBhRExNOWpSYTF4Yk54WHl4YjBSbHJYTzIzY0ZQVjRIZE5FUEdoLV9STlpKdVNRdWdna3Z4QjNtR1htcmZxNlpsQzBTZHo3eDdHTmxMUmhOcy1nS2dza2s1d1hPbjc3YThqNmpNU3c?oc=5",
+          "published": "Tue, 04 Aug 2026 01:34:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVplcjhJOUhfZDFnZ2p3UnBZcTRLZ0FELUpXUHlHcmM5NlN0OFY5UTlEaTR4a1RhTlBLQ2pQclExZzQzSGZ6MlVrejk2dEwyc1VfVVBhRExNOWpSYTF4Yk54WHl4YjBSbHJYTzIzY0ZQVjRIZE5FUEdoLV9STlpKdVNRdWdna3Z4QjNtR1htcmZxNlpsQzBTZHo3eDdHTmxMUmhOcy1nS2dza2s1d1hPbjc3YThqNmpNU3c?oc=5\" target=\"_blank\">Iran Sees US as Weak After Trump Backs Off Strikes, CSIS Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "FBI Agent Allegedly Turns Himself in for $1 Million Crypto Theft",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3dOQk9SQURUTk0wYi16dUpLejBHZ0N6TUNjLUZPUU5VTVNsTGNQelZmR3JpTEUwRkV0b3RRbjJYRW1WZUdVWXZZX2trMGlLdlhSZ2xiWkNsTy16MElBUFZRaFlUN3g2TjFTQk1OOWVkSlRYb3RTUHBTbGNOc2Y3TXJaazc5MlVBS0NleGkwNUtJVm1Ob1c1MWhYYXBkUjJ3WlhYUlBWdEpkSWxIZTd5cHJ5YW0?oc=5",
+          "published": "Tue, 04 Aug 2026 00:22:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3dOQk9SQURUTk0wYi16dUpLejBHZ0N6TUNjLUZPUU5VTVNsTGNQelZmR3JpTEUwRkV0b3RRbjJYRW1WZUdVWXZZX2trMGlLdlhSZ2xiWkNsTy16MElBUFZRaFlUN3g2TjFTQk1OOWVkSlRYb3RTUHBTbGNOc2Y3TXJaazc5MlVBS0NleGkwNUtJVm1Ob1c1MWhYYXBkUjJ3WlhYUlBWdEpkSWxIZTd5cHJ5YW0?oc=5\" target=\"_blank\">FBI Agent Allegedly Turns Himself in for $1 Million Crypto Theft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTNSMlpYc01vYXl0SENzTVVTYThoYjA1ZDlkOGtyb1djUlBfV3MxbTR6MjZXUGc4bmN5anFzRXF1UXZNMlhEeFRidDN0ejg0MnoyM3dwSlR6bTNOUy15dG9JTm9semZVYXI5QkNaUlRhNXNtaXEyQmVLYldKdHpjeVRLTEVoU1FudTdZcWZaX09aUC1wQlpxLXhxc1kwQVNGYTJpVnZESjBxYVZBQXdXQjNn?oc=5",
+          "published": "Tue, 04 Aug 2026 04:38:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTNSMlpYc01vYXl0SENzTVVTYThoYjA1ZDlkOGtyb1djUlBfV3MxbTR6MjZXUGc4bmN5anFzRXF1UXZNMlhEeFRidDN0ejg0MnoyM3dwSlR6bTNOUy15dG9JTm9semZVYXI5QkNaUlRhNXNtaXEyQmVLYldKdHpjeVRLTEVoU1FudTdZcWZaX09aUC1wQlpxLXhxc1kwQVNGYTJpVnZESjBxYVZBQXdXQjNn?oc=5\" target=\"_blank\">China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Asian Stocks Set for Muted Open, Oil Holds Losses: Markets Wrap",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2d6NUFOclFucUtZODNBTGl5ZVVFMGN0ZHlPNmRocXRHZmpkcHQ2Ty00T2RoWXZaMnNzdHZOaTFPaUZ1WXY5bHc2d2plS25GTlIxb1FsODRiQjlPcU42ODdkeldYYlk1bHJXX3Jpbjh4UFZYd1EyS2NRN19scVk1SU9CQV9ua3dRREp3RDhKeE9YVnRj?oc=5",
+          "published": "Mon, 03 Aug 2026 22:13:40 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2d6NUFOclFucUtZODNBTGl5ZVVFMGN0ZHlPNmRocXRHZmpkcHQ2Ty00T2RoWXZaMnNzdHZOaTFPaUZ1WXY5bHc2d2plS25GTlIxb1FsODRiQjlPcU42ODdkeldYYlk1bHJXX3Jpbjh4UFZYd1EyS2NRN19scVk1SU9CQV9ua3dRREp3RDhKeE9YVnRj?oc=5\" target=\"_blank\">Asian Stocks Set for Muted Open, Oil Holds Losses: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "China Is Getting More Anxious About Mythos Before Trump Meets Xi",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEhFU0MwaXpUTjJqbnltNk9wTVRqS1RCRUNXT2JoM2E3SGZQQzV4R0VsOTF5YnFtR3BMMWk5SWJrVDlqLVhXd3N0YmpGRi02NVppZkJYcFNTYm1JaFFxdHc2Nk5WM01ZUHNxMDU4VklJdnRoYkRHakxLaWJFc0NDN09RTU5FYVJtM05RN3Nvd3J3UHJQR2trenl0QnI0c01HTXFqbzRyOFlXVnp5Q2NKU2pDZWhOZw?oc=5",
+          "published": "Mon, 03 Aug 2026 23:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEhFU0MwaXpUTjJqbnltNk9wTVRqS1RCRUNXT2JoM2E3SGZQQzV4R0VsOTF5YnFtR3BMMWk5SWJrVDlqLVhXd3N0YmpGRi02NVppZkJYcFNTYm1JaFFxdHc2Nk5WM01ZUHNxMDU4VklJdnRoYkRHakxLaWJFc0NDN09RTU5FYVJtM05RN3Nvd3J3UHJQR2trenl0QnI0c01HTXFqbzRyOFlXVnp5Q2NKU2pDZWhOZw?oc=5\" target=\"_blank\">China Is Getting More Anxious About Mythos Before Trump Meets Xi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Gold Steady as Middle East Talks Weigh on Interest Rate Outlook",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnRidkViVzhRMXhUNHkwemJaTnhVWE9qMU5YQlRFY1VkcHRyYmt5NDFUcWhnSUJsYkFHanNBbGlCaWJ4TXhTN25VbW1LSUdpZlZTZko0VU5nMzJvT3BudE1fb2tzSDMyVjJubUpNMlA5VmZ0cGo2SHRnb1J6UzBCSko2S2VBZ1MycEFTY2NvbXNxMy1ubnd1Snl6MWw3bHgwYk1KU092ZEtZMHN3YUFNLTNMM1Q?oc=5",
+          "published": "Tue, 04 Aug 2026 02:12:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnRidkViVzhRMXhUNHkwemJaTnhVWE9qMU5YQlRFY1VkcHRyYmt5NDFUcWhnSUJsYkFHanNBbGlCaWJ4TXhTN25VbW1LSUdpZlZTZko0VU5nMzJvT3BudE1fb2tzSDMyVjJubUpNMlA5VmZ0cGo2SHRnb1J6UzBCSko2S2VBZ1MycEFTY2NvbXNxMy1ubnd1Snl6MWw3bHgwYk1KU092ZEtZMHN3YUFNLTNMM1Q?oc=5\" target=\"_blank\">Gold Steady as Middle East Talks Weigh on Interest Rate Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Treasury Sued Over Lawsuit Settlement Payouts to Trump Allies",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHB5ZWwzUGJkYm92cEk4X1BFSERYaUJPRUhNVTRjZXRwTEYzNVVzbDhtVF92aERwY1BiMWtTVkw0Q3RSTHlKNlhlWmYyVi1NYV96Q1ZTVlFGdUJwNEItdGhGcHJMN0tIWEIteksyRDRlM3BEMmdadGtZVVFfNUpkVTE4T2ktWk5DWVNFSGVrYUl2cHJ3Y3Q5Z3JhekFTbGNKdXlpNGQ4bElvaDRMdGhjUGFB?oc=5",
+          "published": "Mon, 03 Aug 2026 21:18:23 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHB5ZWwzUGJkYm92cEk4X1BFSERYaUJPRUhNVTRjZXRwTEYzNVVzbDhtVF92aERwY1BiMWtTVkw0Q3RSTHlKNlhlWmYyVi1NYV96Q1ZTVlFGdUJwNEItdGhGcHJMN0tIWEIteksyRDRlM3BEMmdadGtZVVFfNUpkVTE4T2ktWk5DWVNFSGVrYUl2cHJ3Y3Q5Z3JhekFTbGNKdXlpNGQ4bElvaDRMdGhjUGFB?oc=5\" target=\"_blank\">Treasury Sued Over Lawsuit Settlement Payouts to Trump Allies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
           "title": "Apple’s New CEO Taps Retired Hardware Executive for Management Team",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmNQQ2pVVjBPek1xTDI5MjlkTTNKZ0tkdjEzUWpvdm5YaGQydkFoMnA2RnI3Z2hfVi0zMVpGME1hTGJfc003NzNFaU1oTThHbEMxMFZkaFktdDN3alFkTDFJVThkeGVkaTJqaXB2cVo2YmZQNXhfMmNHMkF5blNzRUpFWkhBX1dEdWNEQTRTOHQ4dG9OVWQ5dllxcXIyal9JcHp1X1laUk5YQ082c01tMERnVEFoaVJoWEE?oc=5",
           "published": "Mon, 03 Aug 2026 20:09:45 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmNQQ2pVVjBPek1xTDI5MjlkTTNKZ0tkdjEzUWpvdm5YaGQydkFoMnA2RnI3Z2hfVi0zMVpGME1hTGJfc003NzNFaU1oTThHbEMxMFZkaFktdDN3alFkTDFJVThkeGVkaTJqaXB2cVo2YmZQNXhfMmNHMkF5blNzRUpFWkhBX1dEdWNEQTRTOHQ4dG9OVWQ5dllxcXIyal9JcHp1X1laUk5YQ082c01tMERnVEFoaVJoWEE?oc=5\" target=\"_blank\">Apple’s New CEO Taps Retired Hardware Executive for Management Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Palantir Raises Outlook, Karp Calls Business Sales ‘Otherworldy’",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2NpTktqRjQyX3VmZHVUV3A0ck1JTDk5WEFjY1RONC1aek9oLXRXbm50Z0N3YzNmVXV0UlM0SS1zd09JVC1EdUVRd3dn?oc=5",
-          "published": "Mon, 03 Aug 2026 22:03:33 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2NpTktqRjQyX3VmZHVUV3A0ck1JTDk5WEFjY1RONC1aek9oLXRXbm50Z0N3YzNmVXV0UlM0SS1zd09JVC1EdUVRd3dn?oc=5\" target=\"_blank\">Palantir Raises Outlook, Karp Calls Business Sales ‘Otherworldy’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Taco Bell Met With Michigan on Parasite Weeks Before Recall",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEU0THBkWHVuTVBPX1AtUFNTNFNyX3hJMnFQRFFSWUZpWnNEU1BPcElwUG50OGQxWHVOZV9HUWE2YkowZnNFaDV6VDE1UW9xSzkzVkZvMXNXdjlUaEZOeWlNTVA1bkdnMVVpanVSWFNBbzhOMlBocm1Fc09NZXhkNVkxUGctS1BfTWZqMWFCTG04bG9LWDNkVlNHeEM4aTZ2NkFBbzFONWhqay15OTRWamVmTQ?oc=5",
-          "published": "Mon, 03 Aug 2026 19:12:59 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEU0THBkWHVuTVBPX1AtUFNTNFNyX3hJMnFQRFFSWUZpWnNEU1BPcElwUG50OGQxWHVOZV9HUWE2YkowZnNFaDV6VDE1UW9xSzkzVkZvMXNXdjlUaEZOeWlNTVA1bkdnMVVpanVSWFNBbzhOMlBocm1Fc09NZXhkNVkxUGctS1BfTWZqMWFCTG04bG9LWDNkVlNHeEM4aTZ2NkFBbzFONWhqay15OTRWamVmTQ?oc=5\" target=\"_blank\">Taco Bell Met With Michigan on Parasite Weeks Before Recall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Trump Says Talks Are Iran’s ‘Last Chance’ After Strikes Scrubbed",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVBVLUFIT0pwUVFUMml4SFhxVDIxN3UxbGIzLTFLU29aMmpOaHZJUER3UjNTWERsakw5c2M4MDZLQkNSd28zQ0p4c29uVG4wQ05sT2lxYWFFbE1lenc4UURiV3ExSlRLWWlYVlBRMFJlbkludEhDanJBUDlPaHVVMFRJSFQxT0RSVHIwTTN0aWhMbUhmOUEzWXQxRW9jb0pTd0hIdFJnVnAwMmRnNFN4bEdJVQ?oc=5",
-          "published": "Mon, 03 Aug 2026 18:38:31 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVBVLUFIT0pwUVFUMml4SFhxVDIxN3UxbGIzLTFLU29aMmpOaHZJUER3UjNTWERsakw5c2M4MDZLQkNSd28zQ0p4c29uVG4wQ05sT2lxYWFFbE1lenc4UURiV3ExSlRLWWlYVlBRMFJlbkludEhDanJBUDlPaHVVMFRJSFQxT0RSVHIwTTN0aWhMbUhmOUEzWXQxRW9jb0pTd0hIdFJnVnAwMmRnNFN4bEdJVQ?oc=5\" target=\"_blank\">Trump Says Talks Are Iran’s ‘Last Chance’ After Strikes Scrubbed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Mamdani Dismisses Business Leaders Advising NYC’s Mayor’s Fund",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2VWQ2sxSHJWb0xydWd1SzdCUWlTZDRFVFg3bDVHU3BaNjN0ZEExTHlMdUIwd00zWDRnWEdVTU1PdnR6bnhWLVUyVlpBVlBwc0kwTy1xOVduRUp4VnJ4ZE9zNmlaN2tDaWhRQ0M4RGcxeGt3WmdIQmkza0hBZmozVmlXNTlmY1FDS1pMeG5idWxRSExscDN0aXFOYnJkakFtQkVXUWVnZmdTUE1aY1hzT1Z3dw?oc=5",
-          "published": "Mon, 03 Aug 2026 19:33:56 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2VWQ2sxSHJWb0xydWd1SzdCUWlTZDRFVFg3bDVHU3BaNjN0ZEExTHlMdUIwd00zWDRnWEdVTU1PdnR6bnhWLVUyVlpBVlBwc0kwTy1xOVduRUp4VnJ4ZE9zNmlaN2tDaWhRQ0M4RGcxeGt3WmdIQmkza0hBZmozVmlXNTlmY1FDS1pMeG5idWxRSExscDN0aXFOYnJkakFtQkVXUWVnZmdTUE1aY1hzT1Z3dw?oc=5\" target=\"_blank\">Mamdani Dismisses Business Leaders Advising NYC’s Mayor’s Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Williams Agrees to Buy Momentum Midstream for $5.5 Billion",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjYyVTU3TkRqczZaZ2ZjcnhRRTlMX3liWTZIbndQS3BYMFFHTXpuZW5Yb0dQWnk5ZFhTVEczckFHbFpla2RWWk1hajZDaEpsVmM4OUNWYmZIazBpZE03RnowZU5Oam9CdmNPWllqWk13WDBrdDdTOTRWSTlCLTZfbjVNU1pMcC1IeGx2cXNkMTBjWWVReEdwU1J3aTVQTmh5d3IxWHduVlRJRS1SUWNleFB6bm0?oc=5",
-          "published": "Mon, 03 Aug 2026 21:22:37 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjYyVTU3TkRqczZaZ2ZjcnhRRTlMX3liWTZIbndQS3BYMFFHTXpuZW5Yb0dQWnk5ZFhTVEczckFHbFpla2RWWk1hajZDaEpsVmM4OUNWYmZIazBpZE03RnowZU5Oam9CdmNPWllqWk13WDBrdDdTOTRWSTlCLTZfbjVNU1pMcC1IeGx2cXNkMTBjWWVReEdwU1J3aTVQTmh5d3IxWHduVlRJRS1SUWNleFB6bm0?oc=5\" target=\"_blank\">Williams Agrees to Buy Momentum Midstream for $5.5 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Citadel Securities Says Bull Market Drivers Are ‘Firmly Intact’",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWJxNGlTb1B5eDBOcmUtTW9nWm5ldi1rMGVuRVI5bFMxT2RqN3U3OXdNYlhLdmFDRWpOZXNoajhrcFVtMEwtQ005ZnNQbTUyV3BZLTJkYnowSTVHYWZnQ3JSU0Z2b1hMYjVTb1RhdHFXUmlGZkUza1RqRDREckNTRkFLZnQ1bmF2SDVWZFRIWEc2V1F3aU5NNmtwRnRLYWEwSUdza0JCNVBiT2hsZnQtQTB3?oc=5",
-          "published": "Mon, 03 Aug 2026 18:20:11 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWJxNGlTb1B5eDBOcmUtTW9nWm5ldi1rMGVuRVI5bFMxT2RqN3U3OXdNYlhLdmFDRWpOZXNoajhrcFVtMEwtQ005ZnNQbTUyV3BZLTJkYnowSTVHYWZnQ3JSU0Z2b1hMYjVTb1RhdHFXUmlGZkUza1RqRDREckNTRkFLZnQ1bmF2SDVWZFRIWEc2V1F3aU5NNmtwRnRLYWEwSUdza0JCNVBiT2hsZnQtQTB3?oc=5\" target=\"_blank\">Citadel Securities Says Bull Market Drivers Are ‘Firmly Intact’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Boeing Wins Certification for Long-Delayed 737 Max 7 Jet",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjYwRUVJRC0xN1lDYVU3U3p1SlVOM3hhRjdRWlNPRnJFUGNMbThVZUJTbm1hUUhKOUFrR083djdJYzhEYnowUEVJQ2hOZS02S0pPNUJBS2d1bmxtVF9iQ19nQlZtOFljVEhSTDNIWlVKU25nNHRVWER3cnFwVFZrVXRycU1HdVN5bjA0clhWZE1TNll3TUdZdVFZMGZQN3Y5SEYyakE5YnlkUTA?oc=5",
-          "published": "Mon, 03 Aug 2026 16:53:24 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjYwRUVJRC0xN1lDYVU3U3p1SlVOM3hhRjdRWlNPRnJFUGNMbThVZUJTbm1hUUhKOUFrR083djdJYzhEYnowUEVJQ2hOZS02S0pPNUJBS2d1bmxtVF9iQ19nQlZtOFljVEhSTDNIWlVKU25nNHRVWER3cnFwVFZrVXRycU1HdVN5bjA0clhWZE1TNll3TUdZdVFZMGZQN3Y5SEYyakE5YnlkUTA?oc=5\" target=\"_blank\">Boeing Wins Certification for Long-Delayed 737 Max 7 Jet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Trump Chastises Chevron CEO for Failing to Praise Administration",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGQxS2lhN0hRajMzVTYtdWFjQ2hvdEJXd3BvM3dBTFJ4STc2YWcxTGYwaUhNb2NVbHAyZDJMTGtBcjdaUGxnTGVYNl9aZlpSckN2ZGZPeW1PYnpsTG9TOTJNVHR6S2RaZjZnaWp3dHJNMVVxSDYtUEI3SUZnZHlLdlktUW91bDhqaXFKUGZBdFQ4bkFVRU85SlFwXzNZRUJiOHpGQ2tib0RsRklmMXdYQ1dPUDRUUQ?oc=5",
-          "published": "Mon, 03 Aug 2026 15:16:54 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONGQxS2lhN0hRajMzVTYtdWFjQ2hvdEJXd3BvM3dBTFJ4STc2YWcxTGYwaUhNb2NVbHAyZDJMTGtBcjdaUGxnTGVYNl9aZlpSckN2ZGZPeW1PYnpsTG9TOTJNVHR6S2RaZjZnaWp3dHJNMVVxSDYtUEI3SUZnZHlLdlktUW91bDhqaXFKUGZBdFQ4bkFVRU85SlFwXzNZRUJiOHpGQ2tib0RsRklmMXdYQ1dPUDRUUQ?oc=5\" target=\"_blank\">Trump Chastises Chevron CEO for Failing to Praise Administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
-          "title": "Venezuela Oil Flows Drop as Iran War Pause Cools Indian Appetite",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXA0N1lWSGVyQ1NMZklvWVJTak9nb3J4NjFLbnJwanp3aFBSdkYzdUljaXo1M09PNUhsUVNCSm44Si1fQk5lQy15NFF1ZTFudWZQR1JFczdPNFVObm5OVld2MUpIY29uMTB0Q1hMRk1lNVlERzg5SGRnZlJNa1pCU05rQ0ZtSWxELVRodEtRN2MtMTEzXzFFWkRFamsyTE1jdkNzWVUxdllyOFl1NDREb3d6R0MzZw?oc=5",
-          "published": "Mon, 03 Aug 2026 16:41:06 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXA0N1lWSGVyQ1NMZklvWVJTak9nb3J4NjFLbnJwanp3aFBSdkYzdUljaXo1M09PNUhsUVNCSm44Si1fQk5lQy15NFF1ZTFudWZQR1JFczdPNFVObm5OVld2MUpIY29uMTB0Q1hMRk1lNVlERzg5SGRnZlJNa1pCU05rQ0ZtSWxELVRodEtRN2MtMTEzXzFFWkRFamsyTE1jdkNzWVUxdllyOFl1NDREb3d6R0MzZw?oc=5\" target=\"_blank\">Venezuela Oil Flows Drop as Iran War Pause Cools Indian Appetite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         }
       ]
@@ -287,10 +287,24 @@
       "count": 10,
       "articles": [
         {
-          "title": "Trump Discusses Jeanine Pirro’s Removal After Reflecting Pool Reversal",
+          "title": "How ICE Is Weaponizing Social Media Against Its Critics",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUdFX2F3eHVjX1huNS1NLWZ0dGZUSFBVWGtGbGN2S043UmJ3RVVVeG41N083amx3Zy1aYUlHNi1sRzlPNERKSXpQQ2o1TGUtVEFBOHlFTzJOVDRnV0lPMlJBVVFfNDZOallST191Y19WQ2lYa3owRE1ETzF0RkdKZ0pSYzQ?oc=5",
+          "published": "Tue, 04 Aug 2026 01:02:12 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUdFX2F3eHVjX1huNS1NLWZ0dGZUSFBVWGtGbGN2S043UmJ3RVVVeG41N083amx3Zy1aYUlHNi1sRzlPNERKSXpQQ2o1TGUtVEFBOHlFTzJOVDRnV0lPMlJBVVFfNDZOallST191Y19WQ2lYa3owRE1ETzF0RkdKZ0pSYzQ?oc=5\" target=\"_blank\">How ICE Is Weaponizing Social Media Against Its Critics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Exclusive | Anduril Weighs Baltimore Shipyard Investment to Build Drone Boats",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUF9mN2d3UG80YnZNZzVaUUhFcjJQSjRSZDdxUXZJNFR4RkpBazYzMXp1czZIcTV3Y0UyUk5ZR0tiS2VwWHVGLWJyVzZRRkVVcV9tZjFPS1U2ZjZuU0pRSWlBcnpIR2R4bVNqc2lvQW9GS0llakdWOWs1aHIzRXZHQWhET3h5Yko5NUgwZUNJTWxMZzYzdDRlVWJnT29pelpWeFp0MUZ5dzBKbzB2RTNZdHc2OA?oc=5",
+          "published": "Tue, 04 Aug 2026 00:01:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUF9mN2d3UG80YnZNZzVaUUhFcjJQSjRSZDdxUXZJNFR4RkpBazYzMXp1czZIcTV3Y0UyUk5ZR0tiS2VwWHVGLWJyVzZRRkVVcV9tZjFPS1U2ZjZuU0pRSWlBcnpIR2R4bVNqc2lvQW9GS0llakdWOWs1aHIzRXZHQWhET3h5Yko5NUgwZUNJTWxMZzYzdDRlVWJnT29pelpWeFp0MUZ5dzBKbzB2RTNZdHc2OA?oc=5\" target=\"_blank\">Exclusive | Anduril Weighs Baltimore Shipyard Investment to Build Drone Boats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Trump Discusses Jeanine Pirro’s Removal After Reflecting Pool Reversal | What’s News for Aug. 3",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGFxYUI3bDVmSENmLVZ5Q2Y0NTVIODRTS2pLSmNqdzNXUmFwVEwxR3lsZ29vbFBpNENWTnBkQkRpNE5FU05Ya1YyTnNwNnQ0cWNaU2R1Nlp1WUd4dm9zUE1ETEZMMmpVdjZsc2RraGQ4SzFES0EtRUxxekl1bHdkcVZUNHYtUWlPR2g4XzZkSlh6Y2lGN2RUcDMyZThqR3U1OUU1aHJiNEFLZFdhOXVVX0hPLW0?oc=5",
           "published": "Mon, 03 Aug 2026 21:49:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGFxYUI3bDVmSENmLVZ5Q2Y0NTVIODRTS2pLSmNqdzNXUmFwVEwxR3lsZ29vbFBpNENWTnBkQkRpNE5FU05Ya1YyTnNwNnQ0cWNaU2R1Nlp1WUd4dm9zUE1ETEZMMmpVdjZsc2RraGQ4SzFES0EtRUxxekl1bHdkcVZUNHYtUWlPR2g4XzZkSlh6Y2lGN2RUcDMyZThqR3U1OUU1aHJiNEFLZFdhOXVVX0hPLW0?oc=5\" target=\"_blank\">Trump Discusses Jeanine Pirro’s Removal After Reflecting Pool Reversal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGFxYUI3bDVmSENmLVZ5Q2Y0NTVIODRTS2pLSmNqdzNXUmFwVEwxR3lsZ29vbFBpNENWTnBkQkRpNE5FU05Ya1YyTnNwNnQ0cWNaU2R1Nlp1WUd4dm9zUE1ETEZMMmpVdjZsc2RraGQ4SzFES0EtRUxxekl1bHdkcVZUNHYtUWlPR2g4XzZkSlh6Y2lGN2RUcDMyZThqR3U1OUU1aHJiNEFLZFdhOXVVX0hPLW0?oc=5\" target=\"_blank\">Trump Discusses Jeanine Pirro’s Removal After Reflecting Pool Reversal | What’s News for Aug. 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
@@ -303,8 +317,22 @@
         {
           "title": "Palantir Shares Jump on ‘Otherworldly’ Sales, Improved Forecast",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPblhBSU5ndlFUZTBqbDR5RmFXbXRHUHh6VnI0cjlRN29nMFAtMWMtVXBDMnRDZE82RTlyUk9FZm9zbGJHNXY0U25ablU5V3M0eXpfVzZjT0dkU0xkTnVSR25sZkxMeGJycThFSGtlOENQM2JQblNFMTBQaEFkdFdNZVRjdEhhMllxNElQeThyQmhyc19DMTNVQTFpNGE?oc=5",
-          "published": "Mon, 03 Aug 2026 21:24:00 GMT",
+          "published": "Mon, 03 Aug 2026 21:56:06 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPblhBSU5ndlFUZTBqbDR5RmFXbXRHUHh6VnI0cjlRN29nMFAtMWMtVXBDMnRDZE82RTlyUk9FZm9zbGJHNXY0U25ablU5V3M0eXpfVzZjT0dkU0xkTnVSR25sZkxMeGJycThFSGtlOENQM2JQblNFMTBQaEFkdFdNZVRjdEhhMllxNElQeThyQmhyc19DMTNVQTFpNGE?oc=5\" target=\"_blank\">Palantir Shares Jump on ‘Otherworldly’ Sales, Improved Forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Oil Falls Amid Prospects for Reopening of Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFVVOU45VW9uOFhiUXQxb1B3bWtXZEZSWDQ1cm14Z1FNZW13RENHQm5MY2c3OWJINlZkZkFoZS1yZGpVYzNQdGF3LWhldXp4c2lZenh5VzFSVk0yc1VMV0lBYjNaVEw1UjBhbEhJM3VsYWhHLWNoNmtBdTFSb3puWDdTNHpPV0l2VWdhNmZaUE9UOHlTX2xBRmZLMnZBNnZSUC1Qa1RnNkctZ1Mzc3dEQmFtU1RWQQ?oc=5",
+          "published": "Tue, 04 Aug 2026 00:03:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFVVOU45VW9uOFhiUXQxb1B3bWtXZEZSWDQ1cm14Z1FNZW13RENHQm5MY2c3OWJINlZkZkFoZS1yZGpVYzNQdGF3LWhldXp4c2lZenh5VzFSVk0yc1VMV0lBYjNaVEw1UjBhbEhJM3VsYWhHLWNoNmtBdTFSb3puWDdTNHpPV0l2VWdhNmZaUE9UOHlTX2xBRmZLMnZBNnZSUC1Qa1RnNkctZ1Mzc3dEQmFtU1RWQQ?oc=5\" target=\"_blank\">Oil Falls Amid Prospects for Reopening of Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Opinion | Unions Are Coming for Your Uber Driver",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc09XZ0RLb3VQTnJCTWRCbHpBa2xHbmNrOW1TeUJHd2dDMDIwakNjUUVEbVl4RUlyalAxUkNVSWlFa1BhTjVXcDdHWXA0VEZpZm5TcnNSTGNYT0lWSm1GSlVscHZDamVfNk9ud25Ic1VXcXhIY0hCSnJ3VEZ3RlNTYw?oc=5",
+          "published": "Mon, 03 Aug 2026 21:46:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOc09XZ0RLb3VQTnJCTWRCbHpBa2xHbmNrOW1TeUJHd2dDMDIwakNjUUVEbVl4RUlyalAxUkNVSWlFa1BhTjVXcDdHWXA0VEZpZm5TcnNSTGNYT0lWSm1GSlVscHZDamVfNk9ud25Ic1VXcXhIY0hCSnJ3VEZ3RlNTYw?oc=5\" target=\"_blank\">Opinion | Unions Are Coming for Your Uber Driver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
@@ -317,22 +345,8 @@
         {
           "title": "Print Edition | Wall Street Journal",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNi1QQ3FnOWtLNURBWF8xVWk4b20yRkx0QXlNWUIzQlRDTUlHcnkxZUV6aENOODJXbXhMd3NBQXNrQWlVWkNEU1otWExDZE40MG1ubnNWWFRHS1JwdzZyQmlB?oc=5",
-          "published": "Mon, 03 Aug 2026 22:55:03 GMT",
+          "published": "Tue, 04 Aug 2026 05:01:49 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNi1QQ3FnOWtLNURBWF8xVWk4b20yRkx0QXlNWUIzQlRDTUlHcnkxZUV6aENOODJXbXhMd3NBQXNrQWlVWkNEU1otWExDZE40MG1ubnNWWFRHS1JwdzZyQmlB?oc=5\" target=\"_blank\">Print Edition | Wall Street Journal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Did Trump Finally Find an Offramp for the Iran War?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQblNoa0Q4ZV9CLXNXQjJldXY5eWZoNmc1Yngyc3JFVzduUkltZ3V1YWVkX0JJYXN4SmUtclBxZnBGY3Y5QUdvaEhNcllJSm1wVC1EM2gyR1c3WUtCMC02bTd0d1NEd0o5VExPanJFZHVfby1FM0dFOEc2TGpqUDFmUncyMkVfcnZjS2Q1RGViYnplUQ?oc=5",
-          "published": "Mon, 03 Aug 2026 11:07:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQblNoa0Q4ZV9CLXNXQjJldXY5eWZoNmc1Yngyc3JFVzduUkltZ3V1YWVkX0JJYXN4SmUtclBxZnBGY3Y5QUdvaEhNcllJSm1wVC1EM2gyR1c3WUtCMC02bTd0d1NEd0o5VExPanJFZHVfby1FM0dFOEc2TGpqUDFmUncyMkVfcnZjS2Q1RGViYnplUQ?oc=5\" target=\"_blank\">Did Trump Finally Find an Offramp for the Iran War?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Rising Beef Costs Pressure Tyson’s Bottom Line",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkhsRV9vUjhxRC1fTHNhbnQ3NXlidkRQcmxWOWNUVGlRZ01SdkRQWTZVeHU0aGI5TDkxLXBjYkVTWU5ldEcwcTBfbkJBZWJEMkw5QXVVcHR2M1QwMHZfbHZ1TlNFQTlKcUhGTUpUSTZCSlJoS3pLOFdFbzdwN2UtSWtFbF9HMGlWU0NFdWlYRnEzcTkyRzF3?oc=5",
-          "published": "Mon, 03 Aug 2026 15:54:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkhsRV9vUjhxRC1fTHNhbnQ3NXlidkRQcmxWOWNUVGlRZ01SdkRQWTZVeHU0aGI5TDkxLXBjYkVTWU5ldEcwcTBfbkJBZWJEMkw5QXVVcHR2M1QwMHZfbHZ1TlNFQTlKcUhGTUpUSTZCSlJoS3pLOFdFbzdwN2UtSWtFbF9HMGlWU0NFdWlYRnEzcTkyRzF3?oc=5\" target=\"_blank\">Rising Beef Costs Pressure Tyson’s Bottom Line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
@@ -340,20 +354,6 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTZNV1Q4X2pRN0t6cURsQXZobjNqSTlEV2h5WlpTdEpPbXVWb2dSNmN1RHR2MVVCOU90OXNzNVg4WlBlWXBRY0wwNHBkU0JTRmdkU21fNTRmSzVJei1ZTkxwWi1lZS1oRk9TTWRMWUI5VjRwckI0LUZORmlYYjE1QVZoQy16MHkwR0tVdGxueGJYdVNqVkxoUS1tLWl1SXRaMDVZWHFPWUdDVHJlVzVHTXBVR2s?oc=5",
           "published": "Mon, 03 Aug 2026 11:19:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTZNV1Q4X2pRN0t6cURsQXZobjNqSTlEV2h5WlpTdEpPbXVWb2dSNmN1RHR2MVVCOU90OXNzNVg4WlBlWXBRY0wwNHBkU0JTRmdkU21fNTRmSzVJei1ZTkxwWi1lZS1oRk9TTWRMWUI5VjRwckI0LUZORmlYYjE1QVZoQy16MHkwR0tVdGxueGJYdVNqVkxoUS1tLWl1SXRaMDVZWHFPWUdDVHJlVzVHTXBVR2s?oc=5\" target=\"_blank\">EchoStar’s Hughes Network Files for Bankruptcy as $1.5 Billion Debt Comes Due</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "KKR to Buy Integer Holdings for $4.3 Billion in Cash",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWElROF9pWmtRRjVsZXF6MDJZRnNQOU5FUUtjY0M3emgyelpkNk85U3hUYUZ4UlJ5STJiQWZkSnZIVXR0QnV4dUNoSE1WNWdCdjIzbmpNV2gxUVhaWFE3dE1hZFR6WTgtam9LYS1hVFFra3NUVS1VUTJCQjhpcWxLaGhiaEZ1RW80ek9VUTRPWjc?oc=5",
-          "published": "Mon, 03 Aug 2026 14:48:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWElROF9pWmtRRjVsZXF6MDJZRnNQOU5FUUtjY0M3emgyelpkNk85U3hUYUZ4UlJ5STJiQWZkSnZIVXR0QnV4dUNoSE1WNWdCdjIzbmpNV2gxUVhaWFE3dE1hZFR6WTgtam9LYS1hVFFra3NUVS1VUTJCQjhpcWxLaGhiaEZ1RW80ek9VUTRPWjc?oc=5\" target=\"_blank\">KKR to Buy Integer Holdings for $4.3 Billion in Cash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
-          "title": "Exclusive | Zach Dell Is Raising Money to Put a Battery in Your Backyard",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXFIa3AyOEx4b09QM01RRzNkR2QxdlhnZlJMWXpoc3BHLVlVT0Q1NnprM3gwVUpDVUtoUUNsVE5uZDZBTHBMMzFGdWVHajJKREg4RDgwR1BqS0FiYV9TV2FKNE1NaU1nSDN3N2lRSXFTbTVaZklYM21DajNGWjc5b3UyWjFZd2FrQkVqRkFlWmFoNzRFbGNuXzJxS3dyYkNHZ08tOUJjcHY4VkVMR0E?oc=5",
-          "published": "Mon, 03 Aug 2026 10:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXFIa3AyOEx4b09QM01RRzNkR2QxdlhnZlJMWXpoc3BHLVlVT0Q1NnprM3gwVUpDVUtoUUNsVE5uZDZBTHBMMzFGdWVHajJKREg4RDgwR1BqS0FiYV9TV2FKNE1NaU1nSDN3N2lRSXFTbTVaZklYM21DajNGWjc5b3UyWjFZd2FrQkVqRkFlWmFoNzRFbGNuXzJxS3dyYkNHZ08tOUJjcHY4VkVMR0E?oc=5\" target=\"_blank\">Exclusive | Zach Dell Is Raising Money to Put a Battery in Your Backyard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         }
       ]
@@ -364,17 +364,38 @@
       "count": 10,
       "articles": [
         {
-          "title": "Todd Blanche wins backing of senators after scrapping $1.8bn ‘slush fund’",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFo0WENqYzZuNmQ2VHAxTnotbmVOQjExOE44Sjh0LVlVTTlnNHFhaHRGZ09qMFQya2tBaFVCSHlIMzRkMlJpVHM1bVFlYlhjSlk4VUlJUnNwSmJTQzV5Y1VHMlp5T3o0bDRlcHM4LU5hWlRyODhvcXhib3pRQ2dyT1p0a0s?oc=5",
-          "published": "Mon, 03 Aug 2026 07:47:34 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFo0WENqYzZuNmQ2VHAxTnotbmVOQjExOE44Sjh0LVlVTTlnNHFhaHRGZ09qMFQya2tBaFVCSHlIMzRkMlJpVHM1bVFlYlhjSlk4VUlJUnNwSmJTQzV5Y1VHMlp5T3o0bDRlcHM4LU5hWlRyODhvcXhib3pRQ2dyT1p0a0s?oc=5\" target=\"_blank\">Todd Blanche wins backing of senators after scrapping $1.8bn ‘slush fund’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "How ‘The Millionaires’ Factory’ might shift under new CEO",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXBEaDhjaVBXd0NBcVVqdnNsVFJ4NS1FSTZfQjV4a1ExMDVMYVdzU21ER2JsYUU3SWRaeWVUQ19zNy1yU2ZLbDhUTEw0MXM2RjhWQndUMEdWUGFVX1phbVJWeU85RjNLTF9fdkREM1psd0VlYW9pY3J4b2lzMFI0OUZnVkM?oc=5",
+          "published": "Mon, 03 Aug 2026 23:01:01 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXBEaDhjaVBXd0NBcVVqdnNsVFJ4NS1FSTZfQjV4a1ExMDVMYVdzU21ER2JsYUU3SWRaeWVUQ19zNy1yU2ZLbDhUTEw0MXM2RjhWQndUMEdWUGFVX1phbVJWeU85RjNLTF9fdkREM1psd0VlYW9pY3J4b2lzMFI0OUZnVkM?oc=5\" target=\"_blank\">How ‘The Millionaires’ Factory’ might shift under new CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
-          "title": "How US drinkers fell out of love with Bud Light",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5",
-          "published": "Mon, 03 Aug 2026 04:00:13 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRoSS1HTWhSSEo4bXpVTnZ3Z2NFVDNpYmVhOVg3NjAySkRBYUo5cjVvQXB5WlN1cnJjelFXaUdEQWxBdEZmbVhLS0xZOFZDWDlPWXc2RDVDYl9vMG5XY3FlYmNGaHZjZXVRUUlDS3FxS3BwUUd4NmJfUkp6QVFQUXp0SEU?oc=5\" target=\"_blank\">How US drinkers fell out of love with Bud Light</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "ASML’s hold over the future of chipmaking is weakening",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1R5S09FREZ0OHFZVm84cDFLUGtLTUM2OTVldWc0cEtNM0h6Q3cteWRiRXhNV2Q1Y0tGbm5kRmFFR0FGZUNRUko2dFZuNjI0Mk1zMmQ1NnpESGk0TEpUX0NJbkZIaHZIeV84bllFLTlkdEZSV2diVWhYTThfNm9Ib0d5aGM?oc=5",
+          "published": "Mon, 03 Aug 2026 12:54:56 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1R5S09FREZ0OHFZVm84cDFLUGtLTUM2OTVldWc0cEtNM0h6Q3cteWRiRXhNV2Q1Y0tGbm5kRmFFR0FGZUNRUko2dFZuNjI0Mk1zMmQ1NnpESGk0TEpUX0NJbkZIaHZIeV84bllFLTlkdEZSV2diVWhYTThfNm9Ib0d5aGM?oc=5\" target=\"_blank\">ASML’s hold over the future of chipmaking is weakening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "Aston Martin creditors threaten legal action after branding rights sale plan",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjJUbnV1NWI4VUNoT2tCeVZpM2E5TS16MHdNSDcxVV9JZjJybEt4a0hRUVozNWNhRDdRMGhkd1E2R3Vac2RIdGcxakIyOXVQMjNDbFdPdnRHR283d3pHaTYtMmdCUzZtbGc1ZUxiRGtZbm9zQ3lnWlBXMG9OSEVnN255Y2Y?oc=5",
+          "published": "Mon, 03 Aug 2026 20:27:48 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjJUbnV1NWI4VUNoT2tCeVZpM2E5TS16MHdNSDcxVV9JZjJybEt4a0hRUVozNWNhRDdRMGhkd1E2R3Vac2RIdGcxakIyOXVQMjNDbFdPdnRHR283d3pHaTYtMmdCUzZtbGc1ZUxiRGtZbm9zQ3lnWlBXMG9OSEVnN255Y2Y?oc=5\" target=\"_blank\">Aston Martin creditors threaten legal action after branding rights sale plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "Apple launches legal challenge to UK attempt to access encrypted user data",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5",
+          "published": "Mon, 03 Aug 2026 14:11:07 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5\" target=\"_blank\">Apple launches legal challenge to UK attempt to access encrypted user data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "Reform UK promises large-scale ‘military operation’ to block small boat crossings",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5vbFFHNUpTM2xxeWFmcV9IUkN1WjNpdmVPbmFIY085TEtUTVpyQXZiVm8yT0ZoZE9acXhvUkVjUGxSTlVldlhkLU50UDZSUkduNnVJeGRwVVpPT0R4TF9EOG5Ic3d4U1c1bmNQZXNWMEhXdV9MZE9MUGZrdTdXUnNZa1Y?oc=5",
+          "published": "Mon, 03 Aug 2026 09:00:12 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5vbFFHNUpTM2xxeWFmcV9IUkN1WjNpdmVPbmFIY085TEtUTVpyQXZiVm8yT0ZoZE9acXhvUkVjUGxSTlVldlhkLU50UDZSUkduNnVJeGRwVVpPT0R4TF9EOG5Ic3d4U1c1bmNQZXNWMEhXdV9MZE9MUGZrdTdXUnNZa1Y?oc=5\" target=\"_blank\">Reform UK promises large-scale ‘military operation’ to block small boat crossings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
@@ -387,29 +408,8 @@
         {
           "title": "Wall Street learns to love blockchain",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1BLMlMxS2dTVk44bERfUl9UVjhqbjRtM3JHOWE1d0llM0lrdnRWMVBqU2s2Mlg4V0pVRjUwMmJCejZ5X0U5TjlONXJhekZsbElLUmxveElEdkhkWXBnTzlPck1rT3NjZ3FVYVNwOU1oMFItSEl6TG51SkVxSm1uek5RUzU?oc=5",
-          "published": "Mon, 03 Aug 2026 04:00:04 GMT",
+          "published": "Mon, 03 Aug 2026 10:15:13 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1BLMlMxS2dTVk44bERfUl9UVjhqbjRtM3JHOWE1d0llM0lrdnRWMVBqU2s2Mlg4V0pVRjUwMmJCejZ5X0U5TjlONXJhekZsbElLUmxveElEdkhkWXBnTzlPck1rT3NjZ3FVYVNwOU1oMFItSEl6TG51SkVxSm1uek5RUzU?oc=5\" target=\"_blank\">Wall Street learns to love blockchain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "Reform UK promises large-scale ‘military operation’ to block small boat crossings",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5vbFFHNUpTM2xxeWFmcV9IUkN1WjNpdmVPbmFIY085TEtUTVpyQXZiVm8yT0ZoZE9acXhvUkVjUGxSTlVldlhkLU50UDZSUkduNnVJeGRwVVpPT0R4TF9EOG5Ic3d4U1c1bmNQZXNWMEhXdV9MZE9MUGZrdTdXUnNZa1Y?oc=5",
-          "published": "Mon, 03 Aug 2026 09:00:12 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5vbFFHNUpTM2xxeWFmcV9IUkN1WjNpdmVPbmFIY085TEtUTVpyQXZiVm8yT0ZoZE9acXhvUkVjUGxSTlVldlhkLU50UDZSUkduNnVJeGRwVVpPT0R4TF9EOG5Ic3d4U1c1bmNQZXNWMEhXdV9MZE9MUGZrdTdXUnNZa1Y?oc=5\" target=\"_blank\">Reform UK promises large-scale ‘military operation’ to block small boat crossings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "Apple launches legal challenge to UK attempt to access encrypted user data",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5",
-          "published": "Mon, 03 Aug 2026 14:11:07 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5\" target=\"_blank\">Apple launches legal challenge to UK attempt to access encrypted user data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "AstraZeneca investors raise concerns over mega-merger talks",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2htRTRBeFduZE95d05fbmdpS251MTVPN3l0SGFtMWdZaXVidFpVNVlpdDh6VWpkOU9qdHVFSDMwN0NjdVM1cTBHSXFwdUw0a28weUN4R0V6VjdNaVVmX2I2cmpLYm1sX0dBcDcyR2V4Z0Vtd1NsMHhQcVVBeDhfTUNDTkQ?oc=5",
-          "published": "Mon, 03 Aug 2026 16:24:25 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2htRTRBeFduZE95d05fbmdpS251MTVPN3l0SGFtMWdZaXVidFpVNVlpdDh6VWpkOU9qdHVFSDMwN0NjdVM1cTBHSXFwdUw0a28weUN4R0V6VjdNaVVmX2I2cmpLYm1sX0dBcDcyR2V4Z0Vtd1NsMHhQcVVBeDhfTUNDTkQ?oc=5\" target=\"_blank\">AstraZeneca investors raise concerns over mega-merger talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
@@ -420,17 +420,17 @@
           "source": "金融时报"
         },
         {
-          "title": "European wildfire costs this year have already surpassed €3bn",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRC1WREloXzdfVWprQlJQYzllTkprWTVCZklsVFhYcTl1LVFJaXk5bmFqdHZ3aFFSc0ROSGt3YTg0dE9ILTlwbUVNODR5MzR4aG5qbHB5TDBvUHkxR1lubHZrOXNocFpxUjNRWEdfakIxeVE5MXF2bmgzWlF0bUROZGdBZ1E?oc=5",
-          "published": "Mon, 03 Aug 2026 04:00:21 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRC1WREloXzdfVWprQlJQYzllTkprWTVCZklsVFhYcTl1LVFJaXk5bmFqdHZ3aFFSc0ROSGt3YTg0dE9ILTlwbUVNODR5MzR4aG5qbHB5TDBvUHkxR1lubHZrOXNocFpxUjNRWEdfakIxeVE5MXF2bmgzWlF0bUROZGdBZ1E?oc=5\" target=\"_blank\">European wildfire costs this year have already surpassed €3bn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "AstraZeneca investors raise concerns over mega-merger talks",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2htRTRBeFduZE95d05fbmdpS251MTVPN3l0SGFtMWdZaXVidFpVNVlpdDh6VWpkOU9qdHVFSDMwN0NjdVM1cTBHSXFwdUw0a28weUN4R0V6VjdNaVVmX2I2cmpLYm1sX0dBcDcyR2V4Z0Vtd1NsMHhQcVVBeDhfTUNDTkQ?oc=5",
+          "published": "Mon, 03 Aug 2026 16:24:25 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2htRTRBeFduZE95d05fbmdpS251MTVPN3l0SGFtMWdZaXVidFpVNVlpdDh6VWpkOU9qdHVFSDMwN0NjdVM1cTBHSXFwdUw0a28weUN4R0V6VjdNaVVmX2I2cmpLYm1sX0dBcDcyR2V4Z0Vtd1NsMHhQcVVBeDhfTUNDTkQ?oc=5\" target=\"_blank\">AstraZeneca investors raise concerns over mega-merger talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
-          "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5",
-          "published": "Mon, 03 Aug 2026 16:16:19 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5\" target=\"_blank\">AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Trump claims Iran talks under way despite denial from Tehran",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQejVYV1RBOVd3bTdBMXpUNDc5VlhwOFNQam83b0NiYThFRXd3eXBLcko3dXY3c29EM2t6Rkx2SkJxMzQ0Wmxpd3FJLWgtLTJQREpSdkR2ZUhSSFVqQ0ozV1dHbS1GSFl2UVNxMURxMXFlZXVROFVsUEtPdWQyUzhGbTFvVGg?oc=5",
+          "published": "Mon, 03 Aug 2026 23:03:02 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQejVYV1RBOVd3bTdBMXpUNDc5VlhwOFNQam83b0NiYThFRXd3eXBLcko3dXY3c29EM2t6Rkx2SkJxMzQ0Wmxpd3FJLWgtLTJQREpSdkR2ZUhSSFVqQ0ozV1dHbS1GSFl2UVNxMURxMXFlZXVROFVsUEtPdWQyUzhGbTFvVGg?oc=5\" target=\"_blank\">Trump claims Iran talks under way despite denial from Tehran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         }
       ]
@@ -441,38 +441,59 @@
       "count": 10,
       "articles": [
         {
+          "title": "Saudi Aramco profits soar in second quarter as Iran war squeezes oil supply",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VUhVVTFhQjZFTktvX2ZvVW5CbUo1bHhkZnFLU1lIcDI4a3k1bXJhdUNSSUxTS3hsV2VMbXFSYnczMG1oTlB6bEdsNWpqT2ZPcHJ6UTZoaGNETXFrQThZTUNRSHpyX2t6UngyMmUxdlBBSGZIX1F2TjNKbTM1X0XSAYQBQVVfeXFMTk5IU1Z2cVdaaDNpOWJPTXZDYzdSaEVuU1hIRDRNTU1uSkdNRHp2YXlNNmxzWUlhRWFSbm9YcUo1U2hhUElhWUVxYlhHak13RzVVOEVWOUhuUkJRQzJVVzAtSTNPejFIcDJ2RGtjakliRXRzRmg1WHpCM2dYSXdOVWVWOUtt?oc=5",
+          "published": "Tue, 04 Aug 2026 05:14:38 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE03VUhVVTFhQjZFTktvX2ZvVW5CbUo1bHhkZnFLU1lIcDI4a3k1bXJhdUNSSUxTS3hsV2VMbXFSYnczMG1oTlB6bEdsNWpqT2ZPcHJ6UTZoaGNETXFrQThZTUNRSHpyX2t6UngyMmUxdlBBSGZIX1F2TjNKbTM1X0XSAYQBQVVfeXFMTk5IU1Z2cVdaaDNpOWJPTXZDYzdSaEVuU1hIRDRNTU1uSkdNRHp2YXlNNmxzWUlhRWFSbm9YcUo1U2hhUElhWUVxYlhHak13RzVVOEVWOUhuUkJRQzJVVzAtSTNPejFIcDJ2RGtjakliRXRzRmg1WHpCM2dYSXdOVWVWOUtt?oc=5\" target=\"_blank\">Saudi Aramco profits soar in second quarter as Iran war squeezes oil supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jim Cramer says Wall Street's latest trading trend is creating buying opportunities",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0hhbHR0S21nREYxSUJLSlRuYmh4UWMxQkJMTDRnTVBLVGhNY00xcHBIMjNubW1ub09nZzZXUTloWHBCdElnMnBlNTNZNmVZLUZVRUl1QWUtMFliNzlfaERHQUNDcDh1ZjVsbWl0NDBLQnlsNnpsYWFRRW91SnpfM05ZbkRMQkcxWV96a1NHR19UUzRnQXRHVkRFUTBvejM4Mlk1aTF2WklCTG0xaXBXUtIBtgFBVV95cUxQSjlMbUdOTHBhbFBIU0RZTXcwQzQwMk1ZZVVFUk5vNG1qQWZJeWwyRHRaLUhmUmJnSGdGbWU3Y253RThPOTB0UTQzM3RPSDBsZlZLNXZIcWt0R2FkVzFaLUdqV0Q5QTE4WlpkZUR1R1ZpWFpTb1U3QnFHNVlTRDF6dU5wRGlWTC1CTWtIVUlFY0o2Z0lFWXEzREtaSDVjVG9reFB3RXI3bGtMNEphcS0wZlJSODRBZw?oc=5",
+          "published": "Mon, 03 Aug 2026 23:00:01 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0hhbHR0S21nREYxSUJLSlRuYmh4UWMxQkJMTDRnTVBLVGhNY00xcHBIMjNubW1ub09nZzZXUTloWHBCdElnMnBlNTNZNmVZLUZVRUl1QWUtMFliNzlfaERHQUNDcDh1ZjVsbWl0NDBLQnlsNnpsYWFRRW91SnpfM05ZbkRMQkcxWV96a1NHR19UUzRnQXRHVkRFUTBvejM4Mlk1aTF2WklCTG0xaXBXUtIBtgFBVV95cUxQSjlMbUdOTHBhbFBIU0RZTXcwQzQwMk1ZZVVFUk5vNG1qQWZJeWwyRHRaLUhmUmJnSGdGbWU3Y253RThPOTB0UTQzM3RPSDBsZlZLNXZIcWt0R2FkVzFaLUdqV0Q5QTE4WlpkZUR1R1ZpWFpTb1U3QnFHNVlTRDF6dU5wRGlWTC1CTWtIVUlFY0o2Z0lFWXEzREtaSDVjVG9reFB3RXI3bGtMNEphcS0wZlJSODRBZw?oc=5\" target=\"_blank\">Jim Cramer says Wall Street's latest trading trend is creating buying opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHJzeWxSdnhERlBLQVh0dXVRMEV5RHB5OWdhYnp0VWc0eXFVVHBVUTE5ZEpTX0ZVbHQzZy1NbkFZTm9wWmxiNmU5Yk03ZVpBNi1CU25NeFRoazBRQnV2VFRPcVhuZ3pTbVVNSktlZUlIN3JuZnh5ZXdYNFZxT1AwWTBnQndJdFFuZVh2OV91RWx5UDNQRG51Q1R1ZGFua0RTaFZQSmtONNIBrAFBVV95cUxPWHNXM0p2NEpuM3NGcUQ0YWxobnFNbVg3OEY2UlBaRGRLU0tvc1pUeS1NMVUxSUt2SVVINzR1NlV4NUFvZ1lOR1B6eUdUZDBkMVlzU0d5dzU3SFR2NHVDUFBEdTZBMW8xSkJFQ2tVZ0R2VWFIemRJZEZwcHA3SHFVMUZOenpBMjViQksyTWVvcDl1Q3BteTJ6QzFHSHAyRXVRNEZrTFFSZndVMWg4?oc=5",
+          "published": "Mon, 03 Aug 2026 23:00:01 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHJzeWxSdnhERlBLQVh0dXVRMEV5RHB5OWdhYnp0VWc0eXFVVHBVUTE5ZEpTX0ZVbHQzZy1NbkFZTm9wWmxiNmU5Yk03ZVpBNi1CU25NeFRoazBRQnV2VFRPcVhuZ3pTbVVNSktlZUlIN3JuZnh5ZXdYNFZxT1AwWTBnQndJdFFuZVh2OV91RWx5UDNQRG51Q1R1ZGFua0RTaFZQSmtONNIBrAFBVV95cUxPWHNXM0p2NEpuM3NGcUQ0YWxobnFNbVg3OEY2UlBaRGRLU0tvc1pUeS1NMVUxSUt2SVVINzR1NlV4NUFvZ1lOR1B6eUdUZDBkMVlzU0d5dzU3SFR2NHVDUFBEdTZBMW8xSkJFQ2tVZ0R2VWFIemRJZEZwcHA3SHFVMUZOenpBMjViQksyTWVvcDl1Q3BteTJ6QzFHSHAyRXVRNEZrTFFSZndVMWg4?oc=5\" target=\"_blank\">CNBC's The China Connection newsletter: AI wins come with an old investor risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zeHhQejJxZGdPdGZ4dzdaWWNkUGQxZlNNUnluM0ZJSC1ObkdpeTRIYkJQUXc4SFZwUnhUT1NEd2pKcVhXWjhwenRBREpIVkJ0NUY2ZWd4X3VFT25xc0VhSXdlTmREbjdtdlpBWjhNUEJCRng4eEHSAXtBVV95cUxQMDZyQkg5UGNabDJ5dDd1djVRNmtkTUtaRy1LYWRrb0s4RUxTZzFIeWZSeW5zWFhuZWluVU1RUHJ3WEpZUlJqaVZTcThzUXFfQUQ2MmtjckpOU2RvMm9hTGwzVWV0azdYaFZIOUdfMTAydnRwZjAtdWZ0ZmM?oc=5",
+          "published": "Tue, 04 Aug 2026 03:03:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1zeHhQejJxZGdPdGZ4dzdaWWNkUGQxZlNNUnluM0ZJSC1ObkdpeTRIYkJQUXc4SFZwUnhUT1NEd2pKcVhXWjhwenRBREpIVkJ0NUY2ZWd4X3VFT25xc0VhSXdlTmREbjdtdlpBWjhNUEJCRng4eEHSAXtBVV95cUxQMDZyQkg5UGNabDJ5dDd1djVRNmtkTUtaRy1LYWRrb0s4RUxTZzFIeWZSeW5zWFhuZWluVU1RUHJ3WEpZUlJqaVZTcThzUXFfQUQ2MmtjckpOU2RvMm9hTGwzVWV0azdYaFZIOUdfMTAydnRwZjAtdWZ0ZmM?oc=5\" target=\"_blank\">AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEg0eG9uNmxPYTlVTXlBT1hWVzBmMlcyRkVBa25yX3BBcmtHTldFZzlyUjN3bTRrLVNfcFVPc3hmUnU5ODlVQ1Nta25VWTQ0YVlTYVl1dGFnNW8tdHNucHFLMXlUakh4QW5oajBaN3c0QTVzTlIzUUZPd2k1NTAyNExWcEEyWGvSAYwBQVVfeXFMTUdXZW02NkRGY2lOZlFabHVHaWp2ZE91RUVhaHBmSzdlUDUwa2s2M3RoR0RUN0Y2SGtncDgtWHVQN2d5RmZWbllka2xWY3d4Y1pPQ0IwczRzN0xOU3pPM0RiYWtNY0hZNjdPV2o4WmtwbmJfdjlQemh3ZHJFY0Nxc1NxM1NzVno4NEszRlk?oc=5",
+          "published": "Mon, 03 Aug 2026 21:30:03 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEg0eG9uNmxPYTlVTXlBT1hWVzBmMlcyRkVBa25yX3BBcmtHTldFZzlyUjN3bTRrLVNfcFVPc3hmUnU5ODlVQ1Nta25VWTQ0YVlTYVl1dGFnNW8tdHNucHFLMXlUakh4QW5oajBaN3c0QTVzTlIzUUZPd2k1NTAyNExWcEEyWGvSAYwBQVVfeXFMTUdXZW02NkRGY2lOZlFabHVHaWp2ZE91RUVhaHBmSzdlUDUwa2s2M3RoR0RUN0Y2SGtncDgtWHVQN2d5RmZWbllka2xWY3d4Y1pPQ0IwczRzN0xOU3pPM0RiYWtNY0hZNjdPV2o4WmtwbmJfdjlQemh3ZHJFY0Nxc1NxM1NzVno4NEszRlk?oc=5\" target=\"_blank\">Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "CNBC Daily Open: Fast and furious intervention to prop up the yen — will it work?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmIwc1U3YXlWUDgtOVVRb2tZZkRWTmNKTVI3a2VuZWZVcFFIdEQyZk5nNnAxeDNHY3JnZUhmNGZWNGRscWVvendPRm1OVjNuOXRLWGRiUWw2MDJaUWpFcGVjYkFqbnQ2MjFRblFkNnBzUzdmWWQwNEdqWVdySWV2TU80N1Q1ekxFWFJXaGV4cmtKVkNHYkg0adIBngFBVV95cUxOaVROX3JUZXdlZjl4NjNVUUlIaVhUSEdoLWJnVHl2R1dGakR1TGo4eVBKQVhYUVNUejdtV1BEajNCcF9jX0VMeUtGT1ZIeWxqZ3pXXzE0bGhNclMzX2phT0RVQkdtX2U4eWxWN1hwOFBVd1RRMklBYTFjNlZqQTl4Zk1lZXNCTG5JZE9FcTEyZjliUjJwTXBUNXRvTXBKUQ?oc=5",
+          "published": "Tue, 04 Aug 2026 00:52:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmIwc1U3YXlWUDgtOVVRb2tZZkRWTmNKTVI3a2VuZWZVcFFIdEQyZk5nNnAxeDNHY3JnZUhmNGZWNGRscWVvendPRm1OVjNuOXRLWGRiUWw2MDJaUWpFcGVjYkFqbnQ2MjFRblFkNnBzUzdmWWQwNEdqWVdySWV2TU80N1Q1ekxFWFJXaGV4cmtKVkNHYkg0adIBngFBVV95cUxOaVROX3JUZXdlZjl4NjNVUUlIaVhUSEdoLWJnVHl2R1dGakR1TGo4eVBKQVhYUVNUejdtV1BEajNCcF9jX0VMeUtGT1ZIeWxqZ3pXXzE0bGhNclMzX2phT0RVQkdtX2U4eWxWN1hwOFBVd1RRMklBYTFjNlZqQTl4Zk1lZXNCTG5JZE9FcTEyZjliUjJwTXBUNXRvTXBKUQ?oc=5\" target=\"_blank\">CNBC Daily Open: Fast and furious intervention to prop up the yen — will it work?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52OERCNE9wbUxaWThFYXNFaFNSeGladF9kcVVuenFDX3BmU1U0ZHBURHp1S3VuSVl2ZHVLblU0TzVwWS1HR2RQand0NXFDdnpiNVk3eDBQdGpOQ2FsQWp0WHJiNHU0ckJCZmgtdjQxdlNfTEdqRVHSAXtBVV95cUxPZ3Q1WkJUaW05ZFpkZmhiS3RLSklUZm10SG5HZm42VlJscTdsT3FEVEJlMktrWEFYY3l2YzBNY1RqbzJId0N2NzA4WWpKSzBVbUxIU2hKN1c2TFo1SzNhSy1tMXFrQzdlWjczOWVVLUNSY3ppZmwyenFud2s?oc=5",
+          "published": "Mon, 03 Aug 2026 20:08:29 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE52OERCNE9wbUxaWThFYXNFaFNSeGladF9kcVVuenFDX3BmU1U0ZHBURHp1S3VuSVl2ZHVLblU0TzVwWS1HR2RQand0NXFDdnpiNVk3eDBQdGpOQ2FsQWp0WHJiNHU0ckJCZmgtdjQxdlNfTEdqRVHSAXtBVV95cUxPZ3Q1WkJUaW05ZFpkZmhiS3RLSklUZm10SG5HZm42VlJscTdsT3FEVEJlMktrWEFYY3l2YzBNY1RqbzJId0N2NzA4WWpKSzBVbUxIU2hKN1c2TFo1SzNhSy1tMXFrQzdlWjczOWVVLUNSY3ppZmwyenFud2s?oc=5\" target=\"_blank\">Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
           "title": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHprU1oxa1ZnVTY4R09BdC1ZejFVcjhkRW8tZmFfdnNlN1Fscy1TU3Z0MVpBNnNKNmVBUlBVSTdJRU5XNDd2bkNBM1ZoXzZyeFYtVDEzc1J5SUFIMTlRTHpsT3U2T0NBOXBkTmU4MHJsSzQyMENvVXpvMnpENXVJdF9EY1lGVk5kMk9qVDlwOFF4YkdKakI1Mw?oc=5",
           "published": "Mon, 03 Aug 2026 20:45:50 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHprU1oxa1ZnVTY4R09BdC1ZejFVcjhkRW8tZmFfdnNlN1Fscy1TU3Z0MVpBNnNKNmVBUlBVSTdJRU5XNDd2bkNBM1ZoXzZyeFYtVDEzc1J5SUFIMTlRTHpsT3U2T0NBOXBkTmU4MHJsSzQyMENvVXpvMnpENXVJdF9EY1lGVk5kMk9qVDlwOFF4YkdKakI1Mw?oc=5\" target=\"_blank\">Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
-        },
-        {
-          "title": "Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52OERCNE9wbUxaWThFYXNFaFNSeGladF9kcVVuenFDX3BmU1U0ZHBURHp1S3VuSVl2ZHVLblU0TzVwWS1HR2RQand0NXFDdnpiNVk3eDBQdGpOQ2FsQWp0WHJiNHU0ckJCZmgtdjQxdlNfTEdqRVE?oc=5",
-          "published": "Mon, 03 Aug 2026 20:08:29 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE52OERCNE9wbUxaWThFYXNFaFNSeGladF9kcVVuenFDX3BmU1U0ZHBURHp1S3VuSVl2ZHVLblU0TzVwWS1HR2RQand0NXFDdnpiNVk3eDBQdGpOQ2FsQWp0WHJiNHU0ckJCZmgtdjQxdlNfTEdqRVE?oc=5\" target=\"_blank\">Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
-        },
-        {
-          "title": "Twenty five states sue Trump administration over latest global tariffs",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGEyTWEwWDd5cS1Sa25DWXBwUExTNzRzMFI4Z0lPMFJQcF9MS3ZWdTZqcEZxUlNZWmVoWlk5STd0ZEZMZ1RNSDZJZEZHc2tfUF9OSkV4WGNDcjUzNGFlZ1dENVVUcnZPelYzU2JYWm9uZDBMNjlZSGdZTV9mUzdWenVkSmo2TmtTX0HSAY8BQVVfeXFMT2Vid1luOHBnLWUtamNtcF9KcjFkRVJfLThFQUxnS3preGw4UDhubWVzRzN6aURJSy11U3ptUTdFejNvUEVpNXQtajJiZXZrY09WbzhYYUpBSVhXT053RGd5UDdVRDhZUnRnTDNxOVh4bWhaMkI3YWVhNjJ1M2lpZGVzTmdYcjVhS1NjNmVxOWc?oc=5",
-          "published": "Mon, 03 Aug 2026 19:44:45 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGEyTWEwWDd5cS1Sa25DWXBwUExTNzRzMFI4Z0lPMFJQcF9MS3ZWdTZqcEZxUlNZWmVoWlk5STd0ZEZMZ1RNSDZJZEZHc2tfUF9OSkV4WGNDcjUzNGFlZ1dENVVUcnZPelYzU2JYWm9uZDBMNjlZSGdZTV9mUzdWenVkSmo2TmtTX0HSAY8BQVVfeXFMT2Vid1luOHBnLWUtamNtcF9KcjFkRVJfLThFQUxnS3preGw4UDhubWVzRzN6aURJSy11U3ptUTdFejNvUEVpNXQtajJiZXZrY09WbzhYYUpBSVhXT053RGd5UDdVRDhZUnRnTDNxOVh4bWhaMkI3YWVhNjJ1M2lpZGVzTmdYcjVhS1NjNmVxOWc?oc=5\" target=\"_blank\">Twenty five states sue Trump administration over latest global tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
-        },
-        {
-          "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObk5LNVZzcGxBT29HZWR0Z2laYVRPNGtNLUhzcTVodmxTdkt2dDR3QnVTRHlnaC03a1dnd0oyYldtOWx6SWxmTXl4VnVmZUY3aTduN2xsdVJVWnVvbjdram1sSzRPMXExWjM1amFqWVNLbGZxMmxtQXVLVEtod1ZTcVdYMEJDUVRLd1JNXzh6T3Q1QmNhd1BTcnZMczlLZU9sSGFMUnZTZE13eHh0R2Zud0lFM0lhWHEwOXhrM0N0emo1emVZazhOUzJyblN5VlQ3NTlTazA2Z3nSAd4BQVVfeXFMT3V4OWU0RTlMeExsOHFzU0ZPX3J2ZHpKVEdJNlpYRGJmdWpXbFN1Nm8zZmptTWdpWkZ5ejdfUGV0TWRHWjhzel9yLVFWWjJmV3RPLVVxTjZmWmZzYWxKVndYZVI3OTQwV1NKMDNVdVBzQlVNbFVGZ2s1QVBLZ2NUZHJuaEZEcjJOZzNrWlFLVUNKTkhobFROa2VXejVSRVM5cklXOHhvd0VUeHlKRml1TDdNNThsZjN2NmhJODZOUVZXb3ljbVlST0MycE5oa3JoVjFWeVhKajk1OTFYR0ln?oc=5",
-          "published": "Mon, 03 Aug 2026 18:32:09 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxObk5LNVZzcGxBT29HZWR0Z2laYVRPNGtNLUhzcTVodmxTdkt2dDR3QnVTRHlnaC03a1dnd0oyYldtOWx6SWxmTXl4VnVmZUY3aTduN2xsdVJVWnVvbjdram1sSzRPMXExWjM1amFqWVNLbGZxMmxtQXVLVEtod1ZTcVdYMEJDUVRLd1JNXzh6T3Q1QmNhd1BTcnZMczlLZU9sSGFMUnZTZE13eHh0R2Zud0lFM0lhWHEwOXhrM0N0emo1emVZazhOUzJyblN5VlQ3NTlTazA2Z3nSAd4BQVVfeXFMT3V4OWU0RTlMeExsOHFzU0ZPX3J2ZHpKVEdJNlpYRGJmdWpXbFN1Nm8zZmptTWdpWkZ5ejdfUGV0TWRHWjhzel9yLVFWWjJmV3RPLVVxTjZmWmZzYWxKVndYZVI3OTQwV1NKMDNVdVBzQlVNbFVGZ2s1QVBLZ2NUZHJuaEZEcjJOZzNrWlFLVUNKTkhobFROa2VXejVSRVM5cklXOHhvd0VUeHlKRml1TDdNNThsZjN2NmhJODZOUVZXb3ljbVlST0MycE5oa3JoVjFWeVhKajk1OTFYR0ln?oc=5\" target=\"_blank\">Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
-        },
-        {
-          "title": "Can Palantir pull off a Microsoft-style comeback? Here's what options say",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUNwWlU4SnZWcUZOZnlmSExPUHViS2hkbkxqTFRoNE9EbGhuZVR3RWp5SHZfY0lxelJWQnFQWGxFRjU2d1ZmN1dtdnBfYnB0ZDlSYXFCTFM1SG5OU0hfa3BEM0lWOF80R041VDlLb1d5Z1VpUjRxU0FHNGpfOGlSSUpMYjhNWXpDSEthSnNZZlJqX2xsOFV2UmYwSWZ4U05kUVlGYTFCSWVOSlJl0gGyAUFVX3lxTE1GUkRsY3lVLWJnS3ExRmgteHdIWmh5WXpGdHhFS01yODJZN2ZJMzNBWnNUS0RDaV9YbzVyYldfX2I5WkNxUlZpRXU5Ni0wTWIxY2tkZTFxUlZiSTYzV3ZOMXhRcFFHZVItMjczUWFEemowY2EwR3Z0RlZycVVvZ3oyNVVFaW5HaXNZWVJOTFZoaXVPa0gwT25LMDhfRVFJRDFpaFRVQUtVQ3hQaFZCTUlIMlE?oc=5",
-          "published": "Mon, 03 Aug 2026 18:34:52 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUNwWlU4SnZWcUZOZnlmSExPUHViS2hkbkxqTFRoNE9EbGhuZVR3RWp5SHZfY0lxelJWQnFQWGxFRjU2d1ZmN1dtdnBfYnB0ZDlSYXFCTFM1SG5OU0hfa3BEM0lWOF80R041VDlLb1d5Z1VpUjRxU0FHNGpfOGlSSUpMYjhNWXpDSEthSnNZZlJqX2xsOFV2UmYwSWZ4U05kUVlGYTFCSWVOSlJl0gGyAUFVX3lxTE1GUkRsY3lVLWJnS3ExRmgteHdIWmh5WXpGdHhFS01yODJZN2ZJMzNBWnNUS0RDaV9YbzVyYldfX2I5WkNxUlZpRXU5Ni0wTWIxY2tkZTFxUlZiSTYzV3ZOMXhRcFFHZVItMjczUWFEemowY2EwR3Z0RlZycVVvZ3oyNVVFaW5HaXNZWVJOTFZoaXVPa0gwT25LMDhfRVFJRDFpaFRVQUtVQ3hQaFZCTUlIMlE?oc=5\" target=\"_blank\">Can Palantir pull off a Microsoft-style comeback? Here's what options say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
@@ -483,31 +504,10 @@
           "source": "CNBC"
         },
         {
-          "title": "'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96RWFlUUluM3phek9ZN2VOQU16Uk5Bejc2OUF2dHgzZFVtSlgwUUVOMzMwU2xoU1M5cFJvVkZUVHNZRGRUbU9oZm1jdlNUQlJabFFDRUVyYlJxRDA0STdRWDRpRFNobU5OM0g40gFwQVVfeXFMTWNySElxSTlwek1ab3lOSzRjYlV6bzg5SW1ZMkdFYkpvdWJxLXRiYzlWTGdsN1RiVFRPTjA2SnBzeU9ERnY1aUdfUlJJMVpkZHowbWpxQThJNE1jTTB4djlHSV94RGxhTXN0LUp1aHNTdw?oc=5",
-          "published": "Mon, 03 Aug 2026 17:14:45 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96RWFlUUluM3phek9ZN2VOQU16Uk5Bejc2OUF2dHgzZFVtSlgwUUVOMzMwU2xoU1M5cFJvVkZUVHNZRGRUbU9oZm1jdlNUQlJabFFDRUVyYlJxRDA0STdRWDRpRFNobU5OM0g40gFwQVVfeXFMTWNySElxSTlwek1ab3lOSzRjYlV6bzg5SW1ZMkdFYkpvdWJxLXRiYzlWTGdsN1RiVFRPTjA2SnBzeU9ERnY1aUdfUlJJMVpkZHowbWpxQThJNE1jTTB4djlHSV94RGxhTXN0LUp1aHNTdw?oc=5\" target=\"_blank\">'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
-        },
-        {
-          "title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zRGI2c1A2SHF1Yzd6LWRmQ2Qza09qanNLeVpkcUk5M3EtWUY2ZlBBZzkxLXNMWDZhZEFMZFFkdXpNVnNIV0R6d2M2ZDlsVUctQWhzOENEc3g5Qm9LdmlOeHpCWkFabmNwLVdOSTh1UWd6blo3ci0yb9IBfkFVX3lxTE5XMjhubVV6SHlNTlhYeTZ3Q3dpaGRkN09Zcy14Y0dETGJwcVBQX1BfWVJMdnJSam1hTnZ4NTNoQ1RRUkp4ZGhBOVFVRk1UNXZyVmIzamczbFUyYTBJOFMxenJYR2xQUHRJRzU3Z1YwQk9MN0hITThPN3FnMW9CUQ?oc=5",
-          "published": "Mon, 03 Aug 2026 16:38:21 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4zRGI2c1A2SHF1Yzd6LWRmQ2Qza09qanNLeVpkcUk5M3EtWUY2ZlBBZzkxLXNMWDZhZEFMZFFkdXpNVnNIV0R6d2M2ZDlsVUctQWhzOENEc3g5Qm9LdmlOeHpCWkFabmNwLVdOSTh1UWd6blo3ci0yb9IBfkFVX3lxTE5XMjhubVV6SHlNTlhYeTZ3Q3dpaGRkN09Zcy14Y0dETGJwcVBQX1BfWVJMdnJSam1hTnZ4NTNoQ1RRUkp4ZGhBOVFVRk1UNXZyVmIzamczbFUyYTBJOFMxenJYR2xQUHRJRzU3Z1YwQk9MN0hITThPN3FnMW9CUQ?oc=5\" target=\"_blank\">FAA clears smallest Boeing 737 Max to fly after years of delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
-        },
-        {
-          "title": "Trump sours on Pirro over Reflecting Pool case, won't say her job is safe",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnh3a3psSS1hcGpqLV95Z1AtaFltcjBjTllIRnJlQXdXNDhRNU5IOGJXZUJTNWgwcEpVX0JKTVUtYkRyMm02N254bG50NjBHMGVmWmktdTNnMVhMR3F3QlBqX19hWWZNWU1uSDRQLU1neWZCZGhHOVhZUlNTZ1RvTEdsMHY0UdIBiwFBVV95cUxOaUpPckxPaTVNUnRtd1VTSXdVTGUyb2ZqYUFtNGRRUGFmejFJdVhldEw4VlNBYm0ySUxoa0tTRHRubXBRd1BrazNDZTAtVDFmUnZUeFctUFVlWmh5aFNQNFA5V2syR0hkOFRsQkV4Mk43Vk43ZEhIYjNNSUJ1SVBmaURuVzAyVVB0bEZJ?oc=5",
-          "published": "Mon, 03 Aug 2026 19:42:37 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnh3a3psSS1hcGpqLV95Z1AtaFltcjBjTllIRnJlQXdXNDhRNU5IOGJXZUJTNWgwcEpVX0JKTVUtYkRyMm02N254bG50NjBHMGVmWmktdTNnMVhMR3F3QlBqX19hWWZNWU1uSDRQLU1neWZCZGhHOVhZUlNTZ1RvTEdsMHY0UdIBiwFBVV95cUxOaUpPckxPaTVNUnRtd1VTSXdVTGUyb2ZqYUFtNGRRUGFmejFJdVhldEw4VlNBYm0ySUxoa0tTRHRubXBRd1BrazNDZTAtVDFmUnZUeFctUFVlWmh5aFNQNFA5V2syR0hkOFRsQkV4Mk43Vk43ZEhIYjNNSUJ1SVBmaURuVzAyVVB0bEZJ?oc=5\" target=\"_blank\">Trump sours on Pirro over Reflecting Pool case, won't say her job is safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
-        },
-        {
-          "title": "White House to host AI companies Tuesday to review new model-testing framework",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5",
-          "published": "Mon, 03 Aug 2026 16:18:22 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5\" target=\"_blank\">White House to host AI companies Tuesday to review new model-testing framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "title": "Twenty five states sue Trump administration over latest global tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGEyTWEwWDd5cS1Sa25DWXBwUExTNzRzMFI4Z0lPMFJQcF9MS3ZWdTZqcEZxUlNZWmVoWlk5STd0ZEZMZ1RNSDZJZEZHc2tfUF9OSkV4WGNDcjUzNGFlZ1dENVVUcnZPelYzU2JYWm9uZDBMNjlZSGdZTV9mUzdWenVkSmo2TmtTX0HSAY8BQVVfeXFMT2Vid1luOHBnLWUtamNtcF9KcjFkRVJfLThFQUxnS3preGw4UDhubWVzRzN6aURJSy11U3ptUTdFejNvUEVpNXQtajJiZXZrY09WbzhYYUpBSVhXT053RGd5UDdVRDhZUnRnTDNxOVh4bWhaMkI3YWVhNjJ1M2lpZGVzTmdYcjVhS1NjNmVxOWc?oc=5",
+          "published": "Mon, 03 Aug 2026 19:44:45 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGEyTWEwWDd5cS1Sa25DWXBwUExTNzRzMFI4Z0lPMFJQcF9MS3ZWdTZqcEZxUlNZWmVoWlk5STd0ZEZMZ1RNSDZJZEZHc2tfUF9OSkV4WGNDcjUzNGFlZ1dENVVUcnZPelYzU2JYWm9uZDBMNjlZSGdZTV9mUzdWenVkSmo2TmtTX0HSAY8BQVVfeXFMT2Vid1luOHBnLWUtamNtcF9KcjFkRVJfLThFQUxnS3preGw4UDhubWVzRzN6aURJSy11U3ptUTdFejNvUEVpNXQtajJiZXZrY09WbzhYYUpBSVhXT053RGd5UDdVRDhZUnRnTDNxOVh4bWhaMkI3YWVhNjJ1M2lpZGVzTmdYcjVhS1NjNmVxOWc?oc=5\" target=\"_blank\">Twenty five states sue Trump administration over latest global tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         }
       ]
@@ -518,45 +518,24 @@
       "count": 10,
       "articles": [
         {
+          "title": "Catch up: Von der Leyen calls for “united action” on EU migration; Palantir raises revenue forecast",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHdkaU1zNWhFRURKOFc0Q0l3blNDX3pkeVdmeHAxMGtZNFRWR3pfaUp4TUNqQVVpcDVRemZ6MFo1VzZmeFdHMWNpT3dORTJFVnkxTVo0bDcwSGU1UUFjNXh3WUYwSm9ZdGNHZDZ3bngwMHRHcmg0cXdpUkY3ZWh6a09nblY5S3A2TXRfYl93TUxPZTFoZTR3?oc=5",
+          "published": "Tue, 04 Aug 2026 05:40:04 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHdkaU1zNWhFRURKOFc0Q0l3blNDX3pkeVdmeHAxMGtZNFRWR3pfaUp4TUNqQVVpcDVRemZ6MFo1VzZmeFdHMWNpT3dORTJFVnkxTVo0bDcwSGU1UUFjNXh3WUYwSm9ZdGNHZDZ3bngwMHRHcmg0cXdpUkY3ZWh6a09nblY5S3A2TXRfYl93TUxPZTFoZTR3?oc=5\" target=\"_blank\">Catch up: Von der Leyen calls for “united action” on EU migration; Palantir raises revenue forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
           "title": "Catch up: Trump insists Iran talks have resumed; Palantir raises revenue forecast",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaU9UTl9DTmlvM3ZTdzBoQlFwOGFKZTNSLV8wYXRkRlN3M1JEMDVXVXdUSnNYUFhXaV9lX3l5SUZXQmdZOTJTdEpHMDd2TDJGcUhyNUIyRkowVFBsYkJZbHQwaHRjRnNTZmEtOFhYLUl1YXA1b2dnS085elkzRUhSRWg0QThMdXdISHBLdDJiS242aGg1ZkpR?oc=5",
-          "published": "Mon, 03 Aug 2026 22:55:41 GMT",
+          "published": "Tue, 04 Aug 2026 01:55:41 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQaU9UTl9DTmlvM3ZTdzBoQlFwOGFKZTNSLV8wYXRkRlN3M1JEMDVXVXdUSnNYUFhXaV9lX3l5SUZXQmdZOTJTdEpHMDd2TDJGcUhyNUIyRkowVFBsYkJZbHQwaHRjRnNTZmEtOFhYLUl1YXA1b2dnS085elkzRUhSRWg0QThMdXdISHBLdDJiS242aGg1ZkpR?oc=5\" target=\"_blank\">Catch up: Trump insists Iran talks have resumed; Palantir raises revenue forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
-          "title": "Catch up: Iran denies talks start Monday; Japan and America prop up the yen",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcU1SeVpfaXE0NDF4TzFCN05kOGVpRTRIS2RjU2gyMVhfME1zWHlUYmZKNHMzTDlNbVdUMFpaSHFBZ2hHelUyaG0xalFOaG9sOHItdXljbkEwaUgyME91OFd5VlVMVXNGeWZUcUttRUlULUkwLW1IVkphcjZnZ1I1TWQ0cGtnWmxHVjA2QmlKREdJMC1xZjcw?oc=5",
-          "published": "Mon, 03 Aug 2026 00:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcU1SeVpfaXE0NDF4TzFCN05kOGVpRTRIS2RjU2gyMVhfME1zWHlUYmZKNHMzTDlNbVdUMFpaSHFBZ2hHelUyaG0xalFOaG9sOHItdXljbkEwaUgyME91OFd5VlVMVXNGeWZUcUttRUlULUkwLW1IVkphcjZnZ1I1TWQ0cGtnWmxHVjA2QmlKREdJMC1xZjcw?oc=5\" target=\"_blank\">Catch up: Iran denies talks start Monday; Japan and America prop up the yen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-          "source": "经济学人"
-        },
-        {
-          "title": "Catch up: Trump says Iran talks start Monday; Japan and America prop up the yen",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDNYUFJyNWtjNThsZmstTnBJTGhnQzV0WjR1RHhyRlMzbzduZE5jOXlfRHR2cGJPekNNZWpRVlA5SzZkZ3N2U3hPZDRINjNrVldhNE82bWktYWRGdDFlWENNenpoSk8wcHprUXMtTnFTT3M4VzJ2TkFodVNqZ3hxbjVBOWh1bG5OM05YRF8wbTZpZ2JpdmdZ?oc=5",
-          "published": "Mon, 03 Aug 2026 00:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObDNYUFJyNWtjNThsZmstTnBJTGhnQzV0WjR1RHhyRlMzbzduZE5jOXlfRHR2cGJPekNNZWpRVlA5SzZkZ3N2U3hPZDRINjNrVldhNE82bWktYWRGdDFlWENNenpoSk8wcHprUXMtTnFTT3M4VzJ2TkFodVNqZ3hxbjVBOWh1bG5OM05YRF8wbTZpZ2JpdmdZ?oc=5\" target=\"_blank\">Catch up: Trump says Iran talks start Monday; Japan and America prop up the yen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-          "source": "经济学人"
-        },
-        {
-          "title": "The Economist is hiring a Deputy Head of Social Media",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlU4NTNSTXhTOHVuckhpYlZqMWEwUjdiOC1wNTQwaG9lcks5T2dDd0V1MDF1Mi1LSU9ldU40SXYzQXl5cC12aF9DTDVjeG5OeEpRVDhmbE43TG9QU3c1TGFnb1FZclJqV1FJc0NGSkYxbnVMVElZaDhOSEIyTjNQRUNuMEtZTlJqSk5tTkRRNU1abVp3ZklaeEo5STJBTkU?oc=5",
-          "published": "Mon, 03 Aug 2026 14:58:37 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlU4NTNSTXhTOHVuckhpYlZqMWEwUjdiOC1wNTQwaG9lcks5T2dDd0V1MDF1Mi1LSU9ldU40SXYzQXl5cC12aF9DTDVjeG5OeEpRVDhmbE43TG9QU3c1TGFnb1FZclJqV1FJc0NGSkYxbnVMVElZaDhOSEIyTjNQRUNuMEtZTlJqSk5tTkRRNU1abVp3ZklaeEo5STJBTkU?oc=5\" target=\"_blank\">The Economist is hiring a Deputy Head of Social Media</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-          "source": "经济学人"
-        },
-        {
-          "title": "The World in Brief: Trump calls off strikes on Iran; heat wreaks havoc in Europe",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzhBbmF0XzBEbG9kX3hPam5NNHlZX21mVkJwTVRSNFBmYzhRVnZjcXNtMnJCNXRYcExFOFpjZjJkT3FtUEtkSDlEclFmSUhPUEhHMVhBcDlhaUNCYVBKcmljdnRCRVRaUFNxVGZ1aWg3ZVZHQ2Q5ZHR4VEszX0JBRW1pemJFTWZiRk9YdThKSjRGcFlGZXBB?oc=5",
-          "published": "Mon, 03 Aug 2026 05:11:22 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzhBbmF0XzBEbG9kX3hPam5NNHlZX21mVkJwTVRSNFBmYzhRVnZjcXNtMnJCNXRYcExFOFpjZjJkT3FtUEtkSDlEclFmSUhPUEhHMVhBcDlhaUNCYVBKcmljdnRCRVRaUFNxVGZ1aWg3ZVZHQ2Q5ZHR4VEszX0JBRW1pemJFTWZiRk9YdThKSjRGcFlGZXBB?oc=5\" target=\"_blank\">The World in Brief: Trump calls off strikes on Iran; heat wreaks havoc in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-          "source": "经济学人"
-        },
-        {
-          "title": "A status check for summer travel",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjhWX040dG1CUHBNN29fSC1IQ3pkZEFkYTFyS0ZFSERrTUNoYUI5NWhrWmtvZk1pSDBUNFk1WDR2TDJQOThJLVBsRkpJLXZnVmt0NnlHZ2xCYXQ4WDJKSU9UTFlENXJtOWpBR3Y5dklHM3A0dFgtRTkwN2t0WnVsVGhYYlJQR1hTdHVlcDZFeHNNMmZNSnk0?oc=5",
-          "published": "Mon, 03 Aug 2026 00:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjhWX040dG1CUHBNN29fSC1IQ3pkZEFkYTFyS0ZFSERrTUNoYUI5NWhrWmtvZk1pSDBUNFk1WDR2TDJQOThJLVBsRkpJLXZnVmt0NnlHZ2xCYXQ4WDJKSU9UTFlENXJtOWpBR3Y5dklHM3A0dFgtRTkwN2t0WnVsVGhYYlJQR1hTdHVlcDZFeHNNMmZNSnk0?oc=5\" target=\"_blank\">A status check for summer travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "How long can Iran weaponise Hormuz?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDNLNFdvY2JtaGdkbHVyWEtueW80WkpOakQ1UV9tQUhfSlJZUzEwLUpOblVBVmlpM2s4eWVPZ1J2SnBVUG5rNkJNdHJYNkJvbHZQazdzak8zN3REVmRsbmFLTjl6QUxLU2JYWjNvdF9oUGN4M1A3WVctVnRyMzZEVWh1enBMOVBHc0NWOXo4RkhRYTgxVjF2TWlB?oc=5",
+          "published": "Mon, 03 Aug 2026 20:02:27 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDNLNFdvY2JtaGdkbHVyWEtueW80WkpOakQ1UV9tQUhfSlJZUzEwLUpOblVBVmlpM2s4eWVPZ1J2SnBVUG5rNkJNdHJYNkJvbHZQazdzak8zN3REVmRsbmFLTjl6QUxLU2JYWjNvdF9oUGN4M1A3WVctVnRyMzZEVWh1enBMOVBHc0NWOXo4RkhRYTgxVjF2TWlB?oc=5\" target=\"_blank\">How long can Iran weaponise Hormuz?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         },
         {
@@ -567,13 +546,6 @@
           "source": "经济学人"
         },
         {
-          "title": "How China gets better bang for its buck than America in AI",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5",
-          "published": "Mon, 03 Aug 2026 17:15:13 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5\" target=\"_blank\">How China gets better bang for its buck than America in AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-          "source": "经济学人"
-        },
-        {
           "title": "China won’t apologise for overcapacity",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZLcTE0TDFST3djQnlwdDRnTmxhV3dQRlAtd05oQ3l4V3pfRlFVbVNGcHNKUlJoMFRCeEs5TmlTOThEU1FDS2N5R01OMWJyUFFfcVB6Z0x2TFFIYW9Dc3JadnRQbnd4c3JySnpIUy0wNmlQd00wdTYtanhqME5TM2gwQlJ2WTA?oc=5",
           "published": "Mon, 03 Aug 2026 17:16:49 GMT",
@@ -581,10 +553,38 @@
           "source": "经济学人"
         },
         {
-          "title": "How long can Iran weaponise Hormuz?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDNLNFdvY2JtaGdkbHVyWEtueW80WkpOakQ1UV9tQUhfSlJZUzEwLUpOblVBVmlpM2s4eWVPZ1J2SnBVUG5rNkJNdHJYNkJvbHZQazdzak8zN3REVmRsbmFLTjl6QUxLU2JYWjNvdF9oUGN4M1A3WVctVnRyMzZEVWh1enBMOVBHc0NWOXo4RkhRYTgxVjF2TWlB?oc=5",
-          "published": "Mon, 03 Aug 2026 20:02:27 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDNLNFdvY2JtaGdkbHVyWEtueW80WkpOakQ1UV9tQUhfSlJZUzEwLUpOblVBVmlpM2s4eWVPZ1J2SnBVUG5rNkJNdHJYNkJvbHZQazdzak8zN3REVmRsbmFLTjl6QUxLU2JYWjNvdF9oUGN4M1A3WVctVnRyMzZEVWh1enBMOVBHc0NWOXo4RkhRYTgxVjF2TWlB?oc=5\" target=\"_blank\">How long can Iran weaponise Hormuz?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "title": "The Economist is hiring a Deputy Head of Social Media",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlU4NTNSTXhTOHVuckhpYlZqMWEwUjdiOC1wNTQwaG9lcks5T2dDd0V1MDF1Mi1LSU9ldU40SXYzQXl5cC12aF9DTDVjeG5OeEpRVDhmbE43TG9QU3c1TGFnb1FZclJqV1FJc0NGSkYxbnVMVElZaDhOSEIyTjNQRUNuMEtZTlJqSk5tTkRRNU1abVp3ZklaeEo5STJBTkU?oc=5",
+          "published": "Mon, 03 Aug 2026 14:58:37 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlU4NTNSTXhTOHVuckhpYlZqMWEwUjdiOC1wNTQwaG9lcks5T2dDd0V1MDF1Mi1LSU9ldU40SXYzQXl5cC12aF9DTDVjeG5OeEpRVDhmbE43TG9QU3c1TGFnb1FZclJqV1FJc0NGSkYxbnVMVElZaDhOSEIyTjNQRUNuMEtZTlJqSk5tTkRRNU1abVp3ZklaeEo5STJBTkU?oc=5\" target=\"_blank\">The Economist is hiring a Deputy Head of Social Media</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "How China gets better bang for its buck than America in AI",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5",
+          "published": "Mon, 03 Aug 2026 17:15:13 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTW9LcWRuZ05SMk9RSUxGdkY0a29uQ1ZJVUg0eEpnYjAtTnl2ekRQUWQ1YUM4c0VyVnJlZURGbnN1SmJaTGdDNVBlTGd1ZVFDTFhMcXlVT3FFV0ppYWpYX2RtS1BhV1JIMkxhSHZoSUc5QnV4d18telBNUlRkV0NjbzUtd0pUaUdlQ0dIQ2xNT2JtWUpxSGZ5ZFEzQTF6dGVadkZfZGNnZTZPR0hfbTZBMjNjVzNhaTBy?oc=5\" target=\"_blank\">How China gets better bang for its buck than America in AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "Millions play padel. Will anyone watch it?",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTJRREpqS2MwYWhsZHhTMHlXVnVzS0xjeWhkVTRMdWdIYWRkckxTcDBBXy1UZ2dZeFZjMHlmRFREUHVYNERfSk55SGN2aXlQOGpfbWhSNmtHOWpSRTkzUkZpVXdlMmVRUmpCM3VkOVNFbkhGRHpmbVNlU09yRDVJMWhuY29mS2xCV01GYTVB?oc=5",
+          "published": "Mon, 03 Aug 2026 17:34:16 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTJRREpqS2MwYWhsZHhTMHlXVnVzS0xjeWhkVTRMdWdIYWRkckxTcDBBXy1UZ2dZeFZjMHlmRFREUHVYNERfSk55SGN2aXlQOGpfbWhSNmtHOWpSRTkzUkZpVXdlMmVRUmpCM3VkOVNFbkhGRHpmbVNlU09yRDVJMWhuY29mS2xCV01GYTVB?oc=5\" target=\"_blank\">Millions play padel. Will anyone watch it?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "The War Room newsletter: Inside a 38-tonne armoured beast",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzRrMHZJUm9jTlpkdUJxUnFVcjZUc1hyMXVsV1pfam0zSTJtdTE1eGVGc2kwTkIwR0xibnlwM3ZyajZTRFZqSHhXTXphYzVscGZGd3puY2JBX25fLUdtbExGMEt1SS01dTQ4MU5qUFFBY0xsQjZMcmFURXZ0dGZZbW5kaXNELUVjaUllc193RVJPN2wyaUpDb0g1bHhkbTFjOUR1QkhQTG56Nnc?oc=5",
+          "published": "Mon, 03 Aug 2026 15:58:16 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzRrMHZJUm9jTlpkdUJxUnFVcjZUc1hyMXVsV1pfam0zSTJtdTE1eGVGc2kwTkIwR0xibnlwM3ZyajZTRFZqSHhXTXphYzVscGZGd3puY2JBX25fLUdtbExGMEt1SS01dTQ4MU5qUFFBY0xsQjZMcmFURXZ0dGZZbW5kaXNELUVjaUllc193RVJPN2wyaUpDb0g1bHhkbTFjOUR1QkhQTG56Nnc?oc=5\" target=\"_blank\">The War Room newsletter: Inside a 38-tonne armoured beast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+          "source": "经济学人"
+        },
+        {
+          "title": "How poor countries are dealing with America’s AIDS cuts",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5",
+          "published": "Mon, 03 Aug 2026 19:26:48 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5\" target=\"_blank\">How poor countries are dealing with America’s AIDS cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
           "source": "经济学人"
         }
       ]
@@ -595,38 +595,38 @@
       "count": 10,
       "articles": [
         {
-          "title": "Rapists and child sex offenders to be barred from early release scheme",
-          "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 21:35:15 GMT",
-          "summary": "The widow of PC Andrew Harper says it is \"disgusting\" her husband's killers remain eligible for the scheme in England and Wales.",
+          "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+          "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 01:08:13 GMT",
+          "summary": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
           "source": "BBC"
         },
         {
-          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-          "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 18:04:30 GMT",
-          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+          "title": "EU calls for stronger borders after Ceuta migrant crossings",
+          "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 21:43:10 GMT",
+          "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
           "source": "BBC"
         },
         {
-          "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 07:49:33 GMT",
-          "summary": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+          "title": "There's a reason child vaccination rates are falling",
+          "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 23:10:05 GMT",
+          "summary": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
           "source": "BBC"
         },
         {
-          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 19:42:55 GMT",
-          "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+          "title": "Analysis: Trump fumes as top allies back down on his personal battles",
+          "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 00:02:40 GMT",
+          "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
           "source": "BBC"
         },
         {
-          "title": "France hits out at Reform UK plan to return migrants using Navy",
-          "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 16:48:58 GMT",
-          "summary": "It comes after the party said it would override French objections to return migrants to France.",
+          "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
+          "url": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 23:28:34 GMT",
+          "summary": "More places in southern and eastern England are expected to reach heatwave criteria on Tuesday but cooler temperatures are on the horizon.",
           "source": "BBC"
         },
         {
@@ -637,31 +637,31 @@
           "source": "BBC"
         },
         {
-          "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
-          "url": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 15:29:13 GMT",
-          "summary": "The BBC is the first media organisation to gain access to the city and speak to people on the ground in Rawalakot.",
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 03:37:14 GMT",
+          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
           "source": "BBC"
         },
         {
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 16:27:43 GMT",
-          "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 02:53:00 GMT",
+          "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
           "source": "BBC"
         },
         {
-          "title": "Son who kept mum's body in freezer for years collected £78k of her benefits",
-          "url": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 16:34:36 GMT",
-          "summary": "Christopher Phillips’ mother, Sylvia, had yellow and pink roses and a birthday card placed on her body.",
+          "title": "Half-price rail travel extended to 18-year-olds",
+          "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 23:34:13 GMT",
+          "summary": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
           "source": "BBC"
         },
         {
-          "title": "EU calls for stronger borders after Ceuta migrant crossings",
-          "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 03 Aug 2026 21:43:10 GMT",
-          "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+          "title": "'Rape list' part of misogyny girls face at school",
+          "url": "https://www.bbc.co.uk/news/articles/c2lqjjwvw2xo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 23:39:04 GMT",
+          "summary": "A group of teenagers make a film describing their experiences, ahead of changes to the curriculum.",
           "source": "BBC"
         }
       ]
@@ -671,6 +671,41 @@
       "name_cn": "纽约时报",
       "count": 10,
       "articles": [
+        {
+          "title": "那些走投无路的美国穷人",
+          "url": "https://cn.nytimes.com/opinion/20260804/poverty-america-oklahoma/",
+          "published": "Tue, 04 Aug 2026 05:37:02 +0000",
+          "summary": "<address>纪思道</address><time datetime=\"2026-08-04 01:24:37\">2026年8月4日</time><section><p>在一次穿越美国广袤土地、行程约1600公里的公路之旅后，有一个身影始终萦绕在我脑海——住在俄克拉荷马城的特里尼蒂·古德曼，她是一个性格开朗、话匣子停不下来的女人，手臂上缠着一块绷带。</p><p>为什么要缠绷带？44岁的古德曼靠每周卖两次血浆维持生计。她的支票账户里只有3.78美元；储蓄账户里只有一美分——只是为了让账户不被关掉；存钱罐里还有六枚一分硬币。</p><p>“这就是我的全部家当，”她说，脸上带着一丝自嘲的笑。</p><p>“勉强维生，”她又说，“真的很难，太惨了。”</p><p>她生活在一个许多人或许难以想象的美国。她说，五年来，为了免于流落街头，她只能住在一个男人家里——那人并非她的伴侣，不过是利用她的脆弱定期索要性关系。她说，一家名为“<a href=\"https://www.hopecsi.org/\" rel=\"noopener noreferrer\" target=\"_blank\">希望社区服务</a>”的当地非营利机构雪中送炭，帮她申请到了低收入住房，每月只需支付50美元；否则，她将仍然不得不在违背意愿的性关系和无家可归之间做出选择。</p><p>她靠每月298美元的食品券维持生计，但食品券不能用于购买卫生纸或女性卫生用品。所以她只能靠教堂开设的救济站来获取这些东西，这些救济站是美国许多地方贫困人口赖以生存的生命线。</p><p>剪头发同样是她负担不起的奢侈。“我从来没进过理发店之类的地方，”她说，“从来没有。对我来说太过奢侈。”</p><p>美国的许多行业欣欣向荣，许多美国人也过得很滋润。但我的感觉是，许多人对于有多少人已被远远抛在身后浑然不觉。他们落后得如此之远，以至于他们所生活的美国几乎和我们其他人生活的美国不是同一个国家。而如今，特朗普总统<a href=\"https://www.nytimes.com/2026/07/20/us/politics/snap-food-stamps-arizona.html\" title=\"Link: https://www.nytimes.com/2026/07/20/us/politics/snap-food-stamps-arizona.html\">削减食品券</a>、医疗补助、<a href=\"https://oregoncapitalchronicle.com/2026/07/10/repub/oregon-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/\" rel=\"noopener noreferrer\" target=\"_blank\">儿童心理健康资金</a>、预防怀孕项目和其他社会福利项目，再加上汽油和食品价格上涨，这份苦痛在全美各地愈发沉重。共和党人还对救济福利的申领设置了更为严格的工作要求；从理论上说，这种要求似乎合理，但实践证明，这类要求<a href=\"https://www.gao.gov/products/gao-20-149\" rel=\"noopener noreferrer\" target=\"_blank\">实施起来成本高昂</a>，而且最终往往只是把<a href=\"https://www.rwjf.org/en/insights/our-research/2025/04/work-requirements-threaten-health-and-increase-costs.html\" rel=\"noopener noreferrer\" target=\"_blank\">人们进一步推入贫困</a>。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/01/opinion/01kristof-Human-Services/01kristof-Human-Services-master1050.jpg\" /><small style=\"color: #999;\"> <cite>Tamara Reynolds for The New York Times</cite></figcaption></figure></p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/opinion/01kristof-landscape-1/01kristof-landscape-1-master1050.jpg\" /></p><figcaption></small><p>这次旅途中，我遇到了太多正在失去食品券和其他福利的人，他们越来越走投无路——他们对那些似乎对自己的困境漠不关心的精英阶层感到愤怒，这完全可以理解。《华盛顿邮报》与益普索联合开展的最新民调<a href=\"https://www.washingtonpost.com/tablet/2026/07/15/july-8-13-2026-washington-post-ipsos-poll/\" rel=\"noopener noreferrer\" target=\"_blank\">显示</a>，三分之二的美国人认为食物和日常生活用品的价格已高得难以承受。</p><p>古德曼就是感受到这种压力的其中一员，而且她似乎面临失去食品券的风险——如果真的发生了，她不知道自己还能靠什么生活下去。</p><p>我每年都会举办“<a href=\"https://www.nytimes.com/2025/12/27/opinion/nicholas-kristof-win-a-trip-2026.html\">赢得一次报道之旅</a>”活动，这个项目已坚持了20年，每次我会带一名大学生一同外出采访，报道那些被忽视的议题。通常我们去海外，往往是非洲，但这一次，我们深入俄克拉荷马、阿肯色和肯塔基，探访贫困、成瘾和<a href=\"https://www.nytimes.com/2026/07/29/opinion/sex-trafficking-epstein-exploited.html\">人口贩卖</a>问题。</p><p>今年获奖的学生是布鲁内拉·蒂皮斯马纳，她在秘鲁利马的一个工薪阶层社区长大，刚从耶鲁大学毕业。这趟公路旅行中，我们反复看到的一点是：美国的贫困并不只是缺钱的问题，它往往还具有代际延续性，会不断自我复制。</p><p>就拿古德曼为例，她说自己在创伤中长大的，生活在一个经常滥用毒品、充满毒性的家庭里。她告诉我们，她从六七岁起就遭到强奸和性虐待。她九岁那年，母亲自杀身亡；之后她由其他亲属抚养长大。所有这些创伤都在她身上留下了印记：她说自己后来被临床诊断为<a href=\"https://my.clevelandclinic.org/health/diseases/24881-cptsd-complex-ptsd\" rel=\"noopener noreferrer\" target=\"_blank\">复杂性创伤后应激障碍</a>，导致她无法工作。她申请过残疾福利，并称自己遭到拒绝，目前正在提出申诉。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/opinion/01kristof-Trinity-Goodman-FINAL/01kristof-Trinity-Goodman-FINAL-master1050.jpg\" /><small style=\"color: #999;\"> <cite>Tamara Reynolds for The New York Times</cite></figcaption></figure></p><p>我问古德曼，随着特朗普下令的福利削减和工作要求在全国铺开，她有什么话想对特朗普说。</p><p>“你根本不知道你对那些挣扎求生的人做了什么，”她说，“你银行里有的是钱。你不知道挣扎是什么感觉。来过一天我的生活。你根本撑不下去。”</p><p>在阿肯色州派恩布拉夫——一个以黑人为主、经济凋敝、犯罪猖獗、人口流失的城市，我走访了31岁的拉托亚·福斯特的家。她是一个独自抚养六个孩子的单亲母亲，如今已失去食品券，房租也因此拖欠。</p><p>福斯特在快餐连锁塔可钟担任值班经理，时薪13.40美元。她过去每月依靠1172美元的食品券生活——但5月这些福利突然停止，原因似乎是有关部门怀疑她的两个孩子在其他州领取了不应领取的福利。她否认这一点，并说系统里可能出了什么差错。</p><p>根据预算与政策优先中心的数据，在特朗普过去一年的打击行动下，全美约有<a href=\"https://www.cbpp.org/research/food-assistance/snap-tracker-people-are-losing-food-assistance-as-the-republican-megabill\" rel=\"noopener noreferrer\" target=\"_blank\">150万名儿童</a>失去了食品券。该中心指出——并且我的《纽约时报》同事杰森·德帕尔莱的<a href=\"https://www.nytimes.com/2026/07/20/us/politics/snap-food-stamps-arizona.html\">出色报道</a>也强调，各州在削减成本和降低错误率方面的压力可能导致不当拒绝福利。此外，自今年年初以来，在共和党削减保险补贴后，约有<a href=\"https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html\">300万美国人</a>失去了奥巴马医改的健康保险。</p><p>失去食品券后，福斯特开始拖欠房租——她住在一个犯罪高发社区，三居室房子每月650美元——而且在欠款之外，每天还要增加25美元的滞纳金。</p><p>“我每天都在跌到谷底，”她告诉我，“我越努力工作，日子越艰难。”</p><p>说着，她就情绪崩溃，泣不成声。</p><p>推动削减美国困难人群福利的部分动因是压缩联邦开支，但这跟伊朗战争的巨额支出、对私人飞机的补贴以及给最富有人群的减税放在一起，实在难以自圆其说。还有一个原因，是人们觉得那些“不值得帮助的穷人”在钻系统的空子。但我认为，我们把穷人（而非富人）能够钻空子得手的程度夸大了。根据ProPublica的数据，截至2019年，美国税务审计比例最高的<a href=\"https://projects.propublica.org/graphics/eitc-audit\" rel=\"noopener noreferrer\" target=\"_blank\">地方</a>不是亿万富翁的天堂，而是密西西比州汉弗莱斯县——那里黑人占多数，当时家庭收入中位数约为2.6万美元。</p><p>无论如何，<a href=\"https://www.census.gov/library/stories/2023/12/poverty-rate-varies-by-age-groups.html\" rel=\"noopener noreferrer\" target=\"_blank\">最有可能陷入贫困的年龄段</a>（而且远远高于其他年龄段）是儿童，尤其是<a href=\"https://www.aecf.org/blog/children-living-in-poverty-in-america\" rel=\"noopener noreferrer\" target=\"_blank\">两岁及以下的儿童</a>。他们无论如何都不应被扣上欺诈、懒惰或个人不负责任的帽子。是的，许多人最终会做出糟糕的人生选择，但往往是我们先辜负了他们，而不是他们先辜负了我们。</p><p>特朗普最初曾提议取消“启蒙计划”，这是一个得到两党支持、专门帮助贫困弱势儿童的联邦项目。他后来放弃了这一想法，但国会调查人员发现，特朗普政府曾<a href=\"https://www.nytimes.com/2025/07/23/us/politics/trump-head-start-government-accountability-office.html\">非法扣留该项目120亿美元</a>的资金长达数月，给项目带来巨大困难。</p><p>然而，虽然我们很容易把矛头指向特朗普和共和党削减医疗补助、食品券和其他福利，但似乎不仅特朗普政府对那些被甩在后面的美国人视而不见。</p><p>民主党人经常高谈阔论，称住房是一项人权，但目前无家可归者中露宿街头<a href=\"https://www.huduser.gov/portal/sites/default/files/pdf/2025-AHAR-Part-1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">比例最高</a>的三个州恰恰都是民主党占优势的州：加利福尼亚州、俄勒冈州和夏威夷州。自由派人士抗议特朗普废除教育部的计划是有道理的，但恰恰是少数红州——尤其是阿拉巴马州、路易斯安那州和密西西比州——取得了惊人的进步，如今或许代表着美国教育<a href=\"https://www.nytimes.com/2026/02/09/opinion/red-states-good-schools.html\">最大的希望所在</a>。</p><p>密西西比州的黑人四年级学生阅读达标率现在是加利福尼亚州同年级黑人学生的2.5倍。民主党人完全有权利批评特朗普，但他们也应该照照镜子，看看自己在帮助落后人群方面的失败。</p><p>面对结构性问题，我们往往视而不见。加利福尼亚州帕洛阿尔托住着许多善意满满的自由派人士——2024年有<a href=\"https://admin.cdn.sos.ca.gov/elections/sov/2024-general/ssov/complete-ssov.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">五分之四</a>的选民支持卡玛拉·哈里斯而不是唐纳德·特朗普——这里的优秀公立学校向所有肤色、所有阶层的孩子开放……但前提是他们的家庭负担得起<a href=\"https://www.zillow.com/home-values/26374/palo-alto-ca/\" rel=\"noopener noreferrer\" target=\"_blank\">360万美元</a>的平均房价。</p><p>许多美国工薪阶层感觉遭到背叛，这是可以理解的。在我看来，各党派的政治人物对美国人被抛在后面都显得太过麻木不仁，尽管自2000年以来，已有130万美国人死于药物过量。这大致相当于美国历史上所有<a href=\"https://usafacts.org/articles/how-have-military-deaths-changed-over-time/\" rel=\"noopener noreferrer\" target=\"_blank\">战争中阵亡的美军人数</a>。</p><p>这种麻木不仁的原因之一是，这些问题往往是隐形的，至少在其复杂性方面是如此。美国人可能看到一个无家可归的人在注射毒品，但他们看不到那条始于寄养系统的绝望轨迹——在最糟糕的情况下，寄养系统堪称一个政府主导的虐待儿童体系。</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/01/opinion/01kristof-Courtney/01kristof-Courtney-jumbo.jpg\" /></p><figcaption>考特尼·威廉姆斯和孩子在家中。</small><p>31岁的考特尼·威廉姆斯曾保受那个破碎的寄养系统之苦。我在俄克拉荷马城遇到了她，她正在照顾一个新生的婴儿，希望自己每月298美元的食品券不会被取消。</p><p>我们纳税人曾经三次为威廉姆斯的入狱埋单——但我们从未给予她所需的保护和机会，尤其是在她年幼、最需要帮助的时候。如果我们不在前端投资，最终只能在后端付出代价。</p><p>威廉姆斯最早的记忆之一就是男人对她实施性侵，那时她可能只有三四岁。她说，她的母亲是吸毒的妓女，六岁那年她亲眼目睹妹妹被杀，随后她被送进寄养家庭。</p><p>从那以后，她在七个州的寄养家庭间辗转，全部家当装在一个垃圾袋里。她说，她11岁那年的寄养家庭在冰箱、冰柜和食品柜上都上了挂锁，让她和其他寄养儿童挨饿。</p><p>威廉姆斯12岁第一次尝试冰毒，14岁时怀上了一个20多岁男子的孩子——她后来才知道那人是有前科的性犯罪者。她把孩子送人收养，10年级时辍学了。</p><p>她说，并非每个寄养家庭都虐待她或是为了钱才收留她。她记得有一个家庭非常好，还想收养她。但威廉姆斯当时已对人间的善意充满怀疑，而且极度缺乏自信，她要求换一个寄养家庭。</p><p>17岁那年，她的寄养母亲不再收到为她发放的补助支票，她不清楚原因，也许是系统出了差错。于是她被赶了出去。之后，威廉姆斯有近十年基本无家可归，与毒品作斗争，在唐恩都乐店的洗手间洗漱，时不时被关进监狱。最终，一个不吸毒的新男友（她现在的丈夫）帮她重建了生活。她说自去年9月发现自己怀孕以来就再也没碰过毒品。</p><p>保守派经常强调“个人责任”的重要性，这有一定道理。自毁行为确实存在。学者们指出，在遵循“<a href=\"https://www.econlib.org/the-meaning-of-the-success-sequence/\" rel=\"noopener noreferrer\" target=\"_blank\">成功序列</a>”（完成高中学业、找到全职工作、在婚后才生育）的千禧一代中，97%的人在29岁前摆脱了贫困。</p><p>然而，如果要讨论个人责任的缺失，我们也必须探讨集体责任的缺失，探讨我们如何将一些孩子视为弃儿——或者我们现在如何从150万名儿童手中夺走食品券。</p><p>在派恩布拉夫，我与几位年长的黑人居民交谈，他们表示，在某些方面，吉姆·克劳时代的生活反而更好。当然，黑人现在可以投票了，有些人也过得很好。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/01/opinion/01kristof-Pine-Bluff-landscapes-03/01kristof-Pine-Bluff-landscapes-03-master1050.jpg\" /><small style=\"color: #999;\"> <cite>Tamara Reynolds for The New York Times</cite></figcaption></figure></p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/01/opinion/01kristof-Pine-bluff-landscape-FINAL/01kristof-Pine-bluff-landscape-FINAL-master1050.jpg\" /></p><figcaption></small><p>但这些老人感叹，黑人群体的生活质量并没有像他们想象的那样得到改善。物价飞涨，犯罪肆虐，肥胖普遍，糖尿病和高血压等疾病也十分普遍，这严重损害了人们的健康。<a href=\"https://healthy.arkansas.gov/wp-content/uploads/jefferson.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">该县</a>的人均预期寿命比<a href=\"https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=ir\" rel=\"noopener noreferrer\" target=\"_blank\">伊朗</a>和<a href=\"https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BD\" rel=\"noopener noreferrer\" target=\"_blank\">孟加拉国</a>还短。学校实际上<a href=\"https://www.usnews.com/education/k12/arkansas/districts/pine-bluff-school-district-110594\" rel=\"noopener noreferrer\" target=\"_blank\">仍然存在种族隔离</a>，教育水平落后；派恩布拉夫学区被州政府<a href=\"https://katv.com/news/local/unacceptable-6-arkansas-school-districts-receive-f-grade-from-state-north-little-rock-school-district-lafayette-county-pine-bluff-watson-chapel-crossett-fordyce-board-of-education-access-atlas-test-ela-math-science-oliva-gregory-pilewski-absenteeism\" rel=\"noopener noreferrer\" target=\"_blank\">评为F级</a>。</p><p>“那时候的民权状况可能反而更好，”76岁的芭芭拉·奥利森抱怨道。我不确定她是否真的认为完全没有进步，但她说得对，在派恩布拉夫这样的地方，黑人儿童在2026年仍然难以找到机会。</p><p>“那时候你拥有的东西已经足够让你活下去了，”她对我说。“而现在糟透了。”</p><p>少数没有彻底令派恩布拉夫这类地方失望的机构之一是美国军队。它提供了向上和向外发展的途径，同时提供技能培训、纪律和尊重。但这里的一些人注意到国防部长皮特·海格塞斯赶走黑人高级军官，于是不再把军队视为有色人种的机会之路。</p><p>“军队不行了，”退役陆军老兵格莱顿·约翰逊说，他提到海格塞斯对军队声誉的影响。“不，我们不会去那里。”</p><p>此行我最想见的人之一是伊曼纽尔·拉斯特。<a href=\"https://www.nytimes.com/2016/10/30/opinion/sunday/3-tvs-and-no-food-growing-up-poor-in-america.html?_r=0\">十年前</a>我在派恩布拉夫认识他时，他是个可爱聪明的13岁男孩——正面临加入帮派的风险。你能感觉到他可能走向两种方向：也许他会茁壮成长，进入大学，也许他会屈服于那个犯罪猖獗社区的引力。伊曼纽尔的卧室堪称功能失调的美国的写照：里面有三台电视，但我到达那天，因为欠费，电力本应被切断（他妈妈养了一只比特犬，阻止电力公司的人靠近完成断电）。</p><p>拉斯特如今怎么样了？原来他没能完成高中学业，有过数次法律纠纷，现在因持有被改装成自动武器的手枪而面临联邦枪支指控，本月将接受审判。监狱不允许探视，但我通过电话与他交谈。我问他哪里出了问题，他说：“我和坏人混在一起了。”我去拜访他母亲时，她也说了同样的话。</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/opinion/01kristof-Autumn-update/01kristof-Autumn-update-jumbo.jpg\" /></p><figcaption>奥特姆·霍尔曼 <cite>Tamara Reynolds for The New York Times</cite></figcaption></figure><p>拉斯特告诉我，他和前女友有两个四岁和六岁的男孩。于是我找到了他们，还有他们的母亲奥特姆·霍尔曼。霍尔曼和儿子们被赶出住所，无家可归，暂时挤在表亲拥挤的公寓里借宿，正在拼命寻找住处。</p><p>霍尔曼在一家养老院的厨房工作，但她的车坏了，所以每天通勤都成了难题。她正在申请食品券，原以为7月就能开始领取，但一直没有收到。</p><p>她说自己深爱着高中时的恋人拉斯特——但他们发生了争执，因为他是个不负责任的父亲。“他生气是因为我不得不向他要钱养孩子，”她说，她还说，她只是想让他支付一些小开销，比如孩子们的理发费。</p><p>“他心里清楚，我会紧盯着他，就好像我是他妈妈，”她还说，“还有谁会去做这些事？‘你有孩子，’我告诉他，‘他们不是我一个人生的。’”</p><p>拉斯特的儿子们都是充满潜力的可爱孩子，但他们现在正像拉斯特当年一样，在没有父亲陪伴的情况下长大。走访那个拥挤的家，我不断回想起，10年前的伊曼纽尔同样是个可爱的孩子，想到派恩布拉夫的黑人男孩们要面对的人生障碍，我不禁会想，他的孩子们是否正在重蹈他的覆辙？</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/01/opinion/01kristof-new-enders-02/01kristof-new-enders-02-master1050.jpg\" /></p><figcaption> <cite>Tamara Reynolds for The New York Times</cite></figcaption></figure></section><footer><p>纪思道(Nicholas Kristof) 2001起成为时报专栏作家，曾两次获得普利策奖。他最新出版的回忆录名为《追逐希望：一名记者的报道生涯》(“<a href=\"https://www.penguinrandomhouse.com/books/720814/chasing-hope-by-nicholas-d-kristof/\" rel=\"nofollow\" target=\"_blank\">Chasing Hope: A Reporter’s Life</a>”)。欢迎在X上关注他：<a href=\"https://twitter.com/NickKristof\" rel=\"nofollow\" target=\"_blank\">@NickKristof</a>。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+          "source": "纽约时报"
+        },
+        {
+          "title": "人工智能泡沫未必是件坏事？",
+          "url": "https://cn.nytimes.com/technology/20260804/ai-bubble-venture-capital/",
+          "published": "Tue, 04 Aug 2026 03:37:01 +0000",
+          "summary": "<address>ERIN GRIFFITH</address><time datetime=\"2026-08-04 11:10:59\">2026年8月4日</time><section><p>因电影《大空头》(The Big Short)闻名的投资者迈克尔·伯里曾<a href=\"https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html\">警告</a>人工智能存在泡沫。曾指出2008年金融危机前美国地产泡沫的经济学家迪恩·贝克也发出过类似警告。甚至连摩根大通首席执行官杰米·戴蒙也<a href=\"https://finance.yahoo.com/markets/article/jamie-dimon-throws-caution-on-the-ai-frenzy-but-sees-promise-in-space-data-centers-182215908.html\" rel=\"noopener noreferrer\" target=\"_blank\">表达了谨慎态度</a>。</p><p>但在硅谷，有些人却没那么担心。事实上，他们认为泡沫可能是一件好事。</p><p>尤其是风险投资人——这些为初创企业提供资金的乐观主义冒险家——将这种泡沫化倾向视为创新机器中不可或缺的一部分。他们的逻辑是，泡沫所创造的热情能够推动新的突破。</p><p>“泡沫是科技和创新的一部分，”风险投资公司Theory Ventures投资人托马什·通古兹说道。他还说，即使这些狂热在此过程中会导致一些“资本毁灭”，但它们对于让关键基础设施得以建成至关重要。</p><p>在美国的这个科技之都，这是个常见的观点。要不然，那些充满风险的前沿公司该如何吸引构建未来所需的资金、人才和关注度呢？</p><p>“如果你要依赖一种纯粹有机、理性的方式来为大型科技平台的转变提供融资，那可能永远不会发生，”风险投资公司Touring Capital投资人萨米尔·库马尔表示。而且一旦你跨越了过度繁荣的阶段，“就会看到长期的好处，”他还说。</p><p>这种反直觉的想法与人们对潜在人工智能狂热的日益担忧形成了鲜明对比，这一领域的交易活动似乎永不停歇。仅在本周，<a href=\"https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html\">OpenAI和英伟达</a>就即将敲定一项在俄亥俄州建设价值达5000亿美元的复杂数据中心协议。亚马逊、谷歌、Meta和微软表示，他们在第二季度的资本支出<a href=\"https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html\">总计达到1700亿美元</a>，同比大幅增长了72%。</p><figure><img alt=\"亚马逊今年在伦敦举办的“递送未来”大会。这家公司是极少数能挺过2000年互联网泡沫破裂的企业之一。\n\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/31/multimedia/31biz-ai-bubble-amazon-khzj/31biz-ai-bubble-amazon-khzj-master1050.jpg\" /><figcaption>亚马逊今年在伦敦举办的“递送未来”大会。这家公司是极少数能挺过2000年互联网泡沫破裂的企业之一。 <cite>Francesca Jones for The New York Times</cite></figcaption></figure><p>追踪私募投资的机构PitchBook的数据指出，今年上半年的风险投资额达到了4130亿美元，超过了2025年全年的总和。一些尚未推出产品或赚到一分钱收入的新兴公司正斩获听起来极其荒谬的估值，其中一个甚至达到了320亿美元。硅谷的财富是如此横流满溢，以至于邻近的旧金山出现了<a href=\"https://sfstandard.com/2026/04/17/new-pricing-heights-in-pac-heights/\" rel=\"noopener noreferrer\" target=\"_blank\">豪宅短缺</a>。</p><p>“泡沫有益”的哲学揭示出，人工智能狂热持续了四年之后，科技界依然在全力踩油门。许多投资者表示，这种融资行为是有道理的，因为各类公司正在利用这项技术来实现令人难以置信的增长水平。</p><p>估值为7300亿美元的OpenAI每月产生20亿美元的收入。估值为9000亿美元的Anthropic每月产生近40亿美元的收入。谷歌和Meta都宣称有近十亿人在使用他们的人工智能模型。投资者表示，对人工智能的需求似乎是无限的。</p><figure><img alt=\"OpenAI位于旧金山的办公室。这家估值达7300亿美元的公司目前月营收已达20亿美元。\n\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/31/multimedia/31biz-ai-bubble-openai-kmbz/31biz-ai-bubble-openai-kmbz-master1050.jpg\" /><figcaption>OpenAI位于旧金山的办公室。这家估值达7300亿美元的公司目前月营收已达20亿美元。 <cite>Lucas Foglia for The New York Times</cite></figcaption></figure><p>“风险投资人只有在有重大技术变革可供投资时才真正能赚到钱，”Susa Ventures投资人普拉蒂尤什·布迪加说道。</p><p>（《纽约时报》已向OpenAI和微软<a href=\"https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html\">提起诉讼</a>，指控其侵犯了人工智能系统相关新闻报道的版权。这两家公司均否认了这些指控。）</p><p>贝尔法斯特女王大学副教授、《繁荣与萧条：金融泡沫的全球史》(Boom and Bust: A Global History of Financial Bubbles)一书的合著者威廉·奎因表示，过去的泡沫以及随之而来的容易获取的资金具有明显的积极因素：它们推动了创新和长期经济增长。</p><p>“有些事情在硅谷似乎所有人都深信不疑，而在世界其他地方看来却很疯狂；但在很多这类事情上，似乎硅谷是对的，而世界其他地方是错的，”他说。</p><p>奎因表示，泡沫持续的时间通常也比人们想象的要长得多。在发生任何回调或崩盘之前，看到非理性行为就选择旁观的悲观主义者可能会错失多年的收益。等到轰然倒塌真正发生时，已经再也没有人在听他们的泡沫警告了。</p><p>“大家总是开玩笑说，他们预测到了过去三次崩盘中的十次，”他说。</p><p><b>互联网泡沫的教训</b><b></b></p><p>科技行业的资深人士依然带着2000年互联网泡沫破裂及其痛苦后果留下的伤疤。那之后的好几年里，初创公司几乎不可能筹集到资金。</p><p>少数挺过难关的公司——亚马逊、PayPal、eBay——后来都成长为了巨头。随着时间的推移，狂热的投资者在那个繁荣时期过度建设的光纤网络帮助了更多人接入互联网，从而推动了像Facebook这样的新型科技公司的增长。</p><p>见证了互联网崩盘的投资者<a href=\"https://www.nytimes.com/interactive/2022/04/19/technology/tech-startup-bubble.html\">始终对历史重演保持警惕</a>。在2010年代初期，他们警示过没有收入的移动应用存在泡沫。随后是对估值达到或超过10亿美元的<a href=\"https://www.nytimes.com/2015/08/24/technology/the-unicorn-club-now-admitting-new-members.html\">“独角兽”初创公司</a>的担忧，接着是<a href=\"https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html\">荒谬不经的加密货币项目</a>，并最终发展为<a href=\"https://www.nytimes.com/2021/03/13/technology/crypto-art-NFTs-trading-cards-investment-manias.html\">2021年相互交织的投资狂热</a>。</p><p>但这些节点都没有引发严重的崩溃。</p><p>Precursor Ventures的投资者查尔斯·哈德森表示，2021年的狂热给了他一个教训：在泡沫时期选择置身事外的投资者并不会因此获得什么赞赏。一些投资者在2021年做出了许多糟糕、愚蠢的下注，但他们的出资人并没有因为这些过激行为而惩罚他们。他说，这给人的启示是：即使在环境看起来过热时，也要继续投资。</p><p>人工智能热潮的走向更加难以把握，涉及的金额巨大，市场发展速度也异常迅猛。即使如此，哈德森表示他知道自己不能置身事外。他将重点放在资助更为年轻的公司上，并聚焦于“应用层”，即使用人工智能的软件初创公司。</p><p>“如果仅仅因为认为这个行业的某些局部存在泡沫，就声称‘我完全不投资人工智能’，那将是极其危险的，甚至是不负责任的，”他说。</p><p>Battery Ventures投资人苏德辛德拉·奇拉帕加里在互联网泡沫发生时还在上学。（现年33岁的他比一些<a href=\"https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html\">顶尖人工智能初创公司的创始人</a>年龄还要大，他们当时甚至尚未出生。）他开玩笑说，他很羡慕资历更老的同事，因为他们在没有这么多噪音和混乱之前就已经开始投资了。</p><p>他表示，自己正从他们90年代搜索引擎之战的经历中吸取教训。当时，Battery Ventures投资了最早的搜索引擎之一Infoseek——结果被雅虎等公司碾压，后者随后又被谷歌碾压。</p><p>“捕捉到企业价值的并不总是先行者，”奇拉帕加里说道。在像人工智能爆发这样的所谓“超级周期”中，他预计会出现一浪接一浪潜在的投资机会。</p><p>投资者承认，许多因素都可能引发崩溃：地缘政治冲突、来自更便宜的开源人工智能模型的竞争威胁、社会对数据中心的反弹，或是更多类似于OpenAI对合作公司进行<a href=\"https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html\">恶劣黑客攻击</a>的安全问题。甚至是对投资多久能获得回报感到失望，都可能让市场泄气。</p><p>“你不能让自己陷入妄想，”Touring Capital的库马尔说道。</p><p>风险投资公司Gradient Ventures的投资者达里安·席拉齐表示，他的职业变得更加令人神经紧绷，因为这种通过一次“全垒打”式的交易来带来利润的典型策略如今已经极端得多。过去，风险投资公司可能希望他们的几笔投资能以10亿或20亿美元的价格出售。而在人工智能繁荣时期，这一潜在结果已暴涨至500亿美元。</p><p>“你赌赢的那一把可以大到难以置信，”他说。“一旦成了，那就是远远超越我们在风险投资历史上见过的任何投资的大胜。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/erin-griffith\" rel=\"nofollow\" target=\"_blank\">Erin Griffith</a>自旧金山报道科技公司、初创企业，以及硅谷文化。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+          "source": "纽约时报"
+        },
+        {
+          "title": "昂山素季罕见公开露面，此前公众对其健康状况担忧加剧",
+          "url": "https://cn.nytimes.com/asia-pacific/20260804/myanmar-aung-san-suu-kyi-photos-icrc/",
+          "published": "Tue, 04 Aug 2026 03:07:01 +0000",
+          "summary": "<address>MAX KIM</address><time datetime=\"2026-08-04 10:31:36\">2026年8月4日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/03/multimedia/03int-myanmar-suu-kyi-kmjf-jkpc/03int-myanmar-suu-kyi-kmjf-jkpc-master1050.jpg\" width=\"1050\" /><figcaption> <cite>Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>周一，缅甸军政府允许现年81岁、目前被拘禁的前领导人昂山素季与一个人道主义组织会面。在外界对她的健康状况日益担忧之际，此举让公众得以难得一窥她的近况。</p><p>政府发布了诺贝尔奖获得者昂山素季在首都内比都与红十字国际委员会当地代表阿诺·德贝克会面的照片。德贝克通过电子邮件证实曾与她会面，但拒绝进一步置评。</p><p>红十字会驻缅甸发言人弗朗西斯科·哈维尔·帕冯在<a href=\"https://www.icrc.org/en/statement/myanmar-icrc-visits-daw-aung-san-suu-kyi\" rel=\"noopener noreferrer\" target=\"_blank\">声明</a>中表示，此次探视包括与昂山素季私下交谈，以及让她与家人交流近况。</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/03/multimedia/03int-myanmar-suu-kyi-02-mlpb/03int-myanmar-suu-kyi-02-mlpb-jumbo.jpg\" /></p><figcaption>在缅甸政府周一发布的一张照片中，被罢黜的缅甸领导人昂山素季（左）在内比都的一次会晤中与红十字国际委员会的阿诺·德·贝克握手。 <cite>Myanmar President Office, via Associated Press</cite></figcaption></figure><p>他说：“按照红十字国际委员会在拘禁探视工作中的惯例，与此次探视相关的观察结果和建议仅以保密方式与拘禁当局分享。”</p><p>2021年，缅甸军方发动<a href=\"https://cn.nytimes.com/asia-pacific/20210205/myanmar-coup/\">政变</a>，推翻了昂山素季的民选政府并将其逮捕。自那以后，她一直因一系列指控被<a href=\"https://www.nytimes.com/2022/12/29/world/asia/myanmar-aung-san-suu-kyi-trial.html?eafs_enabled=false\">拘禁</a>，国际观察人士普遍认为这些指控是由抓捕她的人捏造的。虽然军政府后来将她原本长达数十年的刑期做了减刑——目前她尚需服刑约13年，但她极少在公开场合露面，甚至被禁止与律师接触，这导致外界对其健康状况的担忧日益加剧。</p><p>近几个月来，昂山素季的小儿子金·阿里斯一直要求军方提供母亲尚在人世的证明。他表示母亲患有心脏病，需要医疗护理。</p><p>在与红十字会的这次会面之后，缅甸政府公布了几张现场照片——包括昂山素季面带微笑与德贝克握手的<a href=\"https://www.gnlm.com.mm/icrc-resident-representative-to-myanmar-meets-daw-aung-san-suu-kyi/\" rel=\"noopener noreferrer\" target=\"_blank\">画面</a>——但阿里斯表示，他依然持谨慎态度。</p><p>“我尚未收到红十字国际委员会关于此次会面的独立确认，也没有收到关于我母亲身体状况或安危的确认，”他周一在一封发给《纽约时报》的电子邮件中说。“我真诚地希望，这标志着更多人道主义接触的开始，包括与我母亲的直接联系、我们家属的探视权，以及关于她健康状况的定期、经独立核实的信息。”</p><p>红十字会的德贝克和帕冯都没有对昂山素季的健康状况发表评论，理由是此类探视必须遵循保密原则。</p><p>帕冯说：“正是这种保密性才使我们最初能够获得探视机会。”</p><p>昂山素季这份期待已久的生存证明是在一场被广泛视为骗局的议会选举数月之后。那场选举在4月将政变领导人敏昂莱推上了总统宝座。从那以后，尽管军方<a href=\"https://www.nytimes.com/2026/07/31/world/asia/myanmar-sentence-activists-protest.html\" title=\"Link: https://www.nytimes.com/2026/07/31/world/asia/myanmar-sentence-activists-protest.html\">对手无寸铁的平民加剧轰炸</a>，但敏昂莱政府仍将自己塑造成和平的文职政府。</p><p>今年早些时候，官方媒体报道称，昂山素季已被从监狱囚禁转移为软禁。一些分析人士将此举解读为有军方背景的政府试图对被其推翻的领导人<a href=\"https://www.nytimes.com/2026/05/01/world/asia/suu-kyi-myanmar-house-arrest-junta.html\">展现仁慈</a>，从而美化自身的形象。</p><p>但总部位于悉尼的研究机构洛伊研究所的东南亚项目主任亨特·马斯顿表示，他认为军方最近让昂山素季露面是在发出一个截然不同的信号——其领导人越来越有恃无恐。</p><p>他说：“这表明敏昂莱及其政府现在更加自信，他们抛出这份生存证明，以此来展示他们的掌控力。”</p><p>他表示，尽管国际社会不断施压要求释放昂山素季，但这个由军方支持的政府很可能对此持谨慎态度。</p><p>在此前的一段军政府统治时期，昂山素季曾被软禁约15年，并于1991年获诺贝尔和平奖。从2016年到2021年，她领导了一届民选政府，与军方达成了罕见的权力分享协议——自缅甸于1948年脱离大英帝国独立以来，军方一直牢牢把控着该国的政治。尽管在此期间，由于被批评<a href=\"https://cn.nytimes.com/asia-pacific/20170920/aung-san-suu-kyi-speech-rohingya/\" title=\"Link: https://cn.nytimes.com/asia-pacific/20170920/aung-san-suu-kyi-speech-rohingya/\">对军方针对缅甸罗辛亚穆斯林少数民族的暴力运动轻描淡写</a>，昂山素季的国际声誉有所受损，但她依然是该国最受爱戴、最具影响力的政治人物。</p><p>马斯顿说：“既然他们已经举行了选举，而且该国已经没有有实质意义的反对党，他们理论上是可以现在就释放她的。但我认为他们不会这样做，因为他们仍然害怕昂山素季会激发基层民众的反抗。”</p><p>昂山素季的儿子阿里斯表示，他的最终目标始终未变——希望母亲能够获释，同时数以千计在军方背景政府统治下被拘禁的其他政治犯能够重获自由。</p><p>他还说，在政府官员公布的一张照片中，他们甚至在粉色糖霜蛋糕上写错了他母亲的生日。在用深色糖霜写成的“素阿姨生日快乐”字样下方，出现的日期似乎是6月29日。</p><p>阿里斯说，母亲的生日是6月19日。</p></section><footer><p>翻译：晋其角</p><p><a href=\"https://www.nytimes.com/2026/08/03/world/asia/myanmar-aung-san-suu-kyi-photos-icrc.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+          "source": "纽约时报"
+        },
+        {
+          "title": "美国为什么要出手“救”日元？",
+          "url": "https://cn.nytimes.com/business/20260804/us-japan-yen-intervention/",
+          "published": "Tue, 04 Aug 2026 02:07:02 +0000",
+          "summary": "<address>ESHE NELSON</address><time datetime=\"2026-08-04 09:44:10\">2026年8月4日</time><section><p>近期，日元兑美元汇率跌至约40年来的最低水平，这不仅是东京政府的麻烦，也是美国的麻烦。</p><p>上周，美国财政部采取<a href=\"https://www.nytimes.com/2026/08/02/business/us-japan-yen.html\" title=\"Link: https://www.nytimes.com/2026/08/02/business/us-japan-yen.html\">罕见行动</a>，帮助支撑日元汇率，这既凸显了日元这一全球重要货币的地位，也表明它可能引发跨境连锁效应的风险。美国和日本之间存在着深厚的经济和金融联系。日本持有大量美国国债、股票及其他资产，总额接近3万亿美元，这意味着<a href=\"https://www.nytimes.com/2026/02/18/business/jgb-trade-excitement.html\">日本发生的金融动荡</a>可能波及美国市场乃至全球金融体系。</p><p>以下是日元走势牵动美国利益的原因所在。</p><p><b>紧密的金融联系</b></p><p>美国的干预行动为日本官员的努力增添了金融层面的支持，日本今年已经动用了数百亿美元试图提振日元。迄今为止，日本的干预效果有限，并引发了一种可能：日本或许会出售持有的巨额美国国债中的相当一部分，以筹集资金进行进一步干预。日本是美债最大海外持有国，规模超过1.1万亿美元。</p><p>一旦日本大规模抛售美国国债，将压低其价格，最终可能推高美国政府的借贷成本。受通胀忧虑驱动，美国国债收益率近几周来已持续攀升。上周，<a href=\"https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html\">美国30年期国债收益率</a>升至2007年以来的最高水平。</p><p>日元的走势还会波及韩元等其他亚洲货币。因此，支撑日元有助于降低其他亚洲国家陷入严峻压力、被迫动用美元储备来捍卫本币汇率的风险。</p><p>悉尼穆迪分析公司的经济学家约翰·布罗姆黑德在一份报告中写道：“对华盛顿而言，支撑日元是一种成本相对较低的保险措施。”</p><p>这并非今年日本市场波动首次引起美国官员的关注。今年1月，财长斯科特·贝森特指责日本国债收益率上升推高美国政府借贷成本后，美国财政部<a href=\"https://www.nytimes.com/2026/01/23/business/yen-dollar-treasury-bessent.html\" title=\"Link: https://www.nytimes.com/2026/01/23/business/yen-dollar-treasury-bessent.html\">曾考虑对日元进行干预</a>。</p><p><b>关键的贸易流向</b></p><p>日元疲软的另一面是美元走强，这会使美国出口商品对外国买家而言更加昂贵，从而损害美国出口商的利益。同时，这也可能让日本出口商在美国市场获得竞争优势。根据美国贸易代表办公室的数据，去年美国从日本进口了价值1460亿美元的商品，对日出口约820亿美元。</p><p>即便有美国政府的协助，此次对日元的干预能否奏效仍是未知数。日元大幅贬值的根本原因在于投资者对日本财政状况的忧虑——债务负担沉重，而<a href=\"https://www.nytimes.com/2026/02/07/business/japan-election-sanae-takaichi-inflation.html\" title=\"Link: https://www.nytimes.com/2026/02/07/business/japan-election-sanae-takaichi-inflation.html\">政府又在推动减税和增加支出</a>。日本的总体债务规模已超过其经济体量的两倍，在主要发达经济体中高居榜首。</p><p>日本的财政压力正在加剧。随着日本首相高市早苗试图帮助企业和家庭应对生活成本上涨，借贷成本也在上升，这其中包括因伊朗战争导致的供应中断而上涨的能源成本，由此引发了市场对政府将进一步增加支出的猜测，进而加剧了日元的贬值压力。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/03/multimedia/Biz-Yen-Explainer-02-hmbf/Biz-Yen-Explainer-02-hmbf-master1050.jpg\" /><small style=\"color: #999;\">由于日本持有大量美国国债，日元走弱加剧了外界对全球金融市场溢出效应的担忧</small></p><p><b>市场联动效应</b></p><p>通胀持续上升促使日本央行于6月将利率上调至<a href=\"https://www.nytimes.com/2026/06/16/business/japan-interest-rates-war.html\">1%</a>，创31年来新高。多年来，日本央行通过大规模购买政府债券将利率压至极低水平，甚至维持在零以下，目的是刺激经济增长。如今，政策制定者已开始缓慢推高利率。</p><p>但分析人士认为，只要日本利率仍然远低于美国，日元的疲软就会持续下去。美联储目前将利率维持在3.5%至3.75%之间。尽管该机构今年尚未调整利率，但<a href=\"https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html\" title=\"Link: https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html\">政策制定者内部日益加剧的分歧</a>正在增加央行加息的压力。如果美国加息，美日之间的利率差距可能进一步扩大。</p><p>上周，日本央行维持利率不变，但交易员普遍押注日本官员将在今年晚些时候再次加息。矛盾的是，日本利率上升也可能反过来冲击美国，因为这会使日本资产对部分投资者更具吸引力，从而降低他们投资美国资产的意愿。</p><p>根据美国财政部的数据，日本在美国的投资远不止国债，截至去年还包括近1.2万亿美元的股票和超过3000亿美元的公司债券。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/03/multimedia/Biz-Yen-Explainer-04-hmbf/Biz-Yen-Explainer-04-hmbf-master1050.jpg\" /><small style=\"color: #999;\">日本央行行长植田和男在央行总部，摄于上周。</small></p><p><b>紧密相连</b></p><p>美元无疑是世界上最强大的货币，全球近90%的外汇交易涉及美元。日元同样举足轻重，是仅次于欧元的全球第三大交易货币。根据国际清算银行的数据，日元在全球交易中的份额明显领先于英镑、瑞士法郎和人民币。</p><p>贝森特和日本财务大臣片山皋月均表示，如有必要，不排除采取进一步措施提振日元。周一，日元兑美元汇率升至157日元兑1美元，为5月初以来的最强表现。</p><p>“日本财务省将继续密切关注局势，并与美国财政部保持紧密沟通，”片山皋月在声明中表示。“如有必要，我们将毫不犹豫地进行进一步的联合干预。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/eshe-nelson\" rel=\"nofollow\" target=\"_blank\">Eshe Nelson</a>是《纽约时报》驻伦敦记者，报道经济和商业新闻。</p><p>翻译：杜然</p><p><a href=\"https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+          "source": "纽约时报"
+        },
+        {
+          "title": "美日十余年来首次联合干预汇市，稳定日元跌势",
+          "url": "https://cn.nytimes.com/business/20260804/us-japan-yen/",
+          "published": "Tue, 04 Aug 2026 01:07:01 +0000",
+          "summary": "<address>JOE RENNISON, KIUKO NOTOYA</address><time datetime=\"2026-08-04 08:53:55\">2026年8月4日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/02biz-us-yen-vpgh/02biz-us-yen-vpgh-master1050.jpg\" width=\"1050\" /><figcaption>特朗普总统证实，上周美国财政部曾进行干预，帮助稳定日元汇率。 <cite>Kenny Holston/The New York Times</cite></figcaption></figure><section><p>上周，美国和日本在外汇市场进行了一次罕见的协同干预，以稳定迅速贬值的日元，这是十多年来首次此类联合行动。</p><p>特朗普总统周日证实，美国财政部协助了日本当局。日本财务大臣片山皋月在声明中表示，此次干预旨在应对日元在持续数月走弱后出现的“过度波动和无序走势”。</p><p>今年以来，日元兑美元持续贬值，因为投资者对日本不断扩大的财政支出日益感到担忧，而美国与伊朗战争导致的高能源成本又进一步加剧了这种担忧。7月份，日元跌至20世纪80年代初以来的最低水平，美元兑日元汇率一度攀升至一美元兑163日元以上，而一年前约为147日元。</p><p>《金融时报》上周援引消息人士的话<a href=\"https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1\">报道</a>称，美国抛售欧元以购买日元，从而帮助提振日元。在周一的东京交易时段，日元一度飙升至1美元兑155日元左右，随后回落并企稳在156.5日元左右。</p><p>此次干预凸显了围绕美元全球地位的微妙平衡。特朗普总统曾多次表示，过于强势的美元会使美国商品在海外市场价格上涨，从而损害美国出口商的利益。与此同时，华盛顿极力维护美元作为全球主导性储备货币的地位——企业、银行和民众以全球主导性储备货币为基准来定价商品和结算账目。</p><p>对日本而言，日元疲软带来的影响喜忧参半。虽然它提高了日本出口商的竞争力，但也增加了进口成本，尤其是能源成本。由于石油通常以美元定价，日本面临着全球油价上涨和本国货币走弱的双重负担，迫使进口商为每一桶石油花费更多的日元。</p><p>日元贬值反映了随着<a href=\"https://cn.nytimes.com/business/20260526/asia-currency-iran-dollar/\" title=\"Link: https://cn.nytimes.com/business/20260526/asia-currency-iran-dollar/\">美元走强</a>，多国亚洲货币普遍走弱的态势。自4月以来，日本财务省已斥资数百亿美元买入日元以支撑汇率，但成效有限。</p><p>片山周一在东京发表讲话时表示，政府认为日元被低估了，并提到了首相高市早苗为重振经济所做的努力。</p><p>此次协同干预恰逢日本央行召开最新一次政策会议。在会议上，官员们维持利率不变，但暗示仍有可能进一步加息。日本央行曾在6月份加息，市场分析师预计年底前还会再加息一次。</p><p>在实施了数十年旨在对抗通缩的超低利率政策后，日本央行一直在逐步加息，以应对通胀压力。然而，高市早苗一直主张维持低借贷成本，并将其作为围绕财政刺激、减税和增加国防支出等议程的一部分——而随着利率上升，为这些优先事项提供资金将变得更加困难。</p><p>许多经济学家认为，日本提高利率可以缩小与美国利率的差距，有助于缓解日元的下行压力。美国财政部长斯科特·贝森特在今年早些时候访问东京时也表达了类似的观点。</p><p>今年迄今为止，日本股市的表现优于美国股市。尽管过去一个月有所下跌，但日本基准日经225指数今年以来仍保持了近30%的涨幅，而标准普尔500指数则上涨了9.2%。</p><p>美国上一次与日本进行协同外汇干预是在2011年，当时日本遭遇毁灭性地震和海啸，日元汇率急剧飙升，两国试图压低异常坚挺的日元。1998年日元急剧贬值期间，华盛顿也曾与日本一道出手支撑日元。</p><p>对于特朗普政府来说，日元持续疲软带来了多项挑战。它使日本制造商相对于美国生产商获得了竞争优势，削弱了特朗普总统利用关税鼓励企业将生产线转移回美国的更广泛努力。</p><p>日元走弱还有可能加剧日本的通胀，这或许会促使日本央行采取更激进的加息措施。日本债券收益率的上升可能会促使国内投资者将资金从美国国债中撤出，转回日本资产，从而压低美国国债价格，推高美债收益率，并增加整个美国经济的借贷成本。</p><p>周日，特朗普被问及财政部为何此次要采取这一措施。</p><p>“为了支持日本的货币，”他在马里兰州安德鲁斯空军基地降落后说道。“因为我们与日本关系很好。我们在财政上非常强大，非常、非常强大。”</p><p>他还说：“日本对我们一直很好，当然，珍珠港事件除外。”</p><p>贝森特也在X平台上发帖确认了此次干预，他写道，此次协调一致的外汇行动“应对了日元的无序波动”，并称，“我们将毫不犹豫地参与进一步的联合干预。”</p><p>片山表示，日本财务省“仍在密切关注，并与美国财政部保持着密切沟通”。</p><p>不过，分析师警告称，除非基本面经济因素也发生改变，否则仅靠干预不太可能扭转日元的跌势。</p><p>“此次干预凸显了官方捍卫货币的决心日益增强，但也同样凸显了仅靠外汇操作的局限性，”富国银行的分析师表示。</p></section><footer><p><a href=\"https://www.nytimes.com/by/joe-rennison\" rel=\"nofollow\" target=\"_blank\">Joe Rennison</a>撰写有关金融市场的文章，内容包括记录股市的变幻莫测、解释华尔街内部人士常常难以理解的交易决策等。</p><p><a href=\"https://www.nytimes.com/by/kiuko-notoya\" rel=\"nofollow\" target=\"_blank\">Kiuko Notoya</a>是一名常驻东京的记者/研究员，报道日本新闻。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/08/02/business/us-japan-yen.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+          "source": "纽约时报"
+        },
         {
           "title": "《奥德赛》：每一帧都充满激情的诺兰巨作",
           "url": "https://cn.nytimes.com/culture/20260803/the-odyssey-review/",
@@ -689,7 +724,7 @@
           "title": "关税？中国？劳工关系？德国汽车工业困境谁之过",
           "url": "https://cn.nytimes.com/business/20260803/germany-mercedes-bmw-volkswagen/",
           "published": "Mon, 03 Aug 2026 03:37:02 +0000",
-          "summary": "<address>JACK EWING, JIM TANKERSLEY</address><time datetime=\"2026-08-03 11:24:05\">2026年8月3日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-07-jtfz/00biz-german-cars-07-jtfz-master1050.jpg\" width=\"1050\" /><figcaption>梅赛德斯-奔驰140周年庆典上的全新S级轿车。卡尔·奔驰于1886年申请了汽车专利。 <cite>Silas/Stein, via Agence France-Press, via Getty Images</cite></figcaption></figure><section><p>今年1月，梅赛德斯-奔驰140周年庆的重头戏是一份工程师卡尔·本茨于1886年提交的\"燃气发动机的车辆\"专利申请文件。</p><p>奔驰高管谈及这份手写文件时语气庄重，仿佛在奉读一卷圣典——庆典期间，这份文件一度被投影在德国斯图加特公司园区的一面巨大墙壁上。它不仅证明了德国是汽车的诞生地，也在一定程度上解释了，为何大众、奔驰和宝马这些德国车企的困境所威胁的不仅是德国经济和成千上万工人的生计。</p><p>这些车企的困境更是在动摇德国的国家认同，冲击着脆弱的执政联盟，同时助长了民众对极右翼政治人物的支持。</p><p>德国汽车制造商正在美国关税、中国竞争和向电动汽车艰难过渡的三重重压下苦苦挣扎。今年夏天，<a href=\"https://cn.nytimes.com/business/20260710/volkswagen-china-sales/\">大众</a>高管讨论关闭工厂、取消车型、裁减数万名员工，凸显出形势的严峻性。</p><p>这场危机引发了一个疑问：德国一直以来在利润与就业保障之间寻求平衡的方式——其中包括赋予工人在企业管理中较大的话语权——是否还能适应日新月异的技术变革。<a href=\"https://cn.nytimes.com/business/20260713/volkswagen-china-problems-restructuring/\">中国的汽车制造商</a>推出新车型只需18个月甚至更短时间，大多数西方汽车制造商所需的时间则是其数倍。</p><p>贝伦贝格银行首席经济学家霍尔格·施密丁表示，汽车与化工、机械并列为“德国三大根基产业，它们植根于19世纪，当时德国工程师在这些领域取得了重大突破”。</p><p>施密丁说，在产业快速变化的时候，“德国的劳资关系反而成了障碍”。“适度裁员，你还可以跟工人协商。但如果发生的是剧烈转型，难度就要大得多。”</p><p>奔驰首席执行官康林松(Ola Källenius)说，德国仍然拥有那些曾让奔驰、宝马以及大众旗下的奥迪和保时捷称霸高端市场的技术。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-09-twpm/00biz-german-cars-09-twpm-master1050.jpg\" /><small style=\"color: #999;\">奔驰首席执行官康林松（中）表示，德国工业受到高能源成本和高税收的拖累。</small></p><p>今年1月，在公司发布最新款旗舰S级轿车时，他说，这款车“源自德国，拥有德国精神，德国DNA，德国的工程技术、精确性和品质理念”。</p><p>但他同时坦言，这款车的设计出自“一个全球化团队”之手，并指出德国正受到高能源成本、高税负，以及使企业难以裁员的法规的拖累。</p><p>康林松在斯图加特总部接受采访时说：“德国——或者我更应该说，是整个欧洲——需要在许多方面采取行动来提升竞争力。”</p><p>德国企业扩张或建新厂时，往往选择匈牙利、中国或墨西哥等地。德国汽车工业协会数据显示，自2016年以来，德国国内汽车产量已经下降28%，远远落后于中国、美国、日本和印度。德国的汽车产量甚至可能很快被韩国和墨西哥超过。</p><p>美国车企或许也将很快面临类似的挑战。就目前而言，关税壁垒令通用汽车和福特汽车暂时免受中国竞争影响。但“我们不能指望永远将它们挡在门外”，福特执行董事长小威廉·克莱·福特本月在华盛顿Axios举办的一个活动上说。</p><p>德国车企正面临两面夹击。在全球最大汽车市场——中国——外国汽车品牌的销量一落千丈；而在欧洲，中国车企正取得长足进展。据施密特汽车研究公司数据，今年6月，中国车企在西欧的销量首次超越日本车企。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-02-kvbt/00biz-german-cars-02-kvbt-master1050.jpg\" /><small style=\"color: #999;\">中国国有企业北汽集团持有奔驰近10%的股份，是这家德国公司的最大股东。</small></p><p>中国市场曾是德国车企的淘金之地，2019年大众汽车全球销量的37%来自中国。然而，当中国车企通过与外国车企合资学会了如何造车后，局面发生了逆转。</p><p>中国国有车企北汽集团已成为奔驰的最大股东，持股比例接近10%。比亚迪和吉利汽车等中国公司更快地开发出电动车，而这些车型又得到了中国政府的大力推广，并正在欧洲市场热销。</p><p>德国车企在推出有竞争力的电动车型上反应迟缓。今年上半年，大众汽车在中国的销量同比下降26%，奔驰下跌28%，宝马则下滑20%。</p><p>\"尽管产品不断改进，但我们仍无法与来自中国的出口车型在成本和定价上相抗衡，\"大众首席执行官奥博穆(Oliver Blume)本月告知员工。</p><p>奥博穆表示，他不看好大众在德国四座城市的工厂的竞争力，不过他表示，或许可以通过将这些工厂改造用于国防工业等方式，避免关闭。</p><p>2024年，大众的劳资代表同意，到2030年通过退休和买断等方式将公司员工总数削减5万人。奥博穆说，大众在全球拥有65.7万名员工，仍然有5万人属于冗余人员。</p><figure><img alt=\"德国茨维考的大众工厂。公司的首席执行官曾表示，公司可能需要关闭位于德国四座城市的工厂。\n\n\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-06-zvwt/00biz-german-cars-06-zvwt-master1050.jpg\" /><figcaption>德国茨维考的大众工厂。公司的首席执行官曾表示，公司可能需要关闭位于德国四座城市的工厂。 <cite>Ronny Hartmann/Agence France-Presse — Getty Images</cite></figcaption></figure><p>对于大众而言，如此大规模的裁员尤为困难。</p><p>与三家德国车企的情况相同，依据德国法律，大众的工人在监事会20个席位中占据半数。监事会负责监督最高管理层，并有权解雇首席执行官。股东同样占有10席，并任命监事会主席——在票数相等时，主席可以行使决定性的一票。</p><p>大众的特殊之处在于，股东的10席中有两席由下萨克森州占据，该州持有大众20%的表决权股份，几乎总是站在工人一边。大众总部位于该州城市沃尔夫斯堡。</p><p>下萨克森州州长、同时担任大众监事会代表的奥拉夫·利斯在声明中表示，他不会同意任何“将关闭工厂作为所谓简单解决方案”的计划。</p><p>从历史上看，大众和工人在危机时期总是能找到妥协方案，但近来双方的合作关系已经变得紧张。</p><p>代表工人的大众职工委员会在声明中谈到奥博穆时说：“在担任首席执行官初期，他到处以‘奥利’和‘本地小伙’的形象示人，如今员工已经对他产生了巨大的不信任。”</p><p>极右翼政党德国选择党的候选人抓住汽车工业的困境大做文章，承诺让德国制造业重返昔日的辉煌时代。这种吸引力帮助该党在原西德部分地区赢得了选民支持，选择党在这些地区的支持率通常远低于原东德地区。</p><p>极左翼也试图利用这场危机。本月，德国马列主义党成员在德国西南部内卡苏尔姆的奥迪工厂门外散发传单，号召工人举行罢工。</p><p>中间偏右的总理默茨将汽车业的困境直接归咎于中国，承诺将与法国及欧洲其他国家携手，共同抵制中国进口。斯泰兰蒂斯旗下的法国车企标致和雷诺也面临类似困境。</p><p>默茨先生本月在接受德国电视二台采访时表示：“我们正在尽一切努力再次稳定汽车行业。目前，这是德国最困难的行业。”</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-10-gvkc/00biz-german-cars-10-gvkc-master1050.jpg\" /><small style=\"color: #999;\">德国总理默茨表示，他将与其他欧洲领导人合作，保护欧洲汽车工业免受中国进口汽车激增的冲击。</small></p><p>车企经常抱怨，中国企业因为政府补贴而拥有不公平的竞争优势。但中国车企同样善于以低于西方同行的成本在汽车上搭载旋转屏幕、快充电池和先进自动驾驶系统等功能。</p><p>柏林全球公共政策研究所所长托尔斯滕·本纳表示，汽车业大部分困境除了来自中国竞争加剧之外，也在很大程度上“源于错误决策和傲慢自大”。</p><p>理特咨询公司汽车与制造业务美洲区负责人、德国人约恩·布斯指出，中国企业自身也面临诸多问题。由于中国有数十家车企相互竞争，它们要么亏损，要么利润微薄。这些企业大多仅有短短几年的造车历史，这意味着没有人知道这些车辆是否可靠耐用。</p><p>布斯说：“他们还没有犯过其他车企在50多年的时间里吸取教训的那些错误。”</p><p>德国人至少在一个领域仍然表现出色：奢华的营销活动。奔驰在斯图加特举行140周年庆典以德国制造的S级轿车的发布作为高潮，这款车产自德国。</p><p>这款车通过一场网络直播亮相，现场有激光灯、无人机摄像机，还有数字版约翰·列侬和现实中的罗杰·费德勒联袂亮相。新车搭载了AI驱动的超大尺寸屏幕、会发光的车标和加热安全带。</p><p>然而，这条加热安全带却在德国媒体上沦为一个国民笑话，被调侃为奔驰在中国车企已娴熟掌握的酷炫创新竞赛中落后的例证。</p><p>“这些德国公司会活下去的，”加拿大皇家银行资本市场首席汽车行业分析师汤姆·纳拉扬说，“但它们很可能会是比今天的规模要小的企业。”</p></section><footer><p>Theresa Rauffmann自德国内卡苏尔姆对本文有报道贡献。</p><p><a href=\"https://www.nytimes.com/by/jack-ewing\" rel=\"nofollow\" target=\"_blank\">Jack Ewing</a>撰写关于汽车产业的报道，重点关注电动车领域。</p><p><a href=\"https://www.nytimes.com/by/jim-tankersley\" rel=\"nofollow\" target=\"_blank\">Jim Tankersley</a>是《纽约时报》柏林分社社长，领导时报对德国、奥地利和瑞士的报道。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+          "summary": "<address>JACK EWING, JIM TANKERSLEY</address><time datetime=\"2026-08-03 11:24:05\">2026年8月3日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-07-jtfz/00biz-german-cars-07-jtfz-master1050.jpg\" width=\"1050\" /><figcaption>梅赛德斯-奔驰140周年庆典上的全新S级轿车。卡尔·奔驰于1886年申请了汽车专利。 <cite>Silas/Stein, via Agence France-Press, via Getty Images</cite></figcaption></figure><section><p>今年1月，梅赛德斯-奔驰140周年庆的重头戏是一份工程师卡尔·本茨于1886年提交的\"燃气发动机的车辆\"专利申请文件。</p><p>奔驰高管谈及这份手写文件时语气庄重，仿佛在奉读一卷圣典——庆典期间，这份文件一度被投影在德国斯图加特公司园区的一面巨大墙壁上。它不仅证明了德国是汽车的诞生地，也在一定程度上解释了，为何大众、奔驰和宝马这些德国车企的困境所威胁的不仅是德国经济和成千上万工人的生计。</p><p>这些车企的困境更是在动摇德国的国家认同，冲击着脆弱的执政联盟，同时助长了民众对极右翼政治人物的支持。</p><p>德国汽车制造商正在美国关税、中国竞争和向电动汽车艰难过渡的三重重压下苦苦挣扎。今年夏天，<a href=\"https://cn.nytimes.com/business/20260710/volkswagen-china-sales/\">大众</a>高管讨论关闭工厂、取消车型、裁减数万名员工，凸显出形势的严峻性。</p><p>这场危机引发了一个疑问：德国一直以来在利润与就业保障之间寻求平衡的方式——其中包括赋予工人在企业管理中较大的话语权——是否还能适应日新月异的技术变革。<a href=\"https://cn.nytimes.com/business/20260713/volkswagen-china-problems-restructuring/\">中国的汽车制造商</a>推出新车型只需18个月甚至更短时间，大多数西方汽车制造商所需的时间则是其数倍。</p><p>贝伦贝格银行首席经济学家霍尔格·施密丁表示，汽车与化工、机械并列为“德国三大根基产业，它们植根于19世纪，当时德国工程师在这些领域取得了重大突破”。</p><p>施密丁说，在产业快速变化的时候，“德国的劳资关系反而成了障碍”。“适度裁员，你还可以跟工人协商。但如果发生的是剧烈转型，难度就要大得多。”</p><p>奔驰首席执行官康林松(Ola Källenius)说，德国仍然拥有那些曾让奔驰、宝马以及大众旗下的奥迪和保时捷称霸高端市场的技术。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-09-twpm/00biz-german-cars-09-twpm-master1050.jpg\" /><small style=\"color: #999;\">奔驰首席执行官康林松（中）表示，德国工业受到高能源成本和高税收的拖累。</small></p><p>今年1月，在公司发布最新款旗舰S级轿车时，他说，这款车“源自德国，拥有德国精神，德国DNA，德国的工程技术、精确性和品质理念”。</p><p>但他同时坦言，这款车的设计出自“一个全球化团队”之手，并指出德国正受到高能源成本、高税负，以及使企业难以裁员的法规的拖累。</p><p>康林松在斯图加特总部接受采访时说：“德国——或者我更应该说，是整个欧洲——需要在许多方面采取行动来提升竞争力。”</p><p>德国企业扩张或建新厂时，往往选择匈牙利、中国或墨西哥等地。德国汽车工业协会数据显示，自2016年以来，德国国内汽车产量已经下降28%，远远落后于中国、美国、日本和印度。德国的汽车产量甚至可能很快被韩国和墨西哥超过。</p><p>美国车企或许也将很快面临类似的挑战。就目前而言，关税壁垒令通用汽车和福特汽车暂时免受中国竞争影响。但“我们不能指望永远将它们挡在门外”，福特执行董事长小威廉·克莱·福特本月在华盛顿Axios举办的一个活动上说。</p><p>德国车企正面临两面夹击。在全球最大汽车市场——中国——外国汽车品牌的销量一落千丈；而在欧洲，中国车企正取得长足进展。据施密特汽车研究公司数据，今年6月，中国车企在西欧的销量首次超越日本车企。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-02-kvbt/00biz-german-cars-02-kvbt-master1050.jpg\" /><small style=\"color: #999;\">中国国有企业北汽集团持有奔驰近10%的股份，是这家德国公司的最大股东。</small></p><p>中国市场曾是德国车企的淘金之地，2019年大众汽车全球销量的37%来自中国。然而，当中国车企通过与外国车企合资学会了如何造车后，局面发生了逆转。</p><p>中国国有车企北汽集团已成为奔驰的最大股东，持股比例接近10%。比亚迪和吉利汽车等中国公司更快地开发出电动车，而这些车型又得到了中国政府的大力推广，并正在欧洲市场热销。</p><p>德国车企在推出有竞争力的电动车型上反应迟缓。今年上半年，大众汽车在中国的销量同比下降26%，奔驰下跌28%，宝马则下滑20%。</p><p>\"尽管产品不断改进，但我们仍无法与来自中国的出口车型在成本和定价上相抗衡，\"大众首席执行官奥博穆(Oliver Blume)本月告知员工。</p><p>奥博穆表示，他不看好大众在德国四座城市的工厂的竞争力，不过他表示，或许可以通过将这些工厂改造用于国防工业等方式，避免关闭。</p><p>2024年，大众的劳资代表同意，到2030年通过退休和买断等方式将公司员工总数削减5万人。奥博穆说，大众在全球拥有65.7万名员工，仍然有5万人属于冗余人员。</p><figure><img alt=\"德国茨维考的大众工厂。公司的首席执行官曾表示，公司可能需要关闭位于德国四座城市的工厂。\n\n\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-06-zvwt/00biz-german-cars-06-zvwt-master1050.jpg\" /><figcaption>德国茨维考的大众工厂。公司的首席执行官曾表示，公司可能需要关闭位于德国四座城市的工厂。 <cite>Ronny Hartmann/Agence France-Presse — Getty Images</cite></figcaption></figure><p>对于大众而言，如此大规模的裁员尤为困难。</p><p>与三家德国车企的情况相同，依据德国法律，大众的工人在监事会20个席位中占据半数。监事会负责监督最高管理层，并有权解雇首席执行官。股东同样占有10席，并任命监事会主席——在票数相等时，主席可以行使决定性的一票。</p><p>大众的特殊之处在于，股东的10席中有两席由下萨克森州占据，该州持有大众20%的表决权股份，几乎总是站在工人一边。大众总部位于该州城市沃尔夫斯堡。</p><p>下萨克森州州长、同时担任大众监事会代表的奥拉夫·利斯在声明中表示，他不会同意任何“将关闭工厂作为所谓简单解决方案”的计划。</p><p>从历史上看，大众和工人在危机时期总是能找到妥协方案，但近来双方的合作关系已经变得紧张。</p><p>代表工人的大众职工委员会在声明中谈到奥博穆时说：“在担任首席执行官初期，他到处以‘奥利’和‘本地小伙’的形象示人，如今员工已经对他产生了巨大的不信任。”</p><p>极右翼政党德国选择党的候选人抓住汽车工业的困境大做文章，承诺让德国制造业重返昔日的辉煌时代。这种吸引力帮助该党在原西德部分地区赢得了选民支持，选择党在这些地区的支持率通常远低于原东德地区。</p><p>极左翼也试图利用这场危机。本月，德国马列主义党成员在德国西南部内卡苏尔姆的奥迪工厂门外散发传单，号召工人举行罢工。</p><p>中间偏右的总理默茨将汽车业的困境直接归咎于中国，承诺将与法国及欧洲其他国家携手，共同抵制中国进口。斯泰兰蒂斯旗下的法国车企标致和雷诺也面临类似困境。</p><p>默茨先生本月在接受德国电视二台采访时表示：“我们正在尽一切努力再次稳定汽车行业。目前，这是德国最困难的行业。”</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-10-gvkc/00biz-german-cars-10-gvkc-master1050.jpg\" /><small style=\"color: #999;\">德国总理默茨表示，他将与其他欧洲领导人合作，保护欧洲汽车工业免受中国进口汽车激增的冲击。</small></p><p>车企经常抱怨，中国企业因为政府补贴而拥有不公平的竞争优势。但中国车企同样善于以低于西方同行的成本在汽车上搭载旋转屏幕、快充电池和先进自动驾驶系统等功能。</p><p>柏林全球公共政策研究所所长托尔斯滕·本纳表示，汽车业大部分困境除了来自中国竞争加剧之外，也在很大程度上“源于错误决策和傲慢自大”。</p><p>理特咨询公司汽车与制造业务美洲区负责人、德国人约恩·布斯指出，中国企业自身也面临诸多问题。由于中国有数十家车企相互竞争，它们要么亏损，要么利润微薄。这些企业大多仅有短短几年的造车历史，这意味着没有人知道这些车辆是否可靠耐用。</p><p>布斯说：“他们还没有犯过其他车企在50多年的时间里吸取教训的那些错误。”</p><p>德国人至少在一个领域仍然表现出色：奢华的营销活动。奔驰在斯图加特举行140周年庆典以德国制造的S级轿车的发布作为高潮，这款车产自德国。</p><p>这款车通过一场网络直播亮相，现场有激光灯、无人机摄像机，还有数字版约翰·列侬和现实中的罗杰·费德勒联袂亮相。新车搭载了AI驱动的超大尺寸屏幕、会发光的车标和加热安全带。</p><p>然而，这条加热安全带却在德国媒体上沦为一个国民笑话，被调侃为奔驰在中国车企已娴熟掌握的酷炫创新竞赛中落后的例证。</p><p>“这些德国公司会活下去的，”加拿大皇家银行资本市场首席汽车行业分析师汤姆·纳拉扬说，“但它们很可能会是比今天的规模要小的企业。”</p></section><footer><p>Theresa Rauffmann自德国内卡苏尔姆对本文有报道贡献。</p><p><a href=\"https://www.nytimes.com/by/jack-ewing\" rel=\"nofollow\" target=\"_blank\">Jack Ewing</a>撰写关于汽车产业的报道，重点关注电动车领域。</p><p><a href=\"https://www.nytimes.com/by/jim-tankersley\" rel=\"nofollow\" target=\"_blank\">Jim Tankersley</a>是《纽约时报》柏林分社社长，领导时报对德国、奥地利和瑞士的报道。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
           "source": "纽约时报"
         },
         {
@@ -703,42 +738,7 @@
           "title": "中国如何监视在华外国人",
           "url": "https://cn.nytimes.com/china/20260803/china-surveillance-foreigners-database/",
           "published": "Mon, 03 Aug 2026 01:37:01 +0000",
-          "summary": "<address>郭莉莉, PEI-LIN WU</address><time datetime=\"2026-08-03 09:22:01\">2026年8月3日</time><figure><img height=\"591\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/30/world/00hp-int-china-surveillance-promo/00hp-int-china-surveillance-promo-master1050.jpg\" width=\"1050\" /><figcaption> <cite>Courtesy of Marc Hofer</cite></figcaption></figure><section><p>大多数日子里，常驻阿姆斯特丹的网络安全研究员兼记者马克·霍弗都会在互联网上搜寻有关中国如何监控本国公民的线索，这是他之前担任驻华记者时便产生浓厚兴趣的课题。</p><p>今年早些时候，当他像往常一样进行搜索时，46岁的霍弗发现了一个名为“境外人员动态管控平台”的系统。那是一个充满未来感的控制面板——看起来就像电影<a href=\"https://www.nytimes.com/interactive/2025/movies/best-movies-21st-century.html?smid=url-share&amp;referringSource=deeplink#movie-94\">《少数派报告》</a>里的东西，似乎用于追踪中国北方城市张家口的外国人。张家口是著名的滑雪胜地，也是2022年冬奥会的联合举办城市。</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/c03int-china-surveillance-01/c03int-china-surveillance-master1050.png\" /></p><figcaption> <cite></cite></figcaption></figure><p>系统的控制面板显示，该平台追踪着逾700名在张家口定居的外籍人士，数据库中共收录了近1.2万条记录，包括在逃人员、港台人士，以及300余名外国记者。其中一些人从未去过张家口。</p><p>突然，霍弗看到了自己的脸——那是一张中国出入境管理人员为留档而拍摄的照片。照片旁边还有他的护照号码，以及他在中国时使用过的手机号。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/c03int-china-surveillance-02/c03int-china-surveillance-02-master1050.png\" /><small style=\"color: #999;\">外国记者的信息条目</small></p><p>他目瞪口呆。“把这些东西放进去的人是能够接触到真实数据的，”他回忆道。他还注意到一份最近登录该网站的用户名单，其中包括张家口及其他城市的派出所。</p><p>借助摄像头、<a href=\"https://cn.nytimes.com/china/20221205/china-protests-surveillance/\">手机信号</a>和<a href=\"https://cn.nytimes.com/china/20251105/china-police-ai-surveillance/\">居民身份证</a>，中国对14亿人口实施着规模空前的监控。霍弗发现的这个数据库为外界提供了一个难得的窗口，得以一窥中国当局对外籍人员的监控范围之广——数据库按国籍对人员进行分类，内容包含出生日期、性别、婚姻状况、住址和职业，有时还记录宗教信仰。</p><p>系统还记录了他们在交通路口、市场、购物中心或其他场所（包括一座清真寺）被摄像头拍到的影像。</p><p>那些希望把监控平台卖给警方的中国企业经常会创建演示网页，并配以从社交媒体上抓取的人物照片和信息。但这个系统不一样，霍弗说：“这不是什么人在随便玩玩，也不像是学生或小项目能做出来的东西。”</p><p>从1月发现之日起，他便开始从该网站下载尽可能多的数据。到5月，该网站下线。</p><p><b>为警方打造</b></p><p>《纽约时报》根据公开招标文件发现，该平台与北京的长源动力科技有限公司存在关联。这家公司向警方提供机器人技术、监控服务和设备。</p><p>长源动力在2023年为一个类似系统申请了专利，将其描述为“外籍人员信息界面”，其设计和功能与张家口平台几乎完全相同。该公司部分股权由江苏省盐城市政府持有。</p><p>长源动力和张家口市公安局均未回应通过电子邮件和传真发送的置评请求。</p><p>霍弗将他保存的数据分享给了《纽约时报》。他认为该平台是为张家口市公安局设计的。其中包含只有中国的有关部门才能获取的信息，而他看到的用户日志中列出了张家口的八个派出所及其他城市的三个派出所。</p><p>目前尚不清楚警方是否或如何在工作中使用该数据库。但它的存在表明，中国的有关部门将来自监控摄像头、医疗记录、账单、人脸识别工具及其他渠道的海量数据整合起来，用以监控和分析外国居民的行为。数据库中包含常去地点、就医记录和加油付款记录等，还有乘坐过的航班和火车，包括座位号等信息。</p><p>例如，数据库记录了一名蒙古国女性的活动轨迹：她从张家口的一处住宅小区前往购物中心、餐馆和超市。数据库显示，她的部分行踪是通过人脸识别技术追踪到的。</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/c03int-china-surveillance-03/c03int-china-surveillance-03-jumbo.png\" /></p><figcaption>一名女性的追踪记录 <cite></cite></figcaption></figure><p>习近平执政以来，中共以公共安全为名，大力推动利用大数据开展监控，以压制异议、防范潜在的恐怖袭击。</p><p>其他国家也在使用类似的监控系统，但人权观察亚洲事务副主任王亚秋表示，在中国，几乎没有能防止警察滥用权力的机制。</p><p>“这种数据整合程度确实前所未有，也凸显了中国在防护机制方面的缺失，”王亚秋表示。</p><p><b>一个没有安全防护的平台</b></p><p>霍弗第一次看到这个平台的登录页面时，用户名和密码已经自动填好。一个包含数百人敏感个人信息的系统竟然可以被任何能在网上找到它的人访问，这表明该系统在隐私保护方面存在严重缺陷。</p><p>曾研究过类似中国系统的网络安全研究员格雷格·沃尔顿表示，此次曝光事件并非孤例。他认为，这是中国“监控泛滥”的后果，而供应商、承包商和公安部门不断扩张的生态系统正在推波助澜。</p><p>沃尔顿是加拿大研究公司SecDev Group的高级调查员。他指出，每新增一个平台，“就意味着又多了一个敏感个人数据可能被错误配置、被复制或暴露给外部的地方。”</p><p>《纽约时报》核实了除霍弗外六人的条目信息，确认数据均属实。时报一位曾驻北京记者的信息也在其中，条目中还包含她孩子的姓名。她的名字拼写有误，但护照及其他信息均正确。</p><p>霍弗表示，张家口系统的开发工作似乎始于2021年，最近一次修改是在今年4月。数据库中的一些字段为空，或者填入了占位符，这表明该系统当时可能仍在建设之中。他在<a href=\"https://netaskari.substack.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Substack平台上的新闻通讯中</a>记录了自己的调查发现。</p><p>居民的行踪在公共场所被摄像头追踪，但该平台的数据来源并不仅限于警方。数据库中有一份外籍人士和中国公民曾到访张家口太舞滑雪小镇的名单，包括他们在那里被拍摄下来的照片、全名和护照号码。</p><p><b>按国籍和宗教分类</b></p><p>该平台将来自澳大利亚、加拿大、新西兰、英国或美国的人标记为“五眼联盟”成员。五眼联盟是这五国间的<a href=\"https://cn.nytimes.com/asia-pacific/20220425/new-zealand-japan-intelligence/\">情报共享协议</a>，北京经常批评这一联盟助长类似冷战时期的阵营对立。</p><p>平台还标注了来自所谓“重点国家”的居民——名单包括埃及、伊朗、以色列、摩洛哥、巴基斯坦和苏丹。</p><p>来自香港（2019年曾爆发大规模反北京抗议活动）和台湾（中国声称拥有主权的自治民主政体）的访客被单列出来。数据库还追踪留学生、外籍配偶以及“重点人员”——后者是中国的有关部门常用的委婉说法，用于指代活动人士、在逃人员或其他被视为对社会稳定构成威胁的人。</p><p>数据库中列出的许多外国学生似乎来自巴基斯坦和印度，就读于张家口的河北北方学院。这些学生的个人档案包括宗教信仰、婚姻状况、所学专业，以及他们在学校入口处被摄像头拍到的次数。</p><p>该平台还声称能够绘制个人的关系网络。一项功能示意图展示了三名20多岁的巴基斯坦男性的姓名，因被摄像头同框拍到而将他们关联到一起。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/c03int-china-surveillance-04/c03int-china-surveillance-04-master1050.png\" /><small style=\"color: #999;\">人员关系网</small></p><p>霍弗下载的一组数据中，还包括一些因违反中国法律而受到处罚的居民姓名。例如，其中一名女子在2021年因未登记住址变更而被罚款1000元人民币。其他案例还包括一些因无证从事教学活动而受到处罚的外国人。</p><p>根据霍弗下载的文件，这些信息似乎由张家口公安局一个名叫张经龙的警官录入，文件将其列为信息录入者。</p><p>2020年，张家口警方曾对一位同名警官进行过宣传报道，称赞他积极监控网络舆论并主动介入，以“引导群众树立正确”观念。</p><p>去年，该市公安局以他的名字命名了一个人工智能实验室。</p></section><footer><p>“境外人员动态管控平台”的网页截图由网络安全研究员马克·霍弗提供。</p><p>郭莉莉(<a href=\"https://www.nytimes.com/by/lily-kuo\" rel=\"nofollow\" target=\"_blank\">Lily Kuo</a>)是《纽约时报》报道中国记者，常驻台北。</p><p><a href=\"https://www.nytimes.com/by/pei-lin-wu\" rel=\"nofollow\" target=\"_blank\">Pei-Lin Wu</a>是《纽约时报》记者/研究员，报道台湾和中国新闻。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
-          "source": "纽约时报"
-        },
-        {
-          "title": "新西兰外长攻击华裔议员，中国提出正式抗议",
-          "url": "https://cn.nytimes.com/china/20260803/new-zealand-foreign-minister-china-protest/",
-          "published": "Mon, 03 Aug 2026 01:07:01 +0000",
-          "summary": "<address>VICTORIA KIM</address><time datetime=\"2026-08-03 08:37:23\">2026年8月3日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/01/multimedia/01int-nzealand-china-bwzc/01int-nzealand-china-bwzc-master1050.jpg\" width=\"1050\" /><figcaption>上个月，新西兰外交部长温斯顿·彼得斯在菲律宾出席东盟会议。 <cite>Pool photo by Aaron Favila</cite></figcaption></figure><section><p>新西兰外长在国会对一名出生于中国的议员说“回你自己的国家去”，这番言论在国内引发了要求其下台的呼声，中国也提出了正式抗议。</p><p>外长温斯顿·彼得斯是民粹主义政党新西兰优先党的领袖，长期以来在新西兰政坛是能够影响权力格局的关键人物。上周三，他在惠灵顿国会的一场激烈辩论中对绿党议员南西(Lawrence Xu-Nan)说出了<a href=\"https://www.youtube.com/watch?v=WFiGujtG3YM&amp;t=145s\" rel=\"noopener noreferrer\" target=\"_blank\">这番话</a>。南西幼年时随家人移民新西兰。</p><p>南西大声质问彼得斯是否接种过新冠疫苗，彼得斯回应道：“我知道你才来这里五分钟。回你自己的国家去，他们在那里像比目鱼一样趴着，但这里可不会。”</p><p>中国驻新西兰大使馆发表<a href=\"https://nz.china-embassy.gov.cn/eng/zxgxs/202607/t20260730_11995350.htm\" rel=\"noopener noreferrer\" target=\"_blank\">声明</a>，表示已就此事向新西兰外交部“提出严正交涉”——这是北京方面惯用的措辞，用来表示已经正式提出投诉或抗议。声明指出，新西兰华人华侨群体积极融入主流社会，“应当得到承认和尊重”。根据最近一次人口普查数据，华裔约占新西兰总人口的<a href=\"https://tools.summaries.stats.govt.nz/ethnic-group/chinese\" rel=\"noopener noreferrer\" target=\"_blank\">5.6%</a>。</p><p>中国外交部发言人毛宁在回答相关提问时表示：“希望新方有关人士多做有利于促进两国友好的事情，不要在国内政治中拿中国说事。”</p><p>在中国社交媒体上，部分网友对彼得斯的言论表示愤慨，称其具有种族主义色彩。但也有人不以为然，认为南西既然已经不是中国公民，就谈不上和中国有什么关系。</p><p>新西兰总理拉克森<a href=\"https://www.nzherald.co.nz/nz/politics/christopher-luxon-speaks-to-media-about-winston-peters-in-tauranga/2FWIHVT4TRZL6GH6ZQSRUQ2464/\" rel=\"noopener noreferrer\" target=\"_blank\">称</a>彼得斯的言论“极具冒犯性且完全不恰当”。当记者问他是否认为这番话带有种族主义色彩时，他给出了肯定的回答。</p><p>不过，面对包括一位前总理在内的<a href=\"https://www.1news.co.nz/2026/07/30/call-for-winston-peters-to-be-sacked-over-go-back-to-your-country-remark/\" rel=\"noopener noreferrer\" target=\"_blank\">多方人士</a>要求解职彼得斯的<a href=\"https://x.com/HelenClarkNZ/status/2083013041269178724\" rel=\"noopener noreferrer\" target=\"_blank\">呼声</a>，卢克森并未松口。他表示，现年81岁的彼得斯是一位成功的外交部长，且距离大选仅剩三个月，此事应交由公众评判。</p><p>拉克森还说，他的政党目前专注于其他优先事项，而非“民粹主义政客试图博取关注的干扰和噱头”。拉克森领导的国家党目前与两个较小的政党组建联合政府，其中就包括彼得斯领导的新西兰优先党。</p><p>彼得斯拒绝收回言论，也拒绝道歉。他说，自己想表达的是，新西兰是一个拥有言论自由和公民权利的民主国家。</p><p>“如果这冒犯了那些大惊小怪的人，还有那些把这叫做‘危险’的共产党说客——那么欢迎来到新西兰，”他在一条社交媒体帖子中<a href=\"https://x.com/winstonpeters/status/2082630319090602062\" rel=\"noopener noreferrer\" target=\"_blank\">写道</a>。</p><p>彼得斯以口无遮拦著称，此前曾多次发表贬低或丑化亚裔移民的言论，并曾在1990年代以减少来自亚洲的移民为竞选议题。</p><p>绿党<a href=\"https://www.greens.org.nz/lawrence_xu_nan\" rel=\"noopener noreferrer\" target=\"_blank\">称</a>南西是该党首位出生于中国的国会议员。议会会议结束后，南西对记者表示，必须有人为拉克森内阁中“某位成员，而且还是一位资深议员一再出现的这种行为和种族歧视”承担责任。</p><p>中国驻新西兰大使王小龙在社交媒体上发文称：“有时候，一个人说的话反映的往往是他自己，而不是他所评价的人或事。”</p></section><footer><p>Berry Wang自香港对本文有报道贡献。 </p><p><a href=\"https://www.nytimes.com/by/victoria-kim\" rel=\"nofollow\" target=\"_blank\">Victoria Kim</a>是时报驻澳大利亚记者，常驻悉尼，报道澳大利亚、新西兰和泛太平洋地区。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
-          "source": "纽约时报"
-        },
-        {
-          "title": "人到中年，九个可能帮助你延长寿命的习惯",
-          "url": "https://cn.nytimes.com/health/20260731/longevity-expert-tips-middle-age/",
-          "published": "Fri, 31 Jul 2026 06:07:01 +0000",
-          "summary": "<address>DANA G. SMITH</address><time datetime=\"2026-07-31 01:52:41\">2026年7月31日</time><figure><img height=\"1050\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/27/well/27WELL-EXPERTS-MIDLIFE-LONGEVITY-image/27WELL-EXPERTS-MIDLIFE-LONGEVITY-image-master1050-v2.jpg\" width=\"1050\" /><figcaption> <cite>Suvi Suitiala</cite></figcaption></figure><section><p>你在中年阶段（大致定义为40至60岁）如何对待自己的身体和大脑，会极大地影响你未来几十年的衰老轨迹。</p><p>包括心血管疾病、糖尿病、癌症和失智症，许多与衰老相关疾病的种子都是在中年时期埋下的，因此尽早开始考虑预防至关重要。而且，真正能够延长寿命的不是几周的努力，而是一生坚持的健康生活习惯。</p><p>布兰迪斯大学心理学教授、《人生黄金期：重新定义中年》(Primetime: A New Vision for Midlife)一书的作者玛吉·拉赫曼说：“中年是作出改变的最佳时期，这些改变不仅会让你现在受益，也会让未来的你受益。”</p><p>她补充道，毕竟，“中年发生的事情不会只停留在中年。”</p><p>我们采访了多位专家，请他们介绍了一些看似微小却能带来巨大改变的生活习惯。</p><p><b>1. 做间歇训练。</b></p><p>纽约大学格罗斯曼医学院骨科副教授吉列姆·冈萨雷斯-洛马斯博士表示，心肺功能是“预测寿命长短以及晚年能否保持活跃和行动能力”的<a href=\"https://www.jacc.org/doi/10.1016/j.jacc.2026.02.5122\" rel=\"noopener noreferrer\" target=\"_blank\">最佳指标</a>之一。</p><p>他说，提高心肺功能的一个方法，就是每周在日常锻炼中加入几次间歇训练。</p><p>例如，与其以固定速度在跑步机或动感单车上持续运动30分钟，不如尝试冲刺30秒、休息30秒，如此交替进行共做10组。这样总运动时间会更短，但理想情况下强度会更高，因为要获得最大的收益，“你必须真正逼自己一把”。</p><p><b>2. 和朋友一起完成日常事务。</b></p><p>多位专家都强调了<a href=\"https://www.nytimes.com/2025/10/09/well/introvert-longevity-tips.html\">社交关系</a>对人们长期健康和福祉的重要性。</p><p>宾夕法尼亚大学佩雷尔曼医学院医学伦理与卫生政策教授、《尽情享用冰淇淋：健康长寿的六条简单法则》(Eat Your Ice Cream: Six Simple Rules for a Long and Healthy Life)作者伊齐基尔·伊曼纽尔说，人们往往“不会把社交互动视为一种促进健康的干预措施”，但它“可能恰恰是最重要的一种”。</p><p>中年人的现实是，很难抽出属于自己的时间，更不用说协调另一位忙碌朋友的时间了。拉赫曼建议采取“一举两得”的办法：约朋友一起完成待办事项，比如一起散步、一起锻炼，甚至一起去超市购物。</p><p><b>3. 多吃发酵食品。</b></p><p>哥伦比亚大学梅尔曼公共卫生学院生产性老龄化教授约翰·比尔德博士说，在关注身体健康时，不要忘记体内生活着数万亿微生物——也就是你的微生物群。</p><p>尤其是<a href=\"https://www.nytimes.com/interactive/2023/02/22/well/eat/gut-microbiome-health.html\">健康的肠道微生物群</a>，与<a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC9035980/\" rel=\"noopener noreferrer\" target=\"_blank\">健康老龄化</a>密切相关。它与免疫系统密切相关，并有助于控制<a href=\"https://www.nytimes.com/2025/06/19/well/inflammation-health.html\">体内的炎症</a>——这是许多与年龄相关疾病的一个主要因素。</p><p>虽然相关研究仍处于初步阶段，但专家们越来越认为，维护微生物群最好的方法之一就是多吃<a href=\"https://cn.nytimes.com/health/20260630/fermented-food-health-benefits/\">发酵食品</a>，因为它们能够为肠道补充更多有益微生物。你可以从每天早晨吃一碗<a href=\"https://www.nytimes.com/2025/09/08/well/eat/greek-yogurt-health-benefits-recipes.html\">酸奶</a>开始，或者把<a href=\"https://cn.nytimes.com/health/20260422/cabbage-health-benefits-recipes/\">韩式泡菜</a>、康普茶、开菲尔和德式酸菜等加入日常饮食。</p><p><b>4. 举重。</b></p><p>虽然有氧运动对健康长寿至关重要，但<a href=\"https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2845052\" rel=\"noopener noreferrer\" target=\"_blank\">越来越多的研究</a>表明，肌肉力量可能同样重要。肌肉强壮的人通常<a href=\"https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html\">寿命更长，老年后的独立生活能力更强</a>；肌肉流失过多则会增加<a href=\"https://www.nytimes.com/2026/05/11/well/frailty-aging.html\">身体虚弱的风险</a>。</p><p>除了提高身体功能之外，抗阻训练还能促使肌肉释放一种<a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8998961/\" rel=\"noopener noreferrer\" target=\"_blank\">叫作“肌因子”的信号分子</a>，其中一些有助于抑制体内炎症。</p><p>如果你已经有举哑铃的经验，不要害怕尝试更大的重量，冈萨雷斯-洛马斯博士说道。但如果你刚开始锻炼，“任何抗阻训练都会带来改变”。</p><p>他说，目标是“达到一个你能感觉到肌肉受到刺激的程度”，并且开始出现疲劳感。</p><p><b>5. 每餐摄入一点蛋白质。</b></p><p>人体从30多岁开始流失肌肉，到60多岁后这一过程会进一步加快。摄入足够蛋白质（结合抗阻训练更佳）可以帮助减缓这种流失。</p><p>不过，这并不意味着你需要<a href=\"https://www.nytimes.com/2025/04/09/well/eat/protein-fact-check.html\">疯狂补充蛋白质</a>。得克萨斯大学圣安东尼奥健康科学中心长寿与老龄化研究所所长埃琳娜·沃尔皮博士表示，一般建议每天每公斤体重摄入0.8至1.2克蛋白质即可。对于一名体重约68公斤的成年人来说，相当于每天摄入54至81克蛋白质。</p><p>为了确保每天都摄入足够蛋白质，并让身体更有效地利用它，沃尔皮建议每顿饭都搭配一些富含蛋白质的食物。</p><p><b>6. 多走楼梯。</b></p><p>专家们谈到，将规律的运动融入日常生活非常重要，而不仅仅依赖在健身房锻炼。</p><p>沃尔皮说：“我更愿意把它称作身体活动，而不是锻炼。”</p><p>多项研究发现，<a href=\"https://cn.nytimes.com/education/20251120/how-many-steps-per-day-health/\">每天走大约7000步</a>就能显著降低死亡风险以及多种与衰老相关疾病的风险。实现这一目标的方法有很多，比如走楼梯而不是坐电梯，步行而不是开车，或者即使开车，也把车停得离入口远一点。随着时间推移，这些额外迈出的步数会不断累积，并真正改善你的健康。</p><p><b>7. 接种带状疱疹疫苗。</b></p><p>越来越多证据显示，预防带状疱疹的疫苗还能<a href=\"https://www.nature.com/articles/s41586-025-08800-x\" rel=\"noopener noreferrer\" target=\"_blank\">降低患失智症的风险</a>，可使认知能力下降的风险降低约20%。<a href=\"https://www.nytimes.com/2026/04/17/well/mind/medications-dementia-risk-decrease.html\">此外</a>，流感疫苗、肺炎球菌疫苗和百白破疫苗也可能对降低认知能力下降和痴呆风险有一定作用。</p><p>科学家尚未完全弄清其中原因，但一种假说认为，通过预防感染，疫苗减少了引发脑部和全身炎症的重要诱因。</p><p>“这是最容易做到的事情，因为与几乎所有健康干预不同，它基本上是打一针就完成了，”伊曼纽尔博士说。</p><p><b>8. 列出父母的慢性病史。</b></p><p>虽然生活方式会影响患老年疾病的风险，但<a href=\"https://www.nytimes.com/2025/01/08/well/longevity-influences-genetics-lifestyle.html\">遗传因素也起着作用</a>。沃尔皮建议了解哪些疾病在你的家族中遗传，然后和医生讨论如何长期管理自己的风险。询问医生应当留意哪些体征或症状，以及可以采取哪些预防措施。</p><p><b>9. 每天晚上都在同一时间上床睡觉。</b></p><p>睡眠不足与肥胖、糖尿病、心脏病和失智症等多种健康问题有关，也与寿命缩短存在关联。</p><p>每晚睡七到八小时的建议说起来容易做起来难。因此，专家建议，与其纠结具体睡多久，不如尽量为良好的睡眠创造条件。</p><p>其中最重要的一点就是尽量<a href=\"https://www.nytimes.com/2026/01/05/well/health-benefits-sleep-consistency.html\">保持固定的就寝时间</a>。<a href=\"https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"Link: https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false\">2024年的一项研究</a>发现，睡眠规律性——也就是每天大致在同一时间睡觉、同一时间起床——是比睡眠时长更有力的死亡率预测指标。</p></section><footer><p>Dana G. Smith是时报记者，主要报道个人健康，特别是衰老及大脑健康方面的内容。</p><p>翻译：杜然</p><p><a href=\"https://www.nytimes.com/2026/07/28/well/longevity-expert-tips-middle-age.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
-          "source": "纽约时报"
-        },
-        {
-          "title": "福奇听证会，一场政治闹剧",
-          "url": "https://cn.nytimes.com/opinion/20260731/anthony-fauci-hearing-covid/",
-          "published": "Fri, 31 Jul 2026 05:37:01 +0000",
-          "summary": "<address>RACHAEL BEDARD</address><time datetime=\"2026-07-31 01:26:06\">2026年7月31日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/29/multimedia/29bedard-lmbg/29bedard-lmbg-master1050.jpg\" width=\"1050\" /><figcaption> <cite>Haiyun Jiang/The New York Times</cite></figcaption></figure><section><p>参议院的听证会总是充满戏剧性。尽管如此，周三上午参议院委员会就新冠病毒起源等问题质询安东尼·福奇博士的那场听证会仍是一场令人震惊的表演：福奇几乎一言不发，其他人在约三个小时里却不断将自己的情绪投射到他身上。</p><p>委员会主席、肯塔基州参议员兰德·保罗将自己塑造成当代的乔·麦卡锡，一心要查明某人所谓危害国家罪行的真相。在开场白中，他对福奇说，新冠封锁“如果没有你协助和教唆犯罪，绝对不可能实施”。他还说，“多年来你一直在逃避责任。”</p><p>在离任之前，拜登总统采取了一项非同寻常的举措，对福奇从2014年到2025年初的所有活动给予了全面赦免。但如果福奇博士在拜登2025年离任后被发现曾在宣誓作证时撒谎，这项赦免将无法保护他免受新的伪证罪指控。在律师的建议下，85岁的福奇在周三的听证会上做出了援引美国宪法第五修正案这一不同寻常的选择。当共和党参议员向他抛出一连串往往充满敌意的问题时，他一遍又一遍地重复表示礼貌地拒绝回答。</p><p>通过这样做，福奇博士成了一个无言的符号，委员会中的共和党人和民主党人对着他陈述着彼此无法调和的说法——不仅是关于大流行的叙事，还包括更广泛的关于美国科学和公共卫生的叙事。其结果是一场毫无用处的闹剧，未能向迫切需要深刻见解的公众提供任何启示。</p><p>保罗亲自且直接地指控福奇：资助中国武汉危险的功能增益研究，这可能导致了实验室泄漏，从而将SARS-CoV-2病毒释放到全世界（福奇对此予以否认）；推行侵犯公民自由的防疫政策；利用其在大流行期间的名声牟利；以及隐瞒了他对病毒起源及其知情时间的真相。</p><p>无论是在众议院还是参议院，福奇都曾多次面临国会的严厉盘问。在这次听证会的前几天，保罗公布了福奇<a href=\"https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html\">1100多页的日记内容</a>。（显然，福奇是在与其政府账户相关联的电脑上写下这些日记的；卫生部长小罗伯特·F·肯尼迪及其工作人员找回了这些日记，并将其<a href=\"https://x.com/SecKennedy/status/2081937419020996779\" rel=\"noopener noreferrer\" target=\"_blank\">提供</a>给了保罗。）</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/29/multimedia/29bedard-bqpl/29bedard-bqpl-jumbo.jpg\" /></p><figcaption> <cite>Haiyun Jiang/The New York Times</cite></figcaption></figure><p>福奇博士私人笔记的节选——包括他对与名人交流的感想，以及他不断增加的奖项收藏——似乎证实了右翼对他的刻画：一个自我中心的操弄者，在国家危机期间受到的关注让他沾沾自喜，而不是保持谦逊。</p><p>但是，许多被援引为福奇向公众撒谎或故意隐瞒信息证据的日记实际上是在提醒人们，当时的大流行决策背景充满了不确定性。事实上，其中一些记录生动地展现了持不同观点和关切的专家们如何商讨决策，而福奇经常在其中扮演召集人或非正式主席的角色。在2020年1月26日，他写道，病毒可能起源于动物并传染给人类；后来，他又如实记录了自己与其他科学家讨论其他可能性时的对话内容。</p><p>在2023年接受《纽约时报》戴维·华莱士-韦尔斯<a href=\"https://www.nytimes.com/interactive/2023/04/24/magazine/dr-fauci-pandemic.html\">采访</a>时，华莱士-韦尔斯就实验室泄漏假说以及他在资助武汉研究中的作用向福奇施压。华莱士-韦尔斯建议福奇，在被问及该话题时本可提供更详尽的回答，福奇变得恼火起来。“戴维，你曾在国会委员会面前作过证吗？”他厉声说道。</p><p>福奇似乎几年前就得出了结论：他说得越多，他的品格和行为就越会成为争论的焦点。因此，在周三，他承受着辱骂——也有一些赞扬——并保持了沉默。另一位共和党参议员、来自密苏里州的乔希·霍利尤为咄咄逼人，指责福奇想要“成为科学界的太阳神”。俄亥俄州共和党参议员伯尼·莫雷诺则用脏话质问福奇到底以为自己是谁，竟敢做那样的事。</p><p>密歇根州的加里·彼得斯和康涅狄格州的理查德·布卢门撒尔等民主党参议员对福奇遭受的磨难表示同情，并利用了他们的大部分发言时间主张，该委员会本应该讨论特朗普总统和肯尼迪部长是如何从各个方面破坏公共卫生的。</p><p>只有新泽西州民主党参议员安迪·金发表了有见地的言论——他谈到了此次听证会所反映的美国政治现状，以及这对公众信任和民主正常运转的启示。“现在，我感觉到这个国家的极端党争正在以危险的方式加剧，”金说。他感叹道，“人们把我们的公职人员称为罪犯，这正在破坏治理工作的本质。”</p><p>当然，他是对的。作秀式的审判对民主是有害的，且无助于让我们更接近真相或达成共识。在每一场关于过去那场大流行期间发生了什么的对话中都笼罩着一种焦虑：如果我们在不久的将来再次面临疫情，会发生什么。共和党人将那个艰难时期的所有冲突都投射到福奇身上，从而逃避了一项更艰巨的工作——弄清楚我们到底应该从他以及我们自己的错误中吸取什么教训。</p><p>福奇博士是一个复杂的人，他既被抬高也被贬为一个符号。经历了数十年处于科学与政治交汇处的职业生涯后，他留下的历史遗产如今正被关于他在疫情时期影响力的评价所定义，它们相互矛盾且存在争议，而且在短期内，这样的矛盾恐怕难以化解。</p><p>最有力量的戏剧通过虚构来折射真相，让人们能切身感受到它的力量。而这次听证会不过是一场作秀，只会进一步加深那种日益定义美国人与制度之间关系的猜疑。作为最典型的建制派，福奇已成为这种猜疑的长期靶子。</p></section><footer><p>Rachael Bedard是观点文章作者，也是一名老年病学家和姑息治疗医生。</p><p>翻译：晋其角</p><p><a href=\"https://www.nytimes.com/2026/07/29/opinion/anthony-fauci-hearing-covid.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
-          "source": "纽约时报"
-        },
-        {
-          "title": "通胀加剧，美国经济增速放缓",
-          "url": "https://cn.nytimes.com/business/20260731/us-economy-gdp-growth/",
-          "published": "Fri, 31 Jul 2026 04:07:01 +0000",
-          "summary": "<address>TALMON JOSEPH SMITH</address><time datetime=\"2026-07-31 11:55:34\">2026年7月31日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/30/multimedia/2026-july-biz-promos-gdp/2026-july-biz-promos-gdp-master1050-v7.png\" width=\"1050\" /><figcaption> <cite>The New York Times</cite></figcaption></figure><section><p>美国经济在今年第二季度放缓，按年率计算仅增长1.5%，这主要是由于伊朗战争扰乱了价格、供应链和能源市场。</p><p>油价已经从春季的高点回落，但汽油及其他石油制品<a href=\"https://www.nytimes.com/2026/07/06/business/economy/gas-station-prices.html\">价格上涨</a>所造成的损害仍在冲击家庭和企业。持续通胀以及围绕<a href=\"https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html\">美联储遏制通胀计划的不确定性</a>本周推高了债券收益率。</p><p>对美国经济而言，这无疑是一个充满不确定性的时刻。尽管经济持续表现出韧性，但它同时受到持续通胀、中东破坏性战争以及借贷成本可能上升的多重打击，借贷成本上升可能削弱经济增长动力。</p><p>过去三个月的经济增长低于一季度2.1%的年化增长率，6月个人收入和消费者支出的增速也双双放缓。</p><p>不过，GDP报告显示，整体消费仍相对健康，企业投资——尤其是与人工智能热潮相关的投资——继续强劲推进。衡量消费支出与私人投资总额的“核心”增长指标，在二季度<a href=\"https://apps.bea.gov/iTable/?reqid=19&amp;step=2&amp;isuri=1&amp;categories=survey&amp;_gl=1*vvt0u8*_ga*MTQ3OTgwNDE4LjE2NzY5OTYyNTM.*_ga_J4698JNNFT*MTc0NjQ3NDIyMS4xMjc2LjEuMTc0NjQ3NDYxNC40OS4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJjYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIyNiJdXX0=\" rel=\"noopener noreferrer\" target=\"_blank\">增长了3.9%</a>，而一季度为1.7%。</p><p>“经济的基本增长动力仍然很强，”资产管理和咨询公司Clocktower Group首席宏观策略师、曾任美联储顾问的埃里克·沃勒斯坦表示。不过他也补充说：“实际收入和消费支出一直呈下行趋势。”</p><p>由于GDP数据已经根据通胀进行了调整，成本上涨压低了周四数据所体现的经济增长。这是美国经济分析局对二季度的初步估算。该机构后续进行的修订可能会有较大变动，尤其是在价格波动剧烈的时期。</p><p>金融研究员维雷什·卡纳巴尔收集的数据表明，企业订单和支出正在增加。过去几个月，零售销售也一直表现强劲。但他的数据显示，在扣除通胀因素后，消费者购买增长速度明显更加缓慢。他指出，过去六个月中，经通胀调整的“实际”收入整体也呈下降趋势，且降幅为2022年通胀峰值以来所未见。</p><p>简单来说，GDP是对经济中商品和服务交换情况的一种统计记录。GDP增长则是四个因素共同作用的结果：企业投资、政府支出、净出口以及居民消费。其中，居民消费通常占美国经济的70%左右。</p><p>消费者支出和企业投资目前仍然稳固，但政府净支出的减少以及进口增加拖累了经济增长势头。</p><p>“目前来看，经济只是勉强前行，除非另有变化，”康奈尔法学院宏观经济学高级研究员、金融公司西木资本执行合伙人丹·阿尔珀特说。</p><p>本月早些时候，特朗普政府对来自80多个国家的进口商品加征了10%至12%的关税。经济学家批评总统的全球关税政策，法院也已推翻了其中多项措施。</p><p>经济学家普遍认为现行关税不至于引发经济衰退，但许多人相信它将拖慢增长、推高物价。据耶鲁大学研究人员估算，这些关税每年使普通美国家庭增加<a href=\"https://budgetlab.yale.edu/research/state-us-tariffs\" rel=\"noopener noreferrer\" target=\"_blank\">约1100美元</a>的负担。</p><p>许多商界领袖表示相信，伊朗冲突将会保持在可控范围内，对整体商业活动造成的损害有限。然而，全球重要能源通道霍尔木兹海峡部分处于伊朗掌控之下，至今仍未成为全球航运商可以依赖的稳定通道。市场分析师已发出严厉警告，全球石油库存正在迅速消耗，大规模短缺的风险可能很快卷土重来。</p><p>一个部分缓解因素是，国内和全球经济的<a href=\"https://www.nytimes.com/2026/03/14/business/economy/america-oil-gas-energy.html\">“能源密集度”已大幅降低</a>。<a href=\"https://www.wsj.com/economy/global/five-things-the-hormuz-crisis-taught-us-about-the-global-economy-c9bd6b45?utm_source=substack&amp;utm_medium=email\" rel=\"noopener noreferrer\" target=\"_blank\">自2000年以来</a>，美国和欧洲每产生一美元增长所消耗的能源减少了约三分之一，中国降幅约为40%。但原油库存的下降仍可能引发油价通胀式飙升，继而阻碍经济增长。</p><p>有证据表明，能源价格的上涨已传导至经济的其他领域。食品杂货价格预计将上涨，而已经大幅上涨的机票价格短期内也不太可能回落。</p><p>周四公布的另一组月度数据显示，美联储偏好的通胀指标在6月实际上下降了0.1%。这反映出6月油价降温的影响。但按年率计算，通胀率仍高达3.7%，远高于美联储2%的长期目标。二季度的通胀尤其严重。</p><p>美联储周三<a href=\"https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh\">维持利率不变</a>。但美联储负责政策制定的公开市场委员会12名成员中有三人持异议，投票支持加息，这一信号表明，遏制通胀的压力正在累积。新任美联储主席凯文·沃什已作出强硬承诺，誓言遏制通胀。但他与前任一样，也需要权衡紧缩货币政策可能对经济增长和就业市场造成的损害。</p><p>与2025年相比，劳动力市场<a href=\"https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html\">今年已趋于稳定</a>，过去三个月的新增就业人数虽然有所波动，但平均每月增加11.1万个就业岗位。一些美联储观察人士认为，这种稳定为沃什等美联储领导层提供了一定加息空间，无需担心造成过大伤害。</p><p>由于投资者担心持续高企的通胀会侵蚀部分资产的未来价值，长期债券收益率近期有所上升。投资者一直<a href=\"https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html\">担忧人工智能可能形成泡沫</a>。但股票指数今年以来仍录得上涨，企业盈利持续超出预期。</p><p>根据<a href=\"https://substack.com/redirect/276544cc-38f8-4981-821f-a66761cee709?j=eyJ1IjoibmN4aSJ9.XN01navpbOcUnABHUOIjcgh_5g1FBL3TpL-74A3s0Gw\" rel=\"noopener noreferrer\" target=\"_blank\">FactSet</a>的数据，标普500指数企业的<a href=\"https://substack.com/redirect/c64c04a2-f777-481b-9be4-d9312c013691?j=eyJ1IjoibmN4aSJ9.XN01navpbOcUnABHUOIjcgh_5g1FBL3TpL-74A3s0Gw\" rel=\"noopener noreferrer\" target=\"_blank\">净利润率</a>预计将在最新季度升至16%，这是FactSet自2009年开始追踪该指标以来的最高水平。经济学家们既惊叹又担忧，想知道<a href=\"https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?searchResultPosition=1\">人工智能热潮与GDP增长之间</a>究竟可能产生多大程度的关联。</p><p>在大型企业纷纷举债并动用数十亿美元现金流兑现投资承诺之际，这场AI热潮下的<a href=\"https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html\">庞大投入究竟将从何处获得回报</a>依然是一个核心问题。</p><p>在个人设备上进行搜索查询、使用商业软件应用和浏览内容流似乎毫不费力。但云计算和人工智能系统依赖于庞大且高度耗能的基础设施，包括芯片、电缆以及冷却系统。这些底层实体系统的发展正是企业投资热潮的核心。高盛估计，到今年年底，人工智能领域的资本支出将达到7650亿美元。</p><p>PNC银行经济学家兼董事总经理布莱恩·勒布朗指出，仅今年上半年，企业“资本支出”平均增长率就高达10%，令人瞩目。然而，由于一些统计特性，人工智能基础设施建设——大量依赖进口的外国部件而非国内零部件——也在一定程度上压低了国内经济增长指标。</p><p>“从GDP核算的角度来看，大量与人工智能相关的资本支出虽然显著增加了GDP，但由于数据中心所用设备大部分靠进口，这部分增长在很大程度上又被抵消了，”派杰投资董事总经理兼经济研究副主管杰克·乌比纳表示。</p><p>春季曾提振家庭消费的联邦退税目前大多已用完。随着家庭储蓄缓冲远低于近期水平，“今年剩余时间消费将大幅走弱，”Clocktower Group的沃勒斯坦分析道。</p><p>“是的，人工智能热潮并不等于GDP的全部，”他说。“但这是一个由人工智能驱动的经济。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/talmon-joseph-smith\" rel=\"nofollow\" target=\"_blank\">Talmon Joseph Smiths</a>是时报驻纽约的经济报道记者。</p><p>翻译：杜然</p><p><a href=\"https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
-          "source": "纽约时报"
-        },
-        {
-          "title": "美国航母停靠岘港，促进美越安全纽带并向中国展示实力",
-          "url": "https://cn.nytimes.com/asia-pacific/20260731/vietnam-aircraft-carrier/",
-          "published": "Fri, 31 Jul 2026 03:07:02 +0000",
-          "summary": "<address>DAMIEN CAVE</address><time datetime=\"2026-07-31 11:00:24\">2026年7月31日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/30/multimedia/30int-vietnam-portcall-tpkc/30int-vietnam-portcall-tpkc-master1050.jpg\" width=\"1050\" /><figcaption>乔治·华盛顿号航母于周四抵达越南岘港港。 <cite>Nhac Nguyen/Agence France-Presse — Getty Images</cite></figcaption></figure><section><p>周四，一艘美国航空母舰在越南停靠，这是自越南战争结束以来的第四次。在关税问题和伊朗战争损害了美国在亚洲影响力之际，此举旨在促进两国的联合安全关系。</p><p>“乔治·华盛顿”号航母在其部署的第70天驶入岘港附近平静的水域——这里距离1965年美国海军陆战队首次登陆的海滩不远，那次登陆加速了一场导致约5.8万美国人和200万越南人丧生的战争。</p><p>两国都对这次为期七天的港口停靠表示欢迎。这是自1995年两国恢复外交关系以来，美国军舰在越南停留时间最长的一次，标志着这两个昔日宿敌的关系取得了很大进展。</p><p>“出于多方面的原因，我们认为这是一次极其重要的访问，”该舰舰长尼古拉斯·德莱奥说。他还说，在岘港停留的5000名水兵（包括一些越裔美国人）来到这里是“为了进一步巩固与越南人民的良好关系”。</p><p><b>为什么是现在？</b></p><p>随着越南外交政策转向多边结盟，寻求超越美国和中国两大超级大国二元对立的纽带，越南已成为许多国家特别青睐的海军停靠站。</p><p>今年迄今为止，越南还接待了来自俄罗斯、中国、印度、印度尼西亚、澳大利亚和日本的海军舰艇。</p><p>对美国而言，越南占据着战略要地，它在地理上靠近中国，且在地缘政治上至关重要——若要阻止北京大幅扩张对亚洲争议岛屿及重要商业水道的控制，越南是不可或缺的一环。</p><p>美国官员将此次港口访问视为向越南发出安抚信号、并向中国展示实力的一种方式。</p><p>“乔治·华盛顿”号是一艘核动力航空母舰，它是美国印太司令部司令塞缪尔·帕帕罗海军上将经常强调的“存在即威慑”理念的钢铁化身。</p><p>“在整个印太地区展现可信、迅速且持久的战斗力，将遏制破坏该地区稳定的军事侵略行为，”他于4月在国会发表<a href=\"https://www.armed-services.senate.gov/imo/media/doc/paparo_opening_statement.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">讲话</a>时表示。</p><p><b>越南与美国的关系究竟如何？</b></p><p>美国和越南并非正式盟友，且双方对于应传达出多强的伙伴关系信号存在分歧。</p><p>美国官员经常对与越南开展安全合作的前景表现出很大热情。相比之下，越南的宣传部门最近向报道此次港口访问的地方媒体发布了指导意见，警告他们不要过度炒作这艘航母的到来。</p><p>指导意见称：“要强调这是一次例行的友好交流活动；不要美化美国的实力。”</p><p>新加坡尤索夫·伊萨东南亚研究院客座研究员阮克江（音）表示，越南正在寻求一种谨慎的平衡。</p><p>该国领导人希望向中国表明，如果在两国都声称拥有主权的南海水域需要更强大的合作伙伴，他们还有其他选择。“但河内不想向北京发出错误的信号，让北京以为它正在成为美国对华遏制或阻断战略的一部分，”阮克江说。</p><p>河内与华盛顿之间的关系也因贸易冲突而受损。</p><p>越南对美国的出口远超其进口，而且这一差距还在不断扩大。据接近谈判的官员透露，由于在越南制造或过境越南的中国产品问题上存在分歧，最新一轮关税谈判已经陷入停滞，未能达成协议。</p><p>“美国可能认为这是两个独立的问题，但我怀疑越南人是否会同意，”阮克江说。“贸易问题不会阻止防务合作，但肯定会限制双方合作能走多远。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/damien-cave\" rel=\"nofollow\" target=\"_blank\">Damien Cave</a>领导时报在越南胡志明市的新分社，报道亚洲及全球世界范围内的权力转移。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/07/30/world/asia/vietnam-aircraft-carrier.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer>",
+          "summary": "<address>郭莉莉, PEI-LIN WU</address><time datetime=\"2026-08-03 09:22:01\">2026年8月3日</time><figure><img height=\"591\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/07/30/world/00hp-int-china-surveillance-promo/00hp-int-china-surveillance-promo-master1050.jpg\" width=\"1050\" /><figcaption> <cite>Courtesy of Marc Hofer</cite></figcaption></figure><section><p>大多数日子里，常驻阿姆斯特丹的网络安全研究员兼记者马克·霍弗都会在互联网上搜寻有关中国如何监控本国公民的线索，这是他之前担任驻华记者时便产生浓厚兴趣的课题。</p><p>今年早些时候，当他像往常一样进行搜索时，46岁的霍弗发现了一个名为“境外人员动态管控平台”的系统。那是一个充满未来感的控制面板——看起来就像电影<a href=\"https://www.nytimes.com/interactive/2025/movies/best-movies-21st-century.html?smid=url-share&amp;referringSource=deeplink#movie-94\">《少数派报告》</a>里的东西，似乎用于追踪中国北方城市张家口的外国人。张家口是著名的滑雪胜地，也是2022年冬奥会的联合举办城市。</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/c03int-china-surveillance-01/c03int-china-surveillance-master1050.png\" /></p><figcaption> <cite></cite></figcaption></figure><p>系统的控制面板显示，该平台追踪着逾700名在张家口定居的外籍人士，数据库中共收录了近1.2万条记录，包括在逃人员、港台人士，以及300余名外国记者。其中一些人从未去过张家口。</p><p>突然，霍弗看到了自己的脸——那是一张中国出入境管理人员为留档而拍摄的照片。照片旁边还有他的护照号码，以及他在中国时使用过的手机号。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/c03int-china-surveillance-02/c03int-china-surveillance-02-master1050.png\" /><small style=\"color: #999;\">外国记者的信息条目</small></p><p>他目瞪口呆。“把这些东西放进去的人是能够接触到真实数据的，”他回忆道。他还注意到一份最近登录该网站的用户名单，其中包括张家口及其他城市的派出所。</p><p>借助摄像头、<a href=\"https://cn.nytimes.com/china/20221205/china-protests-surveillance/\">手机信号</a>和<a href=\"https://cn.nytimes.com/china/20251105/china-police-ai-surveillance/\">居民身份证</a>，中国对14亿人口实施着规模空前的监控。霍弗发现的这个数据库为外界提供了一个难得的窗口，得以一窥中国当局对外籍人员的监控范围之广——数据库按国籍对人员进行分类，内容包含出生日期、性别、婚姻状况、住址和职业，有时还记录宗教信仰。</p><p>系统还记录了他们在交通路口、市场、购物中心或其他场所（包括一座清真寺）被摄像头拍到的影像。</p><p>那些希望把监控平台卖给警方的中国企业经常会创建演示网页，并配以从社交媒体上抓取的人物照片和信息。但这个系统不一样，霍弗说：“这不是什么人在随便玩玩，也不像是学生或小项目能做出来的东西。”</p><p>从1月发现之日起，他便开始从该网站下载尽可能多的数据。到5月，该网站下线。</p><p><b>为警方打造</b></p><p>《纽约时报》根据公开招标文件发现，该平台与北京的长源动力科技有限公司存在关联。这家公司向警方提供机器人技术、监控服务和设备。</p><p>长源动力在2023年为一个类似系统申请了专利，将其描述为“外籍人员信息界面”，其设计和功能与张家口平台几乎完全相同。该公司部分股权由江苏省盐城市政府持有。</p><p>长源动力和张家口市公安局均未回应通过电子邮件和传真发送的置评请求。</p><p>霍弗将他保存的数据分享给了《纽约时报》。他认为该平台是为张家口市公安局设计的。其中包含只有中国的有关部门才能获取的信息，而他看到的用户日志中列出了张家口的八个派出所及其他城市的三个派出所。</p><p>目前尚不清楚警方是否或如何在工作中使用该数据库。但它的存在表明，中国的有关部门将来自监控摄像头、医疗记录、账单、人脸识别工具及其他渠道的海量数据整合起来，用以监控和分析外国居民的行为。数据库中包含常去地点、就医记录和加油付款记录等，还有乘坐过的航班和火车，包括座位号等信息。</p><p>例如，数据库记录了一名蒙古国女性的活动轨迹：她从张家口的一处住宅小区前往购物中心、餐馆和超市。数据库显示，她的部分行踪是通过人脸识别技术追踪到的。</p><p><figure><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/c03int-china-surveillance-03/c03int-china-surveillance-03-jumbo.png\" /></p><figcaption>一名女性的追踪记录 <cite></cite></figcaption></figure><p>习近平执政以来，中共以公共安全为名，大力推动利用大数据开展监控，以压制异议、防范潜在的恐怖袭击。</p><p>其他国家也在使用类似的监控系统，但人权观察亚洲事务副主任王亚秋表示，在中国，几乎没有能防止警察滥用权力的机制。</p><p>“这种数据整合程度确实前所未有，也凸显了中国在防护机制方面的缺失，”王亚秋表示。</p><p><b>一个没有安全防护的平台</b></p><p>霍弗第一次看到这个平台的登录页面时，用户名和密码已经自动填好。一个包含数百人敏感个人信息的系统竟然可以被任何能在网上找到它的人访问，这表明该系统在隐私保护方面存在严重缺陷。</p><p>曾研究过类似中国系统的网络安全研究员格雷格·沃尔顿表示，此次曝光事件并非孤例。他认为，这是中国“监控泛滥”的后果，而供应商、承包商和公安部门不断扩张的生态系统正在推波助澜。</p><p>沃尔顿是加拿大研究公司SecDev Group的高级调查员。他指出，每新增一个平台，“就意味着又多了一个敏感个人数据可能被错误配置、被复制或暴露给外部的地方。”</p><p>《纽约时报》核实了除霍弗外六人的条目信息，确认数据均属实。时报一位曾驻北京记者的信息也在其中，条目中还包含她孩子的姓名。她的名字拼写有误，但护照及其他信息均正确。</p><p>霍弗表示，张家口系统的开发工作似乎始于2021年，最近一次修改是在今年4月。数据库中的一些字段为空，或者填入了占位符，这表明该系统当时可能仍在建设之中。他在<a href=\"https://netaskari.substack.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Substack平台上的新闻通讯中</a>记录了自己的调查发现。</p><p>居民的行踪在公共场所被摄像头追踪，但该平台的数据来源并不仅限于警方。数据库中有一份外籍人士和中国公民曾到访张家口太舞滑雪小镇的名单，包括他们在那里被拍摄下来的照片、全名和护照号码。</p><p><b>按国籍和宗教分类</b></p><p>该平台将来自澳大利亚、加拿大、新西兰、英国或美国的人标记为“五眼联盟”成员。五眼联盟是这五国间的<a href=\"https://cn.nytimes.com/asia-pacific/20220425/new-zealand-japan-intelligence/\">情报共享协议</a>，北京经常批评这一联盟助长类似冷战时期的阵营对立。</p><p>平台还标注了来自所谓“重点国家”的居民——名单包括埃及、伊朗、以色列、摩洛哥、巴基斯坦和苏丹。</p><p>来自香港（2019年曾爆发大规模反北京抗议活动）和台湾（中国声称拥有主权的自治民主政体）的访客被单列出来。数据库还追踪留学生、外籍配偶以及“重点人员”——后者是中国的有关部门常用的委婉说法，用于指代活动人士、在逃人员或其他被视为对社会稳定构成威胁的人。</p><p>数据库中列出的许多外国学生似乎来自巴基斯坦和印度，就读于张家口的河北北方学院。这些学生的个人档案包括宗教信仰、婚姻状况、所学专业，以及他们在学校入口处被摄像头拍到的次数。</p><p>该平台还声称能够绘制个人的关系网络。一项功能示意图展示了三名20多岁的巴基斯坦男性的姓名，因被摄像头同框拍到而将他们关联到一起。</p><p><img src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/08/02/multimedia/c03int-china-surveillance-04/c03int-china-surveillance-04-master1050.png\" /><small style=\"color: #999;\">人员关系网</small></p><p>霍弗下载的一组数据中，还包括一些因违反中国法律而受到处罚的居民姓名。例如，其中一名女子在2021年因未登记住址变更而被罚款1000元人民币。其他案例还包括一些因无证从事教学活动而受到处罚的外国人。</p><p>根据霍弗下载的文件，这些信息似乎由张家口公安局一个名叫张经龙的警官录入，文件将其列为信息录入者。</p><p>2020年，张家口警方曾对一位同名警官进行过宣传报道，称赞他积极监控网络舆论并主动介入，以“引导群众树立正确”观念。</p><p>去年，该市公安局以他的名字命名了一个人工智能实验室。</p></section><footer><p>“境外人员动态管控平台”的网页截图由网络安全研究员马克·霍弗提供。</p><p>郭莉莉(<a href=\"https://www.nytimes.com/by/lily-kuo\" rel=\"nofollow\" target=\"_blank\">Lily Kuo</a>)是《纽约时报》报道中国记者，常驻台北。</p><p><a href=\"https://www.nytimes.com/by/pei-lin-wu\" rel=\"nofollow\" target=\"_blank\">Pei-Lin Wu</a>是《纽约时报》记者/研究员，报道台湾和中国新闻。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer>",
           "source": "纽约时报"
         }
       ]
